@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957442116613017600"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1957442126498685273",
+    "created_at": "2025-08-18T13:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T14:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957442126498685273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5lwubvYDL",
+          "end": 66,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957442126498685273/photo/1",
+          "media_key": "3_1957442116613017600",
+          "start": 43,
+          "url": "https://t.co/K5lwubvYDL"
+        },
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/foxred695449/status/1957428073290412530",
+          "start": 67,
+          "url": "https://t.co/48maKLp45f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957442126498685273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957428073290412530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，bbc怎麼突然蹦出了罵北京的內容\n這都不掐信號的嗎😨\n香港還是過於自由了（（（ https://t.co/K5lwubvYDL https://t.co/48maKLp45f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2117,
+        "media_key": "3_1957442116613017600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo7O-0bkAAkOYo.jpg",
+        "width": 3812
+      },
+      {
+        "height": 2009,
+        "media_key": "3_1957428064415367168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoudCTbwAA93Xd.jpg",
+        "width": 3590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957442116613017600"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1957442126498685273",
+        "created_at": "2025-08-18T13:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957442126498685273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5lwubvYDL",
+              "end": 66,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957442126498685273/photo/1",
+              "media_key": "3_1957442116613017600",
+              "start": 43,
+              "url": "https://t.co/K5lwubvYDL"
+            },
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/foxred695449/status/1957428073290412530",
+              "start": 67,
+              "url": "https://t.co/48maKLp45f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957442126498685273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957428073290412530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，bbc怎麼突然蹦出了罵北京的內容\n這都不掐信號的嗎😨\n香港還是過於自由了（（（ https://t.co/K5lwubvYDL https://t.co/48maKLp45f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957428064415367168"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957428073290412530",
+        "created_at": "2025-08-18T13:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957428073290412530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yv6zqWUbT",
+              "end": 53,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957428073290412530/photo/1",
+              "media_key": "3_1957428064415367168",
+              "start": 30,
+              "url": "https://t.co/9yv6zqWUbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957428073290412530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已經準備好爆米花\n看特朗普和澤連斯基還有歐洲領導人怎麼吵架 https://t.co/9yv6zqWUbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 696,
+          "like_count": 4036,
+          "listed_count": 7,
+          "media_count": 660,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

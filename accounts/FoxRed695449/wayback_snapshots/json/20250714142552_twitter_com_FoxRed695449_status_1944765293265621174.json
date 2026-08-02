@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1944765293265621174",
+    "created_at": "2025-07-14T14:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944765293265621174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geekbb/status/…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/geekbb/status/1944635350888161415",
+          "start": 61,
+          "url": "https://t.co/xLDs3F5BEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944765293265621174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944635350888161415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「中国银行可以当备胎了」\n也不知道za扣帳卡的逆天跨境支付手續費怎麼和bochk的扣帳卡比😅\n喔，對，bochk還有反現 https://t.co/xLDs3F5BEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_1944631592653344768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvy4IWMa0AAxhs1.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1944765293265621174",
+        "created_at": "2025-07-14T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944765293265621174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geekbb/status/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/geekbb/status/1944635350888161415",
+              "start": 61,
+              "url": "https://t.co/xLDs3F5BEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944765293265621174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944635350888161415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「中国银行可以当备胎了」\n也不知道za扣帳卡的逆天跨境支付手續費怎麼和bochk的扣帳卡比😅\n喔，對，bochk還有反現 https://t.co/xLDs3F5BEt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944631592653344768"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "1944635350888161415",
+        "created_at": "2025-07-14T05:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944635350888161415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1BotFgNEH",
+              "end": 114,
+              "expanded_url": "https://x.com/geekbb/status/1944635350888161415/photo/1",
+              "media_key": "3_1944631592653344768",
+              "start": 91,
+              "url": "https://t.co/c1BotFgNEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944635350888161415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 79413,
+          "like_count": 295,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "招商银行“跨境支付通”已新增众安、天星银行，实测银行账号转款秒到账。招行客服称昨晚上线，转款占用个人额度，试运营期间零手续费。这样的话，中国银行可以当备胎了，歧视用户的家伙滚远点。 https://t.co/c1BotFgNEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 673,
+          "like_count": 3695,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94858,
+          "following_count": 375,
+          "like_count": 14506,
+          "listed_count": 942,
+          "media_count": 5520,
+          "tweet_count": 22361
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": false
+      }
+    ]
+  }
+}

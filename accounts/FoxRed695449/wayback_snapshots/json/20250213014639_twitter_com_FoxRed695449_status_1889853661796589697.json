@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889853652690743297",
+        "3_1889853652699062273"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889838757295300924",
+    "created_at": "2025-02-13T01:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T02:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889853661796589697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841847755691745280",
+          "start": 0,
+          "username": "jimi_yang22770"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/foTgM3VBra",
+          "end": 45,
+          "expanded_url": "https://x.com/FoxRed695449/status/1889853661796589697/photo/1",
+          "media_key": "3_1889853652690743297",
+          "start": 22,
+          "url": "https://t.co/foTgM3VBra"
+        },
+        {
+          "display_url": "pic.x.com/foTgM3VBra",
+          "end": 45,
+          "expanded_url": "https://x.com/FoxRed695449/status/1889853661796589697/photo/1",
+          "media_key": "3_1889853652699062273",
+          "start": 22,
+          "url": "https://t.co/foTgM3VBra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889853661796589697",
+    "in_reply_to_user_id": "1841847755691745280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889838757295300924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi_yang22770 非常可刑啊 https://t.co/foTgM3VBra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_1889853652690743297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjob4l4bMAEFN3D.jpg",
+        "width": 1080
+      },
+      {
+        "height": 886,
+        "media_key": "3_1889853652699062273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjob4l6aIAEzngP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889853652690743297",
+            "3_1889853652699062273"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889838757295300924",
+        "created_at": "2025-02-13T01:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T02:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889853661796589697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841847755691745280",
+              "start": 0,
+              "username": "jimi_yang22770"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/foTgM3VBra",
+              "end": 45,
+              "expanded_url": "https://x.com/FoxRed695449/status/1889853661796589697/photo/1",
+              "media_key": "3_1889853652690743297",
+              "start": 22,
+              "url": "https://t.co/foTgM3VBra"
+            },
+            {
+              "display_url": "pic.x.com/foTgM3VBra",
+              "end": 45,
+              "expanded_url": "https://x.com/FoxRed695449/status/1889853661796589697/photo/1",
+              "media_key": "3_1889853652699062273",
+              "start": 22,
+              "url": "https://t.co/foTgM3VBra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889853661796589697",
+        "in_reply_to_user_id": "1841847755691745280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889838757295300924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi_yang22770 非常可刑啊 https://t.co/foTgM3VBra"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841847755691745280",
+        "conversation_id": "1889838757295300924",
+        "created_at": "2025-02-13T00:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T01:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889838757295300924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889838757295300924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 132,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早上好各位\n有坐标香港的朋友需要专注達吗？\n医生给我加了剂量，旧的我没用了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 487,
+          "like_count": 1576,
+          "listed_count": 6,
+          "media_count": 330,
+          "tweet_count": 1031
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男\n 我不搞基（）\n  ENTJ  \n間歇性極端\n  喜歡運動（现已成宅男）\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "永远在你们身边哦（我就在你身后看着你(｡･ω･｡)ﾉ♡）",
+        "name": "YYY （见人就fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888556222405828608/-hqP8VRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1058,
+          "like_count": 36336,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 6479
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

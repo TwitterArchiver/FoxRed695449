@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861768838406430720"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1861768846560117027",
+    "created_at": "2024-11-27T13:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T14:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861768846560117027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "1575113381886861313",
+          "start": 24,
+          "username": "scandal_sin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgEBd5igox",
+          "end": 60,
+          "expanded_url": "https://x.com/FoxRed695449/status/1861768846560117027/photo/1",
+          "media_key": "3_1861768838406430720",
+          "start": 37,
+          "url": "https://t.co/BgEBd5igox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861768846560117027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被挠脚丫了，呜呜呜，快点，快点停下！\n场地/绳师@scandal_sin https://t.co/BgEBd5igox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_1861768838406430720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZU5PsbYAA1G29.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861768838406430720"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861768846560117027",
+        "created_at": "2024-11-27T13:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T14:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861768846560117027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1575113381886861313",
+              "start": 24,
+              "username": "scandal_sin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgEBd5igox",
+              "end": 60,
+              "expanded_url": "https://x.com/FoxRed695449/status/1861768846560117027/photo/1",
+              "media_key": "3_1861768838406430720",
+              "start": 37,
+              "url": "https://t.co/BgEBd5igox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861768846560117027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被挠脚丫了，呜呜呜，快点，快点停下！\n场地/绳师@scandal_sin https://t.co/BgEBd5igox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 271,
+          "like_count": 363,
+          "listed_count": 2,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-28T13:21:16.000Z",
+        "description": "杭州赛绳木烛主理人，不学无术流捆工&摄影。约绳，约拍，场地租用，参加活动，联系WX：sinhbm",
+        "id": "1575113381886861313",
+        "name": "SCANDAL_SIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575113802160345088/FMA9o8to_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3553,
+          "following_count": 242,
+          "like_count": 34,
+          "listed_count": 13,
+          "tweet_count": 71
+        },
+        "username": "scandal_sin",
+        "verified": false
+      }
+    ]
+  }
+}

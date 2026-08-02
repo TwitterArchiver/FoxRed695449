@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1944767214244241502",
+    "created_at": "2025-07-14T15:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T16:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944786948608139669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "ACldJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944786948608139669",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944767214244241502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACldJP 不如我上次因为一直打不通12306中文客服打了英语\n我:Hi, my friend lost a HK ID card on GXXX\n客服:Can you speak Chinese?\n给我干懵了（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944767214244241502].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944767214244241502",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944767214244241502"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1944767214244241502",
+        "created_at": "2025-07-14T15:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944786948608139669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "ACldJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944786948608139669",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944767214244241502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACldJP 不如我上次因为一直打不通12306中文客服打了英语\n我:Hi, my friend lost a HK ID card on GXXX\n客服:Can you speak Chinese?\n给我干懵了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 673,
+          "like_count": 3697,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人\n本命号@Cldeop\n中国巡回面基会ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "Alan Cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 282,
+          "like_count": 1782,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 597
+        },
+        "username": "ACldJP",
+        "verified": true
+      }
+    ]
+  }
+}

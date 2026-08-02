@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2041608396621934775",
+    "created_at": "2026-04-08T04:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041738990014107971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041738990014107971",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041608396621934775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kilock_1208 啊吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2041608396621934775",
+        "created_at": "2026-04-08T04:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041738990014107971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041738990014107971",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041608396621934775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kilock_1208 啊吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2041608396621934775",
+        "created_at": "2026-04-07T20:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041608396621934775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041608396621934775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1402,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "看看我的密接（～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 812,
+          "like_count": 7384,
+          "listed_count": 7,
+          "media_count": 980,
+          "tweet_count": 3105
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 全干开发者 | intp | 爱人 @qqqqqf_ 大号登不上了\nwwwww | Arkloop的TelegramGroup :https://t.co/gW3NA9111V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 97,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 74,
+                "url": "https://t.co/gW3NA9111V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 603,
+          "like_count": 3735,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

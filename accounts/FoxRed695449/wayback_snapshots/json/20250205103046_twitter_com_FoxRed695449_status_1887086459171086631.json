@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-05T10:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T11:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887086459171086631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881323210551209984",
+          "start": 0,
+          "username": "aink1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887086459171086631",
+    "in_reply_to_user_id": "1881323210551209984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887085474495533208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aink1145 誒嘿嘿\n要官方的非賣品明信片嗎\n可以送你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-05T10:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887086459171086631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881323210551209984",
+              "start": 0,
+              "username": "aink1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887086459171086631",
+        "in_reply_to_user_id": "1881323210551209984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887085474495533208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aink1145 誒嘿嘿\n要官方的非賣品明信片嗎\n可以送你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881323210551209984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-05T10:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887085474495533208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887085474495533208",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 wow一堆明日方舟的周邊，還有個miku醬玩偶，都卡哇伊\n不懂為什麼有罵貼主的，是不是別人發一大堆周邊 谷子也要去說幾句"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 459,
+          "like_count": 1366,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 912
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T12:50:16.000Z",
+        "description": "I am aink.I can say Chinese，English and Japanese.\nI like miku and salt.\nI like to play music game phigros\n,maimai,muse dash,pjsk",
+        "id": "1881323210551209984",
+        "location": "China",
+        "name": "aink",
+        "pinned_tweet_id": "1881338527788736957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884557863630368768/BrAW4omC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 39,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "aink1145",
+        "verified": false
+      }
+    ]
+  }
+}

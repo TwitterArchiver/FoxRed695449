@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986824232693903360",
+        "3_1986824234736504833"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1986346348309086558",
+    "created_at": "2025-11-07T15:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986824237622100209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GcEdom9Ndm",
+          "end": 172,
+          "expanded_url": "https://x.com/FoxRed695449/status/1986824237622100209/photo/1",
+          "media_key": "3_1986824232693903360",
+          "start": 149,
+          "url": "https://t.co/GcEdom9Ndm"
+        },
+        {
+          "display_url": "pic.x.com/GcEdom9Ndm",
+          "end": 172,
+          "expanded_url": "https://x.com/FoxRed695449/status/1986824237622100209/photo/1",
+          "media_key": "3_1986824234736504833",
+          "start": 149,
+          "url": "https://t.co/GcEdom9Ndm"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00ae3ed017d9d14b"
+    },
+    "id": "1986824237622100209",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986346348309086558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ChisakaKanako （这里并没有开脱辩解，因为和我利益并不相关，只是回答下关于收款退款）\n在国内反诈的背景下，拿自己的支付宝收款大概图一的结局\n然后你发的聊天记录里（图2）里显示了收款方是企业户，大概率不是药商自己控制的账户而是代理收款那类的（比如说你买VPN），账户控制权不在药商手上 https://t.co/GcEdom9Ndm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_1986824232693903360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KeHOzbsAAWYQV.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986824234736504833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KeHWabUAE8Sol.jpg",
+        "width": 921
+      },
+      {
+        "height": 300,
+        "media_key": "3_1986346343280041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DreaAaYAAaBQD.jpg",
+        "width": 534
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Kowloon City District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1724319,
+            22.2934292,
+            114.2193345,
+            22.3492137
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "00ae3ed017d9d14b",
+        "name": "Kowloon City District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986824232693903360",
+            "3_1986824234736504833"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1986346348309086558",
+        "created_at": "2025-11-07T15:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986824237622100209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcEdom9Ndm",
+              "end": 172,
+              "expanded_url": "https://x.com/FoxRed695449/status/1986824237622100209/photo/1",
+              "media_key": "3_1986824232693903360",
+              "start": 149,
+              "url": "https://t.co/GcEdom9Ndm"
+            },
+            {
+              "display_url": "pic.x.com/GcEdom9Ndm",
+              "end": 172,
+              "expanded_url": "https://x.com/FoxRed695449/status/1986824237622100209/photo/1",
+              "media_key": "3_1986824234736504833",
+              "start": 149,
+              "url": "https://t.co/GcEdom9Ndm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1986824237622100209",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986346348309086558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ChisakaKanako （这里并没有开脱辩解，因为和我利益并不相关，只是回答下关于收款退款）\n在国内反诈的背景下，拿自己的支付宝收款大概图一的结局\n然后你发的聊天记录里（图2）里显示了收款方是企业户，大概率不是药商自己控制的账户而是代理收款那类的（比如说你买VPN），账户控制权不在药商手上 https://t.co/GcEdom9Ndm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986346343280041984"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "conversation_id": "1986346348309086558",
+        "created_at": "2025-11-06T08:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986346348309086558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWXM1NE783",
+              "end": 164,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1986346348309086558/photo/1",
+              "media_key": "3_1986346343280041984",
+              "start": 141,
+              "url": "https://t.co/XWXM1NE783"
+            },
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1986246980113473550",
+              "start": 165,
+              "url": "https://t.co/nhoo5wV94V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986346348309086558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7257,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986246980113473550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "了解到的情况是主包因为断药了很急想买药直接扫码付款了，但是药商的二维码下有说明如果备注就不发货不退款，我买过很多家药商也有做药商的朋友，我能理解写备注可能会造成一些影响，你可以不发货，但是直接失联/拉黑不退款这很过分，你直接不发货退款就行了这能造成什么损失呢，明摆着就是店大欺客了 https://t.co/XWXM1NE783 https://t.co/nhoo5wV94V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 677,
+          "like_count": 4764,
+          "listed_count": 7,
+          "media_count": 870,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/ChisakaKanako-…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/ChisakaKanako-96f67217a4c0410eb35c4200f835eafa",
+                "start": 0,
+                "url": "https://t.co/cyHdsVb44m"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1971608331635818577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984646604817829888/VOxegKNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5975,
+          "following_count": 1608,
+          "like_count": 42715,
+          "listed_count": 9,
+          "media_count": 77,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/cyHdsVb44m",
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

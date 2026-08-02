@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062485710293389312"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2062372808488100126",
+    "created_at": "2026-06-04T10:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062485716454834416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1457295056202006528",
+          "start": 0,
+          "username": "ChhHouwang"
+        },
+        {
+          "end": 25,
+          "id": "98345866",
+          "start": 12,
+          "username": "Asuka_Makina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rf2Trc4WGy",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/2062485716454834416/photo/1",
+          "media_key": "3_2062485710293389312",
+          "start": 33,
+          "url": "https://t.co/Rf2Trc4WGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062485716454834416",
+    "in_reply_to_user_id": "1457295056202006528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062453085318865119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChhHouwang @Asuka_Makina 看黄下头男🤣 https://t.co/Rf2Trc4WGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2062485710293389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9r03RbUAAGNpq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062485710293389312"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2062372808488100126",
+        "created_at": "2026-06-04T10:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062485716454834416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1457295056202006528",
+              "start": 0,
+              "username": "ChhHouwang"
+            },
+            {
+              "end": 25,
+              "id": "98345866",
+              "start": 12,
+              "username": "Asuka_Makina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rf2Trc4WGy",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/2062485716454834416/photo/1",
+              "media_key": "3_2062485710293389312",
+              "start": 33,
+              "url": "https://t.co/Rf2Trc4WGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062485716454834416",
+        "in_reply_to_user_id": "1457295056202006528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453085318865119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChhHouwang @Asuka_Makina 看黄下头男🤣 https://t.co/Rf2Trc4WGy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457295056202006528",
+        "conversation_id": "2062372808488100126",
+        "created_at": "2026-06-04T08:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062453085318865119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "98345866",
+              "start": 0,
+              "username": "Asuka_Makina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062453085318865119",
+        "in_reply_to_user_id": "98345866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062372808488100126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_Makina 键政嘉豪🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 839,
+          "like_count": 8088,
+          "listed_count": 6,
+          "media_count": 1035,
+          "tweet_count": 3303
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T10:33:29.000Z",
+        "description": "",
+        "id": "1457295056202006528",
+        "name": "Houwang Chh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457295133620445184/EryJtUEP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 208
+        },
+        "username": "ChhHouwang",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-21T10:35:18.000Z",
+        "description": "兴趣: Politics/Philosophy/IT/AI/3C/Games/Anime/Movies \n语言:中文|English|日本語\n职业:Entrepreneur|Digital Nomads|Freelancer\n蓝天同名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asukua.substack.com",
+                "end": 23,
+                "expanded_url": "https://asukua.substack.com/",
+                "start": 0,
+                "url": "https://t.co/Z3GFfw3N0v"
+              }
+            ]
+          }
+        },
+        "id": "98345866",
+        "location": "Australia",
+        "name": "Aska あすか (不定期消失)",
+        "pinned_tweet_id": "2011712623474327821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716876113211981826/99D3ePT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 1032,
+          "like_count": 4680,
+          "listed_count": 10,
+          "media_count": 410,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/Z3GFfw3N0v",
+        "username": "Asuka_Makina",
+        "verified": true
+      }
+    ]
+  }
+}

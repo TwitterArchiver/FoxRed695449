@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980685667643392000"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1980413404792910271",
+    "created_at": "2025-10-21T17:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980685670952890418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xvugz98jYs",
+          "end": 105,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980685670952890418/photo/1",
+          "media_key": "3_1980685667643392000",
+          "start": 82,
+          "url": "https://t.co/Xvugz98jYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980685670952890418",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980413404792910271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 「養魚男孩生在傳統的家庭，被寄予傳統男性形象的期望，應該要陽剛、頂天立地，因此遇到這樣「丢臉」的事情時，他無處訴説，夜夜做著擺脱不掉的噩夢。」 https://t.co/Xvugz98jYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980685667643392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zPHt-XgAAzajn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1980413394348810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3vXfU6WIAAi0pB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980685667643392000"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1980413404792910271",
+        "created_at": "2025-10-21T17:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980685670952890418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xvugz98jYs",
+              "end": 105,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980685670952890418/photo/1",
+              "media_key": "3_1980685667643392000",
+              "start": 82,
+              "url": "https://t.co/Xvugz98jYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980685670952890418",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980413404792910271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 「養魚男孩生在傳統的家庭，被寄予傳統男性形象的期望，應該要陽剛、頂天立地，因此遇到這樣「丢臉」的事情時，他無處訴説，夜夜做著擺脱不掉的噩夢。」 https://t.co/Xvugz98jYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980413394348810240"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1980413404792910271",
+        "created_at": "2025-10-20T23:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T00:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980413404792910271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wi2vqeQQKh",
+              "end": 29,
+              "expanded_url": "https://x.com/jianlvup/status/1980413404792910271/photo/1",
+              "media_key": "3_1980413394348810240",
+              "start": 6,
+              "url": "https://t.co/wi2vqeQQKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980413404792910271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 65269,
+          "like_count": 320,
+          "quote_count": 8,
+          "reply_count": 113,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很少 https://t.co/wi2vqeQQKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 702,
+          "like_count": 4633,
+          "listed_count": 7,
+          "media_count": 851,
+          "tweet_count": 2583
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1980544654048464929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10642,
+          "following_count": 1016,
+          "like_count": 51564,
+          "listed_count": 36,
+          "media_count": 1811,
+          "tweet_count": 4245
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

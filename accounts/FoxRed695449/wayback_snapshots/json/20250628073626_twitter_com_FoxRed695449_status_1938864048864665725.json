@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1938646967091081573",
+    "created_at": "2025-06-28T07:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T08:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938864048864665725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545049009865183233",
+          "start": 0,
+          "username": "HaoDou17"
+        },
+        {
+          "end": 21,
+          "id": "1700918183564386304",
+          "start": 10,
+          "username": "Light_ASPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938864048864665725",
+    "in_reply_to_user_id": "1545049009865183233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938809322416545808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoDou17 @Light_ASPH 国际航班不受影响\n所以放心（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1938646967091081573",
+        "created_at": "2025-06-28T07:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938864048864665725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545049009865183233",
+              "start": 0,
+              "username": "HaoDou17"
+            },
+            {
+              "end": 21,
+              "id": "1700918183564386304",
+              "start": 10,
+              "username": "Light_ASPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938864048864665725",
+        "in_reply_to_user_id": "1545049009865183233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938809322416545808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoDou17 @Light_ASPH 国际航班不受影响\n所以放心（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545049009865183233",
+        "conversation_id": "1938646967091081573",
+        "created_at": "2025-06-28T03:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938809322416545808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700918183564386304",
+              "start": 0,
+              "username": "Light_ASPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938809322416545808",
+        "in_reply_to_user_id": "1700918183564386304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938657909698879741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Light_ASPH 我马上要带4个TB50去英国。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 670,
+          "like_count": 3643,
+          "listed_count": 7,
+          "media_count": 493,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T14:16:24.000Z",
+        "description": "",
+        "id": "1545049009865183233",
+        "location": "Edinburgh, Scotland",
+        "name": "hAo_Mondrian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914480050491060224/yO-4rfcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 376,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "username": "HaoDou17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:04:58.000Z",
+        "description": "摄影/胶片/美能达/筒友/机械键盘/诺粉/果粉/果黑/米粉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "robertsspaceindustries.com/citizens/Light…",
+                "end": 23,
+                "expanded_url": "https://robertsspaceindustries.com/citizens/LightASPH",
+                "start": 0,
+                "url": "https://t.co/voVlZHDzvk"
+              }
+            ]
+          }
+        },
+        "id": "1700918183564386304",
+        "location": "Port Olisar, Crusader, Stanton",
+        "name": "这灯光漂白了四壁（推友寻回中）",
+        "pinned_tweet_id": "1826691640620450215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853126527472517120/s_ONGStP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 632,
+          "like_count": 15982,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/voVlZHDzvk",
+        "username": "Light_ASPH",
+        "verified": false
+      }
+    ]
+  }
+}

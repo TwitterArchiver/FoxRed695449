@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T07:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886316227070742582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "15250701",
+          "start": 0,
+          "username": "donwang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886316227070742582",
+    "in_reply_to_user_id": "15250701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886277394618847436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donwang_ 我16（逃）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T07:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886316227070742582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "15250701",
+              "start": 0,
+              "username": "donwang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886316227070742582",
+        "in_reply_to_user_id": "15250701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886277394618847436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donwang_ 我16（逃）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15250701",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T04:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886277394618847436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886277394618847436",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 你已经是一位成年人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 448,
+          "like_count": 1336,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 780
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-27T02:08:01.000Z",
+        "description": "UX Designer, 千葉県民",
+        "id": "15250701",
+        "location": "Chiba",
+        "name": "王大夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867065361658679296/fqwpEMCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 5845,
+          "like_count": 5748,
+          "listed_count": 10,
+          "media_count": 92,
+          "tweet_count": 3011
+        },
+        "username": "donwang_",
+        "verified": false
+      }
+    ]
+  }
+}

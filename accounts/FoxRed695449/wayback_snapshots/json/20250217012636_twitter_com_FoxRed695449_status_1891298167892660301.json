@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891286710065004919",
+    "created_at": "2025-02-17T01:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T02:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891298167892660301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891298167892660301",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891297634129695208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 不是，這是單車白字！\nbaka，笨蛋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891286710065004919",
+        "created_at": "2025-02-17T01:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T02:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891298167892660301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891298167892660301",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891297634129695208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 不是，這是單車白字！\nbaka，笨蛋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "1891286710065004919",
+        "created_at": "2025-02-17T01:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T02:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891297634129695208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891297634129695208",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891286710065004919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 泳装白子诶w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 498,
+          "like_count": 1683,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 1073
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/90｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音｜姐姐 @Anan628769｜小号 @AGeCAT2008｜笨蛋妹妹 @N552AA｜狐狐@FoxRed695449 ｜欢迎找咱交朋友｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Anan628769"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "username": "N552AA"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "FoxRed695449"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 504,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

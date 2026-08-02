@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1898240514174206341",
+    "created_at": "2025-07-20T08:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T09:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946855810430369986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946855810430369986",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898240514174206341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 买港版喽，什么限制都没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_1898240476312223747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfnp-jbwAMkdPZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2260,
+        "media_key": "3_1898240489939517443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlfnqxUbwAMWwNw.jpg",
+        "width": 1530
+      },
+      {
+        "height": 2260,
+        "media_key": "3_1898240502702784512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glfnrg3bwAACRlk.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1898240514174206341",
+        "created_at": "2025-07-20T08:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T09:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946855810430369986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946855810430369986",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898240514174206341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 买港版喽，什么限制都没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898240476312223747",
+            "3_1898240489939517443",
+            "3_1898240502702784512"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1898240514174206341",
+        "created_at": "2025-03-08T05:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T06:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898240514174206341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4Pt5MKwF3",
+              "end": 57,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1898240514174206341/photo/1",
+              "media_key": "3_1898240476312223747",
+              "start": 34,
+              "url": "https://t.co/N4Pt5MKwF3"
+            },
+            {
+              "display_url": "pic.x.com/N4Pt5MKwF3",
+              "end": 57,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1898240514174206341/photo/1",
+              "media_key": "3_1898240489939517443",
+              "start": 34,
+              "url": "https://t.co/N4Pt5MKwF3"
+            },
+            {
+              "display_url": "pic.x.com/N4Pt5MKwF3",
+              "end": 57,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1898240514174206341/photo/1",
+              "media_key": "3_1898240502702784512",
+              "start": 34,
+              "url": "https://t.co/N4Pt5MKwF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898240514174206341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 430040,
+          "like_count": 829,
+          "quote_count": 10,
+          "reply_count": 344,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "我只能说谁再买小米谁弱智\n人家vivoOPPO华为荣耀都没这么弱智 https://t.co/N4Pt5MKwF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 674,
+          "like_count": 3728,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "这里是千羽•请和我交往•为了没有眼泪的明天•希望大家都可以幸福•抑郁转双相•在努力让生活重回正轨•向死而生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.apple.com.cn",
+                "start": 0,
+                "url": "https://t.co/5PBp4gNTzt"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "senmai.exe",
+        "name": "💮神楽坂　千羽🌸",
+        "pinned_tweet_id": "1943887561715593492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 5494,
+          "like_count": 105658,
+          "listed_count": 9,
+          "media_count": 2177,
+          "tweet_count": 29157
+        },
+        "url": "https://t.co/5PBp4gNTzt",
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2028078269405536730",
+    "created_at": "2026-03-01T12:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028085249381745065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028085249381745065",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028078269405536730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kilock_1208 直接京东app找人工客服投诉\n运气好的话还会给你补偿（京东代金券）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2028078269405536730",
+        "created_at": "2026-03-01T12:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028085249381745065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028085249381745065",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028078269405536730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 直接京东app找人工客服投诉\n运气好的话还会给你补偿（京东代金券）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011073315763601416",
+        "conversation_id": "2028078269405536730",
+        "created_at": "2026-03-01T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028078269405536730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028078269405536730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "垃圾京东快递，不送上门就算了 打电话问说是另一个同事在送，然后就没消息了，我电话也不打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 793,
+          "like_count": 6516,
+          "listed_count": 7,
+          "media_count": 941,
+          "tweet_count": 2984
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 或许是个开发者？) | intp | 爱人 @qqqqqf5 大号登不上了wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "qqqqqf5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2023139129526223253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 527,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

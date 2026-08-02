@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062370401846800384"
+      ],
+      "media_source_tweet_id": [
+        "2062370480565457240"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062405547002065091",
+    "created_at": "2026-06-04T05:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062405547002065091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "376063629",
+          "start": 3,
+          "username": "UKinHongKong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7wHDKJHkR",
+          "end": 41,
+          "expanded_url": "https://x.com/UKinHongKong/status/2062370480565457240/video/1",
+          "media_key": "13_2062370401846800384",
+          "start": 18,
+          "url": "https://t.co/J7wHDKJHkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062405547002065091",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062370480565457240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UKinHongKong: https://t.co/J7wHDKJHkR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12080,
+        "height": 1920,
+        "media_key": "13_2062370401846800384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062370401846800384/img/0wDp5pUQiz98qKWo.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/320x568/mG13AvPLwqQTTPCG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/480x852/owt24wzQM6frym6M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/720x1280/RC4wMcoenTLHkhL6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/pl/5Xh8nPTgFwz8fX45.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 12080,
+        "height": 1920,
+        "media_key": "13_2062370401846800384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062370401846800384/img/0wDp5pUQiz98qKWo.jpg",
+        "public_metrics": {
+          "view_count": 112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/320x568/mG13AvPLwqQTTPCG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/480x852/owt24wzQM6frym6M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/vid/avc1/720x1280/RC4wMcoenTLHkhL6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062370401846800384/pl/5Xh8nPTgFwz8fX45.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062370401846800384"
+          ],
+          "media_source_tweet_id": [
+            "2062370480565457240"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062405547002065091",
+        "created_at": "2026-06-04T05:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062405547002065091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "376063629",
+              "start": 3,
+              "username": "UKinHongKong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7wHDKJHkR",
+              "end": 41,
+              "expanded_url": "https://x.com/UKinHongKong/status/2062370480565457240/video/1",
+              "media_key": "13_2062370401846800384",
+              "start": 18,
+              "url": "https://t.co/J7wHDKJHkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405547002065091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062370480565457240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UKinHongKong: https://t.co/J7wHDKJHkR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062370401846800384"
+          ]
+        },
+        "author_id": "376063629",
+        "conversation_id": "2062370480565457240",
+        "created_at": "2026-06-04T03:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062370480565457240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7wHDKJHkR",
+              "end": 23,
+              "expanded_url": "https://x.com/UKinHongKong/status/2062370480565457240/video/1",
+              "media_key": "13_2062370401846800384",
+              "start": 0,
+              "url": "https://t.co/J7wHDKJHkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062370480565457240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 195,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J7wHDKJHkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 840,
+          "like_count": 8082,
+          "listed_count": 6,
+          "media_count": 1034,
+          "tweet_count": 3302
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-19T07:29:21.000Z",
+        "description": "Tweeting about the work of British Consulate-General Hong Kong, UK/HK relations \nhttps://t.co/slhEYoEqRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ukinhongkong",
+                "end": 104,
+                "expanded_url": "http://linktr.ee/ukinhongkong",
+                "start": 81,
+                "url": "https://t.co/slhEYoEqRM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.uk/world/hong-kong",
+                "end": 23,
+                "expanded_url": "http://www.gov.uk/world/hong-kong",
+                "start": 0,
+                "url": "https://t.co/baGwdxL5AU"
+              }
+            ]
+          }
+        },
+        "id": "376063629",
+        "location": "Hong Kong",
+        "name": "UK in Hong Kong 🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048627695421194240/elpqNOkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28488,
+          "following_count": 617,
+          "like_count": 5298,
+          "listed_count": 262,
+          "media_count": 2255,
+          "tweet_count": 10732
+        },
+        "url": "https://t.co/baGwdxL5AU",
+        "username": "UKinHongKong",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Macbook",
+          "id": "972168210182111232",
+          "name": "Apple Macbook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1897882832392921456",
+    "created_at": "2025-03-10T07:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T08:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898995970630926674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884505510185164800",
+          "start": 0,
+          "username": "TOor532878"
+        },
+        {
+          "end": 28,
+          "id": "1722071951139897344",
+          "start": 12,
+          "username": "qizhngzhng17136"
+        },
+        {
+          "end": 36,
+          "id": "1607231228142571521",
+          "start": 29,
+          "username": "Snofy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898995970630926674",
+    "in_reply_to_user_id": "1884505510185164800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898333473871736851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOor532878 @qizhngzhng17136 @Snofy8 圖四貌似是在天台上拍的欸，怎麼自己家不待去天台啊，好奇怪\n以及Apple這手機有什麼好炫耀的啊😅甚至沒MacBook有炫耀的資本，評價為好濃的味道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898333424831881216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glg8MSxa4AAFqao.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898297881993609216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glgb3bYbAAAIIKg.jpg",
+        "width": 951
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898333416116113408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glg8LyTa0AAOK-c.jpg",
+        "width": 951
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898333429189799936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glg8MjAbcAAldt4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1897882832392921456",
+        "created_at": "2025-03-10T07:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T08:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898995970630926674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884505510185164800",
+              "start": 0,
+              "username": "TOor532878"
+            },
+            {
+              "end": 28,
+              "id": "1722071951139897344",
+              "start": 12,
+              "username": "qizhngzhng17136"
+            },
+            {
+              "end": 36,
+              "id": "1607231228142571521",
+              "start": 29,
+              "username": "Snofy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898995970630926674",
+        "in_reply_to_user_id": "1884505510185164800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898333473871736851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOor532878 @qizhngzhng17136 @Snofy8 圖四貌似是在天台上拍的欸，怎麼自己家不待去天台啊，好奇怪\n以及Apple這手機有什麼好炫耀的啊😅甚至沒MacBook有炫耀的資本，評價為好濃的味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898333424831881216",
+            "3_1898297881993609216",
+            "3_1898333416116113408",
+            "3_1898333429189799936"
+          ]
+        },
+        "author_id": "1884505510185164800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1897882832392921456",
+        "created_at": "2025-03-08T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898333473871736851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722071951139897344",
+              "start": 0,
+              "username": "qizhngzhng17136"
+            },
+            {
+              "end": 24,
+              "id": "1607231228142571521",
+              "start": 17,
+              "username": "Snofy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tkSRrjoxO",
+              "end": 127,
+              "expanded_url": "https://x.com/TOor532878/status/1898333473871736851/photo/1",
+              "media_key": "3_1898333424831881216",
+              "start": 104,
+              "url": "https://t.co/4tkSRrjoxO"
+            },
+            {
+              "display_url": "pic.x.com/4tkSRrjoxO",
+              "end": 127,
+              "expanded_url": "https://x.com/TOor532878/status/1898333473871736851/photo/1",
+              "media_key": "3_1898297881993609216",
+              "start": 104,
+              "url": "https://t.co/4tkSRrjoxO"
+            },
+            {
+              "display_url": "pic.x.com/4tkSRrjoxO",
+              "end": 127,
+              "expanded_url": "https://x.com/TOor532878/status/1898333473871736851/photo/1",
+              "media_key": "3_1898333416116113408",
+              "start": 104,
+              "url": "https://t.co/4tkSRrjoxO"
+            },
+            {
+              "display_url": "pic.x.com/4tkSRrjoxO",
+              "end": 127,
+              "expanded_url": "https://x.com/TOor532878/status/1898333473871736851/photo/1",
+              "media_key": "3_1898333429189799936",
+              "start": 104,
+              "url": "https://t.co/4tkSRrjoxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898333473871736851",
+        "in_reply_to_user_id": "1722071951139897344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898256914070618178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qizhngzhng17136 @Snofy8 您可真是活在自己的梦里面了，搞的你自己很有钱似的😂😂，iPhone出一代我换一代，南京建邺区高档小区140平方的房子住着，你这个穷逼你以为你很有钱啊，穷逼🐸 https://t.co/4tkSRrjoxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 554,
+          "like_count": 2319,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T07:35:13.000Z",
+        "description": "",
+        "id": "1884505510185164800",
+        "name": "TOor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884506140941365248/4Ujb6J1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 440
+        },
+        "username": "TOor532878",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T02:02:21.000Z",
+        "description": "",
+        "id": "1722071951139897344",
+        "location": "Hsinchu County, Taiwan",
+        "name": "Duncan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852406288145362945/ovZPpxdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 629,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "username": "qizhngzhng17136",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T04:26:10.000Z",
+        "description": "一名普通的中国人，生生被无脑、无品、无德的反贼、殖人、1450逼成了小粉红，深爱中国，希冀与中华民族一起实现伟大复兴。\nAn ordinary Chinese. Love China deeply and hope to achieve great rejuvenation with  China.",
+        "id": "1607231228142571521",
+        "name": "豫章信使",
+        "pinned_tweet_id": "1892593027954417906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607231424888999938/1b6VOmLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76610,
+          "following_count": 23453,
+          "like_count": 103858,
+          "listed_count": 268,
+          "media_count": 9967,
+          "tweet_count": 32572
+        },
+        "username": "Snofy8",
+        "verified": true
+      }
+    ]
+  }
+}

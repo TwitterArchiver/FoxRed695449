@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977422467682672641"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1976975577296089361",
+    "created_at": "2025-10-12T17:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977422474628456454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839044983317475331",
+          "start": 0,
+          "username": "caesartylor"
+        },
+        {
+          "end": 22,
+          "id": "1271652280438308864",
+          "start": 13,
+          "username": "Jasonzyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yUHewxf67o",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1977422474628456454/photo/1",
+          "media_key": "3_1977422467682672641",
+          "start": 23,
+          "url": "https://t.co/yUHewxf67o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977422474628456454",
+    "in_reply_to_user_id": "1839044983317475331",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977363026954113294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caesartylor @Jasonzyt https://t.co/yUHewxf67o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1977422467682672641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3E3Qe0aIAEcHyg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977422467682672641"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1976975577296089361",
+        "created_at": "2025-10-12T17:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977422474628456454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839044983317475331",
+              "start": 0,
+              "username": "caesartylor"
+            },
+            {
+              "end": 22,
+              "id": "1271652280438308864",
+              "start": 13,
+              "username": "Jasonzyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUHewxf67o",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1977422474628456454/photo/1",
+              "media_key": "3_1977422467682672641",
+              "start": 23,
+              "url": "https://t.co/yUHewxf67o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977422474628456454",
+        "in_reply_to_user_id": "1839044983317475331",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977363026954113294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caesartylor @Jasonzyt https://t.co/yUHewxf67o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839044983317475331",
+        "conversation_id": "1976975577296089361",
+        "created_at": "2025-10-12T13:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977363026954113294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 23,
+              "id": "1781308864438345728",
+              "start": 10,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977363026954113294",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976975577296089361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt @FoxRed695449 原来是聊天记录啊，那不得不信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 699,
+          "like_count": 4451,
+          "listed_count": 8,
+          "media_count": 831,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T20:51:27.000Z",
+        "description": "",
+        "id": "1839044983317475331",
+        "location": "Tokyo-to, Japan",
+        "name": "caesartylor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975723432755990529/qDaq_1B3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 195,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 73
+        },
+        "username": "caesartylor",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁 事电波系少女 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 676,
+          "like_count": 47421,
+          "listed_count": 4,
+          "media_count": 975,
+          "tweet_count": 11816
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

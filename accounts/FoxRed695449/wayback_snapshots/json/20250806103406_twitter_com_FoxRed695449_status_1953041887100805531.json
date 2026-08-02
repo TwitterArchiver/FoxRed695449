@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953041746893651971"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1953041887100805531",
+    "created_at": "2025-08-06T10:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953041887100805531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7qH15TcWU",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953041887100805531/video/1",
+          "media_key": "13_1953041746893651971",
+          "start": 28,
+          "url": "https://t.co/q7qH15TcWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953041887100805531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看著電視呢，結果突然跳出這個廣告\n我愛你祖國🖐️😭🖐️ https://t.co/q7qH15TcWU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28851,
+        "height": 918,
+        "media_key": "13_1953041746893651971",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953041746893651971/img/sxnbHlv6VGlf3MN-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953041746893651971/vid/avc1/564x270/6vrzurL-vfa_qu-Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953041746893651971/vid/avc1/752x360/fANHICZGHWgIB40n.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953041746893651971/vid/avc1/1504x720/Z-CoGs4imMx_xX0V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953041746893651971/pl/2pw8Rv5ILN7pA3GM.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953041746893651971"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1953041887100805531",
+        "created_at": "2025-08-06T10:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953041887100805531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7qH15TcWU",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953041887100805531/video/1",
+              "media_key": "13_1953041746893651971",
+              "start": 28,
+              "url": "https://t.co/q7qH15TcWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953041887100805531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看著電視呢，結果突然跳出這個廣告\n我愛你祖國🖐️😭🖐️ https://t.co/q7qH15TcWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 679,
+          "like_count": 3873,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

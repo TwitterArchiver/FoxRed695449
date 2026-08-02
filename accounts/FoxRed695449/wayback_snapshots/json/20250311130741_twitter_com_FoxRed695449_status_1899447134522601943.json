@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1899430110773604556",
+    "created_at": "2025-03-11T13:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T14:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899447134522601943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898663508230995968",
+          "start": 0,
+          "username": "Sigewinne454602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899447134522601943",
+    "in_reply_to_user_id": "1898663508230995968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899446547210727883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sigewinne454602 可以试试看主动出柜吗\n不过感觉家长态度有点保"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1899430110773604556",
+        "created_at": "2025-03-11T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899447134522601943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898663508230995968",
+              "start": 0,
+              "username": "Sigewinne454602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899447134522601943",
+        "in_reply_to_user_id": "1898663508230995968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899446547210727883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sigewinne454602 可以试试看主动出柜吗\n不过感觉家长态度有点保"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898663508230995968",
+        "conversation_id": "1899430110773604556",
+        "created_at": "2025-03-11T13:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899446547210727883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899446547210727883",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899446195518595126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 咱已经炸柜三次（）老师拍照发给家长了🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3854,
+          "following_count": 559,
+          "like_count": 2351,
+          "listed_count": 5,
+          "media_count": 417,
+          "tweet_count": 1269
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T09:14:05.000Z",
+        "description": "希格雯梦女/无证含糖MTF HRT:2025.1.26/生日2010年5月16日/家暴党/天残党/极品抖M/0/初三在校/已有主人/性取向拉拉/重度抑郁+躯体化/一天6mg含服国补两天12.5色 🚪30（Telegram和推同号）",
+        "id": "1898663508230995968",
+        "name": "希格雯🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1899428336591655272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898694392032194560/T2tkGRP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "Sigewinne454602",
+        "verified": false
+      }
+    ]
+  }
+}

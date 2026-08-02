@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1869045555504328997",
+    "created_at": "2024-12-17T15:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869049579154669593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683440309768708096",
+          "start": 0,
+          "username": "3596675596com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869049579154669593",
+    "in_reply_to_user_id": "1683440309768708096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869048041434734824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3596675596com 关键现在不是医生不给我开，是医院缺货，没药，且这个问题有一段时间了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1869045555504328997",
+        "created_at": "2024-12-17T15:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869049579154669593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683440309768708096",
+              "start": 0,
+              "username": "3596675596com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869049579154669593",
+        "in_reply_to_user_id": "1683440309768708096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869048041434734824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3596675596com 关键现在不是医生不给我开，是医院缺货，没药，且这个问题有一段时间了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683440309768708096",
+        "conversation_id": "1869045555504328997",
+        "created_at": "2024-12-17T15:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869048041434734824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869048041434734824",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869047095698874383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 可能你不了解内地的情况。内地对精神药品的管制是非常严格的，再加上很多精神小哥精神小妹为了寻求所谓刺激嗑精神药品，所以内地对这一块很敏感😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 371,
+          "like_count": 934,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 452
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-24T11:34:02.000Z",
+        "description": "十分期待，使用伯纳德·劳·蒙哥马利头像与ID的对手出现",
+        "id": "1683440309768708096",
+        "location": "广东",
+        "name": "沙漠之狐 埃尔温·隆美尔",
+        "pinned_tweet_id": "1859643786835657004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809519964937940996/ZJFFVFAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11109,
+          "following_count": 1027,
+          "like_count": 13845,
+          "listed_count": 104,
+          "media_count": 2205,
+          "tweet_count": 30365
+        },
+        "username": "3596675596com",
+        "verified": true
+      }
+    ]
+  }
+}

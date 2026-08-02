@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1915297457820635235",
+    "created_at": "2025-04-24T06:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T07:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915297457820635235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915297457820635235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感覺有點政治性抑鬱\n該怎麼和醫生說🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1915297457820635235",
+        "created_at": "2025-04-24T06:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T07:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915297457820635235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915297457820635235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺有點政治性抑鬱\n該怎麼和醫生說🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 619,
+          "like_count": 2924,
+          "listed_count": 6,
+          "media_count": 495,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

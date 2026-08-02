@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050173959459700736",
+        "3_2050173959631724544",
+        "3_2050173959489175553",
+        "3_2050173959476486144"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050173992716411134",
+    "created_at": "2026-05-01T11:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050173992716411134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3ojJ7mgvv",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+          "media_key": "3_2050173959459700736",
+          "start": 4,
+          "url": "https://t.co/w3ojJ7mgvv"
+        },
+        {
+          "display_url": "pic.x.com/w3ojJ7mgvv",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+          "media_key": "3_2050173959631724544",
+          "start": 4,
+          "url": "https://t.co/w3ojJ7mgvv"
+        },
+        {
+          "display_url": "pic.x.com/w3ojJ7mgvv",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+          "media_key": "3_2050173959489175553",
+          "start": 4,
+          "url": "https://t.co/w3ojJ7mgvv"
+        },
+        {
+          "display_url": "pic.x.com/w3ojJ7mgvv",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+          "media_key": "3_2050173959476486144",
+          "start": 4,
+          "url": "https://t.co/w3ojJ7mgvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050173992716411134",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋😋😋 https://t.co/w3ojJ7mgvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2050173959459700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOuWpVaAAA8s8S.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2050173959631724544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOuWp-a4AATJr4.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2050173959489175553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOuWpcbwAEqHr5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2050173959476486144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOuWpZaIAA7-Hp.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050173959459700736",
+            "3_2050173959631724544",
+            "3_2050173959489175553",
+            "3_2050173959476486144"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050173992716411134",
+        "created_at": "2026-05-01T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050173992716411134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3ojJ7mgvv",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+              "media_key": "3_2050173959459700736",
+              "start": 4,
+              "url": "https://t.co/w3ojJ7mgvv"
+            },
+            {
+              "display_url": "pic.x.com/w3ojJ7mgvv",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+              "media_key": "3_2050173959631724544",
+              "start": 4,
+              "url": "https://t.co/w3ojJ7mgvv"
+            },
+            {
+              "display_url": "pic.x.com/w3ojJ7mgvv",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+              "media_key": "3_2050173959489175553",
+              "start": 4,
+              "url": "https://t.co/w3ojJ7mgvv"
+            },
+            {
+              "display_url": "pic.x.com/w3ojJ7mgvv",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/2050173992716411134/photo/1",
+              "media_key": "3_2050173959476486144",
+              "start": 4,
+              "url": "https://t.co/w3ojJ7mgvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050173992716411134",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋😋😋 https://t.co/w3ojJ7mgvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 823,
+          "like_count": 7854,
+          "listed_count": 7,
+          "media_count": 995,
+          "tweet_count": 3179
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873247898252796348",
+    "created_at": "2024-12-29T06:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873247898252796348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/foxred695449/status/1873240622414651393",
+          "start": 81,
+          "url": "https://t.co/iS6OCZGqgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873247898252796348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873240622414651393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又感觉很对不起我的爸爸妈妈…他们花了那么多钱让我读国际学校…但我感觉我连港五都考不上…可能只能上HKBU或者LingU…真的感觉很对不起他们在学业上给我花的钱 https://t.co/iS6OCZGqgc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873247898252796348",
+        "created_at": "2024-12-29T06:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873247898252796348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/foxred695449/status/1873240622414651393",
+              "start": 81,
+              "url": "https://t.co/iS6OCZGqgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873247898252796348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873240622414651393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又感觉很对不起我的爸爸妈妈…他们花了那么多钱让我读国际学校…但我感觉我连港五都考不上…可能只能上HKBU或者LingU…真的感觉很对不起他们在学业上给我花的钱 https://t.co/iS6OCZGqgc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873240622414651393",
+        "created_at": "2024-12-29T05:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T06:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873240622414651393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873240622414651393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 103,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢，我并不是想要很多很多的钱…对于我来说钱够用或许就行了…因为我手上的钱一旦多出来，我就会花钱享乐\n前面外婆突然说要给我5000RMB…最后讨价还价变成1000HKD+2500CNY\n但我真的感觉我好对不起外公外婆，我拿到钱了就会因为我的双相四处挥霍，曾经甚至刷爆过信用卡…那笔钱真的不如他们自己用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 385,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 544
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

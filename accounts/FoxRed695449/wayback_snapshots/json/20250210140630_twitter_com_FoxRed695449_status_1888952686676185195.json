@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1888914487211851876",
+    "created_at": "2025-02-10T14:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T15:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888952686676185195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138408165014364162",
+          "start": 0,
+          "username": "shiratsuyudachi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888952686676185195",
+    "in_reply_to_user_id": "1138408165014364162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888948389997596862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratsuyudachi 抱抱抱抱...慢慢還吧aww\n我現在也怕我到時候讀大學也欠錢了🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1888914487211851876",
+        "created_at": "2025-02-10T14:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888952686676185195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138408165014364162",
+              "start": 0,
+              "username": "shiratsuyudachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888952686676185195",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888948389997596862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratsuyudachi 抱抱抱抱...慢慢還吧aww\n我現在也怕我到時候讀大學也欠錢了🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138408165014364162",
+        "conversation_id": "1888914487211851876",
+        "created_at": "2025-02-10T13:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T14:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888948389997596862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888948389997596862",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888948340639093114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 虽然总共还是欠了7w左右x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 474,
+          "like_count": 1501,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 992
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。更多信息请参阅置顶推文｜里号@shiratsuyukata｜单推 @Cyan_0731 ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 42,
+                "username": "shiratsuyukata"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Cyan_0731"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 1615,
+          "like_count": 47933,
+          "listed_count": 11,
+          "media_count": 1074,
+          "tweet_count": 11851
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

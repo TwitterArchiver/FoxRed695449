@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981307109167026382",
+    "created_at": "2025-10-23T11:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981323736021422320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720464000541159424",
+          "start": 0,
+          "username": "3renja3ger"
+        },
+        {
+          "end": 27,
+          "id": "1260553941714186241",
+          "start": 12,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Somatization, a tendency to experience and communicate somatic distress in response to psychosocial stress and to seek medical help for it, poses a major medical, social, and economic problem. It is most often associated with depressive and anxiety disorders and constitutes the core of somatoform di …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/3056044/",
+          "end": 51,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/3056044/",
+          "start": 28,
+          "status": 200,
+          "title": "Somatization: the concept and its clinical application - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/3056044/",
+          "url": "https://t.co/UxQ9TrFUVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981323736021422320",
+    "in_reply_to_user_id": "1720464000541159424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981316570627641344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3renja3ger @whyyoutouzhele https://t.co/UxQ9TrFUVZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981307109167026382",
+        "created_at": "2025-10-23T11:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981323736021422320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720464000541159424",
+              "start": 0,
+              "username": "3renja3ger"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Somatization, a tendency to experience and communicate somatic distress in response to psychosocial stress and to seek medical help for it, poses a major medical, social, and economic problem. It is most often associated with depressive and anxiety disorders and constitutes the core of somatoform di …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/3056044/",
+              "end": 51,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/3056044/",
+              "start": 28,
+              "status": 200,
+              "title": "Somatization: the concept and its clinical application - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/3056044/",
+              "url": "https://t.co/UxQ9TrFUVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981323736021422320",
+        "in_reply_to_user_id": "1720464000541159424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981316570627641344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3renja3ger @whyyoutouzhele https://t.co/UxQ9TrFUVZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720464000541159424",
+        "conversation_id": "1981307109167026382",
+        "created_at": "2025-10-23T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981316570627641344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981316570627641344",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981307109167026382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 啥叫他妈躯体化啊，不躯体化是个魂儿？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 705,
+          "like_count": 4688,
+          "listed_count": 7,
+          "media_count": 861,
+          "tweet_count": 2601
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T15:33:47.000Z",
+        "description": "There is no God. All lives matter. Gender is binary. Abortion and LGB are human rights. T+ are mental disorders.",
+        "id": "1720464000541159424",
+        "name": "自由の奴隷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745392064781844480/mx7OGnp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 60,
+          "like_count": 621,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 2647
+        },
+        "username": "3renja3ger",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126526,
+          "following_count": 983,
+          "like_count": 8276,
+          "listed_count": 8374,
+          "media_count": 36453,
+          "tweet_count": 43289
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

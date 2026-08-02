@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955606603501285376",
+        "3_1955606603530678272",
+        "3_1955606603505487872",
+        "3_1955606603505487874"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1955606610547773611",
+    "created_at": "2025-08-13T12:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955606610547773611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wCFldLdnoN",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+          "media_key": "3_1955606603501285376",
+          "start": 23,
+          "url": "https://t.co/wCFldLdnoN"
+        },
+        {
+          "display_url": "pic.x.com/wCFldLdnoN",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+          "media_key": "3_1955606603530678272",
+          "start": 23,
+          "url": "https://t.co/wCFldLdnoN"
+        },
+        {
+          "display_url": "pic.x.com/wCFldLdnoN",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+          "media_key": "3_1955606603505487872",
+          "start": 23,
+          "url": "https://t.co/wCFldLdnoN"
+        },
+        {
+          "display_url": "pic.x.com/wCFldLdnoN",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+          "media_key": "3_1955606603505487874",
+          "start": 23,
+          "url": "https://t.co/wCFldLdnoN"
+        },
+        {
+          "display_url": "x.com/lanszhang/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/lanszhang/status/1955545336031989762",
+          "start": 47,
+          "url": "https://t.co/oE8oibSyIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955606610547773611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955545336031989762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "FTM均已被开除跨籍\n以下人士均已被开除女籍 https://t.co/wCFldLdnoN https://t.co/oE8oibSyIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1955606603501285376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO12DoaMAAtPtj.jpg",
+        "width": 828
+      },
+      {
+        "height": 1316,
+        "media_key": "3_1955606603530678272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO12DvasAA9mrC.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1955606603505487872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO12DpaUAAbHnC.jpg",
+        "width": 828
+      },
+      {
+        "height": 973,
+        "media_key": "3_1955606603505487874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO12DpaUAIkrTy.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955606603501285376",
+            "3_1955606603530678272",
+            "3_1955606603505487872",
+            "3_1955606603505487874"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1955606610547773611",
+        "created_at": "2025-08-13T12:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955606610547773611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCFldLdnoN",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+              "media_key": "3_1955606603501285376",
+              "start": 23,
+              "url": "https://t.co/wCFldLdnoN"
+            },
+            {
+              "display_url": "pic.x.com/wCFldLdnoN",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+              "media_key": "3_1955606603530678272",
+              "start": 23,
+              "url": "https://t.co/wCFldLdnoN"
+            },
+            {
+              "display_url": "pic.x.com/wCFldLdnoN",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+              "media_key": "3_1955606603505487872",
+              "start": 23,
+              "url": "https://t.co/wCFldLdnoN"
+            },
+            {
+              "display_url": "pic.x.com/wCFldLdnoN",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955606610547773611/photo/1",
+              "media_key": "3_1955606603505487874",
+              "start": 23,
+              "url": "https://t.co/wCFldLdnoN"
+            },
+            {
+              "display_url": "x.com/lanszhang/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/lanszhang/status/1955545336031989762",
+              "start": 47,
+              "url": "https://t.co/oE8oibSyIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955606610547773611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955545336031989762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "FTM均已被开除跨籍\n以下人士均已被开除女籍 https://t.co/wCFldLdnoN https://t.co/oE8oibSyIY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "conversation_id": "1955545336031989762",
+        "created_at": "2025-08-13T08:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955545336031989762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955545336031989762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10916,
+          "like_count": 33,
+          "quote_count": 26,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂🏳️‍⚧️的晒黑丝腿想做一个女生\n背后却是一排高达盒\n同志，女生不是那么好做的\n做女生在中国并不太能玩高达的\n\n🏳️‍⚧️大部分时候让女性愤怒的是\n他们只想要女性里他们觉得好的部分\n完全看不见女受到的限制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 684,
+          "like_count": 3930,
+          "listed_count": 7,
+          "media_count": 622,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "日本語ペラペラ中国人。@L78783869",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "L78783869"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=74",
+                "start": 0,
+                "url": "https://t.co/Qsnbz0pF72"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "name": "lans",
+        "pinned_tweet_id": "1954896748767543441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938867454849036289/VgRUZ5LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7798,
+          "following_count": 1195,
+          "like_count": 63077,
+          "listed_count": 83,
+          "media_count": 4720,
+          "tweet_count": 65991
+        },
+        "url": "https://t.co/Qsnbz0pF72",
+        "username": "Lanszhang",
+        "verified": false
+      }
+    ]
+  }
+}

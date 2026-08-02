@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1863189434964869463",
+    "created_at": "2024-12-01T11:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T12:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863190239768125851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822681763761577984",
+          "start": 0,
+          "username": "Demon_bladee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863190239768125851",
+    "in_reply_to_user_id": "1822681763761577984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863189434964869463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demon_bladee 才7位数，搞的好像我家没有7位数🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1863189434964869463",
+        "created_at": "2024-12-01T11:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863190239768125851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822681763761577984",
+              "start": 0,
+              "username": "Demon_bladee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863190239768125851",
+        "in_reply_to_user_id": "1822681763761577984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863189434964869463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demon_bladee 才7位数，搞的好像我家没有7位数🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822681763761577984",
+        "conversation_id": "1863189434964869463",
+        "created_at": "2024-12-01T11:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863189434964869463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1863188563745206671",
+              "start": 140,
+              "url": "https://t.co/Ri3GsT1ZiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863189434964869463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863188563745206671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你爹家里净资产七位数，在成都市中心就有三套房，光我亲爹就有三台车分别是宝马奔驰奥迪。我从来不拿出来说是因为我那傻逼资本家亲爹的东西是他自己剥削得来的，而根本不是我的。\nI'm work with my own hand，我劳动我光荣，而不是像你这臭蛆一样吸着家里的血还恬不知耻！ https://t.co/Ri3GsT1ZiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 292,
+          "like_count": 482,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-11T17:09:54.000Z",
+        "description": "蛮族之王彻底疯狂，不疯狂不叫蛮王！\n万物非主唯有真主。",
+        "id": "1822681763761577984",
+        "name": "恶魔之刃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854256329466204160/vY0BkFJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 99,
+          "like_count": 1690,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1248
+        },
+        "username": "Demon_bladee",
+        "verified": false
+      }
+    ]
+  }
+}

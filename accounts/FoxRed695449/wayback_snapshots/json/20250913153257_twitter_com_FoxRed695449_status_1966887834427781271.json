@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966887827377188864"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027295991",
+          "name": "Skype"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1966887834427781271",
+    "created_at": "2025-09-13T15:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T16:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966887834427781271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ikvq70CXmY",
+          "end": 71,
+          "expanded_url": "https://x.com/FoxRed695449/status/1966887834427781271/photo/1",
+          "media_key": "3_1966887827377188864",
+          "start": 48,
+          "url": "https://t.co/Ikvq70CXmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966887834427781271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "時代的眼淚——Skype網路電話\n目前原有客戶可以用至餘額為0\n不知道哪天…會徹底無法登錄呢… https://t.co/Ikvq70CXmY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2177,
+        "media_key": "3_1966887827377188864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0vKDtfbcAARpqB.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966887827377188864"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027295991",
+              "name": "Skype"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1966887834427781271",
+        "created_at": "2025-09-13T15:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966887834427781271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ikvq70CXmY",
+              "end": 71,
+              "expanded_url": "https://x.com/FoxRed695449/status/1966887834427781271/photo/1",
+              "media_key": "3_1966887827377188864",
+              "start": 48,
+              "url": "https://t.co/Ikvq70CXmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966887834427781271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "時代的眼淚——Skype網路電話\n目前原有客戶可以用至餘額為0\n不知道哪天…會徹底無法登錄呢… https://t.co/Ikvq70CXmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 688,
+          "like_count": 4323,
+          "listed_count": 8,
+          "media_count": 787,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

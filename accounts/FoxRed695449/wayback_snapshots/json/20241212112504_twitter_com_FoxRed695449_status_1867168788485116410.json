@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1867164729749475715",
+    "created_at": "2024-12-12T11:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T12:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867168788485116410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867168788485116410",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867164729749475715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 抱抱，辛苦啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1867164729749475715",
+        "created_at": "2024-12-12T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867168788485116410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867168788485116410",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867164729749475715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 抱抱，辛苦啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1867164729749475715",
+        "created_at": "2024-12-12T11:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T12:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867164729749475715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867164729749475715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3236,
+          "following_count": 353,
+          "like_count": 799,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 369
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "高性能狐物器",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1862488162809126927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867159873915588608/upmXDMwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 1879,
+          "like_count": 150440,
+          "listed_count": 7,
+          "media_count": 319,
+          "tweet_count": 6389
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

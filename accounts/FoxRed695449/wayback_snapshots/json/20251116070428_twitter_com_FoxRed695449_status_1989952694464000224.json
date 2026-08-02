@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1989652617354780802",
+    "created_at": "2025-11-16T07:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989952694464000224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "11765952",
+          "start": 0,
+          "username": "interjc"
+        },
+        {
+          "end": 25,
+          "id": "2343816680",
+          "start": 9,
+          "username": "Vincentcharming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989952694464000224",
+    "in_reply_to_user_id": "11765952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989920439515459672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interjc @Vincentcharming 想多了\n根据《电影企业经营资格准入暂行规定》、文化部、海关总署《进口影片管理办法》、广电总局、文化部《关于改革电影发行放映机制的实施细则（试行）》所有中国大陆进口片均由中影集团进出口分公司负责进口、中国电影股份有限公司及华夏电影发行有限责任公司两家公司负责发行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1989652617354780802",
+        "created_at": "2025-11-16T07:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989952694464000224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            },
+            {
+              "end": 25,
+              "id": "2343816680",
+              "start": 9,
+              "username": "Vincentcharming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989952694464000224",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989920439515459672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc @Vincentcharming 想多了\n根据《电影企业经营资格准入暂行规定》、文化部、海关总署《进口影片管理办法》、广电总局、文化部《关于改革电影发行放映机制的实施细则（试行）》所有中国大陆进口片均由中影集团进出口分公司负责进口、中国电影股份有限公司及华夏电影发行有限责任公司两家公司负责发行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "11765952",
+        "conversation_id": "1989652617354780802",
+        "created_at": "2025-11-16T04:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989920439515459672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2343816680",
+              "start": 0,
+              "username": "Vincentcharming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989920439515459672",
+        "in_reply_to_user_id": "2343816680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1864,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989920089357893720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincentcharming 发行方最近日子难熬了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 682,
+          "like_count": 4834,
+          "listed_count": 7,
+          "media_count": 881,
+          "tweet_count": 2674
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员\n🧑‍💻 @yokogaisha｜AIGC\n🎓 AI 课程：https://t.co/MNSqx9ncpS\n📱 Wechat：justinchencn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 66,
+                "expanded_url": "http://justincourse.com",
+                "start": 43,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 23,
+                "expanded_url": "https://interjc.net",
+                "start": 0,
+                "url": "https://t.co/ZikItPAYVq"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27178,
+          "following_count": 1597,
+          "like_count": 64113,
+          "listed_count": 225,
+          "media_count": 3363,
+          "tweet_count": 28832
+        },
+        "url": "https://t.co/ZikItPAYVq",
+        "username": "interjc",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-14T16:31:06.000Z",
+        "description": "🚀  Indie Dev | Building Practical Tools & Products\nMedical Innovators🩺 | Travel✈️Photography📸、\nDeep Reading📖、Startup Insights🔛\n#IndieDev #CodeLife",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 127,
+                "tag": "IndieDev"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "tag": "CodeLife"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valarzai.com",
+                "end": 23,
+                "expanded_url": "http://valarzai.com",
+                "start": 0,
+                "url": "https://t.co/81fEivHhcc"
+              }
+            ]
+          }
+        },
+        "id": "2343816680",
+        "location": "Code Anywhere",
+        "name": "Vincent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986447455760642048/GWG9NrDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 166,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/81fEivHhcc",
+        "username": "Vincentcharming",
+        "verified": true
+      }
+    ]
+  }
+}

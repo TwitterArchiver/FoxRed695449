@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064967942689951926",
+    "created_at": "2026-06-12T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065287549640437958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647394952266104832",
+          "start": 0,
+          "username": "kekeli198416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065287549640437958",
+    "in_reply_to_user_id": "1647394952266104832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065286630039343217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekeli198416 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064967942689951926",
+        "created_at": "2026-06-12T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065287549640437958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647394952266104832",
+              "start": 0,
+              "username": "kekeli198416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065287549640437958",
+        "in_reply_to_user_id": "1647394952266104832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065286630039343217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekeli198416 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647394952266104832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2064967942689951926",
+        "created_at": "2026-06-12T04:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065286630039343217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065286630039343217",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064967942689951926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这是iOS 27吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 842,
+          "like_count": 8125,
+          "listed_count": 6,
+          "media_count": 1052,
+          "tweet_count": 3372
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T00:22:42.000Z",
+        "description": "🌐 传奇集结",
+        "id": "1647394952266104832",
+        "location": "美国 纽约洲 纽约市",
+        "name": "梦🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064236480051240960/T6v8xqgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 161,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 101
+        },
+        "username": "kekeli198416",
+        "verified": false
+      }
+    ]
+  }
+}

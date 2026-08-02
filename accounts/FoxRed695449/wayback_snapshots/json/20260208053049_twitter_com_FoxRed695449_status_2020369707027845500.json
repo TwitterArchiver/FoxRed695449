@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2020140790731669630",
+    "created_at": "2026-02-08T05:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020369707027845500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790274423309864960",
+          "start": 0,
+          "username": "maybezyxorg"
+        },
+        {
+          "end": 28,
+          "id": "1595110651621318656",
+          "start": 13,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020369707027845500",
+    "in_reply_to_user_id": "1790274423309864960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020293459232665666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybezyxorg @ProcyonCoke731 校服还谈上《方便管理》了\n不过也是\n把学生当畜生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2020140790731669630",
+        "created_at": "2026-02-08T05:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020369707027845500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790274423309864960",
+              "start": 0,
+              "username": "maybezyxorg"
+            },
+            {
+              "end": 28,
+              "id": "1595110651621318656",
+              "start": 13,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020369707027845500",
+        "in_reply_to_user_id": "1790274423309864960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020293459232665666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybezyxorg @ProcyonCoke731 校服还谈上《方便管理》了\n不过也是\n把学生当畜生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790274423309864960",
+        "conversation_id": "2020140790731669630",
+        "created_at": "2026-02-08T00:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020293459232665666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020293459232665666",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020140790731669630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 校服最重要的是实用性，方便管理，方便做正事，而不是像个傻逼一样在这狗叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 756,
+          "like_count": 6132,
+          "listed_count": 7,
+          "media_count": 932,
+          "tweet_count": 2906
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T06:54:28.000Z",
+        "description": "坚决拥护中国共产党的领导\n坚决反对军国主义\n人民是历史的创造者，人民是真正的英雄，世界上没有上帝！",
+        "id": "1790274423309864960",
+        "name": "zyx",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 38,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "maybezyxorg",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004629230051614720/oQ3zNr4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 1189,
+          "like_count": 32178,
+          "listed_count": 45,
+          "media_count": 3637,
+          "tweet_count": 15792
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

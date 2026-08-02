@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900508705856131072"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1900430084416430160",
+    "created_at": "2025-03-14T11:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T12:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900508711392801238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1615252756289425411",
+          "start": 0,
+          "username": "IrohadaisukiUwU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVwY6Omorm",
+          "end": 49,
+          "expanded_url": "https://x.com/FoxRed695449/status/1900508711392801238/photo/1",
+          "media_key": "3_1900508705856131072",
+          "start": 26,
+          "url": "https://t.co/MVwY6Omorm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900508711392801238",
+    "in_reply_to_user_id": "1615252756289425411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900507863845630396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IrohadaisukiUwU 也有手续费👿👿👿 https://t.co/MVwY6Omorm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 157,
+        "media_key": "3_1900508705856131072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_2mUEXkAAL_Kw.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900508705856131072"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1900430084416430160",
+        "created_at": "2025-03-14T11:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900508711392801238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1615252756289425411",
+              "start": 0,
+              "username": "IrohadaisukiUwU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVwY6Omorm",
+              "end": 49,
+              "expanded_url": "https://x.com/FoxRed695449/status/1900508711392801238/photo/1",
+              "media_key": "3_1900508705856131072",
+              "start": 26,
+              "url": "https://t.co/MVwY6Omorm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900508711392801238",
+        "in_reply_to_user_id": "1615252756289425411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900507863845630396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IrohadaisukiUwU 也有手续费👿👿👿 https://t.co/MVwY6Omorm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615252756289425411",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "1900430084416430160",
+        "created_at": "2025-03-14T11:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900507863845630396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900507863845630396",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900430084416430160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 alipay去7-11增個值，用alipay給不就沒銀行手續費了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 565,
+          "like_count": 2432,
+          "listed_count": 6,
+          "media_count": 411,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-17T07:41:03.000Z",
+        "description": "想締造一個溫柔的世界 | 學會包容他人不同 | 日常發瘋(°∀｡) | 抱抱路過的推友٩(๑•ㅂ•)۶ | 親友:@remilia_servant @irohakawaiinee @ccnanoQAQ @Urara_8964_lv3 @b0900620881 @bydmianshao @kotorichyandes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "remilia_servant"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "irohakawaiinee"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "ccnanoQAQ"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "Urara_8964_lv3"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "b0900620881"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "bydmianshao"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "kotorichyandes"
+              }
+            ]
+          }
+        },
+        "id": "1615252756289425411",
+        "location": "香港長大Hong Kong🇭🇰 去過： 🇦🇺🇯🇵",
+        "name": "Hæns•Coffee☕️ | 🏳️‍🌈🏳️‍⚧️🍥友善",
+        "pinned_tweet_id": "1805343872618516715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898722716783677440/002S2kNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 760,
+          "like_count": 90492,
+          "listed_count": 2,
+          "media_count": 3008,
+          "tweet_count": 12983
+        },
+        "username": "IrohadaisukiUwU",
+        "verified": false
+      }
+    ]
+  }
+}

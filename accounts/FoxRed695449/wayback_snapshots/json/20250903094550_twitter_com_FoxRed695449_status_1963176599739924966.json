@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1963045916098887848",
+    "created_at": "2025-09-03T09:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963176599739924966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1501493896043368450",
+          "start": 0,
+          "username": "EricYang_SH"
+        },
+        {
+          "end": 23,
+          "id": "1832834649493762048",
+          "start": 13,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963176599739924966",
+    "in_reply_to_user_id": "1501493896043368450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963172980336570823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricYang_SH @1n_fhtagn 1957年到1976年艾青是怎麼過的？\n好難猜啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1963045916098887848",
+        "created_at": "2025-09-03T09:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963176599739924966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1501493896043368450",
+              "start": 0,
+              "username": "EricYang_SH"
+            },
+            {
+              "end": 23,
+              "id": "1832834649493762048",
+              "start": 13,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963176599739924966",
+        "in_reply_to_user_id": "1501493896043368450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963172980336570823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricYang_SH @1n_fhtagn 1957年到1976年艾青是怎麼過的？\n好難猜啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501493896043368450",
+        "conversation_id": "1963045916098887848",
+        "created_at": "2025-09-03T09:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963172980336570823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963172980336570823",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963045916098887848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 还行啊，艾青本来就是左翼诗人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 693,
+          "like_count": 4240,
+          "listed_count": 8,
+          "media_count": 745,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-09T09:43:49.000Z",
+        "description": "瞻彼淇澳，菉竹猗猗。有斐君子，痴头怪脑。\n支黑物种隔离，直接拉黑",
+        "id": "1501493896043368450",
+        "location": "Shanghai",
+        "name": "册那结棍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958441726617751553/UViWqsIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8785,
+          "following_count": 564,
+          "like_count": 41426,
+          "listed_count": 47,
+          "media_count": 1036,
+          "tweet_count": 18201
+        },
+        "username": "EricYang_SH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1924838096195223828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907296465015459840/9ECT2Sd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3785,
+          "following_count": 1298,
+          "like_count": 31929,
+          "listed_count": 7,
+          "media_count": 3301,
+          "tweet_count": 14699
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

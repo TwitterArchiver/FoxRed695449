@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1947286496303624393",
+    "created_at": "2025-07-22T02:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T03:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947476782875349459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762050911332081664",
+          "start": 0,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947476782875349459",
+    "in_reply_to_user_id": "1762050911332081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947286496303624393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BucketFallen 完蛋，香港人真就這樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1947286496303624393",
+        "created_at": "2025-07-22T02:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T03:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947476782875349459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947476782875349459",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947286496303624393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen 完蛋，香港人真就這樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1947286496303624393",
+        "created_at": "2025-07-21T13:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947286496303624393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947286496303624393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3389,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上中英混杂说话的和一排中文一排英文的哪个更傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 675,
+          "like_count": 3749,
+          "listed_count": 7,
+          "media_count": 562,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "湖北精神病人",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 532,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

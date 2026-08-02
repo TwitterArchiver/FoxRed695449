@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917828556123693059",
+        "3_1917828927718141953",
+        "3_1917828928389169152",
+        "3_1917828938061238272"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1917828940938502430",
+    "created_at": "2025-05-01T06:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:29:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917828812349530135",
+      "1917828940938502430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZUSQQiQsm",
+          "end": 168,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+          "media_key": "3_1917828556123693059",
+          "start": 145,
+          "url": "https://t.co/xZUSQQiQsm"
+        },
+        {
+          "display_url": "pic.x.com/xZUSQQiQsm",
+          "end": 168,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+          "media_key": "3_1917828927718141953",
+          "start": 145,
+          "url": "https://t.co/xZUSQQiQsm"
+        },
+        {
+          "display_url": "pic.x.com/xZUSQQiQsm",
+          "end": 168,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+          "media_key": "3_1917828928389169152",
+          "start": 145,
+          "url": "https://t.co/xZUSQQiQsm"
+        },
+        {
+          "display_url": "pic.x.com/xZUSQQiQsm",
+          "end": 168,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+          "media_key": "3_1917828938061238272",
+          "start": 145,
+          "url": "https://t.co/xZUSQQiQsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917828940938502430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "emm...话说各位要是要买港区礼品卡可以来找我，我可以按照实时汇率加个一块钱左右帮你买\n而且礼品卡本身就有优惠的（没错，卖给你是算上优惠的价格！），所以应该比你在淘宝闲鱼什么的地方买便宜？不放心也可以走闲鱼，不过会稍微贵1、2块钱\n主要是余额用不掉，手上还有800多，余额用完了就不卖了 https://t.co/xZUSQQiQsm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1917828556123693059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1-6SPaYAMecDG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_1917828927718141953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1_P6ibsAEpqXU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_1917828928389169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1_P9CawAAStKp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_1917828938061238272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1_QhEa0AAAy0S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917828556123693059"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1917828812349530135",
+        "created_at": "2025-05-01T06:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:29:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917828812349530135",
+          "1917828940938502430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgaxf4h7ym",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917828812349530135/photo/1",
+              "media_key": "3_1917828556123693059",
+              "start": 145,
+              "url": "https://t.co/zgaxf4h7ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917828812349530135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "emm...话说各位要是要买港区礼品卡可以来找我，我可以按照实时汇率加个一块钱左右帮你买\n而且礼品卡本身就有优惠的（没错，卖给你是算上优惠的价格！），所以应该比你在淘宝闲鱼什么的地方买便宜？不放心也可以走闲鱼，不过会稍微贵1、2块钱\n主要是余额用不掉，手上还有800多，余额用完了就不卖了 https://t.co/zgaxf4h7ym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917828556123693059",
+            "3_1917828927718141953",
+            "3_1917828928389169152",
+            "3_1917828938061238272"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917828940938502430",
+        "created_at": "2025-05-01T06:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:29:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917828812349530135",
+          "1917828940938502430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZUSQQiQsm",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+              "media_key": "3_1917828556123693059",
+              "start": 145,
+              "url": "https://t.co/xZUSQQiQsm"
+            },
+            {
+              "display_url": "pic.x.com/xZUSQQiQsm",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+              "media_key": "3_1917828927718141953",
+              "start": 145,
+              "url": "https://t.co/xZUSQQiQsm"
+            },
+            {
+              "display_url": "pic.x.com/xZUSQQiQsm",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+              "media_key": "3_1917828928389169152",
+              "start": 145,
+              "url": "https://t.co/xZUSQQiQsm"
+            },
+            {
+              "display_url": "pic.x.com/xZUSQQiQsm",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917828940938502430/photo/1",
+              "media_key": "3_1917828938061238272",
+              "start": 145,
+              "url": "https://t.co/xZUSQQiQsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917828940938502430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emm...话说各位要是要买港区礼品卡可以来找我，我可以按照实时汇率加个一块钱左右帮你买\n而且礼品卡本身就有优惠的（没错，卖给你是算上优惠的价格！），所以应该比你在淘宝闲鱼什么的地方买便宜？不放心也可以走闲鱼，不过会稍微贵1、2块钱\n主要是余额用不掉，手上还有800多，余额用完了就不卖了 https://t.co/xZUSQQiQsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3679,
+          "following_count": 644,
+          "like_count": 3009,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 1503
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

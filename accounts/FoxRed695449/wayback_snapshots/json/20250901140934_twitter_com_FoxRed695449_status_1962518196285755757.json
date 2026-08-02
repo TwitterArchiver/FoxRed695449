@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1962202059320562160",
+    "created_at": "2025-09-01T14:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T15:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962518196285755757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "894527973839192064",
+          "start": 0,
+          "username": "SarkazWisadel"
+        },
+        {
+          "end": 28,
+          "id": "1752377147845677057",
+          "start": 15,
+          "username": "tou_luo64023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962518196285755757",
+    "in_reply_to_user_id": "894527973839192064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962472857730208215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SarkazWisadel @tou_luo64023 那如果境外的卡连接校园基站会怎么样🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1962202059320562160",
+        "created_at": "2025-09-01T14:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962518196285755757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "SarkazWisadel"
+            },
+            {
+              "end": 28,
+              "id": "1752377147845677057",
+              "start": 15,
+              "username": "tou_luo64023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962518196285755757",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962472857730208215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarkazWisadel @tou_luo64023 那如果境外的卡连接校园基站会怎么样🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894527973839192064",
+        "conversation_id": "1962202059320562160",
+        "created_at": "2025-09-01T11:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962472857730208215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752377147845677057",
+              "start": 0,
+              "username": "tou_luo64023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962472857730208215",
+        "in_reply_to_user_id": "1752377147845677057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962202059320562160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tou_luo64023 如果是一般的学校，你要是连校园网翻墙学校分分钟知道，导员立刻招呼你\n如果学校能力强点，你就算用流量，只要是在校园基站范围里也能给你抓出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 694,
+          "like_count": 4240,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 2334
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergrad at UofT(St George)\n旅行者。死打游戏的。清水日常推。\n好闺蜜@sutanghentian | 超喜欢的魅魔姐姐@yawarakai421 | 杂鱼🌰@Lingmeiya\n📧mail@kokodayo.us",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "yawarakai421"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "https://www.kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/9v78GoBNYc"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "University of Toronto",
+        "name": "Kokodayo",
+        "pinned_tweet_id": "1924847655534080159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960487619546243074/D0c1I-cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602,
+          "following_count": 320,
+          "like_count": 42107,
+          "listed_count": 13,
+          "media_count": 3856,
+          "tweet_count": 22341
+        },
+        "url": "https://t.co/9v78GoBNYc",
+        "username": "SarkazWisadel",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T17:04:15.000Z",
+        "description": "男♂\n异性恋\nQQ：653672492\n二次元，月亮计划的爱好者",
+        "id": "1752377147845677057",
+        "location": "鹦鹉螺号",
+        "name": "藤壶船长——胡椒",
+        "pinned_tweet_id": "1906012377172131848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903497435445665792/yQLPNmsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 191,
+          "like_count": 8664,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 6434
+        },
+        "username": "tou_luo64023",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2047501309931295091",
+    "created_at": "2026-04-25T09:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047968314887118894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 25,
+          "id": "1271652280438308864",
+          "start": 16,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 36,
+          "id": "1987885638038036480",
+          "start": 26,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047968314887118894",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047588336597135865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @Jaciezyt @mizorewww 招行我拿了他行的5万定期存款存折就给提到2.5万了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2047501309931295091",
+        "created_at": "2026-04-25T09:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047968314887118894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 25,
+              "id": "1271652280438308864",
+              "start": 16,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 36,
+              "id": "1987885638038036480",
+              "start": 26,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047968314887118894",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047588336597135865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @Jaciezyt @mizorewww 招行我拿了他行的5万定期存款存折就给提到2.5万了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2047501309931295091",
+        "created_at": "2026-04-24T08:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047588336597135865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 20,
+              "id": "1987885638038036480",
+              "start": 10,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047588336597135865",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047530662836781434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @mizorewww 我说了留学中行还是只给我开5000\n让我存钱然后三个月再提"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 818,
+          "like_count": 7772,
+          "listed_count": 7,
+          "media_count": 990,
+          "tweet_count": 3164
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中畜",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 999,
+          "like_count": 71102,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 9055
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 913,
+          "like_count": 62458,
+          "listed_count": 12,
+          "media_count": 1309,
+          "tweet_count": 15205
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然",
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2022601153436074265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1374,
+          "like_count": 5399,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1845
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

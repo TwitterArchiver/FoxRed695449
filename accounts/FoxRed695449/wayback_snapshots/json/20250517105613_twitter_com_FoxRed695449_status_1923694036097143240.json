@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1923680683698028676",
+    "created_at": "2025-05-17T10:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923694036097143240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "Hongcha_Orchids"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923694036097143240",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923693541764759876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongcha_Orchids emm\n其實你不拿去香港用也不用實名\n按照通訊管理局的規定只有在香港使用的香港營運商sim卡才要實名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1923680683698028676",
+        "created_at": "2025-05-17T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923694036097143240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "Hongcha_Orchids"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923694036097143240",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923693541764759876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongcha_Orchids emm\n其實你不拿去香港用也不用實名\n按照通訊管理局的規定只有在香港使用的香港營運商sim卡才要實名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427572752358141956",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1923680683698028676",
+        "created_at": "2025-05-17T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923693541764759876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923693541764759876",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923680683698028676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 但giffgaff不记名）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 649,
+          "like_count": 3210,
+          "listed_count": 6,
+          "media_count": 575,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "Sunlight @Meowneko_Mio & 最好的恋人@datadelete_4444 | 不配做EE/CS | 明日十時にホームで待ち合わせとかしよう@JR_YamanoteE235 | 姐姐@Shenyuebanran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Meowneko_Mio"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HongCha_Cattle…",
+                "end": 23,
+                "expanded_url": "http://t.me/HongCha_Cattleya",
+                "start": 0,
+                "url": "https://t.co/UGVRraa39D"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "location": "44怀里~",
+        "name": "紅茶",
+        "pinned_tweet_id": "1911557087337062870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618954126871924741/ZXkOdYhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1630,
+          "like_count": 33504,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 5191
+        },
+        "url": "https://t.co/UGVRraa39D",
+        "username": "Hongcha_Orchids",
+        "verified": false
+      }
+    ]
+  }
+}

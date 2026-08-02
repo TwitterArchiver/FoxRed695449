@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1881664216303902797",
+    "created_at": "2025-01-21T11:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T12:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881664216303902797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1881602589147689317",
+          "start": 34,
+          "url": "https://t.co/XgUXGJfnGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881664216303902797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881602589147689317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "消息更新：目前在ICU搶救，沒有生命危險\n就之前的錯誤信息表達抱歉 https://t.co/XgUXGJfnGc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1881664216303902797",
+        "created_at": "2025-01-21T11:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881664216303902797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1881602589147689317",
+              "start": 34,
+              "url": "https://t.co/XgUXGJfnGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881664216303902797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881602589147689317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "消息更新：目前在ICU搶救，沒有生命危險\n就之前的錯誤信息表達抱歉 https://t.co/XgUXGJfnGc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1881602589147689317",
+        "created_at": "2025-01-21T07:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:18:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881602212130156648",
+          "1881602589147689317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 2,
+              "username": "mcew_233"
+            },
+            {
+              "end": 28,
+              "id": "1811011225058430982",
+              "start": 14,
+              "username": "Shenyuebanran"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mcew_233/statu…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/mcew_233/status/1881592918848549102",
+              "start": 43,
+              "url": "https://t.co/u6aVlzMoaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881602589147689317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 742,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881592918848549102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根據@mcew_233消息\n@Shenyuebanran 疑似於上周6自殺身亡\n晚安 https://t.co/u6aVlzMoaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 422,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 706
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

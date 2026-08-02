@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039355058182406145",
+        "3_2039355059994238977"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2039339781965193464",
+    "created_at": "2026-04-01T14:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039355062817050789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666853395620298752",
+          "start": 0,
+          "username": "hikari0166"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaN0tZjOv3",
+          "end": 105,
+          "expanded_url": "https://x.com/FoxRed695449/status/2039355062817050789/photo/1",
+          "media_key": "3_2039355058182406145",
+          "start": 82,
+          "url": "https://t.co/NaN0tZjOv3"
+        },
+        {
+          "display_url": "pic.x.com/NaN0tZjOv3",
+          "end": 105,
+          "expanded_url": "https://x.com/FoxRed695449/status/2039355062817050789/photo/1",
+          "media_key": "3_2039355059994238977",
+          "start": 82,
+          "url": "https://t.co/NaN0tZjOv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039355062817050789",
+    "in_reply_to_user_id": "1666853395620298752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039339781965193464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari0166 看不懂字静音车厢这四个字可以重新学\n做不到静音可以把静音车厢撤了不宣传\n但给旅客宣传可以“不戴耳机睡觉”但又不落实自己定的政策不就该批评？ https://t.co/NaN0tZjOv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_2039355058182406145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0-ntXbwAEMYCs.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2016,
+        "media_key": "3_2039355059994238977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0-n0HaIAEs7dm.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039355058182406145",
+            "3_2039355059994238977"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2039339781965193464",
+        "created_at": "2026-04-01T14:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039355062817050789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666853395620298752",
+              "start": 0,
+              "username": "hikari0166"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaN0tZjOv3",
+              "end": 105,
+              "expanded_url": "https://x.com/FoxRed695449/status/2039355062817050789/photo/1",
+              "media_key": "3_2039355058182406145",
+              "start": 82,
+              "url": "https://t.co/NaN0tZjOv3"
+            },
+            {
+              "display_url": "pic.x.com/NaN0tZjOv3",
+              "end": 105,
+              "expanded_url": "https://x.com/FoxRed695449/status/2039355062817050789/photo/1",
+              "media_key": "3_2039355059994238977",
+              "start": 82,
+              "url": "https://t.co/NaN0tZjOv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039355062817050789",
+        "in_reply_to_user_id": "1666853395620298752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039339781965193464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari0166 看不懂字静音车厢这四个字可以重新学\n做不到静音可以把静音车厢撤了不宣传\n但给旅客宣传可以“不戴耳机睡觉”但又不落实自己定的政策不就该批评？ https://t.co/NaN0tZjOv3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666853395620298752",
+        "conversation_id": "2039339781965193464",
+        "created_at": "2026-04-01T13:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039339781965193464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2039262433290977684",
+              "start": 55,
+              "url": "https://t.co/qtsDf51GGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039339781965193464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039262433290977684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要舒适性加钱不就行了，再说了现在机票价格那么低你干嘛非要坐高铁？赔本搞出来这个票价你还怪国铁舔日本，活该被骂 https://t.co/qtsDf51GGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 817,
+          "like_count": 7267,
+          "listed_count": 7,
+          "media_count": 958,
+          "tweet_count": 3055
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-08T17:04:03.000Z",
+        "description": "期待讓愛比勇敢更驕傲，相信我們緊緊擁抱。",
+        "id": "1666853395620298752",
+        "name": "小林正英Little Lam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902242689770532864/OuzCnUIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 386,
+          "like_count": 3166,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1391
+        },
+        "username": "hikari0166",
+        "verified": false
+      }
+    ]
+  }
+}

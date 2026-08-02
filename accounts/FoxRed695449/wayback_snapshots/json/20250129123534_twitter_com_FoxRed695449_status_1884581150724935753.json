@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1884581150724935753",
+    "created_at": "2025-01-29T12:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T13:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884581150724935753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1719571122642161664",
+          "start": 3,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 29,
+          "id": "1817584080437014528",
+          "start": 22,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884581150724935753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884573492793745682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGeSang2008: 紧急通知：@N552AA 在上海市精神卫生中心住院，可能失联，请注意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1884581150724935753",
+        "created_at": "2025-01-29T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884581150724935753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1719571122642161664",
+              "start": 3,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 29,
+              "id": "1817584080437014528",
+              "start": 22,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884581150724935753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884573492793745682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGeSang2008: 紧急通知：@N552AA 在上海市精神卫生中心住院，可能失联，请注意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "1884573492793745682",
+        "created_at": "2025-01-29T12:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884573492793745682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817584080437014528",
+              "start": 5,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884573492793745682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知：@N552AA 在上海市精神卫生中心住院，可能失联，请注意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 432,
+          "like_count": 1299,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 746
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/90｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音｜姐姐 @Anan628769｜小号 @AGeCAT2008｜笨蛋妹妹 @N552AA｜狐狐@FoxRed695449 ｜欢迎找咱交朋友｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Anan628769"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "username": "N552AA"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "FoxRed695449"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 491,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "09/MTX（f?/ENTP-T/家长吓坏党/ADHD/10年级/HRT:2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n妹妹：@ranxi_mtf\n主人：@yumekaayumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bolichara0"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "ranxi_mtf"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "yumekaayumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1874706282789433484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861222486119211008/acVum9Tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 820,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

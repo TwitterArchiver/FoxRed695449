@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914569545513361408"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1914569552845045864",
+    "created_at": "2025-04-22T06:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T07:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914569552845045864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4PhSGn5cU",
+          "end": 42,
+          "expanded_url": "https://x.com/FoxRed695449/status/1914569552845045864/photo/1",
+          "media_key": "3_1914569545513361408",
+          "start": 19,
+          "url": "https://t.co/G4PhSGn5cU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914569552845045864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常好的外卡（？）優惠，讓我腦袋旋轉 https://t.co/G4PhSGn5cU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914569545513361408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHq25oa4AAM4sS.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914569545513361408"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1914569552845045864",
+        "created_at": "2025-04-22T06:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914569552845045864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4PhSGn5cU",
+              "end": 42,
+              "expanded_url": "https://x.com/FoxRed695449/status/1914569552845045864/photo/1",
+              "media_key": "3_1914569545513361408",
+              "start": 19,
+              "url": "https://t.co/G4PhSGn5cU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914569552845045864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好的外卡（？）優惠，讓我腦袋旋轉 https://t.co/G4PhSGn5cU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 619,
+          "like_count": 2895,
+          "listed_count": 6,
+          "media_count": 491,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

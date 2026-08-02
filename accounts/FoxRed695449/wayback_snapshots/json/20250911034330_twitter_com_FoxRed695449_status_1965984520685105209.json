@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965984514230071297"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1965943431483789333",
+    "created_at": "2025-09-11T03:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T04:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965984520685105209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926307161480568832",
+          "start": 0,
+          "username": "banzaixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNg5mLu4sz",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1965984520685105209/photo/1",
+          "media_key": "3_1965984514230071297",
+          "start": 52,
+          "url": "https://t.co/rNg5mLu4sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965984520685105209",
+    "in_reply_to_user_id": "1926307161480568832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965944140170203515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzaixyg 有沒有一種可能\n在AI前\n有個這軟件\n天天AI屬於蠢的沒救了\n越來越支持共產黨了 https://t.co/rNg5mLu4sz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_1965984514230071297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iUf9yaMAE2iJX.jpg",
+        "width": 241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965984514230071297"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1965943431483789333",
+        "created_at": "2025-09-11T03:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T04:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965984520685105209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926307161480568832",
+              "start": 0,
+              "username": "banzaixyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNg5mLu4sz",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1965984520685105209/photo/1",
+              "media_key": "3_1965984514230071297",
+              "start": 52,
+              "url": "https://t.co/rNg5mLu4sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965984520685105209",
+        "in_reply_to_user_id": "1926307161480568832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965944140170203515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzaixyg 有沒有一種可能\n在AI前\n有個這軟件\n天天AI屬於蠢的沒救了\n越來越支持共產黨了 https://t.co/rNg5mLu4sz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926307161480568832",
+        "conversation_id": "1965943431483789333",
+        "created_at": "2025-09-11T01:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T02:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965944140170203515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965944140170203515",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965943431483789333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 关注关注重点行不行，你见哪个ai图能给人脸上反光都生成出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 700,
+          "like_count": 4284,
+          "listed_count": 8,
+          "media_count": 767,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@yaiikawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477398863671296/NjWycX_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 364,
+          "like_count": 2488,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 825
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

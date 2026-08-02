@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006673822288883712"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2006585657406402750",
+    "created_at": "2026-01-01T10:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006673833768661475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "817932880605233152",
+          "start": 0,
+          "username": "AsiaFinance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oboKPoDuHH",
+          "end": 69,
+          "expanded_url": "https://x.com/FoxRed695449/status/2006673833768661475/photo/1",
+          "media_key": "3_2006673822288883712",
+          "start": 46,
+          "url": "https://t.co/oboKPoDuHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006673833768661475",
+    "in_reply_to_user_id": "817932880605233152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006585657406402750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsiaFinance 搞得像是香港以前医疗不收费一样😅\n虽然涨价是不好\n但造谣的更好笑 https://t.co/oboKPoDuHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2006673822288883712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kjNaWasAADDRP.jpg",
+        "width": 828
+      },
+      {
+        "duration_ms": 30311,
+        "height": 724,
+        "media_key": "13_2006434406370865152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006434406370865152/img/DW_KJ7aaCX5mYgdA.jpg",
+        "public_metrics": {
+          "view_count": 67418
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006434406370865152/vid/avc1/480x270/FBl5EWvh17FV_PDN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006434406370865152/vid/avc1/640x360/xAcls5DliiGg9QYz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006434406370865152/vid/avc1/1288x724/24cP-wufKq2YFtMA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006434406370865152/pl/HzuRjv0evE1VjFv_.m3u8?v=c98"
+          }
+        ],
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006673822288883712"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-01T10:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006673833768661475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "817932880605233152",
+              "start": 0,
+              "username": "AsiaFinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oboKPoDuHH",
+              "end": 69,
+              "expanded_url": "https://x.com/FoxRed695449/status/2006673833768661475/photo/1",
+              "media_key": "3_2006673822288883712",
+              "start": 46,
+              "url": "https://t.co/oboKPoDuHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006673833768661475",
+        "in_reply_to_user_id": "817932880605233152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006585657406402750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsiaFinance 搞得像是香港以前医疗不收费一样😅\n虽然涨价是不好\n但造谣的更好笑 https://t.co/oboKPoDuHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006434406370865152"
+          ],
+          "media_source_tweet_id": [
+            "2006434490558853239"
+          ]
+        },
+        "author_id": "817932880605233152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-01T04:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006585657406402750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHiCeIU6uH",
+              "end": 159,
+              "expanded_url": "https://x.com/GlobalMoney/status/2006434490558853239/video/1",
+              "media_key": "13_2006434406370865152",
+              "start": 136,
+              "url": "https://t.co/BHiCeIU6uH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006585657406402750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 114533,
+          "like_count": 289,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "香港。这是真的吗？退步这么快？2026年第一天开始，香港特区政府给市民送来大礼：要取消免费医疗了，改成每人最高负担1万港币。这政策出来大家怎么看？所有收费项目(自费药物除外)，设每年$10,000上限，超过部分可豁免。说是香港的公营医疗系统并未取消，而是进行了“优化”。\nhttps://t.co/BHiCeIU6uH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 724,
+          "like_count": 5475,
+          "listed_count": 7,
+          "media_count": 917,
+          "tweet_count": 2828
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-08T03:16:10.000Z",
+        "description": "亚洲金融：政经领域的有意思的事儿。\nAsiaFinance: For the Rich and Powerful.",
+        "id": "817932880605233152",
+        "location": "New York, USA",
+        "name": "亚洲金融 Asia Finance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581767238968905729/WA2-mkJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375940,
+          "following_count": 580,
+          "like_count": 22232,
+          "listed_count": 1851,
+          "media_count": 12541,
+          "tweet_count": 15351
+        },
+        "username": "AsiaFinance",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "1898284389143920985",
+    "created_at": "2025-03-08T08:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T09:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898293381396378010"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "netflix",
+          "probability": 0.9879,
+          "start": 16,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898293381396378010",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898293246469582925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 netflix"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1898284389143920985",
+        "created_at": "2025-03-08T08:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898293381396378010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "netflix",
+              "probability": 0.9879,
+              "start": 16,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898293381396378010",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898293246469582925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 netflix"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824428396258234368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1898284389143920985",
+        "created_at": "2025-03-08T08:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898293246469582925"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "YouTube",
+              "probability": 0.9869,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898293246469582925",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898293113460019278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 YouTube?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 548,
+          "like_count": 2275,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{TAKAO}(E486) 🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897641760463175680/GJVWm4lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 515,
+          "like_count": 43133,
+          "listed_count": 3,
+          "media_count": 1601,
+          "tweet_count": 5370
+        },
+        "username": "wingsing355236",
+        "verified": false
+      }
+    ]
+  }
+}

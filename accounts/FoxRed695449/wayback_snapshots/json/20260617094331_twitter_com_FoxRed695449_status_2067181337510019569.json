@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2067093313845702973",
+    "created_at": "2026-06-17T09:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067181337510019569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919622935096262657",
+          "start": 0,
+          "username": "readystar888"
+        },
+        {
+          "end": 30,
+          "id": "1614421186334851075",
+          "start": 14,
+          "username": "HoneyWhiteCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067181337510019569",
+    "in_reply_to_user_id": "1919622935096262657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067135616710807753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@readystar888 @HoneyWhiteCloud 中信的非中国大陆居民肯定没法用因为没法购汇\n另外两个如果是走行内购汇不是万事达换的话应该也不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2067093313845702973",
+        "created_at": "2026-06-17T09:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067181337510019569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919622935096262657",
+              "start": 0,
+              "username": "readystar888"
+            },
+            {
+              "end": 30,
+              "id": "1614421186334851075",
+              "start": 14,
+              "username": "HoneyWhiteCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067181337510019569",
+        "in_reply_to_user_id": "1919622935096262657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067135616710807753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@readystar888 @HoneyWhiteCloud 中信的非中国大陆居民肯定没法用因为没法购汇\n另外两个如果是走行内购汇不是万事达换的话应该也不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919622935096262657",
+        "conversation_id": "2067093313845702973",
+        "created_at": "2026-06-17T06:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067135616710807753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614421186334851075",
+              "start": 0,
+              "username": "HoneyWhiteCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067135616710807753",
+        "in_reply_to_user_id": "1614421186334851075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067093313845702973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoneyWhiteCloud 中信，广发，兴业都有外币借记卡业务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 843,
+          "like_count": 8148,
+          "listed_count": 6,
+          "media_count": 1053,
+          "tweet_count": 3376
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T05:19:47.000Z",
+        "description": "爱好信用卡，户外，美食",
+        "id": "1919622935096262657",
+        "name": "瑞迪星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043869091543293952/koBZf-R9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 47,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 108
+        },
+        "username": "readystar888",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T00:36:43.000Z",
+        "description": "From台灣新北🇹🇼 | 上海讀書📖 | Furry | IT/Hardware/AI👨‍💻/Photographer📷 | 現居蘇州 | 私信🆗 | 🔜TKU人工智慧 | 裡推：@cloudbackside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "cloudbackside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywhite.cloud",
+                "end": 23,
+                "expanded_url": "http://www.honeywhite.cloud",
+                "start": 0,
+                "url": "https://t.co/lMq73qdn9N"
+              }
+            ]
+          }
+        },
+        "id": "1614421186334851075",
+        "location": "Suzhou ↔️ New Taipei",
+        "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙｜🌈⛅️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999008985089978369/HM_dxqhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1424,
+          "like_count": 97743,
+          "listed_count": 2,
+          "media_count": 1947,
+          "tweet_count": 13633
+        },
+        "url": "https://t.co/lMq73qdn9N",
+        "username": "HoneyWhiteCloud",
+        "verified": false
+      }
+    ]
+  }
+}

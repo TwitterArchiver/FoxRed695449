@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987205964345585664"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1987066630648832230",
+    "created_at": "2025-11-08T17:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987205977415045584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 25,
+          "id": "1483389334569029632",
+          "start": 10,
+          "username": "londonstreeter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BvH6bJonGP",
+          "end": 64,
+          "expanded_url": "https://x.com/FoxRed695449/status/1987205977415045584/photo/1",
+          "media_key": "3_1987205964345585664",
+          "start": 41,
+          "url": "https://t.co/BvH6bJonGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987205977415045584",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987199029210718277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @londonstreeter 问题是美区商店不适应中国法律 https://t.co/BvH6bJonGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_1987205964345585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5P5S8BbMAAwVqY.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987205964345585664"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1987066630648832230",
+        "created_at": "2025-11-08T17:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987205977415045584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 25,
+              "id": "1483389334569029632",
+              "start": 10,
+              "username": "londonstreeter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvH6bJonGP",
+              "end": 64,
+              "expanded_url": "https://x.com/FoxRed695449/status/1987205977415045584/photo/1",
+              "media_key": "3_1987205964345585664",
+              "start": 41,
+              "url": "https://t.co/BvH6bJonGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987205977415045584",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987199029210718277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @londonstreeter 问题是美区商店不适应中国法律 https://t.co/BvH6bJonGP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "1987066630648832230",
+        "created_at": "2025-11-08T16:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987199029210718277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1483389334569029632",
+              "start": 0,
+              "username": "londonstreeter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987199029210718277",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987197189727355007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@londonstreeter 简而言之，如果一个过去官网一直卖1000的东西，突然只卖200，是可以取消你的买卖合同的，依据的是合同法而不是用户条款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 679,
+          "like_count": 4766,
+          "listed_count": 7,
+          "media_count": 871,
+          "tweet_count": 2623
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 716,
+          "like_count": 49563,
+          "listed_count": 7,
+          "media_count": 1016,
+          "tweet_count": 12296
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T10:42:37.000Z",
+        "description": "",
+        "id": "1483389334569029632",
+        "location": "London, Uk",
+        "name": "伦敦街友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978307090650193920/Mq8nczit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 158,
+          "like_count": 634,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 731
+        },
+        "username": "londonstreeter",
+        "verified": false
+      }
+    ]
+  }
+}

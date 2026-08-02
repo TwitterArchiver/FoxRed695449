@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959116273079787520"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1958801342807343306",
+    "created_at": "2025-08-23T04:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959116279920697582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1324778451946020865",
+          "start": 0,
+          "username": "beastere_susu"
+        },
+        {
+          "end": 27,
+          "id": "1899994603560067077",
+          "start": 15,
+          "username": "Dzzwish7188"
+        },
+        {
+          "end": 42,
+          "id": "1948316478832549888",
+          "start": 28,
+          "username": "Estrellat0724"
+        },
+        {
+          "end": 54,
+          "id": "791197",
+          "start": 43,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DvkQhYvBxs",
+          "end": 78,
+          "expanded_url": "https://x.com/FoxRed695449/status/1959116279920697582/photo/1",
+          "media_key": "3_1959116273079787520",
+          "start": 55,
+          "url": "https://t.co/DvkQhYvBxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959116279920697582",
+    "in_reply_to_user_id": "1324778451946020865",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959090857333948572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beastere_susu @Dzzwish7188 @Estrellat0724 @bbcchinese https://t.co/DvkQhYvBxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_1959116273079787520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzAt3tqboAATTGu.jpg",
+        "width": 637
+      },
+      {
+        "height": 534,
+        "media_key": "3_1959090854477668354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzAWwJ_boAID2eN.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959116273079787520"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1958801342807343306",
+        "created_at": "2025-08-23T04:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959116279920697582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324778451946020865",
+              "start": 0,
+              "username": "beastere_susu"
+            },
+            {
+              "end": 27,
+              "id": "1899994603560067077",
+              "start": 15,
+              "username": "Dzzwish7188"
+            },
+            {
+              "end": 42,
+              "id": "1948316478832549888",
+              "start": 28,
+              "username": "Estrellat0724"
+            },
+            {
+              "end": 54,
+              "id": "791197",
+              "start": 43,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvkQhYvBxs",
+              "end": 78,
+              "expanded_url": "https://x.com/FoxRed695449/status/1959116279920697582/photo/1",
+              "media_key": "3_1959116273079787520",
+              "start": 55,
+              "url": "https://t.co/DvkQhYvBxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959116279920697582",
+        "in_reply_to_user_id": "1324778451946020865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959090857333948572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beastere_susu @Dzzwish7188 @Estrellat0724 @bbcchinese https://t.co/DvkQhYvBxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959090854477668354"
+          ]
+        },
+        "author_id": "1324778451946020865",
+        "conversation_id": "1958801342807343306",
+        "created_at": "2025-08-23T03:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T04:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959090857333948572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899994603560067077",
+              "start": 0,
+              "username": "Dzzwish7188"
+            },
+            {
+              "end": 27,
+              "id": "1948316478832549888",
+              "start": 13,
+              "username": "Estrellat0724"
+            },
+            {
+              "end": 41,
+              "id": "1781308864438345728",
+              "start": 28,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 53,
+              "id": "791197",
+              "start": 42,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMzpMzgd69",
+              "end": 101,
+              "expanded_url": "https://x.com/beastere_susu/status/1959090857333948572/photo/1",
+              "media_key": "3_1959090854477668354",
+              "start": 78,
+              "url": "https://t.co/tMzpMzgd69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959090857333948572",
+        "in_reply_to_user_id": "1899994603560067077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958885145228059046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dzzwish7188 @Estrellat0724 @FoxRed695449 @bbcchinese 看到“特朗普拨乱反正”的那一刻我大脑萎缩了一下 https://t.co/tMzpMzgd69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 697,
+          "like_count": 4152,
+          "listed_count": 7,
+          "media_count": 701,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T18:19:39.000Z",
+        "description": "出厂日期2005.8.10／💛🤍💜🖤&泛性恋/应该算是mtx（？）hrt进行中/brony🐴/不建政🤗／小男友😘：@HongYu20960／好妈咪🥰：@wwl15956a／戒酒中🚫🍺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "HongYu20960"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "wwl15956a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/beastere_susu/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/beastere_susu/",
+                "start": 0,
+                "url": "https://t.co/kq1oTlnzDY"
+              }
+            ]
+          }
+        },
+        "id": "1324778451946020865",
+        "location": "山的东边",
+        "name": "star小悦੭ ᐕ)੭",
+        "pinned_tweet_id": "1952435207967031300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939368965400371200/td7PunZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 238,
+          "like_count": 14458,
+          "listed_count": 5,
+          "media_count": 835,
+          "tweet_count": 5657
+        },
+        "url": "https://t.co/kq1oTlnzDY",
+        "username": "beastere_susu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T01:23:25.000Z",
+        "description": "",
+        "id": "1899994603560067077",
+        "name": "one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899998372615876608/HsVSewEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 29,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 272
+        },
+        "username": "Dzzwish7188",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T09:37:13.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜平权主义✊｜民族平等🫱🏼‍🫲🏿｜知识公有化🏴‍☠️",
+        "id": "1948316478832549888",
+        "name": "☭辉夜🚩🇵🇸🇺🇦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957762252838432769/7idfDNfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 679,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1124
+        },
+        "username": "Estrellat0724",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5090407,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11810,
+          "media_count": 23758,
+          "tweet_count": 153522
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

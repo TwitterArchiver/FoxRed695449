@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1938843196550979609",
+    "created_at": "2025-06-28T06:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938850569009143978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1481529350474579972",
+          "start": 0,
+          "username": "Qinuo_Kino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938850569009143978",
+    "in_reply_to_user_id": "1481529350474579972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 205,
+      "like_count": 1,
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938847480063631365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinuo_Kino 杭州和杭州東都分不清\n字讀不明白建議回小學重讀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_1938847474841501696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugrgYOXQAAQ4o1.jpg",
+        "width": 1260
+      },
+      {
+        "height": 304,
+        "media_key": "3_1938847474120282112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugrgViaUAAo_SW.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938847475860717568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugrgcBXQAA8e-i.jpg",
+        "width": 1088
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938847476720553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugrgfOXUAAG0Q2.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1938843196550979609",
+        "created_at": "2025-06-28T06:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938850569009143978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1481529350474579972",
+              "start": 0,
+              "username": "Qinuo_Kino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938850569009143978",
+        "in_reply_to_user_id": "1481529350474579972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938847480063631365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinuo_Kino 杭州和杭州東都分不清\n字讀不明白建議回小學重讀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938847474841501696",
+            "3_1938847474120282112",
+            "3_1938847475860717568",
+            "3_1938847476720553984"
+          ]
+        },
+        "author_id": "1481529350474579972",
+        "conversation_id": "1938843196550979609",
+        "created_at": "2025-06-28T06:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938847480063631365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqd3aO36zB",
+              "end": 42,
+              "expanded_url": "https://x.com/Qinuo_Kino/status/1938847480063631365/photo/1",
+              "media_key": "3_1938847474841501696",
+              "start": 19,
+              "url": "https://t.co/bqd3aO36zB"
+            },
+            {
+              "display_url": "pic.x.com/bqd3aO36zB",
+              "end": 42,
+              "expanded_url": "https://x.com/Qinuo_Kino/status/1938847480063631365/photo/1",
+              "media_key": "3_1938847474120282112",
+              "start": 19,
+              "url": "https://t.co/bqd3aO36zB"
+            },
+            {
+              "display_url": "pic.x.com/bqd3aO36zB",
+              "end": 42,
+              "expanded_url": "https://x.com/Qinuo_Kino/status/1938847480063631365/photo/1",
+              "media_key": "3_1938847475860717568",
+              "start": 19,
+              "url": "https://t.co/bqd3aO36zB"
+            },
+            {
+              "display_url": "pic.x.com/bqd3aO36zB",
+              "end": 42,
+              "expanded_url": "https://x.com/Qinuo_Kino/status/1938847480063631365/photo/1",
+              "media_key": "3_1938847476720553984",
+              "start": 19,
+              "url": "https://t.co/bqd3aO36zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938847480063631365",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938845608267391258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 喜欢比？ https://t.co/bqd3aO36zB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 670,
+          "like_count": 3644,
+          "listed_count": 7,
+          "media_count": 493,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-13T07:35:45.000Z",
+        "description": "▏🗿乐子神：归来🎭​（掉fo版）丨👉你说你不是哈基米🐱我也不是哈基米🐱\n『🎭​』",
+        "id": "1481529350474579972",
+        "location": "人間",
+        "name": "奇诺_Kino",
+        "pinned_tweet_id": "1882907573579592165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881248178298867712/GDCYtubb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 599,
+          "like_count": 131278,
+          "listed_count": 6,
+          "media_count": 1063,
+          "tweet_count": 10325
+        },
+        "username": "Qinuo_Kino",
+        "verified": false
+      }
+    ]
+  }
+}

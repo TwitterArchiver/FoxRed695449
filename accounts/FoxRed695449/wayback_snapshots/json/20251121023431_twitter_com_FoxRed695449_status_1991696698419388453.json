@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1987174737316094468",
+    "created_at": "2025-11-21T02:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T03:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991696698419388453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826871427972362240",
+          "start": 0,
+          "username": "misaka__network"
+        },
+        {
+          "end": 33,
+          "id": "1856322437144817667",
+          "start": 17,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991696698419388453",
+    "in_reply_to_user_id": "1826871427972362240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991680076187070944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka__network @ChosekiNoraneko 我记得他家能用香港的数转快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1987174737316094468",
+        "created_at": "2025-11-21T02:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T03:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991696698419388453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826871427972362240",
+              "start": 0,
+              "username": "misaka__network"
+            },
+            {
+              "end": 33,
+              "id": "1856322437144817667",
+              "start": 17,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991696698419388453",
+        "in_reply_to_user_id": "1826871427972362240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991680076187070944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka__network @ChosekiNoraneko 我记得他家能用香港的数转快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826871427972362240",
+        "conversation_id": "1987174737316094468",
+        "created_at": "2025-11-21T01:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991680076187070944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856322437144817667",
+              "start": 0,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991680076187070944",
+        "in_reply_to_user_id": "1856322437144817667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987174737316094468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChosekiNoraneko 你好喵 可以用美元或者其他非人民币元付款吗👀😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 687,
+          "like_count": 4884,
+          "listed_count": 7,
+          "media_count": 887,
+          "tweet_count": 2701
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's; 1997-05-02 – 2026-08-09; Dearest sister Misaka Mikoto and partner Yiur Mitaner. No R-18 content allowed 😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                "start": 0,
+                "url": "https://t.co/cDAtzx6l4u"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "学園都市(Academy City)",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥😢",
+        "pinned_tweet_id": "1953024683160551754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 841,
+          "like_count": 47058,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 17415
+        },
+        "url": "https://t.co/cDAtzx6l4u",
+        "username": "misaka__network",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "Choseki Pharmacy的官方賬號，售卖正规进口药品，EN/JP/CN三語客服，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wHxMr或推特私信下单！ 可邮寄全球220國 工作时间12PM-25PM，请隨時留言，下单采取留言制，不定时回复见谅，未成年勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 94,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 71,
+                "url": "https://t.co/Re1C3wHxMr"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Singapore",
+        "name": "Choseki Pharmacy（泰补色诺HRT",
+        "pinned_tweet_id": "1987174737316094468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983515505492467712/aSgVpP5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 32,
+          "like_count": 131,
+          "listed_count": 9,
+          "media_count": 11,
+          "tweet_count": 172
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

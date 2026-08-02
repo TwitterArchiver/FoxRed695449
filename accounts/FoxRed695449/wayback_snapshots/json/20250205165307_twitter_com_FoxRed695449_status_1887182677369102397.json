@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1887169355634610400",
+    "created_at": "2025-02-05T16:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887182677369102397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771507250080948224",
+          "start": 0,
+          "username": "XizxRich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887182677369102397",
+    "in_reply_to_user_id": "1771507250080948224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887169355634610400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XizxRich8964 生日快樂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887169355634610400",
+        "created_at": "2025-02-05T16:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887182677369102397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771507250080948224",
+              "start": 0,
+              "username": "XizxRich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887182677369102397",
+        "in_reply_to_user_id": "1771507250080948224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887169355634610400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XizxRich8964 生日快樂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887169334054879232"
+          ]
+        },
+        "author_id": "1771507250080948224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1887169355634610400",
+        "created_at": "2025-02-05T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887169355634610400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfV05FFLe6",
+              "end": 101,
+              "expanded_url": "https://x.com/XizxRich8964/status/1887169355634610400/photo/1",
+              "media_key": "3_1887169334054879232",
+              "start": 78,
+              "url": "https://t.co/KfV05FFLe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887169355634610400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "祝我成年快樂٩(๑^o^๑)۶\n腫胸也❤️每一個支持我的朋友🥺\n今天沒有晚安安，但希望每一個路過的人都可以祝我生日快樂🎂\n（這算是我來推特的第一個生日😭） https://t.co/KfV05FFLe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 462,
+          "like_count": 1380,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 919
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-23T12:00:25.000Z",
+        "description": "僕は世界を理解することに情熱を燃やし、健全な人格を持ち、自由意志を追求する人間だ🇹🇼🇺🇦フォロバは基本100%/#ウマ娘/#ガンダム/#ZARD/#MyGo/#トゲナシトゲアリ/日本のポップ/ロック/尊重LGBTQor意識形態/不反共/念江胡/天安門事件/無言フォロー失礼します🙇/🎸エレキギターを練習中です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "ZARD"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "MyGo"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xizhongxunrich…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/xizhongxunrich78?igsh=cGNwN3p1cXVzMWpo",
+                "start": 0,
+                "url": "https://t.co/Uy5guMGyQh"
+              }
+            ]
+          }
+        },
+        "id": "1771507250080948224",
+        "location": "トレセン学園",
+        "name": "🎤腫勋の转世灵童🐴🎸",
+        "pinned_tweet_id": "1832280227806113946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872698804501397508/DPT-y5NA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 3066,
+          "like_count": 61464,
+          "listed_count": 15,
+          "media_count": 2642,
+          "tweet_count": 26481
+        },
+        "url": "https://t.co/Uy5guMGyQh",
+        "username": "XizxRich8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869653553327054848"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1869388806857838811",
+    "created_at": "2024-12-19T07:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T08:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869653560142762413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/av8KYn5hqn",
+          "end": 55,
+          "expanded_url": "https://x.com/FoxRed695449/status/1869653560142762413/photo/1",
+          "media_key": "3_1869653553327054848",
+          "start": 32,
+          "url": "https://t.co/av8KYn5hqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869653560142762413",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869388806857838811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui 47122/12\n确实是3000多 https://t.co/av8KYn5hqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_1869653553327054848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfJYADsbIAAqRQW.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869653553327054848"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1869388806857838811",
+        "created_at": "2024-12-19T07:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T08:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869653560142762413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/av8KYn5hqn",
+              "end": 55,
+              "expanded_url": "https://x.com/FoxRed695449/status/1869653560142762413/photo/1",
+              "media_key": "3_1869653553327054848",
+              "start": 32,
+              "url": "https://t.co/av8KYn5hqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869653560142762413",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869388806857838811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 47122/12\n确实是3000多 https://t.co/av8KYn5hqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869388804366483456"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "1869388806857838811",
+        "created_at": "2024-12-18T14:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869388806857838811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoTtyUxsIO",
+              "end": 75,
+              "expanded_url": "https://x.com/liuguangchui/status/1869388806857838811/photo/1",
+              "media_key": "3_1869388804366483456",
+              "start": 52,
+              "url": "https://t.co/hoTtyUxsIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869388806857838811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 125727,
+          "like_count": 211,
+          "quote_count": 3,
+          "reply_count": 139,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你们不要笑，\n你们不要惊讶\n你们不要奇怪，\n这就是现在台湾中学生被民进党洗脑的结果，他们真的就相信啊， https://t.co/hoTtyUxsIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 373,
+          "like_count": 963,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 469
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "先了解“零敲牛皮糖”“597.9”什麼意思！\n再了解什么是：中国式现代化Chinese path to modernization\n坚决拥护支持：习近平新时代中国特色社会主义思想\n没转发过我推文的不互关！\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "pinned_tweet_id": "1869338854920270138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869438482009174016/vD-V8yiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19793,
+          "following_count": 1240,
+          "like_count": 28834,
+          "listed_count": 94,
+          "media_count": 5418,
+          "tweet_count": 24976
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

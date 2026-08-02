@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1888953415642063311",
+    "created_at": "2025-02-10T14:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T15:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888954542177538328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697955190044061696",
+          "start": 0,
+          "username": "aurora100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888954542177538328",
+    "in_reply_to_user_id": "1697955190044061696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888953415642063311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurora100204 生日快樂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1888953415642063311",
+        "created_at": "2025-02-10T14:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888954542177538328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697955190044061696",
+              "start": 0,
+              "username": "aurora100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888954542177538328",
+        "in_reply_to_user_id": "1697955190044061696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888953415642063311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurora100204 生日快樂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888953404233494528"
+          ]
+        },
+        "author_id": "1697955190044061696",
+        "conversation_id": "1888953415642063311",
+        "created_at": "2025-02-10T14:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T15:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888953415642063311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7xqaZB3KO",
+              "end": 30,
+              "expanded_url": "https://x.com/aurora100204/status/1888953415642063311/photo/1",
+              "media_key": "3_1888953404233494528",
+              "start": 7,
+              "url": "https://t.co/J7xqaZB3KO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0039bc7a30aaa885"
+        },
+        "id": "1888953415642063311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來發個氣球吧 https://t.co/J7xqaZB3KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 474,
+          "like_count": 1502,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 993
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T12:51:01.000Z",
+        "description": "04’/大家桉桉~一顆有甜味的檸檬🍋/#MTF🏳️‍⚧️ /雙聲類👧🏻🧒🏻/🍥23.12.13/RLE 24.02.22/ 178 59 / #新竹 / #台中 /#INFJ-T/抖內私信比較快回111018334628 linebank 824 /再次強調“不約色”/Paypal在個人網站",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "MTF"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "新竹"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "台中"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "INFJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/aurora0210",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/aurora0210",
+                "start": 0,
+                "url": "https://t.co/ETXTtz4zs4"
+              }
+            ]
+          }
+        },
+        "id": "1697955190044061696",
+        "location": "台中市, 台灣",
+        "name": "檸檬桉果🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798381960559255552/3prJn46Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10545,
+          "following_count": 493,
+          "like_count": 4898,
+          "listed_count": 18,
+          "media_count": 374,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/ETXTtz4zs4",
+        "username": "aurora100204",
+        "verified": true
+      }
+    ]
+  }
+}

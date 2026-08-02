@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017929271311015937"
+      ],
+      "media_source_tweet_id": [
+        "2017930290824724976"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020028008149745846",
+    "created_at": "2026-02-07T06:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020028008149745846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1433823355413549056",
+          "start": 3,
+          "username": "FRIEREN_PR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hizd0OsiEO",
+          "end": 46,
+          "expanded_url": "https://x.com/Anime_Frieren/status/2017930290824724976/video/1",
+          "media_key": "13_2017929271311015937",
+          "start": 23,
+          "url": "https://t.co/hizd0OsiEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020028008149745846",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23567
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019290432916885900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FRIEREN_PR: フキーゲン\n https://t.co/hizd0OsiEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24941,
+        "height": 720,
+        "media_key": "13_2017929271311015937",
+        "preview_image_url": "https://pbs.twimg.com/media/HAEgObYbUAAGAmQ.jpg",
+        "public_metrics": {
+          "view_count": 4016212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017929271311015937/vid/avc1/1280x720/k3LG1pIavQva2EAL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017929271311015937/pl/Hvvghr3MV_y4oP3m.m3u8?v=3ee"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017929271311015937/vid/avc1/1920x1080/UaGIWTNkEm7KFOgR.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017929271311015937/vid/avc1/480x270/0XaahA6qwe4ucmJv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017929271311015937/vid/avc1/640x360/Z7o5ZeKns0qmh45V.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017929271311015937"
+          ],
+          "media_source_tweet_id": [
+            "2017930290824724976"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020028008149745846",
+        "created_at": "2026-02-07T06:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020028008149745846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1433823355413549056",
+              "start": 3,
+              "username": "FRIEREN_PR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hizd0OsiEO",
+              "end": 46,
+              "expanded_url": "https://x.com/Anime_Frieren/status/2017930290824724976/video/1",
+              "media_key": "13_2017929271311015937",
+              "start": 23,
+              "url": "https://t.co/hizd0OsiEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020028008149745846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23567
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019290432916885900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FRIEREN_PR: フキーゲン\n https://t.co/hizd0OsiEO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017929271311015937"
+          ],
+          "media_source_tweet_id": [
+            "2017930290824724976"
+          ]
+        },
+        "author_id": "1433823355413549056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019290432916885900",
+        "created_at": "2026-02-05T06:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T07:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019290432916885900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hizd0OsiEO",
+              "end": 30,
+              "expanded_url": "https://x.com/Anime_Frieren/status/2017930290824724976/video/1",
+              "media_key": "13_2017929271311015937",
+              "start": 7,
+              "url": "https://t.co/hizd0OsiEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019290432916885900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17885,
+          "impression_count": 8143499,
+          "like_count": 168664,
+          "quote_count": 1061,
+          "reply_count": 508,
+          "retweet_count": 23567
+        },
+        "reply_settings": "everyone",
+        "text": "フキーゲン\n https://t.co/hizd0OsiEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 756,
+          "like_count": 6124,
+          "listed_count": 7,
+          "media_count": 932,
+          "tweet_count": 2905
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T16:05:26.000Z",
+        "description": "週刊少年サンデー連載中『葬送のフリーレン』（原作：山田鐘人／作画：アベツカサ）の原作公式アカウントです。更新情報などを編集部員がつぶやきます。第15巻・特装版・前奏2・人狼・ぬり絵発売中！アニメ第2期放送中。【アニメ公式】→@Anime_Frieren【ファンアートタグ】→#フリーレンFA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "フリーレンFA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Anime_Frieren"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunday-webry.com/detail.php?tit…",
+                "end": 23,
+                "expanded_url": "https://www.sunday-webry.com/detail.php?title_id=1093",
+                "start": 0,
+                "url": "https://t.co/JlxhhN3rhY"
+              }
+            ]
+          }
+        },
+        "id": "1433823355413549056",
+        "location": "帝国領 帝都アイスベルク",
+        "name": "『葬送のフリーレン』公式",
+        "pinned_tweet_id": "2019969365005992028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736369630871203840/mFFVkd8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426099,
+          "following_count": 69,
+          "like_count": 1245,
+          "listed_count": 2372,
+          "media_count": 2088,
+          "tweet_count": 3692
+        },
+        "url": "https://t.co/JlxhhN3rhY",
+        "username": "FRIEREN_PR",
+        "verified": true
+      }
+    ]
+  }
+}

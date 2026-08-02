@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956612933330346468",
+    "created_at": "2025-08-16T14:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956727580272492794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724833179251691520",
+          "start": 0,
+          "username": "Campbell431570"
+        },
+        {
+          "end": 24,
+          "id": "1585915076027944960",
+          "start": 16,
+          "username": "CyderAU"
+        },
+        {
+          "end": 38,
+          "id": "1622255626066731010",
+          "start": 25,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956727580272492794",
+    "in_reply_to_user_id": "1724833179251691520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956725035097567550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Campbell431570 @CyderAU @SagerRgyalpo 沒關係呀，那快點用你高級的學校郵箱發我呀\n怎麼了，不會又是大學都沒讀過吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956612933330346468",
+        "created_at": "2025-08-16T14:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956727580272492794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724833179251691520",
+              "start": 0,
+              "username": "Campbell431570"
+            },
+            {
+              "end": 24,
+              "id": "1585915076027944960",
+              "start": 16,
+              "username": "CyderAU"
+            },
+            {
+              "end": 38,
+              "id": "1622255626066731010",
+              "start": 25,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956727580272492794",
+        "in_reply_to_user_id": "1724833179251691520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956725035097567550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Campbell431570 @CyderAU @SagerRgyalpo 沒關係呀，那快點用你高級的學校郵箱發我呀\n怎麼了，不會又是大學都沒讀過吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724833179251691520",
+        "conversation_id": "1956612933330346468",
+        "created_at": "2025-08-16T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956725035097567550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 22,
+              "id": "1585915076027944960",
+              "start": 14,
+              "username": "CyderAU"
+            },
+            {
+              "end": 36,
+              "id": "1622255626066731010",
+              "start": 23,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956725035097567550",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956721093412331588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @CyderAU @SagerRgyalpo 太低级了吧low货，嘲讽别人交不起学费这是在嘲讽什么？炫耀自己有几十万糟蹋父母钱去买学位？是你自己赚的吗？而且就是个港科大不知道在装什么，让别人发电邮到你邮箱更是幼稚低级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 688,
+          "like_count": 3967,
+          "listed_count": 7,
+          "media_count": 638,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T16:54:24.000Z",
+        "description": "武汉男大",
+        "id": "1724833179251691520",
+        "name": "Campbell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838631881689960448/kB7DCgA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 121,
+          "like_count": 430,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 28
+        },
+        "username": "Campbell431570",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T08:43:32.000Z",
+        "description": "",
+        "id": "1585915076027944960",
+        "location": "Melbourne, Victoria",
+        "name": "Cyder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934207379438284800/RhMpk-o0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 10,
+          "like_count": 2761,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1321
+        },
+        "username": "CyderAU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "X女男平等话题不知名博主，我们的口号：“打倒‘男性原罪论’！”（欢迎私信投稿！）TG群组：https://t.co/7QZ8yOBK4d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+l7zlJgkm_0g2N…",
+                "end": 68,
+                "expanded_url": "https://t.me/+l7zlJgkm_0g2NDM1",
+                "start": 45,
+                "url": "https://t.co/7QZ8yOBK4d"
+              }
+            ]
+          }
+        },
+        "id": "1622255626066731010",
+        "location": "Adelaide, South Australia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "1947220742564888652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799019346704080896/RyOiFbUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 225,
+          "like_count": 520,
+          "listed_count": 10,
+          "media_count": 577,
+          "tweet_count": 2025
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

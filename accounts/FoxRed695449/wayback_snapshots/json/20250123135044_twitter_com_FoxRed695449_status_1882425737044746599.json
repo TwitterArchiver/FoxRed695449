@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1882425737044746599",
+    "created_at": "2025-01-23T13:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T14:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882425737044746599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1882375271103553671",
+          "start": 58,
+          "url": "https://t.co/6b7wbuf7Lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882425737044746599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882375271103553671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草\n我現在想讀的是中文大學的社會科學（社會工作）\n然後現在中學選了心理\n社工啊社工，我以後能在香港找到工作嗎... https://t.co/6b7wbuf7Lc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1882425737044746599",
+        "created_at": "2025-01-23T13:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T14:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882425737044746599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1882375271103553671",
+              "start": 58,
+              "url": "https://t.co/6b7wbuf7Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882425737044746599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882375271103553671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草\n我現在想讀的是中文大學的社會科學（社會工作）\n然後現在中學選了心理\n社工啊社工，我以後能在香港找到工作嗎... https://t.co/6b7wbuf7Lc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882375239960530944",
+            "3_1882375239952142336",
+            "3_1882375239968968704",
+            "3_1882375239964708864"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1882375271103553671",
+        "created_at": "2025-01-23T10:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T11:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882375271103553671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtfBylt4dq",
+              "end": 139,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1882375271103553671/photo/1",
+              "media_key": "3_1882375239960530944",
+              "start": 116,
+              "url": "https://t.co/LtfBylt4dq"
+            },
+            {
+              "display_url": "pic.x.com/LtfBylt4dq",
+              "end": 139,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1882375271103553671/photo/1",
+              "media_key": "3_1882375239952142336",
+              "start": 116,
+              "url": "https://t.co/LtfBylt4dq"
+            },
+            {
+              "display_url": "pic.x.com/LtfBylt4dq",
+              "end": 139,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1882375271103553671/photo/1",
+              "media_key": "3_1882375239968968704",
+              "start": 116,
+              "url": "https://t.co/LtfBylt4dq"
+            },
+            {
+              "display_url": "pic.x.com/LtfBylt4dq",
+              "end": 139,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1882375271103553671/photo/1",
+              "media_key": "3_1882375239964708864",
+              "start": 116,
+              "url": "https://t.co/LtfBylt4dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882375271103553671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11512,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "反正看得越多，越觉得，“来得早不如来得巧”。\n\n计算机在2010年左右，还曾一度是“教育部就业红牌专业”。\n\n世界上的事情，就是这么一波一波又一波。单纯强调“努力”的人，就像在搞笑一样。。。最终都将意识到，最重要的，还是看命看运。 https://t.co/LtfBylt4dq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 423,
+          "like_count": 1275,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 721
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25953,
+          "following_count": 3332,
+          "like_count": 130162,
+          "listed_count": 78,
+          "media_count": 2992,
+          "tweet_count": 48196
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

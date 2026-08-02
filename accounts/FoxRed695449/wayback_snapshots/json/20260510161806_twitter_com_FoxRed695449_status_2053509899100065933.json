@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2053509899100065933",
+    "created_at": "2026-05-10T16:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053509899100065933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "20794084",
+          "start": 0,
+          "username": "PearsonEdexcel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053509899100065933",
+    "in_reply_to_user_id": "20794084",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "20794084",
+            "start": 0,
+            "username": "PearsonEdexcel"
+          }
+        ]
+      },
+      "text": "@PearsonEdexcel Hello Pearson. I would like to inquire about the IAL examination papers that end with an 'A' suffix, such as WPH11/01A. For the May/June 2026 and January 2026 examination series, which countries or regions are these papers supplied to? Are they provided exclusively to mainland China, or are they also administered in certain other countries and regions within the Asia-Pacific area?\nFurthermore, how does Pearson strive to ensure fairness among candidates who are taking different versions of the examination papers?"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "@PearsonEdexcel Hello Pearson. I would like to inquire about the IAL examination papers that end with an 'A' suffix, such as WPH11/01A. For the May/June 2026 and January 2026 examination series, which countries or regions are these papers supplied to? Are they provided"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2053509899100065933",
+        "created_at": "2026-05-10T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053509899100065933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "20794084",
+              "start": 0,
+              "username": "PearsonEdexcel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053509899100065933",
+        "in_reply_to_user_id": "20794084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 15,
+                "id": "20794084",
+                "start": 0,
+                "username": "PearsonEdexcel"
+              }
+            ]
+          },
+          "text": "@PearsonEdexcel Hello Pearson. I would like to inquire about the IAL examination papers that end with an 'A' suffix, such as WPH11/01A. For the May/June 2026 and January 2026 examination series, which countries or regions are these papers supplied to? Are they provided exclusively to mainland China, or are they also administered in certain other countries and regions within the Asia-Pacific area?\nFurthermore, how does Pearson strive to ensure fairness among candidates who are taking different versions of the examination papers?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "@PearsonEdexcel Hello Pearson. I would like to inquire about the IAL examination papers that end with an 'A' suffix, such as WPH11/01A. For the May/June 2026 and January 2026 examination series, which countries or regions are these papers supplied to? Are they provided"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 836,
+          "like_count": 7929,
+          "listed_count": 6,
+          "media_count": 1017,
+          "tweet_count": 3247
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-13T18:43:18.000Z",
+        "description": "The latest news and support for Pearson Edexcel qualifications. Monitoring tweets & DMs 9am - 4:30pm (Mon - Fri).",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qualifications.pearson.com",
+                "end": 23,
+                "expanded_url": "http://qualifications.pearson.com",
+                "start": 0,
+                "url": "https://t.co/Vqw6ty05sm"
+              }
+            ]
+          }
+        },
+        "id": "20794084",
+        "location": "London, United Kingdom",
+        "name": "Pearson Edexcel",
+        "pinned_tweet_id": "1998707216342503454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963548859398791168/sRYE6XvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53066,
+          "following_count": 2766,
+          "like_count": 514,
+          "listed_count": 268,
+          "media_count": 2505,
+          "tweet_count": 8132
+        },
+        "url": "https://t.co/Vqw6ty05sm",
+        "username": "PearsonEdexcel",
+        "verified": false
+      }
+    ]
+  }
+}

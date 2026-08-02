@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1887486431138045991",
+    "created_at": "2025-02-06T13:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T14:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887489446649770242"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887489446649770242",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887486431138045991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ps.來自朋友的吐槽，我人目前很好，在安慰TA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887486431138045991",
+        "created_at": "2025-02-06T13:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T14:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887489446649770242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887489446649770242",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887486431138045991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ps.來自朋友的吐槽，我人目前很好，在安慰TA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887486428025921537"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887486431138045991",
+        "created_at": "2025-02-06T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887486431138045991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnNRtNtWvr",
+              "end": 45,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887486431138045991/photo/1",
+              "media_key": "3_1887486428025921537",
+              "start": 22,
+              "url": "https://t.co/cnNRtNtWvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887486431138045991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "唉...有的時候，對於這個傻逼社會挺無語的 https://t.co/cnNRtNtWvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "澳門",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 464,
+          "like_count": 1403,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 954
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

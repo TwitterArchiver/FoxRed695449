@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1875061496688038096",
+    "created_at": "2025-01-03T10:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875122721551790515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510522802486448130",
+          "start": 0,
+          "username": "boeritsa"
+        },
+        {
+          "end": 20,
+          "id": "1418942200457662477",
+          "start": 10,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875122721551790515",
+    "in_reply_to_user_id": "1510522802486448130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875106853866418222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boeritsa @Rikka_Ela 抱抱姐姐抱抱姐姐\n试试看先去性别肯定诊所排下队？（虽然时间实在太久了，但的确算一条路？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1875061496688038096",
+        "created_at": "2025-01-03T10:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875122721551790515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            },
+            {
+              "end": 20,
+              "id": "1418942200457662477",
+              "start": 10,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875122721551790515",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875106853866418222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa @Rikka_Ela 抱抱姐姐抱抱姐姐\n试试看先去性别肯定诊所排下队？（虽然时间实在太久了，但的确算一条路？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510522802486448130",
+        "conversation_id": "1875061496688038096",
+        "created_at": "2025-01-03T09:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T10:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875106853866418222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875106853866418222",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875106650157392271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 羡慕有钱手术，羡慕srs，羡慕的情感要爆炸了（哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3311,
+          "following_count": 391,
+          "like_count": 1121,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 605
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "北京话/粤语/English | 2024dser & 2025 dse retaker | 在港城大（？）读书的废物少女 | Lesbian | 长毛象：@aliyajadzia@stelpolva.moe | 笨蛋老婆：@asakaze011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "asakaze011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliyajadzia.github.io/Personal-Bio/",
+                "end": 23,
+                "expanded_url": "https://aliyajadzia.github.io/Personal-Bio/",
+                "start": 0,
+                "url": "https://t.co/WOcHPd8JVI"
+              }
+            ]
+          }
+        },
+        "id": "1510522802486448130",
+        "location": "United Federation of Planets",
+        "name": "林雅仪Aliya Lin（淡推ing）🎗️ 🇹🇼🇺🇦",
+        "pinned_tweet_id": "1830061446354579894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 152,
+          "like_count": 4035,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/WOcHPd8JVI",
+        "username": "boeritsa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3345,
+          "following_count": 3167,
+          "like_count": 56656,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 4475
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

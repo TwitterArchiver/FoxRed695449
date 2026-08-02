@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1964259598052872666",
+    "created_at": "2025-09-06T14:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964333825510821967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805364015725772800",
+          "start": 0,
+          "username": "jp20230630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964333825510821967",
+    "in_reply_to_user_id": "1805364015725772800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964259598052872666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jp20230630 文藝復興前的歐洲人：啊對對對"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1964259598052872666",
+        "created_at": "2025-09-06T14:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964333825510821967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805364015725772800",
+              "start": 0,
+              "username": "jp20230630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964333825510821967",
+        "in_reply_to_user_id": "1805364015725772800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964259598052872666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jp20230630 文藝復興前的歐洲人：啊對對對"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805364015725772800",
+        "conversation_id": "1964259598052872666",
+        "created_at": "2025-09-06T09:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964259598052872666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charliekirk11/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/charliekirk11/status/1964069447464890428",
+              "start": 72,
+              "url": "https://t.co/8LBWH4i5jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964259598052872666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1563,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964069447464890428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪种宗教信仰能与基督教信仰媲美，创造出如此这般文明？\n\n伊斯兰与基督教格格不入。伊斯兰是一种邪恶的存在。基督教国家引入伊斯兰的穆斯林形同自杀。 https://t.co/8LBWH4i5jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 696,
+          "like_count": 4260,
+          "listed_count": 8,
+          "media_count": 751,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T22:15:54.000Z",
+        "description": "✝️Jesus follower. ❤️Trump supporter. Chinese by birth, Australian by choice.❤️🇦🇺 All views are my own. 爱憎分明，嫉恶如仇，爱爆粗口，谨慎关注。",
+        "id": "1805364015725772800",
+        "location": "Australia",
+        "name": "Tao",
+        "pinned_tweet_id": "1960217604511171034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951947600615153664/FbRuejrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6020,
+          "following_count": 549,
+          "like_count": 46090,
+          "listed_count": 26,
+          "media_count": 891,
+          "tweet_count": 16996
+        },
+        "username": "jp20230630",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880876592156880897"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880876621319778637",
+    "created_at": "2025-01-19T07:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T08:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880876621319778637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1568115812489400321",
+          "start": 1,
+          "username": "topclassgourmet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dEWVw2aCrb",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1880876621319778637/photo/1",
+          "media_key": "3_1880876592156880897",
+          "start": 27,
+          "url": "https://t.co/dEWVw2aCrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880876621319778637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和@topclassgourmet 在精神科病房貼貼 https://t.co/dEWVw2aCrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1880876592156880897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gho3S5XbsAEgwSz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880876592156880897"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880876621319778637",
+        "created_at": "2025-01-19T07:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T08:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880876621319778637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1568115812489400321",
+              "start": 1,
+              "username": "topclassgourmet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEWVw2aCrb",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1880876621319778637/photo/1",
+              "media_key": "3_1880876592156880897",
+              "start": 27,
+              "url": "https://t.co/dEWVw2aCrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880876621319778637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@topclassgourmet 在精神科病房貼貼 https://t.co/dEWVw2aCrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 418,
+          "like_count": 1245,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 681
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T05:55:25.000Z",
+        "description": "艾琳醬在這裡 @linyeshitoude\n精神狀態很差，經常od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "linyeshitoude"
+              }
+            ]
+          }
+        },
+        "id": "1568115812489400321",
+        "name": "彤🏳‍⚧(右美代代版",
+        "pinned_tweet_id": "1873317324088017301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873385557654736896/qsW2s_yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 689,
+          "like_count": 15173,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 3725
+        },
+        "username": "topclassgourmet",
+        "verified": false
+      }
+    ]
+  }
+}

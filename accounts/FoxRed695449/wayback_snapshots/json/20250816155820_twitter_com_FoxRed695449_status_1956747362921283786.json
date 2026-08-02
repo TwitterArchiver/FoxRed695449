@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956612933330346468",
+    "created_at": "2025-08-16T15:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956747362921283786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1225727476652855302",
+          "start": 0,
+          "username": "M2G30905759"
+        },
+        {
+          "end": 26,
+          "id": "1749569248371023872",
+          "start": 13,
+          "username": "Eureka222323"
+        },
+        {
+          "end": 42,
+          "id": "1641402191775924224",
+          "start": 27,
+          "username": "BairuiQin81672"
+        },
+        {
+          "end": 51,
+          "id": "1585915076027944960",
+          "start": 43,
+          "username": "CyderAU"
+        },
+        {
+          "end": 65,
+          "id": "1622255626066731010",
+          "start": 52,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956747362921283786",
+    "in_reply_to_user_id": "1225727476652855302",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956746139203428767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M2G30905759 @Eureka222323 @BairuiQin81672 @CyderAU @SagerRgyalpo 明白了，感謝科普"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1956746134908719104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfCPg7aUAAvWur.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956612933330346468",
+        "created_at": "2025-08-16T15:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956747362921283786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1225727476652855302",
+              "start": 0,
+              "username": "M2G30905759"
+            },
+            {
+              "end": 26,
+              "id": "1749569248371023872",
+              "start": 13,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 42,
+              "id": "1641402191775924224",
+              "start": 27,
+              "username": "BairuiQin81672"
+            },
+            {
+              "end": 51,
+              "id": "1585915076027944960",
+              "start": 43,
+              "username": "CyderAU"
+            },
+            {
+              "end": 65,
+              "id": "1622255626066731010",
+              "start": 52,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956747362921283786",
+        "in_reply_to_user_id": "1225727476652855302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956746139203428767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M2G30905759 @Eureka222323 @BairuiQin81672 @CyderAU @SagerRgyalpo 明白了，感謝科普"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956746134908719104"
+          ]
+        },
+        "author_id": "1225727476652855302",
+        "conversation_id": "1956612933330346468",
+        "created_at": "2025-08-16T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956746139203428767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 27,
+              "id": "1749569248371023872",
+              "start": 14,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 43,
+              "id": "1641402191775924224",
+              "start": 28,
+              "username": "BairuiQin81672"
+            },
+            {
+              "end": 52,
+              "id": "1585915076027944960",
+              "start": 44,
+              "username": "CyderAU"
+            },
+            {
+              "end": 66,
+              "id": "1622255626066731010",
+              "start": 53,
+              "username": "SagerRgyalpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHmeS8kTvF",
+              "end": 111,
+              "expanded_url": "https://x.com/M2G30905759/status/1956746139203428767/photo/1",
+              "media_key": "3_1956746134908719104",
+              "start": 88,
+              "url": "https://t.co/HHmeS8kTvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956746139203428767",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956745675196297489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Eureka222323 @BairuiQin81672 @CyderAU @SagerRgyalpo 美国的学校大多数都会回收，多了解下没坏处 https://t.co/HHmeS8kTvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 688,
+          "like_count": 3980,
+          "listed_count": 7,
+          "media_count": 641,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-07T10:26:29.000Z",
+        "description": "",
+        "id": "1225727476652855302",
+        "location": "Berkeley, CA",
+        "name": "M2G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225728076559945730/itWrV4IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 172,
+          "like_count": 19570,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 213
+        },
+        "username": "M2G30905759",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜阮玲玉｜长期孤独害怕谩骂的小女孩｜❤️@FoxRed695449｜繁简EN｜白柳玲玉 しらやなぎ レイギョク｜香港穷鬼一个| 逃生舱 @eureka2223232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "FoxRed695449"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "eureka2223232"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "地獄",
+        "name": "优莱卡Eureka 阮玲玉",
+        "pinned_tweet_id": "1952003214452384152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 1630,
+          "like_count": 51025,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 9597
+        },
+        "username": "Eureka222323",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T11:29:24.000Z",
+        "description": "",
+        "id": "1641402191775924224",
+        "name": "Bairui Qin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641402241717534722/_auIk_3N_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "BairuiQin81672",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T08:43:32.000Z",
+        "description": "",
+        "id": "1585915076027944960",
+        "location": "Melbourne, Victoria",
+        "name": "Cyder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934207379438284800/RhMpk-o0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 10,
+          "like_count": 2762,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1322
+        },
+        "username": "CyderAU",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "X女男平等话题不知名博主，我们的口号：“打倒‘男性原罪论’！”（欢迎私信投稿！）TG群组：https://t.co/7QZ8yOBK4d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+l7zlJgkm_0g2N…",
+                "end": 68,
+                "expanded_url": "https://t.me/+l7zlJgkm_0g2NDM1",
+                "start": 45,
+                "url": "https://t.co/7QZ8yOBK4d"
+              }
+            ]
+          }
+        },
+        "id": "1622255626066731010",
+        "location": "Adelaide, South Australia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "1947220742564888652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799019346704080896/RyOiFbUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4098,
+          "following_count": 224,
+          "like_count": 520,
+          "listed_count": 9,
+          "media_count": 579,
+          "tweet_count": 2028
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075046875661836289"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2074797259246727252",
+    "created_at": "2026-07-09T02:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075046882645270870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861604863345598464",
+          "start": 0,
+          "username": "Hikari9998z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WpLUrRrw7g",
+          "end": 69,
+          "expanded_url": "https://x.com/FoxRed695449/status/2075046882645270870/photo/1",
+          "media_key": "3_2075046875661836289",
+          "start": 46,
+          "url": "https://t.co/WpLUrRrw7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075046882645270870",
+    "in_reply_to_user_id": "1861604863345598464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074934003526991890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari9998z 家宽照样贵啊\n对于VPN供应商来说就是澳门节点成本很高，导致少见 https://t.co/WpLUrRrw7g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2075046875661836289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwMI6wboAEmVP1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075046875661836289"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2074797259246727252",
+        "created_at": "2026-07-09T02:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075046882645270870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861604863345598464",
+              "start": 0,
+              "username": "Hikari9998z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpLUrRrw7g",
+              "end": 69,
+              "expanded_url": "https://x.com/FoxRed695449/status/2075046882645270870/photo/1",
+              "media_key": "3_2075046875661836289",
+              "start": 46,
+              "url": "https://t.co/WpLUrRrw7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075046882645270870",
+        "in_reply_to_user_id": "1861604863345598464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074934003526991890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari9998z 家宽照样贵啊\n对于VPN供应商来说就是澳门节点成本很高，导致少见 https://t.co/WpLUrRrw7g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861604863345598464",
+        "conversation_id": "2074797259246727252",
+        "created_at": "2026-07-08T19:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074934003526991890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074934003526991890",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074806001891741939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 但上下行基本對等啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 843,
+          "like_count": 8218,
+          "listed_count": 6,
+          "media_count": 1064,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T02:56:16.000Z",
+        "description": "",
+        "id": "1861604863345598464",
+        "name": "Hikari丷2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039220322256539648/6bV2K8Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Hikari9998z",
+        "verified": false
+      }
+    ]
+  }
+}

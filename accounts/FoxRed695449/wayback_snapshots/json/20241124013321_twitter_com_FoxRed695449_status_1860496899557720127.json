@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1860496899557720127",
+    "created_at": "2024-11-24T01:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T02:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860496899557720127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xcheshire/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/0xcheshire/status/1859905044151464352",
+          "start": 8,
+          "url": "https://t.co/c8aGeniFBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860496899557720127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859905044151464352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人血馒头真好吃 https://t.co/c8aGeniFBO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1860496899557720127",
+        "created_at": "2024-11-24T01:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T02:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860496899557720127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xcheshire/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/0xcheshire/status/1859905044151464352",
+              "start": 8,
+              "url": "https://t.co/c8aGeniFBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860496899557720127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859905044151464352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人血馒头真好吃 https://t.co/c8aGeniFBO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859905026782826496"
+          ]
+        },
+        "author_id": "851054131418505216",
+        "conversation_id": "1859905044151464352",
+        "created_at": "2024-11-22T10:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859905044151464352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rLT6fBLAr",
+              "end": 113,
+              "expanded_url": "https://x.com/0xCheshire/status/1859905044151464352/photo/1",
+              "media_key": "3_1859905026782826496",
+              "start": 90,
+              "url": "https://t.co/8rLT6fBLAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859905044151464352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1931,
+          "impression_count": 809455,
+          "like_count": 2086,
+          "quote_count": 26,
+          "reply_count": 59,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "你被欺骗了。\n\n多动症（ADHD）并不是一种可以通过吃药治愈的心理疾病。\n\n它是一种超能力。\n\n一旦你掌控它，你将变得无所不能。\n\n以下是如何将 ADHD 转化为超能力的方法：🧵 https://t.co/8rLT6fBLAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 246,
+          "like_count": 268,
+          "listed_count": 2,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-09T12:48:11.000Z",
+        "description": "🦠病毒式线程🧵\n\n知识星球🌏：https://t.co/bfJK3o3Jcv\n\nLinktree链接：https://t.co/f5VVd8N8MZ\n\n#OKX 钱包现已支持100+公链，web3入口一个就够：\nhttps://t.co/NrRgvAZPGj",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.zsxq.com/a1nV9",
+                "end": 38,
+                "expanded_url": "http://t.zsxq.com/a1nV9",
+                "start": 15,
+                "url": "https://t.co/bfJK3o3Jcv"
+              },
+              {
+                "display_url": "linktr.ee/CheshireMew",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/CheshireMew",
+                "start": 51,
+                "url": "https://t.co/f5VVd8N8MZ"
+              },
+              {
+                "display_url": "okx.com/cn/web3?channe…",
+                "end": 129,
+                "expanded_url": "https://www.okx.com/cn/web3?channelid=ACE51415",
+                "start": 106,
+                "url": "https://t.co/NrRgvAZPGj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TomorrowX_Labs",
+                "end": 23,
+                "expanded_url": "https://t.me/TomorrowX_Labs",
+                "start": 0,
+                "url": "https://t.co/U0GTYoVehz"
+              }
+            ]
+          }
+        },
+        "id": "851054131418505216",
+        "location": " 未来市集TG群：👉",
+        "name": "柴郡🔔｜Crypto+AI Plus",
+        "pinned_tweet_id": "1860184070036291690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843286202528796673/PUyK9V4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66466,
+          "following_count": 599,
+          "like_count": 21164,
+          "listed_count": 295,
+          "tweet_count": 19301
+        },
+        "url": "https://t.co/U0GTYoVehz",
+        "username": "0xCheshire",
+        "verified": true
+      }
+    ]
+  }
+}

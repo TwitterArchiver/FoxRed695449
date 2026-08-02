@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021098908836151296"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2020773412759543922",
+    "created_at": "2026-02-10T05:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021098917535109251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980500070308147201",
+          "start": 0,
+          "username": "antiair124419"
+        },
+        {
+          "end": 30,
+          "id": "1260553941714186241",
+          "start": 15,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMZSsxV9a0",
+          "end": 170,
+          "expanded_url": "https://x.com/FoxRed695449/status/2021098917535109251/photo/1",
+          "media_key": "3_2021098908836151296",
+          "start": 147,
+          "url": "https://t.co/DMZSsxV9a0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021098917535109251",
+    "in_reply_to_user_id": "1980500070308147201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021096453872156837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antiair124419 @whyyoutouzhele 我可没不同意强制收容，事实上香港在政府与ngo合作之下对流浪狗甚至一般狗只的管理都是相当出色的\n我的原文并无表示只有“吃狗肉”这一单一因素影响狂犬病传播\n但在“吃狗肉”这个过程的屠宰运输等步骤都是有风险且这一风险是有相关研究论证的 https://t.co/DMZSsxV9a0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2021098908836151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxiv9UbwAANCMb.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021098908836151296"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2020773412759543922",
+        "created_at": "2026-02-10T05:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021098917535109251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980500070308147201",
+              "start": 0,
+              "username": "antiair124419"
+            },
+            {
+              "end": 30,
+              "id": "1260553941714186241",
+              "start": 15,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMZSsxV9a0",
+              "end": 170,
+              "expanded_url": "https://x.com/FoxRed695449/status/2021098917535109251/photo/1",
+              "media_key": "3_2021098908836151296",
+              "start": 147,
+              "url": "https://t.co/DMZSsxV9a0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021098917535109251",
+        "in_reply_to_user_id": "1980500070308147201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021096453872156837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antiair124419 @whyyoutouzhele 我可没不同意强制收容，事实上香港在政府与ngo合作之下对流浪狗甚至一般狗只的管理都是相当出色的\n我的原文并无表示只有“吃狗肉”这一单一因素影响狂犬病传播\n但在“吃狗肉”这个过程的屠宰运输等步骤都是有风险且这一风险是有相关研究论证的 https://t.co/DMZSsxV9a0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980500070308147201",
+        "conversation_id": "2020773412759543922",
+        "created_at": "2026-02-10T05:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021096453872156837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021096453872156837",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020866693967270133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @whyyoutouzhele 大街上的流浪猫狗，为什么不收容？为什么难以制订像【反狗肉】那样的地方性法规？背后原因你自己也清楚，就是因为国内的这些动物保护组织很“独特”，一边“保护”，一边完全无视动物收容处理机制。而流浪猫狗群恰恰是传播狂犬病等疾病的最关键因素。\n吃狗肉和狂犬病是否有相关性与上述论证无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 760,
+          "like_count": 6164,
+          "listed_count": 7,
+          "media_count": 936,
+          "tweet_count": 2931
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T05:03:21.000Z",
+        "description": "",
+        "id": "1980500070308147201",
+        "name": "antiair",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980500132723564544/-vhRFiTm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "antiair124419",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192650,
+          "following_count": 1015,
+          "like_count": 8942,
+          "listed_count": 8555,
+          "media_count": 41328,
+          "tweet_count": 48318
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

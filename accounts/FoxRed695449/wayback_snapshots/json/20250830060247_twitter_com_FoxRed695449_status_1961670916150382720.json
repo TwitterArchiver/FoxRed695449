@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1961484627119333570",
+    "created_at": "2025-08-30T06:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T07:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961670916150382720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "810400559396110336",
+          "start": 0,
+          "username": "juqishoulai"
+        },
+        {
+          "end": 28,
+          "id": "44186175",
+          "start": 13,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961670916150382720",
+    "in_reply_to_user_id": "810400559396110336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961652139631264120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juqishoulai @xiaojingcanxue 首都机场，大兴机场等：啊对对对，我是军事基地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1961484627119333570",
+        "created_at": "2025-08-30T06:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T07:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961670916150382720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "810400559396110336",
+              "start": 0,
+              "username": "juqishoulai"
+            },
+            {
+              "end": 28,
+              "id": "44186175",
+              "start": 13,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961670916150382720",
+        "in_reply_to_user_id": "810400559396110336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961652139631264120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juqishoulai @xiaojingcanxue 首都机场，大兴机场等：啊对对对，我是军事基地"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810400559396110336",
+        "conversation_id": "1961484627119333570",
+        "created_at": "2025-08-30T04:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961652139631264120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961652139631264120",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961484627119333570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 这些红的地方是不是都是有军事基地的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 694,
+          "like_count": 4225,
+          "listed_count": 8,
+          "media_count": 739,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-18T08:25:24.000Z",
+        "description": "",
+        "id": "810400559396110336",
+        "name": "LK",
+        "pinned_tweet_id": "1514939474085437444",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 648,
+          "like_count": 2672,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 790
+        },
+        "username": "juqishoulai",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234829,
+          "following_count": 1842,
+          "like_count": 190,
+          "listed_count": 1221,
+          "media_count": 26782,
+          "tweet_count": 34082
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

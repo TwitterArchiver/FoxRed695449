@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958507132720238592"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1958507141255365107",
+    "created_at": "2025-08-21T12:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958507141255365107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xw2yfsURy",
+          "end": 47,
+          "expanded_url": "https://x.com/FoxRed695449/status/1958507141255365107/photo/1",
+          "media_key": "3_1958507132720238592",
+          "start": 24,
+          "url": "https://t.co/1xw2yfsURy"
+        },
+        {
+          "display_url": "x.com/dustswallo1580…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/dustswallo15805/status/1958437298187768159",
+          "start": 48,
+          "url": "https://t.co/rCFFp5bKb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958507141255365107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958437298187768159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我從09/2023開始給cr和mtr上供的累積 https://t.co/1xw2yfsURy https://t.co/rCFFp5bKb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2209,
+        "media_key": "3_1958507132720238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4D3E_b0AA1EbL.jpg",
+        "width": 1498
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1958437286460428288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3EVfZakAAGMpV.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958507132720238592"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1958507141255365107",
+        "created_at": "2025-08-21T12:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958507141255365107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xw2yfsURy",
+              "end": 47,
+              "expanded_url": "https://x.com/FoxRed695449/status/1958507141255365107/photo/1",
+              "media_key": "3_1958507132720238592",
+              "start": 24,
+              "url": "https://t.co/1xw2yfsURy"
+            },
+            {
+              "display_url": "x.com/dustswallo1580…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/dustswallo15805/status/1958437298187768159",
+              "start": 48,
+              "url": "https://t.co/rCFFp5bKb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958507141255365107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958437298187768159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我從09/2023開始給cr和mtr上供的累積 https://t.co/1xw2yfsURy https://t.co/rCFFp5bKb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958437286460428288"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-21T07:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958437298187768159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2wMZVpwQx",
+              "end": 32,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1958437298187768159/photo/1",
+              "media_key": "3_1958437286460428288",
+              "start": 9,
+              "url": "https://t.co/e2wMZVpwQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958437298187768159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5129,
+          "like_count": 162,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个假期玩疯了😇 https://t.co/e2wMZVpwQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 696,
+          "like_count": 4102,
+          "listed_count": 7,
+          "media_count": 683,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 371,
+          "like_count": 29301,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 1857
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

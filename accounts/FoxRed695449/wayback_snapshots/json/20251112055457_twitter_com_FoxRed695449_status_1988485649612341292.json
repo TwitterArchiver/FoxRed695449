@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1988232582979543393",
+    "created_at": "2025-11-12T05:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988485649612341292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1255470602133135362",
+          "start": 0,
+          "username": "gugugupai233"
+        },
+        {
+          "end": 30,
+          "id": "1863998472762114048",
+          "start": 14,
+          "username": "humming_hanming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988485649612341292",
+    "in_reply_to_user_id": "1255470602133135362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我个人认为香港算转账最方便的境外地区了\n首先香港各个院校的学费都可以在云闪付上缴纳,流程上方便不占额度加上银联还给优惠\n其次关于转账便利程度上来说,香港和内地今年刚搞了跨境支付通,可以做到跨境转账0手续费实时到帐\n但是对于一些香港本地人来说他们可能没有内地银行账户,即使有内地银行账户因为限制也没办法使用跨境支付通甚至没办法用内地的钱在香港付款,所以直接转人民币给别人的确会让其他人困扰"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988475048957800506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugupai233 @humming_hanming 我个人认为香港算转账最方便的境外地区了\n首先香港各个院校的学费都可以在云闪付上缴纳,流程上方便不占额度加上银联还给优惠\n其次关于转账便利程度上来说,香港和内地今年刚搞了跨境支付通,可以做到跨境转账0手续费实时到帐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1988232582979543393",
+        "created_at": "2025-11-12T05:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988485649612341292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1255470602133135362",
+              "start": 0,
+              "username": "gugugupai233"
+            },
+            {
+              "end": 30,
+              "id": "1863998472762114048",
+              "start": 14,
+              "username": "humming_hanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988485649612341292",
+        "in_reply_to_user_id": "1255470602133135362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我个人认为香港算转账最方便的境外地区了\n首先香港各个院校的学费都可以在云闪付上缴纳,流程上方便不占额度加上银联还给优惠\n其次关于转账便利程度上来说,香港和内地今年刚搞了跨境支付通,可以做到跨境转账0手续费实时到帐\n但是对于一些香港本地人来说他们可能没有内地银行账户,即使有内地银行账户因为限制也没办法使用跨境支付通甚至没办法用内地的钱在香港付款,所以直接转人民币给别人的确会让其他人困扰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988475048957800506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugupai233 @humming_hanming 我个人认为香港算转账最方便的境外地区了\n首先香港各个院校的学费都可以在云闪付上缴纳,流程上方便不占额度加上银联还给优惠\n其次关于转账便利程度上来说,香港和内地今年刚搞了跨境支付通,可以做到跨境转账0手续费实时到帐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255470602133135362",
+        "conversation_id": "1988232582979543393",
+        "created_at": "2025-11-12T05:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988475048957800506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1863998472762114048",
+              "start": 14,
+              "username": "humming_hanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988475048957800506",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988422539794936124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @humming_hanming 不用便利化额度换汇的话就要去内地银行柜台办理业务了 对于许多学生而言可能确实连过深圳的时间都没有 而且学生的资金来源主要都是家长 家长一般也是直接打款人民币的呀 虽然FPS确实很方便 但是对于主要收入人民币的人来说确实是麻烦一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 678,
+          "like_count": 4797,
+          "listed_count": 7,
+          "media_count": 878,
+          "tweet_count": 2639
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-29T12:16:01.000Z",
+        "description": "Chinese🇨🇳\nStudent📖\nDeveloper💻\nFounder of @arniodev🆙\nLGBT Friendly🏳️‍🌈\n简体中文/繁體中文/粵語/English😉\nhe/his👀\n逃生舱@pai233dev\n可互fo\n不互三无、币圈号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "arniodev"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "pai233dev"
+              }
+            ]
+          }
+        },
+        "id": "1255470602133135362",
+        "location": "Guangdong, China",
+        "name": "pai233🇨🇳",
+        "pinned_tweet_id": "1312580241420947456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571117604445786113/HksrGsT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 288,
+          "like_count": 742,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 1306
+        },
+        "username": "gugugupai233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "Computer Science | PolyU(红磡技校)🇭🇰 |BTW, I use Arch.(^ ^)",
+        "id": "1863998472762114048",
+        "name": "Humming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863998546049155072/z9NxKTny_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 183,
+          "like_count": 2208,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 429
+        },
+        "username": "humming_hanming",
+        "verified": false
+      }
+    ]
+  }
+}

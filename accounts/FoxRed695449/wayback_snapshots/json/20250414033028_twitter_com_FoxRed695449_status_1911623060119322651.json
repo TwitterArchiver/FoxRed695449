@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911623047385092097",
+        "3_1911623047062204416"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1911623060119322651",
+    "created_at": "2025-04-14T03:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T04:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911623060119322651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NatIKWbkBs",
+          "end": 91,
+          "expanded_url": "https://x.com/FoxRed695449/status/1911623060119322651/photo/1",
+          "media_key": "3_1911623047385092097",
+          "start": 68,
+          "url": "https://t.co/NatIKWbkBs"
+        },
+        {
+          "display_url": "pic.x.com/NatIKWbkBs",
+          "end": 91,
+          "expanded_url": "https://x.com/FoxRed695449/status/1911623060119322651/photo/1",
+          "media_key": "3_1911623047062204416",
+          "start": 68,
+          "url": "https://t.co/NatIKWbkBs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911623060119322651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搞個抽獎吧，Google one 200GB和100GB的一個月試用券（必須要沒有使用過Google one的）\n點讚+轉發可參與抽獎 https://t.co/NatIKWbkBs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911623047385092097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GodzCIvWkAEDSm-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1911623047062204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GodzCHiXsAAltrs.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911623047385092097",
+            "3_1911623047062204416"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1911623060119322651",
+        "created_at": "2025-04-14T03:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T04:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911623060119322651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NatIKWbkBs",
+              "end": 91,
+              "expanded_url": "https://x.com/FoxRed695449/status/1911623060119322651/photo/1",
+              "media_key": "3_1911623047385092097",
+              "start": 68,
+              "url": "https://t.co/NatIKWbkBs"
+            },
+            {
+              "display_url": "pic.x.com/NatIKWbkBs",
+              "end": 91,
+              "expanded_url": "https://x.com/FoxRed695449/status/1911623060119322651/photo/1",
+              "media_key": "3_1911623047062204416",
+              "start": 68,
+              "url": "https://t.co/NatIKWbkBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911623060119322651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞個抽獎吧，Google one 200GB和100GB的一個月試用券（必須要沒有使用過Google one的）\n點讚+轉發可參與抽獎 https://t.co/NatIKWbkBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3673,
+          "following_count": 602,
+          "like_count": 2775,
+          "listed_count": 6,
+          "media_count": 477,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

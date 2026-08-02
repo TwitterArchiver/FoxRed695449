@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1873199712704282625"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873199771172913662",
+    "created_at": "2024-12-29T02:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873199771172913662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/juBktaiyGM",
+          "end": 34,
+          "expanded_url": "https://x.com/FoxRed695449/status/1873199771172913662/video/1",
+          "media_key": "13_1873199712704282625",
+          "start": 11,
+          "url": "https://t.co/juBktaiyGM"
+        },
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1873195957476544726",
+          "start": 35,
+          "url": "https://t.co/ZyQn60P9Y4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873199771172913662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873195957476544726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事故发生的时候的视频 https://t.co/juBktaiyGM https://t.co/ZyQn60P9Y4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14366,
+        "height": 490,
+        "media_key": "13_1873199712704282625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1873199712704282625/img/Qu3SNZeuwqolwqsp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1873199712704282625/vid/avc1/694x270/tNpegYXTgx1PwFDu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1873199712704282625/vid/avc1/926x360/IaJekw0Tvy9Y3AgB.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1873199712704282625/vid/avc1/1262x490/GF3mmGFTTd5yN1ZG.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1873199712704282625/pl/TJcgEE5LT6W0jm7m.m3u8?tag=16"
+          }
+        ],
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1873199712704282625"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873199771172913662",
+        "created_at": "2024-12-29T02:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873199771172913662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juBktaiyGM",
+              "end": 34,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873199771172913662/video/1",
+              "media_key": "13_1873199712704282625",
+              "start": 11,
+              "url": "https://t.co/juBktaiyGM"
+            },
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1873195957476544726",
+              "start": 35,
+              "url": "https://t.co/ZyQn60P9Y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873199771172913662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873195957476544726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事故发生的时候的视频 https://t.co/juBktaiyGM https://t.co/ZyQn60P9Y4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873195955522023424"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1873195957476544726",
+        "created_at": "2024-12-29T02:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873195957476544726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llbKA9BVgR",
+              "end": 96,
+              "expanded_url": "https://x.com/bbcchinese/status/1873195957476544726/photo/1",
+              "media_key": "3_1873195955522023424",
+              "start": 73,
+              "url": "https://t.co/llbKA9BVgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873195957476544726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5711,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【最新消息】韩国济州航空一架载有181人的飞机在全罗南道务安机场着陆时脱离跑道并撞上围墙，导致机身起火。韩联社报道称，事件已造成至少28人死亡。 https://t.co/llbKA9BVgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3303,
+          "following_count": 385,
+          "like_count": 1066,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 534
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615145,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11566,
+          "media_count": 22822,
+          "tweet_count": 151689
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

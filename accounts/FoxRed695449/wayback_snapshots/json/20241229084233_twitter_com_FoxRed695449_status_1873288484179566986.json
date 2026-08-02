@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873288475652550656",
+        "3_1873288475660918784"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873285381002805317",
+    "created_at": "2024-12-29T08:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873288484179566986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 26,
+          "id": "1719571122642161664",
+          "start": 14,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 35,
+          "id": "1573778885996584960",
+          "start": 27,
+          "username": "altaz_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nMACI3tSLv",
+          "end": 145,
+          "expanded_url": "https://x.com/FoxRed695449/status/1873288484179566986/photo/1",
+          "media_key": "3_1873288475652550656",
+          "start": 122,
+          "url": "https://t.co/nMACI3tSLv"
+        },
+        {
+          "display_url": "pic.x.com/nMACI3tSLv",
+          "end": 145,
+          "expanded_url": "https://x.com/FoxRed695449/status/1873288484179566986/photo/1",
+          "media_key": "3_1873288475660918784",
+          "start": 122,
+          "url": "https://t.co/nMACI3tSLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873288484179566986",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873287287200764012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @AGeSang2008 @altaz_0 對了，不會以為我想要錢吧\n我有家長的信用卡副卡，而且我要多少錢隨時和家長說就好了\n給你看看我自己的儲蓄卡帳單呢\n我昨天一天的消費就超過5000HKD了，根本不在意你那點錢 https://t.co/nMACI3tSLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1873288475652550656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf9B8YkacAAlZN5.jpg",
+        "width": 981
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1873288475660918784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf9B8YmaIAA4Nor.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873288475652550656",
+            "3_1873288475660918784"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873285381002805317",
+        "created_at": "2024-12-29T08:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873288484179566986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 26,
+              "id": "1719571122642161664",
+              "start": 14,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 35,
+              "id": "1573778885996584960",
+              "start": 27,
+              "username": "altaz_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMACI3tSLv",
+              "end": 145,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873288484179566986/photo/1",
+              "media_key": "3_1873288475652550656",
+              "start": 122,
+              "url": "https://t.co/nMACI3tSLv"
+            },
+            {
+              "display_url": "pic.x.com/nMACI3tSLv",
+              "end": 145,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873288484179566986/photo/1",
+              "media_key": "3_1873288475660918784",
+              "start": 122,
+              "url": "https://t.co/nMACI3tSLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873288484179566986",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873287287200764012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @AGeSang2008 @altaz_0 對了，不會以為我想要錢吧\n我有家長的信用卡副卡，而且我要多少錢隨時和家長說就好了\n給你看看我自己的儲蓄卡帳單呢\n我昨天一天的消費就超過5000HKD了，根本不在意你那點錢 https://t.co/nMACI3tSLv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873285381002805317",
+        "created_at": "2024-12-29T08:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873287287200764012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 26,
+              "id": "1719571122642161664",
+              "start": 14,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 35,
+              "id": "1573778885996584960",
+              "start": 27,
+              "username": "altaz_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873287287200764012",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873286905691029648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @AGeSang2008 @altaz_0 她倒是不想要錢，畢竟她自己手上有70萬CNY\n單純是我覺得不能讓你佔便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 561
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 578,
+          "like_count": 8548,
+          "listed_count": 3,
+          "media_count": 1119,
+          "tweet_count": 8534
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/85｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党家暴党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音/AGE｜姐姐 @Anan628769｜小号 @AGeCAT2008｜爱着的N55 @N552AA｜欢迎大家找咱交朋友w｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Anan628769"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "N552AA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 423,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T20:59:51.000Z",
+        "description": "04年无证含糖mtf🏳️‍⚧️｜女同｜是xyn喵🍥｜gaht:1723106454｜地下党｜持证电工（高低压）｜欢迎多多交流喵~",
+        "id": "1573778885996584960",
+        "location": "10.10.0.10",
+        "name": "altaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 1116,
+          "like_count": 74210,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 263
+        },
+        "username": "altaz_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "1973461562158620808",
+    "created_at": "2025-10-02T06:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T07:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973639638712803365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973639638712803365",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973461562158620808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 我whatsapp从来没被ban过（挠头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1973461562158620808",
+        "created_at": "2025-10-02T06:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T07:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973639638712803365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973639638712803365",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973461562158620808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我whatsapp从来没被ban过（挠头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1973461562158620808",
+        "created_at": "2025-10-01T18:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T19:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973461562158620808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973461562158620808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1238,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "whatsapp是我见过最傻逼的软件，无论用哪国手机号哪国ip，注册了加上一个好友发条信息就被封😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 696,
+          "like_count": 4390,
+          "listed_count": 8,
+          "media_count": 816,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10581,
+          "following_count": 946,
+          "like_count": 44771,
+          "listed_count": 36,
+          "media_count": 1444,
+          "tweet_count": 21489
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

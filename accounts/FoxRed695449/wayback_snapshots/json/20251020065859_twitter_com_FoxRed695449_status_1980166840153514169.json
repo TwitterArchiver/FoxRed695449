@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1979478373991862735",
+    "created_at": "2025-10-20T06:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980166840153514169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510572857184587780",
+          "start": 0,
+          "username": "UKgXnLr5MBqz2xB"
+        },
+        {
+          "end": 29,
+          "id": "1785280533037223936",
+          "start": 17,
+          "username": "ABC_111ABCD"
+        },
+        {
+          "end": 46,
+          "id": "1636244273245966343",
+          "start": 30,
+          "username": "JapanBanZaiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980166840153514169",
+    "in_reply_to_user_id": "1510572857184587780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979555689271029914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UKgXnLr5MBqz2xB @ABC_111ABCD @JapanBanZaiLove 听力障碍、视力障碍、多动症、自闭症、抑郁症、手部残疾、言语障碍不都是残疾吗？\n谁告诉你残疾人都坐轮椅？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1979478373991862735",
+        "created_at": "2025-10-20T06:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980166840153514169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510572857184587780",
+              "start": 0,
+              "username": "UKgXnLr5MBqz2xB"
+            },
+            {
+              "end": 29,
+              "id": "1785280533037223936",
+              "start": 17,
+              "username": "ABC_111ABCD"
+            },
+            {
+              "end": 46,
+              "id": "1636244273245966343",
+              "start": 30,
+              "username": "JapanBanZaiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980166840153514169",
+        "in_reply_to_user_id": "1510572857184587780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979555689271029914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UKgXnLr5MBqz2xB @ABC_111ABCD @JapanBanZaiLove 听力障碍、视力障碍、多动症、自闭症、抑郁症、手部残疾、言语障碍不都是残疾吗？\n谁告诉你残疾人都坐轮椅？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510572857184587780",
+        "conversation_id": "1979478373991862735",
+        "created_at": "2025-10-18T14:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979555689271029914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785280533037223936",
+              "start": 0,
+              "username": "ABC_111ABCD"
+            },
+            {
+              "end": 29,
+              "id": "1636244273245966343",
+              "start": 13,
+              "username": "JapanBanZaiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979555689271029914",
+        "in_reply_to_user_id": "1785280533037223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979497458154790933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC_111ABCD @JapanBanZaiLove 那你倒是告诉我残疾人怎么玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 701,
+          "like_count": 4602,
+          "listed_count": 0,
+          "media_count": 842,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T11:00:27.000Z",
+        "description": "滋賀に住んでいる留学生で、バスも電車も好きです。写真が欲しかったらご自由にダウンロードしてください（利益のためはご遠慮ください）。どうぞよろしくお願いします。\n中华民国与中共国互不隶属",
+        "id": "1510572857184587780",
+        "location": "Shiga-ken, Japan",
+        "name": "湖阪山🇹🇼🇯🇵🇰🇷🇺🇦🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817958419544129536/ymYbRNBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 920,
+          "like_count": 142973,
+          "listed_count": 3,
+          "media_count": 854,
+          "tweet_count": 2263
+        },
+        "username": "UKgXnLr5MBqz2xB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T12:11:30.000Z",
+        "description": "",
+        "id": "1785280533037223936",
+        "name": "陈家言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785280820598747136/TpyQ3582_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "ABC_111ABCD",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:53:47.000Z",
+        "description": "日本が大好き！",
+        "id": "1636244273245966343",
+        "location": "Japan",
+        "name": "のらいぬ",
+        "pinned_tweet_id": "1959837990689362028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844274598487195648/t5tpey8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36598,
+          "following_count": 1252,
+          "like_count": 40493,
+          "listed_count": 113,
+          "media_count": 3218,
+          "tweet_count": 9384
+        },
+        "username": "JapanBanZaiLove",
+        "verified": true
+      }
+    ]
+  }
+}

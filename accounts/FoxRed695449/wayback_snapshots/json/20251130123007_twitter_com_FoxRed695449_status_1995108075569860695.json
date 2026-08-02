@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1994787702248804798",
+    "created_at": "2025-11-30T12:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995108075569860695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995108075569860695",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2654,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994787702248804798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 此邮票非彼邮票"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_1994787699988074500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67o2CQbkAQ89nr.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1994787702248804798",
+        "created_at": "2025-11-30T12:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995108075569860695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995108075569860695",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2654,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994787702248804798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 此邮票非彼邮票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994787699988074500"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1994787702248804798",
+        "created_at": "2025-11-29T15:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994787702248804798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrHFb1e0ge",
+              "end": 33,
+              "expanded_url": "https://x.com/DanJack67524194/status/1994787702248804798/photo/1",
+              "media_key": "3_1994787699988074500",
+              "start": 10,
+              "url": "https://t.co/jrHFb1e0ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994787702248804798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 51476,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "夢到哪隻說哪隻是吧 https://t.co/jrHFb1e0ge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 707,
+          "like_count": 5075,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2766
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊",
+        "pinned_tweet_id": "1963584776155144438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 1987,
+          "like_count": 31384,
+          "listed_count": 25,
+          "media_count": 7241,
+          "tweet_count": 32783
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

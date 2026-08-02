@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059976360983212032",
+        "3_2059976360987361280"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2059900039611474370",
+    "created_at": "2026-05-28T12:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059976375063433504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899011546505998336",
+          "start": 0,
+          "username": "AstraeaSZK"
+        },
+        {
+          "end": 26,
+          "id": "1622066090074607616",
+          "start": 12,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RviV6csaul",
+          "end": 139,
+          "expanded_url": "https://x.com/FoxRed695449/status/2059976375063433504/photo/1",
+          "media_key": "3_2059976360983212032",
+          "start": 116,
+          "url": "https://t.co/RviV6csaul"
+        },
+        {
+          "display_url": "pic.x.com/RviV6csaul",
+          "end": 139,
+          "expanded_url": "https://x.com/FoxRed695449/status/2059976375063433504/photo/1",
+          "media_key": "3_2059976360987361280",
+          "start": 116,
+          "url": "https://t.co/RviV6csaul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059976375063433504",
+    "in_reply_to_user_id": "1899011546505998336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059971186843595260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstraeaSZK @hoshinofujivy 你倒是给买台中国大陆版本的poco再出来狗叫\n上来就骂人看起来应该是孤儿没人教怎么做人\n另外无知就不要出来显摆，不知道香港可以绑银联纯纯弱智，问下ai都能知道，脑子不用可以捐了 https://t.co/RviV6csaul"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059976360983212032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBlgobMAAQkCk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 746,
+        "media_key": "3_2059976360987361280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBlgpagAAJ82-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976360983212032",
+            "3_2059976360987361280"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2059900039611474370",
+        "created_at": "2026-05-28T12:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059976375063433504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899011546505998336",
+              "start": 0,
+              "username": "AstraeaSZK"
+            },
+            {
+              "end": 26,
+              "id": "1622066090074607616",
+              "start": 12,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RviV6csaul",
+              "end": 139,
+              "expanded_url": "https://x.com/FoxRed695449/status/2059976375063433504/photo/1",
+              "media_key": "3_2059976360983212032",
+              "start": 116,
+              "url": "https://t.co/RviV6csaul"
+            },
+            {
+              "display_url": "pic.x.com/RviV6csaul",
+              "end": 139,
+              "expanded_url": "https://x.com/FoxRed695449/status/2059976375063433504/photo/1",
+              "media_key": "3_2059976360987361280",
+              "start": 116,
+              "url": "https://t.co/RviV6csaul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976375063433504",
+        "in_reply_to_user_id": "1899011546505998336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059971186843595260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstraeaSZK @hoshinofujivy 你倒是给买台中国大陆版本的poco再出来狗叫\n上来就骂人看起来应该是孤儿没人教怎么做人\n另外无知就不要出来显摆，不知道香港可以绑银联纯纯弱智，问下ai都能知道，脑子不用可以捐了 https://t.co/RviV6csaul"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899011546505998336",
+        "conversation_id": "2059900039611474370",
+        "created_at": "2026-05-28T12:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059971186843595260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 28,
+              "id": "1622066090074607616",
+              "start": 14,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059971186843595260",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059917638676173032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @hoshinofujivy 你這是外版手機嗎就jb狗叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 833,
+          "like_count": 8001,
+          "listed_count": 6,
+          "media_count": 1030,
+          "tweet_count": 3277
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-10T08:17:03.000Z",
+        "description": "19歳|アメリカの大学生|バックエンド開発|EN/JP|ロボットアニメ(ガンダム/エバンゲリオン/マジンカーZ/ゲッターロボ/機動警察) 百合作品(ささ恋/citrus/志乃と恋)|ゲーム(CS2/ゼルダの伝説/Fate Stay Night/Loopers|皆さんと仲良くなりたいですね！(๑˃̵ᴗ˂̵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astraea.nexus",
+                "end": 23,
+                "expanded_url": "http://astraea.nexus",
+                "start": 0,
+                "url": "https://t.co/RpfJ6sh5x9"
+              }
+            ]
+          }
+        },
+        "id": "1899011546505998336",
+        "location": "Anaheim Electronics",
+        "name": "𝓐𝓼𝓽𝓻𝓪𝓮𝓪/𝓼𝓱1𝓸𝓻𝓲 🌸",
+        "pinned_tweet_id": "2004819420359925959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033838311895388160/4tyQqImt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1169,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/RpfJ6sh5x9",
+        "username": "AstraeaSZK",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11506,
+          "following_count": 4314,
+          "like_count": 46873,
+          "listed_count": 39,
+          "media_count": 2458,
+          "tweet_count": 14744
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

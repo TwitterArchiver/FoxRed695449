@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1982956343729500285",
+    "created_at": "2025-10-28T12:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T13:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983151476206878842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00ae3ed017d9d14b"
+    },
+    "id": "1983151476206878842",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982956343729500285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 八达通这背靠政府的垄断系统是这样的\n建议发邮件给八达通"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982956293385269252",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TgPiBasAQSoK9.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982956293393645568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TgPiDagAAW9vc.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982956294563868674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TgPmaasAI9AGw.jpg",
+        "width": 947
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Kowloon City District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1724319,
+            22.2934292,
+            114.2193345,
+            22.3492137
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "00ae3ed017d9d14b",
+        "name": "Kowloon City District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982956343729500285",
+        "created_at": "2025-10-28T12:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983151476206878842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1983151476206878842",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982956343729500285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 八达通这背靠政府的垄断系统是这样的\n建议发邮件给八达通"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982956293385269252",
+            "3_1982956293393645568",
+            "3_1982956294563868674"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1982956343729500285",
+        "created_at": "2025-10-27T23:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T00:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982956343729500285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6uCeXSj0l",
+              "end": 45,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1982956343729500285/photo/1",
+              "media_key": "3_1982956293385269252",
+              "start": 22,
+              "url": "https://t.co/U6uCeXSj0l"
+            },
+            {
+              "display_url": "pic.x.com/U6uCeXSj0l",
+              "end": 45,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1982956343729500285/photo/1",
+              "media_key": "3_1982956293393645568",
+              "start": 22,
+              "url": "https://t.co/U6uCeXSj0l"
+            },
+            {
+              "display_url": "pic.x.com/U6uCeXSj0l",
+              "end": 45,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1982956343729500285/photo/1",
+              "media_key": "3_1982956294563868674",
+              "start": 22,
+              "url": "https://t.co/U6uCeXSj0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982956343729500285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么回事\n怎么没有充钱进去\n扣了咱200了 https://t.co/U6uCeXSj0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 682,
+          "like_count": 4720,
+          "listed_count": 7,
+          "media_count": 858,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8502,
+          "following_count": 7391,
+          "like_count": 26027,
+          "listed_count": 15,
+          "media_count": 5838,
+          "tweet_count": 38704
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

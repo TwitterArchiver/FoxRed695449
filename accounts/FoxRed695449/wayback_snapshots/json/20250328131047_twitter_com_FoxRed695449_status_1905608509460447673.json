@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1905204862272573546",
+    "created_at": "2025-03-28T13:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T14:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905608509460447673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3491424492",
+          "start": 0,
+          "username": "tianchen92"
+        },
+        {
+          "end": 28,
+          "id": "875709617480753154",
+          "start": 12,
+          "username": "ni_bingbing_jie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905608509460447673",
+    "in_reply_to_user_id": "3491424492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "戈壁地貌本身以石頭和礫石為主，表面較穩定，沙塵暴的發生概率相對較低。然而，戈壁地區並非完全沒有沙塵暴的可能。壁沙漠是世界上沙塵暴的主要來源之一，尤其是在春季（3 月和 4 月）。\n戈壁沙漠的沙塵暴通常是由其周邊的沙質區域（例如沙漠化的草原或小型沙地）提供的物質，而不是戈壁本身的礫石地貌直接引發的。戈壁地區的沙塵暴更多是由於乾燥的氣候和強風將細小顆粒（包括沙子和塵土）捲起，而不是戈壁地貌本身。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905603946946650317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianchen92 @ni_bingbing_jie 戈壁地貌本身以石頭和礫石為主，表面較穩定，沙塵暴的發生概率相對較低。然而，戈壁地區並非完全沒有沙塵暴的可能。壁沙漠是世界上沙塵暴的主要來源之一，尤其是在春季（3 月和 4 月）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1905204862272573546",
+        "created_at": "2025-03-28T13:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905608509460447673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3491424492",
+              "start": 0,
+              "username": "tianchen92"
+            },
+            {
+              "end": 28,
+              "id": "875709617480753154",
+              "start": 12,
+              "username": "ni_bingbing_jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905608509460447673",
+        "in_reply_to_user_id": "3491424492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "戈壁地貌本身以石頭和礫石為主，表面較穩定，沙塵暴的發生概率相對較低。然而，戈壁地區並非完全沒有沙塵暴的可能。壁沙漠是世界上沙塵暴的主要來源之一，尤其是在春季（3 月和 4 月）。\n戈壁沙漠的沙塵暴通常是由其周邊的沙質區域（例如沙漠化的草原或小型沙地）提供的物質，而不是戈壁本身的礫石地貌直接引發的。戈壁地區的沙塵暴更多是由於乾燥的氣候和強風將細小顆粒（包括沙子和塵土）捲起，而不是戈壁地貌本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905603946946650317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianchen92 @ni_bingbing_jie 戈壁地貌本身以石頭和礫石為主，表面較穩定，沙塵暴的發生概率相對較低。然而，戈壁地區並非完全沒有沙塵暴的可能。壁沙漠是世界上沙塵暴的主要來源之一，尤其是在春季（3 月和 4 月）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3491424492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1905204862272573546",
+        "created_at": "2025-03-28T12:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905603946946650317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "875709617480753154",
+              "start": 14,
+              "username": "ni_bingbing_jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905603946946650317",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905540201587638683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @ni_bingbing_jie 有2点请注意哦，1戈壁和沙漠是两种不同的地貌，沙漠是沙子，戈壁是石头，戈壁不会引发沙尘暴，中蒙边界大部分是草原和戈壁，沙漠比例少。2，蒙古高原，不是蒙古国。跟青藏高原，云贵高原一样是个地理概念而不是行政概念。蒙古高原大部分在蒙古国，只有一小部分在中国境内。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3211,
+          "following_count": 582,
+          "like_count": 2663,
+          "listed_count": 7,
+          "media_count": 457,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-08T09:23:40.000Z",
+        "description": "艺术硕士，毕业后从事6年设计工作，现在在做社工",
+        "id": "3491424492",
+        "name": "天辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/641181326310150144/l3BQmOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 39,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "tianchen92",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-16T13:40:17.000Z",
+        "description": "氷氷美人党幹事長、㈱中国スリムパラダイスアジア太平洋地区総代理\n山西省洪洞县大槐树后人\n✧₊⁎❝᷀ົཽ≀ˍ̮ ❝᷀ົཽ⁎⁺˳✧༚ᠲᠠᠪᠤᠨ ᠡᠰᠢᠲᠦ ᠨᠠᠮ ᠤᠨ ᠲᠡᠷᠢᠭᠦᠯᠡᠭᠴᠢ\n✨清水ともみのデマ反対✨邓为的梦中情人，窦骁也很迷🎶鍵垢のフォロワーをブロックするから悪しからず🎶wordle日課🎶",
+        "id": "875709617480753154",
+        "location": "霓虹",
+        "name": "【HENTAI】🌈東北照氷氷🇵🇸楕円機減量中",
+        "pinned_tweet_id": "1262702274888888320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766684316611043328/BnfnkqiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 772,
+          "like_count": 161069,
+          "listed_count": 46,
+          "media_count": 5015,
+          "tweet_count": 58361
+        },
+        "username": "ni_bingbing_jie",
+        "verified": false
+      }
+    ]
+  }
+}

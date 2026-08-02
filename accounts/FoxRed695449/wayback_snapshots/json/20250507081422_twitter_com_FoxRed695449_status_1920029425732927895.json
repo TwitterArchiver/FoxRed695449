@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-07T08:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T09:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920029425732927895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1875811786454396929",
+          "start": 0,
+          "username": "ouiofian"
+        },
+        {
+          "end": 26,
+          "id": "1839168670918127617",
+          "start": 10,
+          "username": "TidVR7NzHA26324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920029425732927895",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920028839687946288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouiofian @TidVR7NzHA26324 誒，要談出國沒出過國，要說對象沒對象，要說朋友沒朋友\n你有什麼？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34698,
+        "height": 1278,
+        "media_key": "7_1920028759685791746",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920028759685791746/pu/img/yzEuaGP0xPEaBjtM.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920028759685791746/pu/vid/avc1/320x692/k3cduCDuzKBk_YiC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920028759685791746/pu/vid/avc1/480x1038/_8Fs9aLleIK4siQV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920028759685791746/pu/vid/avc1/590x1278/aWB573fz8zw9dS53.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920028759685791746/pu/pl/mcsZ_WxNCgOZLtBQ.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920029425732927895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920029425732927895",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920028839687946288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 誒，要談出國沒出過國，要說對象沒對象，要說朋友沒朋友\n你有什麼？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920028759685791746"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T08:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920028839687946288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHUIFLtLMa",
+              "end": 71,
+              "expanded_url": "https://x.com/FoxRed695449/status/1920028839687946288/video/1",
+              "media_key": "7_1920028759685791746",
+              "start": 48,
+              "url": "https://t.co/vHUIFLtLMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920028839687946288",
+        "in_reply_to_user_id": "1875811786454396929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920025630457937989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 美國大半夜的時候給你找個美國人的確不容易 https://t.co/vHUIFLtLMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 645,
+          "like_count": 3083,
+          "listed_count": 6,
+          "media_count": 556,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T07:49:34.000Z",
+        "description": "",
+        "id": "1875811786454396929",
+        "name": "马平川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900144364141371399/-Xckg6fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 503,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 795
+        },
+        "username": "ouiofian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 466,
+          "like_count": 12553,
+          "listed_count": 34,
+          "media_count": 764,
+          "tweet_count": 8383
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

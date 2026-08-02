@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-07T07:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920021862173835590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1875811786454396929",
+          "start": 0,
+          "username": "ouiofian"
+        },
+        {
+          "end": 26,
+          "id": "1839168670918127617",
+          "start": 10,
+          "username": "TidVR7NzHA26324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 82,
+          "expanded_url": "https://x.com/FoxRed695449/status/1919911983908061247?t=9JNurTb1JZjS-FUOAMiYaw&s=19",
+          "start": 59,
+          "url": "https://t.co/hHnKi8wyVX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920021862173835590",
+    "in_reply_to_user_id": "1875811786454396929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919911983908061247",
+        "type": "quoted"
+      },
+      {
+        "id": "1920019987869098449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouiofian @TidVR7NzHA26324 但问题不就是你们曱甴脑残们把香港搞烂了企业才出走的吗？\n已經回答https://t.co/hHnKi8wyVX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T07:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920021862173835590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 82,
+              "expanded_url": "https://x.com/FoxRed695449/status/1919911983908061247?t=9JNurTb1JZjS-FUOAMiYaw&s=19",
+              "start": 59,
+              "url": "https://t.co/hHnKi8wyVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920021862173835590",
+        "in_reply_to_user_id": "1875811786454396929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919911983908061247",
+            "type": "quoted"
+          },
+          {
+            "id": "1920019987869098449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 但问题不就是你们曱甴脑残们把香港搞烂了企业才出走的吗？\n已經回答https://t.co/hHnKi8wyVX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T00:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T01:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919911983908061247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919911983908061247",
+        "in_reply_to_user_id": "1875811786454396929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919655219895378059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 隨便舉個例子\n難道tiktok是你所謂的暴亂，而不是國安法停止香港的服務嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875811786454396929",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920019987869098449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1839168670918127617",
+              "start": 14,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920019987869098449",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920017731468100063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TidVR7NzHA26324 澳门是特别行政区，香港嘛，就一渔村\n你先搞明白为什么美国不能用抖音再来讲出国和认知吧\n企业税收当然是政府主要收入来源，但问题不就是你们曱甴脑残们把香港搞烂了企业才出走的吗？\n经典达利特领班，给人扣个真穷的帽子然后开嘲讽，问题是歧视穷人这一套在你所谓的民主社会里也是过街老鼠哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 645,
+          "like_count": 3083,
+          "listed_count": 6,
+          "media_count": 553,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T07:49:34.000Z",
+        "description": "",
+        "id": "1875811786454396929",
+        "name": "马平川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900144364141371399/-Xckg6fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 502,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 786
+        },
+        "username": "ouiofian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 466,
+          "like_count": 12553,
+          "listed_count": 34,
+          "media_count": 764,
+          "tweet_count": 8383
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

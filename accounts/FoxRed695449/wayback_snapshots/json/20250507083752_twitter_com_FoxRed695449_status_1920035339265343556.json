@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920035332059496448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-07T08:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T09:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920035339265343556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1875811786454396929",
+          "start": 0,
+          "username": "ouiofian"
+        },
+        {
+          "end": 26,
+          "id": "1839168670918127617",
+          "start": 10,
+          "username": "TidVR7NzHA26324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/scqaUNvMyg",
+          "end": 76,
+          "expanded_url": "https://x.com/FoxRed695449/status/1920035339265343556/photo/1",
+          "media_key": "3_1920035332059496448",
+          "start": 53,
+          "url": "https://t.co/scqaUNvMyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920035339265343556",
+    "in_reply_to_user_id": "1875811786454396929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920033793257210323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouiofian @TidVR7NzHA26324 你要是也能像我家長給我一張這個也不是不行\n你能嗎？ https://t.co/scqaUNvMyg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_1920035332059496448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqVV9jObAAAaQeW.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920035332059496448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T08:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920035339265343556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scqaUNvMyg",
+              "end": 76,
+              "expanded_url": "https://x.com/FoxRed695449/status/1920035339265343556/photo/1",
+              "media_key": "3_1920035332059496448",
+              "start": 53,
+              "url": "https://t.co/scqaUNvMyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920035339265343556",
+        "in_reply_to_user_id": "1875811786454396929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920033793257210323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 你要是也能像我家長給我一張這個也不是不行\n你能嗎？ https://t.co/scqaUNvMyg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875811786454396929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920033793257210323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1839168670918127617",
+              "start": 14,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920033793257210323",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920029425732927895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TidVR7NzHA26324 我有你这个不孝子。\n你踏马跟有病似的，老子出国还得给你汇报？别说我出过国，就算我没出过国，然后呢？我说的就是错的？我就得在你那套歧视链里面自卑的活不下去？\n老子没女朋友是因为不想谈，你踏马管得着吗\n老子跟朋友出去飚车也得跟你汇报，当然他们不算我朋友，算是我儿子们，是你异父异母的兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 645,
+          "like_count": 3083,
+          "listed_count": 6,
+          "media_count": 556,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T07:49:34.000Z",
+        "description": "",
+        "id": "1875811786454396929",
+        "name": "马平川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900144364141371399/-Xckg6fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 503,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 799
+        },
+        "username": "ouiofian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 466,
+          "like_count": 12555,
+          "listed_count": 34,
+          "media_count": 764,
+          "tweet_count": 8385
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

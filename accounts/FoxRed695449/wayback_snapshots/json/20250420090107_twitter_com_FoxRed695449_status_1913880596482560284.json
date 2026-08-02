@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913880593613676544"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1913880447505019280",
+    "created_at": "2025-04-20T09:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T10:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913880596482560284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixjeC4JN9R",
+          "end": 29,
+          "expanded_url": "https://x.com/FoxRed695449/status/1913880596482560284/photo/1",
+          "media_key": "3_1913880593613676544",
+          "start": 6,
+          "url": "https://t.co/ixjeC4JN9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913880596482560284",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913880447505019280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "過於抽象了 https://t.co/ixjeC4JN9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1913880593613676544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go94QnzbYAAJyzm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1998,
+        "media_key": "3_1913880444787122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go94H9YaYAA4CzY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913880593613676544"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1913880447505019280",
+        "created_at": "2025-04-20T09:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T10:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913880596482560284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixjeC4JN9R",
+              "end": 29,
+              "expanded_url": "https://x.com/FoxRed695449/status/1913880596482560284/photo/1",
+              "media_key": "3_1913880593613676544",
+              "start": 6,
+              "url": "https://t.co/ixjeC4JN9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913880596482560284",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913880447505019280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "過於抽象了 https://t.co/ixjeC4JN9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913880444787122176"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1913880447505019280",
+        "created_at": "2025-04-20T09:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T10:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913880447505019280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRJ6apSnk8",
+              "end": 44,
+              "expanded_url": "https://x.com/FoxRed695449/status/1913880447505019280/photo/1",
+              "media_key": "3_1913880444787122176",
+              "start": 21,
+              "url": "https://t.co/KRJ6apSnk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913880447505019280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tm是穿越了？\n你告訴我這是2025？ https://t.co/KRJ6apSnk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 614,
+          "like_count": 2870,
+          "listed_count": 6,
+          "media_count": 485,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "2042634988634693714",
+    "created_at": "2026-04-10T16:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042634988634693714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CRRC_global/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/CRRC_global/status/2042591426735956096",
+          "start": 15,
+          "url": "https://t.co/8XqCQ0WvjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042634988634693714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042591426735956096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反对直特换桶！还我原色大列！ https://t.co/8XqCQ0WvjV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2040100219157966848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_kVyUbcAAjKe7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2042634988634693714",
+        "created_at": "2026-04-10T16:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042634988634693714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CRRC_global/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/CRRC_global/status/2042591426735956096",
+              "start": 15,
+              "url": "https://t.co/8XqCQ0WvjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042634988634693714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042591426735956096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对直特换桶！还我原色大列！ https://t.co/8XqCQ0WvjV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040100219157966848"
+          ]
+        },
+        "author_id": "749959949141155840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2042591426735956096",
+        "created_at": "2026-04-10T13:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042591426735956096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 175,
+              "start": 168,
+              "tag": "Fuxing"
+            },
+            {
+              "end": 274,
+              "start": 269,
+              "tag": "CRRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C058X4X9hm",
+              "end": 298,
+              "expanded_url": "https://x.com/CRRC_global/status/2042591426735956096/photo/1",
+              "media_key": "3_2040100219157966848",
+              "start": 275,
+              "url": "https://t.co/C058X4X9hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042591426735956096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 175,
+                "start": 168,
+                "tag": "Fuxing"
+              },
+              {
+                "end": 274,
+                "start": 269,
+                "tag": "CRRC"
+              },
+              {
+                "end": 286,
+                "start": 275,
+                "tag": "KapokBloom"
+              },
+              {
+                "end": 301,
+                "start": 287,
+                "tag": "HighSpeedRail"
+              }
+            ]
+          },
+          "text": "🚆 Trains glide past blazing kapok blooms 🌺. \n 🌿 From March to April, along the Beijing–Kowloon Railway 🛤️, clusters of vibrant kapok flowers 🌸 burst into full bloom as #Fuxing high-speed trains rush by—capturing a striking spring moment where motion meets stillness ✨.\n#CRRC #KapokBloom #HighSpeedRail"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚆 Trains glide past blazing kapok blooms 🌺. \n 🌿 From March to April, along the Beijing–Kowloon Railway 🛤️, clusters of vibrant kapok flowers 🌸 burst into full bloom as #Fuxing high-speed trains rush by—capturing a striking spring moment where motion meets stillness ✨.\n#CRRC https://t.co/C058X4X9hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 809,
+          "like_count": 7400,
+          "listed_count": 7,
+          "media_count": 981,
+          "tweet_count": 3112
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-04T13:36:00.000Z",
+        "description": "WORKING WITH YOU TO CONNECT THE WORLD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crrcgc.cc/en",
+                "end": 23,
+                "expanded_url": "https://www.crrcgc.cc/en",
+                "start": 0,
+                "url": "https://t.co/959LTvX1Dc"
+              }
+            ]
+          }
+        },
+        "id": "749959949141155840",
+        "location": "Worldwide",
+        "name": "CRRC Corporation Ltd.",
+        "pinned_tweet_id": "1838412481208992119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/749962868435542017/EP-0yLje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20278,
+          "following_count": 194,
+          "like_count": 3642,
+          "listed_count": 65,
+          "media_count": 2358,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/959LTvX1Dc",
+        "username": "CRRC_global",
+        "verified": true
+      }
+    ]
+  }
+}

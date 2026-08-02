@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1969697880765243771",
+    "created_at": "2025-09-21T13:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969756673427616198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaAkira"
+        }
+      ],
+      "urls": [
+        {
+          "description": "新版教程：https://youtu.be/oRyjX44Bxw4用安卓手机当软路由可行吗？ 已知大部分软路由都是刷openwrt系统，并且openwrt是基于linux，又因为安卓也是基于linux 可知安卓就是软路由，没毛病！教程中用到的文档：https://bulianglin.com/archives/a...",
+          "display_url": "youtu.be/r6nXCgYkXTQ?si…",
+          "end": 40,
+          "expanded_url": "https://youtu.be/r6nXCgYkXTQ?si=cdW7FCduqiG_Cxkd",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1969756674274820097/gpz-61x0?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1969756674274820097/gpz-61x0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "【全网首发】闲置安卓手机充当软路由，突破第三方VPN客户端设备限制，接管局域网所有设备上网数据实现全家科学上网，旁路网关、旁路由、透明代理、透明网关、网关代理、网关模式、代替openwrt软路由",
+          "unwound_url": "https://www.youtube.com/watch?si=cdW7FCduqiG_Cxkd&v=r6nXCgYkXTQ&feature=youtu.be",
+          "url": "https://t.co/8mdx1NPwKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969756673427616198",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969697880765243771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaAkira https://t.co/8mdx1NPwKm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1969697880765243771",
+        "created_at": "2025-09-21T13:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969756673427616198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaAkira"
+            }
+          ],
+          "urls": [
+            {
+              "description": "新版教程：https://youtu.be/oRyjX44Bxw4用安卓手机当软路由可行吗？ 已知大部分软路由都是刷openwrt系统，并且openwrt是基于linux，又因为安卓也是基于linux 可知安卓就是软路由，没毛病！教程中用到的文档：https://bulianglin.com/archives/a...",
+              "display_url": "youtu.be/r6nXCgYkXTQ?si…",
+              "end": 40,
+              "expanded_url": "https://youtu.be/r6nXCgYkXTQ?si=cdW7FCduqiG_Cxkd",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1969756674274820097/gpz-61x0?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969756674274820097/gpz-61x0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "【全网首发】闲置安卓手机充当软路由，突破第三方VPN客户端设备限制，接管局域网所有设备上网数据实现全家科学上网，旁路网关、旁路由、透明代理、透明网关、网关代理、网关模式、代替openwrt软路由",
+              "unwound_url": "https://www.youtube.com/watch?si=cdW7FCduqiG_Cxkd&v=r6nXCgYkXTQ&feature=youtu.be",
+              "url": "https://t.co/8mdx1NPwKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969756673427616198",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969697880765243771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaAkira https://t.co/8mdx1NPwKm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1969697880765243771",
+        "created_at": "2025-09-21T09:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969697880765243771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969697880765243771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有办法可以把家里wifi设计成不用开梯子就能上外网😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 695,
+          "like_count": 4371,
+          "listed_count": 8,
+          "media_count": 806,
+          "tweet_count": 2496
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "愿我们都能达到理想的彼岸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "游戳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967836914817597440/NxMReEln_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7896,
+          "following_count": 849,
+          "like_count": 46162,
+          "listed_count": 11,
+          "media_count": 3427,
+          "tweet_count": 27804
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaAkira",
+        "verified": true
+      }
+    ]
+  }
+}

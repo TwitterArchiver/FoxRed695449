@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1870090794318868501",
+    "created_at": "2024-12-20T12:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T13:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870090794318868501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nekomakiqaq/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nekomakiqaq/status/1870090555704877429",
+          "start": 24,
+          "url": "https://t.co/vyyKA9RBx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870090794318868501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870090555704877429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她让我转发一下，因为她被铐着所以文案就我来写了 https://t.co/vyyKA9RBx8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1870090794318868501",
+        "created_at": "2024-12-20T12:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T13:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870090794318868501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekomakiqaq/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nekomakiqaq/status/1870090555704877429",
+              "start": 24,
+              "url": "https://t.co/vyyKA9RBx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870090794318868501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870090555704877429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她让我转发一下，因为她被铐着所以文案就我来写了 https://t.co/vyyKA9RBx8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870090541071003648",
+            "3_1870090541066792961"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1870090555704877429",
+        "created_at": "2024-12-20T12:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T13:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870090555704877429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781308864438345728",
+              "start": 3,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3BoDbGV6X",
+              "end": 40,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1870090555704877429/photo/1",
+              "media_key": "3_1870090541071003648",
+              "start": 17,
+              "url": "https://t.co/p3BoDbGV6X"
+            },
+            {
+              "display_url": "pic.x.com/p3BoDbGV6X",
+              "end": 40,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1870090555704877429/photo/1",
+              "media_key": "3_1870090541066792961",
+              "start": 17,
+              "url": "https://t.co/p3BoDbGV6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870090555704877429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抓到了@FoxRed695449 https://t.co/p3BoDbGV6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 375,
+          "like_count": 977,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 472
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "| @OakesHobart | @RanXi_MtF | @Yan_Xing_Xing |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "OakesHobart"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "RanXi_MtF"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Yan_Xing_Xing"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫巻 Lumi Jensen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869370190259228673/MvHVtEXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 596,
+          "like_count": 24106,
+          "listed_count": 8,
+          "media_count": 797,
+          "tweet_count": 8051
+        },
+        "username": "nekomakiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2032634188613181897",
+    "created_at": "2026-03-14T10:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032764185004966214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1234075170652016640",
+          "start": 0,
+          "username": "BitHe2t"
+        },
+        {
+          "end": 22,
+          "id": "1512280643761479680",
+          "start": 9,
+          "username": "nianshoulong"
+        },
+        {
+          "end": 35,
+          "id": "1028925064601788417",
+          "start": 23,
+          "username": "BeiKunKun22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764185004966214",
+    "in_reply_to_user_id": "1234075170652016640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032725663795564883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BitHe2t @nianshoulong @BeiKunKun22 中国pos机手续费哪有这么高\n根据中国人民银行《关于完善银行卡刷卡手续费定价机制的通知》\n储蓄卡发卡行服务费费率不得超过交易金额的0.35%，最高13元，网络服务费费率不得超过交易金额的0.065，最高6.5元\n信用卡发卡行服务费费率不得超过交易金额的0.45%，网络服务费费率最高不得超过6.5元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2032634188613181897",
+        "created_at": "2026-03-14T10:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032764185004966214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1234075170652016640",
+              "start": 0,
+              "username": "BitHe2t"
+            },
+            {
+              "end": 22,
+              "id": "1512280643761479680",
+              "start": 9,
+              "username": "nianshoulong"
+            },
+            {
+              "end": 35,
+              "id": "1028925064601788417",
+              "start": 23,
+              "username": "BeiKunKun22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764185004966214",
+        "in_reply_to_user_id": "1234075170652016640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032725663795564883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BitHe2t @nianshoulong @BeiKunKun22 中国pos机手续费哪有这么高\n根据中国人民银行《关于完善银行卡刷卡手续费定价机制的通知》\n储蓄卡发卡行服务费费率不得超过交易金额的0.35%，最高13元，网络服务费费率不得超过交易金额的0.065，最高6.5元\n信用卡发卡行服务费费率不得超过交易金额的0.45%，网络服务费费率最高不得超过6.5元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234075170652016640",
+        "conversation_id": "2032634188613181897",
+        "created_at": "2026-03-14T07:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032725663795564883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512280643761479680",
+              "start": 0,
+              "username": "nianshoulong"
+            },
+            {
+              "end": 26,
+              "id": "1028925064601788417",
+              "start": 14,
+              "username": "BeiKunKun22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032725663795564883",
+        "in_reply_to_user_id": "1512280643761479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1040,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032679793750417495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianshoulong @BeiKunKun22 POS 机有 3%-5% 的手续费…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 802,
+          "like_count": 6811,
+          "listed_count": 7,
+          "media_count": 945,
+          "tweet_count": 3005
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-01T11:17:28.000Z",
+        "description": "emmm我该写点啥呢\n算了，不怎么玩推，扩列上QQ3370875911",
+        "id": "1234075170652016640",
+        "name": "夜痕就是个屑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638923769858359296/bS9p9Pad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 117,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 51
+        },
+        "username": "BitHe2t",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T04:06:27.000Z",
+        "description": "愿你能拥抱希望和爱｜愿你有能力爱与被爱｜变成可爱毛茸茸的我@JiLi_Fox丨勿挂念坠入深渊的我@jilifuneng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "JiLi_Fox"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "jilifuneng"
+              }
+            ]
+          }
+        },
+        "id": "1512280643761479680",
+        "location": "Guangdong",
+        "name": "年兽龙（等待重生版）",
+        "pinned_tweet_id": "1792404911176728870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659240762838781954/YNM77ZXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 174,
+          "like_count": 2883,
+          "listed_count": 3,
+          "media_count": 692,
+          "tweet_count": 5488
+        },
+        "username": "nianshoulong",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-13T08:43:46.000Z",
+        "description": "这里是我的QQ空间。是会频繁发自己想法的神秘理中客，如有冒犯可以静音。相信人是具体的，长期开放讨论空间，欢迎与我约聊。福瑞真是太棒啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furrysky.com",
+                "end": 23,
+                "expanded_url": "http://furrysky.com",
+                "start": 0,
+                "url": "https://t.co/vUXpuwTP3W"
+              }
+            ]
+          }
+        },
+        "id": "1028925064601788417",
+        "location": "月球，境外势力",
+        "name": "北冥饼鲲",
+        "pinned_tweet_id": "1584120523180879872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022941370546294784/FOfgRTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 1022,
+          "like_count": 10340,
+          "listed_count": 8,
+          "media_count": 1199,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/vUXpuwTP3W",
+        "username": "BeiKunKun22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920025318829785091"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-07T07:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920025328509972497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1875811786454396929",
+          "start": 0,
+          "username": "ouiofian"
+        },
+        {
+          "end": 26,
+          "id": "1839168670918127617",
+          "start": 10,
+          "username": "TidVR7NzHA26324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpZhatZ9c6",
+          "end": 97,
+          "expanded_url": "https://x.com/FoxRed695449/status/1920025328509972497/photo/1",
+          "media_key": "3_1920025318829785091",
+          "start": 74,
+          "url": "https://t.co/UpZhatZ9c6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920025328509972497",
+    "in_reply_to_user_id": "1875811786454396929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920024044126003371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouiofian @TidVR7NzHA26324 你用ai給我回覆算什麼啊\nai還說台灣是獨立國家呢\n你用明顯有提示性的話ai當然我按照你的來 https://t.co/UpZhatZ9c6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920025318829785091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqVM2tCbAAMTU8y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920025318829785091"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T07:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920025328509972497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1875811786454396929",
+              "start": 0,
+              "username": "ouiofian"
+            },
+            {
+              "end": 26,
+              "id": "1839168670918127617",
+              "start": 10,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpZhatZ9c6",
+              "end": 97,
+              "expanded_url": "https://x.com/FoxRed695449/status/1920025328509972497/photo/1",
+              "media_key": "3_1920025318829785091",
+              "start": 74,
+              "url": "https://t.co/UpZhatZ9c6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920025328509972497",
+        "in_reply_to_user_id": "1875811786454396929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920024044126003371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouiofian @TidVR7NzHA26324 你用ai給我回覆算什麼啊\nai還說台灣是獨立國家呢\n你用明顯有提示性的話ai當然我按照你的來 https://t.co/UpZhatZ9c6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875811786454396929",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-07T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920024044126003371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1839168670918127617",
+              "start": 14,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "description": "美国用户无法直接使用中国版抖音（即“抖音”应用）主要有以下几个原因： 1. **地区限制与应用分发**： - 抖音（中国版）是由字节跳动（ByteDance）开发，专为中国大陆市场设计。它在中国的应用商店（如华为应用市场、苹果App Store中国区）分发，但并未在美国的应用商店上架。美国用户无法通过常规渠道下载中国版抖音。 - 字节跳动为国际市场推出了TikTok，作为抖音的国际版本。TikTok的内容、功能和运营策略针对全球用户进行了本地化调整，而抖音则保留了中国市场的特色（如不同的内容审核规则和文化偏好）。 2. **内容与审核差异**： - 抖音的内容主要面向中国用户，语言以中文为主，且受中国大陆的严格内容审核政策约束。内容涵盖中国本地文化、流行趋势和政策导向，可能不完全适合或吸引国际用户。 - TikTok则根据美国和其他国家的法律、文化和用户习惯进行内容管理和推荐，遵守当地的隐私法和内容监管要求（如美国的COPPA儿童在线隐私保护法案）。 3. **数据隐私与国家安全担忧**： - 美国政府和部分公众对中国应用程序的数据隐私问题表示担忧，认为抖音（或TikTok）可能将用户数据传输给中国政府。尽管字节跳动多次否认这些指控，美国仍对TikTok实施了严格审查。 - 2020年，特朗普政府曾试图禁止TikTok在美国运营，理由是国家安全风险（后被法院暂停）。2024年，美国通过了一项法案，要求字节跳动在一年内剥离TikTok的美国业务，否则将面临应用商店禁令。这进一步限制了中国版抖音直接进入美国市场的可能性。 4. **技术与账号隔离**： - 抖音和TikTok在技术上运行在不同的服务器和生态系统中。抖音的账号体系与中国的手机号码和实名制绑定，而TikTok使用独立的账号体系，适配国际用户的登录方式（如邮箱或第三方平台登录）。 - 即使美国用户通过非官方渠道下载抖音，也可能因网络限制（如中国的防火长城）或账号注册问题无法正常使用。 **为什么不用一个全球统一版本？** 字节跳动选择将抖音和TikTok分开运营，主要是为了适应当地市场的监管、文化和用户需求。统一版本可能面临更复杂的全球内容审核和法律合规问题，同时也难以满足不同地区的个性化需求。 **总结**： 美国无法使用中国版抖音是因为应用分发的地区限制、内容与审核的差异、数据隐私与国家安全担忧，以及技术",
+              "display_url": "x.com/i/grok/share/i…",
+              "end": 74,
+              "expanded_url": "https://x.com/i/grok/share/iSOszX8YV4WWP3FQXGvPDNcNm",
+              "start": 51,
+              "status": 200,
+              "title": "美国为什么不能使用中国版抖音",
+              "unwound_url": "https://x.com/i/grok/share/iSOszX8YV4WWP3FQXGvPDNcNm",
+              "url": "https://t.co/4ffko9Su5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920024044126003371",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920021779608633601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TidVR7NzHA26324 就你这认知水平，再出10年国怕是也没治\nhttps://t.co/4ffko9Su5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 645,
+          "like_count": 3083,
+          "listed_count": 6,
+          "media_count": 555,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T07:49:34.000Z",
+        "description": "",
+        "id": "1875811786454396929",
+        "name": "马平川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900144364141371399/-Xckg6fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 502,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 792
+        },
+        "username": "ouiofian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 466,
+          "like_count": 12553,
+          "listed_count": 34,
+          "media_count": 764,
+          "tweet_count": 8383
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

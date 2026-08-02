@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1867135684575916270",
+    "created_at": "2024-12-12T09:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T10:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867135684575916270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867135684575916270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867125513145471355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 8月，一群人卧底报道了矫正学校的黑幕，正如杨永信，受害者有孩子，也有独立的成年人。这些人被以各种理由送进去改造，包括因为有自己独立的思想而不听父母话、或是如这次卧底的策划者，仅仅是自己想重新参加高考、又或者是父母想“矫正”性少数的想法。这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1867135684575916270",
+        "created_at": "2024-12-12T09:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T10:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867135684575916270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867135684575916270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867125513145471355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 8月，一群人卧底报道了矫正学校的黑幕，正如杨永信，受害者有孩子，也有独立的成年人。这些人被以各种理由送进去改造，包括因为有自己独立的思想而不听父母话、或是如这次卧底的策划者，仅仅是自己想重新参加高考、又或者是父母想“矫正”性少数的想法。这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867119898591367168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867125513145471355",
+        "created_at": "2024-12-12T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T09:31:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867125204612415815",
+          "1867125513145471355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXC1RwcI4s",
+              "end": 164,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1867125513145471355/video/1",
+              "media_key": "7_1867119898591367168",
+              "start": 141,
+              "url": "https://t.co/vXC1RwcI4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867125513145471355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "8月，一群人卧底报道了矫正学校的黑幕，正如杨永信，受害者有孩子，也有独立的成年人。这些人被以各种理由送进去改造，包括因为有自己独立的思想而不听父母话、或是如这次卧底的策划者，仅仅是自己想重新参加高考、又或者是父母想“矫正”性少数的想法。这些学校通过暴力虐待和监狱化管理来“矫正”\n这些受害者们经历了比监狱还要痛苦的肉体和精神上的双重折磨，被非法拘禁数月，期间是不停的打骂和虐待，并从心灵上摧残受害者，并暴力逼迫写下“违心的”感恩信：歌颂自己受到的折磨。对受害者们造成了严重的心理创伤和一辈子挥之不去的梦魇。而即使你是一个有完全行为能力的成年人，你父母也可以把你当一个物品一样随意送进去，除非你彻底变成一个听话并让父母满意的“机器人”，否则除了死以外，永远无法离开。\n目前相关视频和新闻已经在全网各个平台下架\n策划者被关的是“创德青少年智慧成长中心” ，其在开封市龙亭区、山东曹县郑庄、河南商丘永城十八里镇均有校区； 其中，这家机构还将永城校区起名为“专门教育学校”。 文章中还涉及： 成都新巴蜀特训学校； 湖南圣博教育基地； 河南南阳指南针教育基地 河南中牟柯贞教育 这些学校均为矫正/特训学校，涉嫌包括非法拘禁，虐待未成年人和成年人，侮辱殴打等大量违法行为。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 26024,
+          "like_count": 167,
+          "quote_count": 4,
+          "reply_count": 24,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "8月，一群人卧底报道了矫正学校的黑幕，正如杨永信，受害者有孩子，也有独立的成年人。这些人被以各种理由送进去改造，包括因为有自己独立的思想而不听父母话、或是如这次卧底的策划者，仅仅是自己想重新参加高考、又或者是父母想“矫正”性少数的想法。这些学校通过暴力虐待和监狱化管理来“矫正”… https://t.co/vXC1RwcI4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3237,
+          "following_count": 352,
+          "like_count": 791,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 363
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865833,
+          "following_count": 932,
+          "like_count": 5515,
+          "listed_count": 8017,
+          "media_count": 20167,
+          "tweet_count": 26390
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

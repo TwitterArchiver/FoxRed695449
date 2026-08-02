@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2052274137264226796",
+    "created_at": "2026-05-07T07:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052292165540495668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4766798780",
+          "start": 0,
+          "username": "sora_shiorin90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052292165540495668",
+    "in_reply_to_user_id": "4766798780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052283545436225778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sora_shiorin90 好问题\n对于我来说就是一个接电话测心率测睡眠有的时候刷公交地铁的东西🤔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052283545436225778].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052283545436225778",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052283545436225778"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2052274137264226796",
+        "created_at": "2026-05-07T07:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052292165540495668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4766798780",
+              "start": 0,
+              "username": "sora_shiorin90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052292165540495668",
+        "in_reply_to_user_id": "4766798780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052283545436225778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sora_shiorin90 好问题\n对于我来说就是一个接电话测心率测睡眠有的时候刷公交地铁的东西🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 829,
+          "like_count": 7913,
+          "listed_count": 7,
+          "media_count": 1012,
+          "tweet_count": 3233
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-16T05:38:19.000Z",
+        "description": "无证含糖 🏳️‍⚧️🇭🇰 || MTX(F)? || HRT 2024.08.02  |（1989.12）|| cochlear implant || 无性恋 | 泛性恋｜迴避型依恋人格｜beloved hugs: @choco_synapse｜妹妹：@Htoz1790524｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "choco_synapse"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "4766798780",
+        "location": "不在地球🌏",
+        "name": "汐凜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980441926710030336/QK_fyuRd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 1235,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 814
+        },
+        "username": "sora_shiorin90",
+        "verified": false
+      }
+    ]
+  }
+}

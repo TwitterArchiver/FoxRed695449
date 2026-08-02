@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995589674610601984"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1995462917471260816",
+    "created_at": "2025-12-01T20:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995589691543093536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9bTtZje5r",
+          "end": 53,
+          "expanded_url": "https://x.com/FoxRed695449/status/1995589691543093536/photo/1",
+          "media_key": "3_1995589674610601984",
+          "start": 30,
+          "url": "https://t.co/L9bTtZje5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995589691543093536",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995462917471260816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 难以辨认是怎么样的给各位举个例子： https://t.co/L9bTtZje5r"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995589691543093536].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995589691543093536",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995589691543093536"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1995589674610601984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HCPGiaMAAQ77n.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1995462917471260816",
+        "created_at": "2025-12-01T12:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995462917471260816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "警方表示，当中54个遗体有待辨认，受伤人数为79名，另有100个案无法追查，原因包括报案人联络不上，资料零碎及报案人未能提供更多资料等。",
+              "display_url": "bbc.in/4phuEoa",
+              "end": 84,
+              "expanded_url": "https://bbc.in/4phuEoa",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/1995462959963754497/Kss5E_B3?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995462959963754497/Kss5E_B3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "香港宏福苑大火：死亡数字升至151人，警方和廉署拘逾20人，“四大诉求”发起人“获准保释” - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/clykevkpvz7o/simp?at_format=link&at_bbc_team=editorial&at_link_origin=bbcchinese&at_link_id=F81A2C38-CE9F-11F0-9660-A3F00659EDF6&at_ptr_name=twitter&at_link_type=web_link&at_campaign_type=owned&at_medium=social&at_campaign=Social_Flow",
+              "url": "https://t.co/8RnAyXg9lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995462917471260816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 62147,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "香港警方表示，周一（12月1日）新发现5具大埔宏福苑火灾遗体，死亡人数增至151人。警方称有些遗体已烧化灰烬，难以辨认。\nhttps://t.co/8RnAyXg9lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 708,
+          "like_count": 5096,
+          "listed_count": 7,
+          "media_count": 900,
+          "tweet_count": 2768
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5123697,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11896,
+          "media_count": 24159,
+          "tweet_count": 154417
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

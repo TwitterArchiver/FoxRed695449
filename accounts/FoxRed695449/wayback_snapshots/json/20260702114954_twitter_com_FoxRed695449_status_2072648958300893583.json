@@ -1,0 +1,668 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072648947420868608",
+        "3_2072648947412488192",
+        "3_2072648948104437760",
+        "3_2072648947416608768"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2072316452246622408",
+    "created_at": "2026-07-02T11:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072648958300893583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4815298353",
+          "start": 0,
+          "username": "Da81Secret"
+        },
+        {
+          "end": 28,
+          "id": "1807910824918634496",
+          "start": 12,
+          "username": "suanrongyouyuxu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDIqa0gQFK",
+          "end": 178,
+          "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+          "media_key": "3_2072648947420868608",
+          "start": 155,
+          "url": "https://t.co/mDIqa0gQFK"
+        },
+        {
+          "display_url": "pic.x.com/mDIqa0gQFK",
+          "end": 178,
+          "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+          "media_key": "3_2072648947412488192",
+          "start": 155,
+          "url": "https://t.co/mDIqa0gQFK"
+        },
+        {
+          "display_url": "pic.x.com/mDIqa0gQFK",
+          "end": 178,
+          "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+          "media_key": "3_2072648948104437760",
+          "start": 155,
+          "url": "https://t.co/mDIqa0gQFK"
+        },
+        {
+          "display_url": "pic.x.com/mDIqa0gQFK",
+          "end": 178,
+          "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+          "media_key": "3_2072648947416608768",
+          "start": 155,
+          "url": "https://t.co/mDIqa0gQFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072648958300893583",
+    "in_reply_to_user_id": "4815298353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072500858160595000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Da81Secret @suanrongyouyuxu 这边建议阁下别买苹果或者安卓设备，别用Google搜索，别刷YouTube，别用GMS，毕竟你给这些产品贡献的钱/给他们提供的商业价值都有可能被用来宣传DEI，苹果现任CEO自己也是个同性恋；你还是买华为用纯血鸿蒙好，这样你的钱就不会用在DEI上面了 https://t.co/mDIqa0gQFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2072648947420868608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOHPH8bsAAYpT1.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1011,
+        "media_key": "3_2072648947412488192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOHPH6b0AATlcO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 649,
+        "media_key": "3_2072648948104437760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOHPKfaIAAkHfk.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2196,
+        "media_key": "3_2072648947416608768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOHPH7asAAelf_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 479,
+        "media_key": "3_2072500855849578496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMAjD2bcAASCMh.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072648947420868608",
+            "3_2072648947412488192",
+            "3_2072648948104437760",
+            "3_2072648947416608768"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2072316452246622408",
+        "created_at": "2026-07-02T11:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072648958300893583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4815298353",
+              "start": 0,
+              "username": "Da81Secret"
+            },
+            {
+              "end": 28,
+              "id": "1807910824918634496",
+              "start": 12,
+              "username": "suanrongyouyuxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDIqa0gQFK",
+              "end": 178,
+              "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+              "media_key": "3_2072648947420868608",
+              "start": 155,
+              "url": "https://t.co/mDIqa0gQFK"
+            },
+            {
+              "display_url": "pic.x.com/mDIqa0gQFK",
+              "end": 178,
+              "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+              "media_key": "3_2072648947412488192",
+              "start": 155,
+              "url": "https://t.co/mDIqa0gQFK"
+            },
+            {
+              "display_url": "pic.x.com/mDIqa0gQFK",
+              "end": 178,
+              "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+              "media_key": "3_2072648948104437760",
+              "start": 155,
+              "url": "https://t.co/mDIqa0gQFK"
+            },
+            {
+              "display_url": "pic.x.com/mDIqa0gQFK",
+              "end": 178,
+              "expanded_url": "https://x.com/FoxRed695449/status/2072648958300893583/photo/1",
+              "media_key": "3_2072648947416608768",
+              "start": 155,
+              "url": "https://t.co/mDIqa0gQFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072648958300893583",
+        "in_reply_to_user_id": "4815298353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072500858160595000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Da81Secret @suanrongyouyuxu 这边建议阁下别买苹果或者安卓设备，别用Google搜索，别刷YouTube，别用GMS，毕竟你给这些产品贡献的钱/给他们提供的商业价值都有可能被用来宣传DEI，苹果现任CEO自己也是个同性恋；你还是买华为用纯血鸿蒙好，这样你的钱就不会用在DEI上面了 https://t.co/mDIqa0gQFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072500855849578496"
+          ]
+        },
+        "author_id": "4815298353",
+        "conversation_id": "2072316452246622408",
+        "created_at": "2026-07-02T02:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072500858160595000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utdxCfXv6U",
+              "end": 187,
+              "expanded_url": "https://x.com/Da81Secret/status/2072500858160595000/photo/1",
+              "media_key": "3_2072500855849578496",
+              "start": 164,
+              "url": "https://t.co/utdxCfXv6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072500858160595000",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9565,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072316452246622408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 我花钱买游戏看动画，凭什么就DEI了。\n好比我花钱买根哈根达斯，发现里面掺了雌二醇。\n诶！我花钱叻。\n要宣传DEI自己花钱宣传。干嘛把手伸进我的口袋。\n另一个抽象鬼物，巨乳化，担心被审查定为未成年。\n游戏女角色奶子屁股一个比一个大。\n你说喜欢娇小苗条的角色，就有人说你恋童癖。\n欧美人均有病？ https://t.co/utdxCfXv6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 844,
+          "like_count": 8185,
+          "listed_count": 6,
+          "media_count": 1055,
+          "tweet_count": 3382
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-15T15:37:08.000Z",
+        "description": "光谱：中间偏右，一定程度包容LGBT（请勿贴脸开大）\n兴趣：动漫游戏，各种乐子。\n使用注意事项：非必要不私信，千万不要把我拉入列表（不知道如何退出，只能拉黑对方）",
+        "id": "4815298353",
+        "location": "Super Earth",
+        "name": "Secret",
+        "pinned_tweet_id": "1868829216567181572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644862754354868224/TpfmtrwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 224,
+          "like_count": 66849,
+          "listed_count": 1,
+          "media_count": 2186,
+          "tweet_count": 23010
+        },
+        "url": "",
+        "username": "Da81Secret",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n相比情绪，更偏向理性。有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2062141354331738282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6275,
+          "following_count": 230,
+          "like_count": 8181,
+          "listed_count": 44,
+          "media_count": 371,
+          "tweet_count": 4628
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

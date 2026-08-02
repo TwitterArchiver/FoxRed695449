@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914228775161884674"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1914228788898218016",
+    "created_at": "2025-04-21T08:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914228788898218016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gw1g2YuYk1",
+          "end": 32,
+          "expanded_url": "https://x.com/FoxRed695449/status/1914228788898218016/photo/1",
+          "media_key": "3_1914228775161884674",
+          "start": 9,
+          "url": "https://t.co/gw1g2YuYk1"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1914213260276191435",
+          "start": 33,
+          "url": "https://t.co/ePXanofow9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914228788898218016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914213260276191435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "站在桌子上不說話 https://t.co/gw1g2YuYk1 https://t.co/ePXanofow9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914228788898218016].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914228788898218016",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914228788898218016"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_1914228775161884674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpC07dJa8AI9Iqd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1914213254974631936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCm0D8bcAAnN_K.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914213254974631936"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1914213260276191435",
+        "created_at": "2025-04-21T07:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T08:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914213260276191435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVaVyYuEQN",
+              "end": 38,
+              "expanded_url": "https://x.com/FoxRed695449/status/1914213260276191435/photo/1",
+              "media_key": "3_1914213254974631936",
+              "start": 15,
+              "url": "https://t.co/zVaVyYuEQN"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1914161065879126516",
+              "start": 39,
+              "url": "https://t.co/4OquUX5Lt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914213260276191435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914161065879126516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在酒店ing\n沒錯，又是洲際 https://t.co/zVaVyYuEQN https://t.co/4OquUX5Lt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3628,
+          "following_count": 617,
+          "like_count": 2881,
+          "listed_count": 6,
+          "media_count": 488,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

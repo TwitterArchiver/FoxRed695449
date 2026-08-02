@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897579080897470782",
+    "created_at": "2025-03-06T09:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T10:12:34.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897576025044959316",
+      "1897578520358085003",
+      "1897579080897470782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1897570751475294345",
+          "start": 20,
+          "url": "https://t.co/MRFeqPbtHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897579080897470782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897570751475294345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前一直討厭補課...\n這下不得不補了 https://t.co/MRFeqPbtHh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897576025044959316",
+        "created_at": "2025-03-06T09:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:12:34.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897576025044959316",
+          "1897578520358085003",
+          "1897579080897470782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1897570751475294345",
+              "start": 20,
+              "url": "https://t.co/MRFeqPbtHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897576025044959316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897570751475294345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一直討厭補課...\n這下不得不補了 https://t.co/MRFeqPbtHh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897578518059347968"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897578520358085003",
+        "created_at": "2025-03-06T09:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:12:34.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897576025044959316",
+          "1897578520358085003",
+          "1897579080897470782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01vQxA24TY",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1897578520358085003/photo/1",
+              "media_key": "3_1897578518059347968",
+              "start": 20,
+              "url": "https://t.co/01vQxA24TY"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1897570751475294345",
+              "start": 44,
+              "url": "https://t.co/MRFeqPbtHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897578520358085003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897570751475294345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一直討厭補課...\n這下不得不補了 https://t.co/01vQxA24TY https://t.co/MRFeqPbtHh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897579080897470782",
+        "created_at": "2025-03-06T09:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:12:34.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897576025044959316",
+          "1897578520358085003",
+          "1897579080897470782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1897570751475294345",
+              "start": 20,
+              "url": "https://t.co/MRFeqPbtHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897579080897470782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897570751475294345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一直討厭補課...\n這下不得不補了 https://t.co/MRFeqPbtHh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897570751475294345",
+        "created_at": "2025-03-06T08:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T09:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897570751475294345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897570751475294345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學業上有點受打擊...\n接下來可能會淡推一段時間..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 535,
+          "like_count": 2213,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

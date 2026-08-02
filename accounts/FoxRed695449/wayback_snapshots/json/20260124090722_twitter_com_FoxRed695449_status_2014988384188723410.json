@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014532241318092800"
+      ],
+      "media_source_tweet_id": [
+        "2014532245927706785"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2014988384188723410",
+    "created_at": "2026-01-24T09:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014988384188723410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        },
+        {
+          "end": 31,
+          "id": "4483095985",
+          "start": 21,
+          "username": "Aceyou_up"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UiHBG9UAe0",
+          "end": 104,
+          "expanded_url": "https://x.com/lilaoshizuikeai/status/2014532245927706785/photo/1",
+          "media_key": "3_2014532241318092800",
+          "start": 81,
+          "url": "https://t.co/UiHBG9UAe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014988384188723410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014532245927706785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: @Aceyou_up 贝森特：“I don't understand the question\"\n粉红赢学蛆：他不否认 https://t.co/UiHBG9UAe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2014532241318092800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UOZmhWIAAxwY-.png",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014532241318092800"
+          ],
+          "media_source_tweet_id": [
+            "2014532245927706785"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2014988384188723410",
+        "created_at": "2026-01-24T09:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014988384188723410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            },
+            {
+              "end": 31,
+              "id": "4483095985",
+              "start": 21,
+              "username": "Aceyou_up"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiHBG9UAe0",
+              "end": 104,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2014532245927706785/photo/1",
+              "media_key": "3_2014532241318092800",
+              "start": 81,
+              "url": "https://t.co/UiHBG9UAe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014988384188723410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014532245927706785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: @Aceyou_up 贝森特：“I don't understand the question\"\n粉红赢学蛆：他不否认 https://t.co/UiHBG9UAe0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014532241318092800"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "conversation_id": "2014375420360044588",
+        "created_at": "2026-01-23T02:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T03:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014532245927706785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4483095985",
+              "start": 0,
+              "username": "Aceyou_up"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiHBG9UAe0",
+              "end": 83,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2014532245927706785/photo/1",
+              "media_key": "3_2014532241318092800",
+              "start": 60,
+              "url": "https://t.co/UiHBG9UAe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014532245927706785",
+        "in_reply_to_user_id": "4483095985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11618,
+          "like_count": 450,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014498528543096940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aceyou_up 贝森特：“I don't understand the question\"\n粉红赢学蛆：他不否认 https://t.co/UiHBG9UAe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 747,
+          "like_count": 5793,
+          "listed_count": 7,
+          "media_count": 924,
+          "tweet_count": 2881
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251632,
+          "following_count": 708,
+          "like_count": 5721,
+          "listed_count": 1336,
+          "media_count": 1399,
+          "tweet_count": 7191
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-07T06:09:32.000Z",
+        "description": "",
+        "id": "4483095985",
+        "name": "JerryZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/673746941176512512/lzEBxsO5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 408,
+          "like_count": 10335,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 591
+        },
+        "username": "Aceyou_up",
+        "verified": false
+      }
+    ]
+  }
+}

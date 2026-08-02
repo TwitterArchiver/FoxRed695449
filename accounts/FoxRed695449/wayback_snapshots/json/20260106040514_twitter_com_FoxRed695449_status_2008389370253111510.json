@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2008389370253111510",
+    "created_at": "2026-01-06T04:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:03:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008388842727117106",
+      "2008389370253111510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liyue_ai/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/liyue_ai/status/2008139296365277395",
+          "start": 68,
+          "url": "https://t.co/1fgYBNi2Ws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008389370253111510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008139296365277395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开啥信用卡\n直接开张招行新版万事达储蓄卡就能解决的事\n另外如果你以前有招行储蓄卡可以直接换万事达储蓄卡，原银联卡号依然保留可以正常使用 https://t.co/1fgYBNi2Ws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2335,
+        "media_key": "3_2008136896917200896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95V3kEa4AAUX0e.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2008388842727117106",
+        "created_at": "2026-01-06T04:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:03:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008388842727117106",
+          "2008389370253111510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyue_ai/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/liyue_ai/status/2008139296365277395",
+              "start": 27,
+              "url": "https://t.co/1fgYBNi2Ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008388842727117106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008139296365277395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开啥信用卡\n直接开张招行新版万事达储蓄卡就能解决的事 https://t.co/1fgYBNi2Ws"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2008389370253111510",
+        "created_at": "2026-01-06T04:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:03:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008388842727117106",
+          "2008389370253111510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyue_ai/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/liyue_ai/status/2008139296365277395",
+              "start": 68,
+              "url": "https://t.co/1fgYBNi2Ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008389370253111510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008139296365277395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开啥信用卡\n直接开张招行新版万事达储蓄卡就能解决的事\n另外如果你以前有招行储蓄卡可以直接换万事达储蓄卡，原银联卡号依然保留可以正常使用 https://t.co/1fgYBNi2Ws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008136896917200896"
+          ]
+        },
+        "author_id": "1988475714501570561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2008139296365277395",
+        "created_at": "2026-01-05T11:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008139296365277395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fM8UH7Urkl",
+              "end": 183,
+              "expanded_url": "https://x.com/liyue_ai/status/2008139296365277395/photo/1",
+              "media_key": "3_2008136896917200896",
+              "start": 160,
+              "url": "https://t.co/fM8UH7Urkl"
+            },
+            {
+              "display_url": "x.com/liyue_ai/statu…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/liyue_ai/status/2007992240661058045",
+              "start": 184,
+              "url": "https://t.co/P3krLKXX1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008139296365277395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "meiguodizhi.com",
+                "end": 511,
+                "expanded_url": "https://www.meiguodizhi.com/",
+                "start": 488,
+                "url": "https://t.co/h89vx9ochj"
+              }
+            ]
+          },
+          "text": "不少朋友想开通X的【创作者ID认证】，但是因为没有Premium或Premium+，开通不了。\n\n想开通Premium（蓝V）也是有门槛的，我此前也折腾了一个星期，没办法去申请了一张【招商银行】的VISA卡，此外中国银行的VISA卡也是可以的，它们可以支付国外的很多场景。\n\n目前已支付X和Google Gemini。\n\n简单说一下如何申请和支付\n1、申请VISA卡：在招商银行搜索信用卡，找到VISA卡\n\n2、点击“立刻申请”进行预约，这里可以看下离你最近的银行网点是否支持开卡\n\n3、去到银行网点找大堂经理说明申请办理信用卡，会协助你办卡，记得带上身份证和手机。\n\n4、申请完成后等待银行审核并给你快递信用卡，按银行激活后就可以使用了。\n\n5、这张卡支持全币种，使用后都会将对应的货币按汇率转化成人民币来还款。\n\n6、点击X的Premium，选择对应的套餐后，输入你的这张银行卡卡号，有效截止日期（注意不是开始日期），以及CVV码（在你信用卡背面后3位数字）。\n\n7、还要输入你的账单地址，这里必须是国外的账单地址，可以在这个【美国地址生成器】生成好地址后填写进去即可。\nhttps://t.co/h89vx9ochj\n你的IP是哪里最好就填哪里的账单地址，不要IP在日本填美国的账单地址。\n\n8、点击购买后即可正常付款，付款成功后你的Premium就开通成功了。\n\n⚠️注意：信用卡支付第一次会收到验证码，确认你的交易，但是后续支付你将不再收到验证码，不要尝试购买不需要的任何商品或服务。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 47152,
+          "like_count": 300,
+          "quote_count": 4,
+          "reply_count": 41,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007992240661058045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不少朋友想开通X的【创作者ID认证】，但是因为没有Premium或Premium+，开通不了。\n\n想开通Premium（蓝V）也是有门槛的，我此前也折腾了一个星期，没办法去申请了一张【招商银行】的VISA卡，此外中国银行的VISA卡也是可以的，它们可以支付国外的很多场景。\n\n目前已支付X和Google Gemini。 https://t.co/fM8UH7Urkl https://t.co/P3krLKXX1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 729,
+          "like_count": 5536,
+          "listed_count": 7,
+          "media_count": 921,
+          "tweet_count": 2855
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-12T05:15:43.000Z",
+        "description": "公众号/B站【SQL数据库开发】，7年自媒体写作经历，专注AI写作，AI绘画和AI变现。",
+        "id": "1988475714501570561",
+        "location": "Guangzhou",
+        "name": "李岳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995020278733443076/PAOgmVtW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 175,
+          "like_count": 437,
+          "listed_count": 22,
+          "media_count": 123,
+          "tweet_count": 466
+        },
+        "username": "liyue_ai",
+        "verified": true
+      }
+    ]
+  }
+}

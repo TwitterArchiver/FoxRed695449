@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987771817810104320"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1987618897260859709",
+    "created_at": "2025-11-10T06:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T07:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987771825083085129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596918985609601024",
+          "start": 0,
+          "username": "Lawrenc09874431"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TWU0WVAtd",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1987771825083085129/photo/1",
+          "media_key": "3_1987771817810104320",
+          "start": 38,
+          "url": "https://t.co/0TWU0WVAtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987771825083085129",
+    "in_reply_to_user_id": "1596918985609601024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987618897260859709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lawrenc09874431 這對比不是五十步笑百步\n這是百步笑五十步 https://t.co/0TWU0WVAtd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1987771817810104320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5X778cakAAV79v.jpg",
+        "width": 889
+      },
+      {
+        "height": 1447,
+        "media_key": "3_1987618895415431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Vw2sIXUAAYa4e.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987771817810104320"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1987618897260859709",
+        "created_at": "2025-11-10T06:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987771825083085129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596918985609601024",
+              "start": 0,
+              "username": "Lawrenc09874431"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TWU0WVAtd",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1987771825083085129/photo/1",
+              "media_key": "3_1987771817810104320",
+              "start": 38,
+              "url": "https://t.co/0TWU0WVAtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987771825083085129",
+        "in_reply_to_user_id": "1596918985609601024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987618897260859709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lawrenc09874431 這對比不是五十步笑百步\n這是百步笑五十步 https://t.co/0TWU0WVAtd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987618895415431168"
+          ]
+        },
+        "author_id": "1596918985609601024",
+        "conversation_id": "1987618897260859709",
+        "created_at": "2025-11-09T20:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987618897260859709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvjcl8wv4H",
+              "end": 134,
+              "expanded_url": "https://x.com/Lawrenc09874431/status/1987618897260859709/photo/1",
+              "media_key": "3_1987618895415431168",
+              "start": 111,
+              "url": "https://t.co/rvjcl8wv4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987618897260859709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 50836,
+          "like_count": 270,
+          "quote_count": 3,
+          "reply_count": 124,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "很多人都不理解当受孕率低于 0.7 时，为什么面临种族灭绝的危险。\n\n当受孕率降到 0.7 时，人口呈指数级别下降，在 3 代之内就会下降 96％，并不需要几百年的时间。\n\n不过这样也好，再过几十年台湾就可以统一大陆了。 https://t.co/rvjcl8wv4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 679,
+          "like_count": 4783,
+          "listed_count": 7,
+          "media_count": 875,
+          "tweet_count": 2630
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T17:29:12.000Z",
+        "description": "今日幡然醒悟，原来中共国旗的红色是要拿人民的鲜血不断去染的。从茫茫戈壁到浩浩东海，亿万人的苦难无边无际。中共不亡，万民难安!  欢迎给我发私信或投稿，但我不能回复私信。\n\nAs long as Chicom is still in existence, the world won't have peace.",
+        "id": "1596918985609601024",
+        "name": "Lawrence of Gobi 愚蠢的精卫",
+        "pinned_tweet_id": "1987695475093283279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673899612019539971/4JAFu3q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33157,
+          "following_count": 2782,
+          "like_count": 57411,
+          "listed_count": 184,
+          "media_count": 7363,
+          "tweet_count": 26525
+        },
+        "username": "Lawrenc09874431",
+        "verified": true
+      }
+    ]
+  }
+}

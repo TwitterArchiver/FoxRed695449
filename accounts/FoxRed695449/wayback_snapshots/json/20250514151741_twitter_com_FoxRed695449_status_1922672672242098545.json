@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922669619619192832",
+        "3_1922669619418112000"
+      ],
+      "media_source_tweet_id": [
+        "1922669628893069373",
+        "1922669628893069373"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1922672672242098545",
+    "created_at": "2025-05-14T15:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T16:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922672672242098545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1016992850184056833",
+          "start": 3,
+          "username": "christine_cpw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rWyo92PomN",
+          "end": 139,
+          "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+          "media_key": "3_1922669619619192832",
+          "start": 116,
+          "url": "https://t.co/rWyo92PomN"
+        },
+        {
+          "display_url": "pic.x.com/rWyo92PomN",
+          "end": 139,
+          "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+          "media_key": "3_1922669619418112000",
+          "start": 116,
+          "url": "https://t.co/rWyo92PomN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922672672242098545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922669628893069373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christine_cpw: 香港跨性別及多元性別人士遭受性暴力經驗調查\n\n⚠️內容預警：問卷內容涉及性暴力情境，如於填寫過程中感到不適，請優先照顧自己的感受，暫停作答問卷，找信任的朋友傾談，亦可聯絡性暴力支援機構求助。… https://t.co/rWyo92PomN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_1922669619619192832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6x1RHWYAAnULU.jpg",
+        "width": 1097
+      },
+      {
+        "height": 1761,
+        "media_key": "3_1922669619418112000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq6x1QXaIAAKJeY.jpg",
+        "width": 1097
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922669619619192832",
+            "3_1922669619418112000"
+          ],
+          "media_source_tweet_id": [
+            "1922669628893069373",
+            "1922669628893069373"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1922672672242098545",
+        "created_at": "2025-05-14T15:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922672672242098545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1016992850184056833",
+              "start": 3,
+              "username": "christine_cpw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWyo92PomN",
+              "end": 139,
+              "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+              "media_key": "3_1922669619619192832",
+              "start": 116,
+              "url": "https://t.co/rWyo92PomN"
+            },
+            {
+              "display_url": "pic.x.com/rWyo92PomN",
+              "end": 139,
+              "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+              "media_key": "3_1922669619418112000",
+              "start": 116,
+              "url": "https://t.co/rWyo92PomN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922672672242098545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922669628893069373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @christine_cpw: 香港跨性別及多元性別人士遭受性暴力經驗調查\n\n⚠️內容預警：問卷內容涉及性暴力情境，如於填寫過程中感到不適，請優先照顧自己的感受，暫停作答問卷，找信任的朋友傾談，亦可聯絡性暴力支援機構求助。… https://t.co/rWyo92PomN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922669619619192832",
+            "3_1922669619418112000"
+          ]
+        },
+        "author_id": "1016992850184056833",
+        "conversation_id": "1922669628893069373",
+        "created_at": "2025-05-14T15:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922669628893069373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWyo92PomN",
+              "end": 119,
+              "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+              "media_key": "3_1922669619619192832",
+              "start": 96,
+              "url": "https://t.co/rWyo92PomN"
+            },
+            {
+              "display_url": "pic.x.com/rWyo92PomN",
+              "end": 119,
+              "expanded_url": "https://x.com/christine_cpw/status/1922669628893069373/photo/1",
+              "media_key": "3_1922669619418112000",
+              "start": 96,
+              "url": "https://t.co/rWyo92PomN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922669628893069373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "form.jotform.com/251328953749065",
+                "end": 454,
+                "expanded_url": "https://form.jotform.com/251328953749065",
+                "start": 431,
+                "url": "https://t.co/G88lIT73qO"
+              }
+            ]
+          },
+          "text": "香港跨性別及多元性別人士遭受性暴力經驗調查\n\n⚠️內容預警：問卷內容涉及性暴力情境，如於填寫過程中感到不適，請優先照顧自己的感受，暫停作答問卷，找信任的朋友傾談，亦可聯絡性暴力支援機構求助。\n\n保安局早前宣布將於2025年下半年就本港的性罪行改革作公眾諮詢，而法律改革委員會（法改會）於2019年公佈的《檢討實質的性罪行報告書》，其中就提出性罪行法例應以「無分性別」的原則改革，以保障不同性別認同及性傾向的人士。\n\n性罪行法律改革諮詢在即，跨青時刻及關注婦女性暴力協會希望通過問卷調查了解跨性別及多元性別人士面對性暴力的情況及對現行法例的看法，以進一步了解社群成員求助的需要和困難，從而倡議相關法律及政策改革。性暴力的定義是任何未經同意而帶有性意味的行為，包括插入式性侵犯、未經同意觸摸私密部位、性行為期間偷偷脫去安全套、性騷擾(言語或行為)、影像性暴力等等。我們明白並意識妥善處理個人私隱及資料保密的重要，故此不會強制收集任何可識別參加者的資料。\n\n問卷連結：https://t.co/G88lIT73qO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "香港跨性別及多元性別人士遭受性暴力經驗調查\n\n⚠️內容預警：問卷內容涉及性暴力情境，如於填寫過程中感到不適，請優先照顧自己的感受，暫停作答問卷，找信任的朋友傾談，亦可聯絡性暴力支援機構求助。 https://t.co/rWyo92PomN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 646,
+          "like_count": 3182,
+          "listed_count": 6,
+          "media_count": 565,
+          "tweet_count": 1725
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-11T10:29:25.000Z",
+        "description": "Hongkonger in the Netherlands 🏳️‍⚧️🏳️‍🌈🇳🇱 she/her • LLM/PCLL/JD • Human rights advocate 見習人權律師⚖️",
+        "id": "1016992850184056833",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Christine🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1910381912809759199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752001098536095744/7r7hyx-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5986,
+          "following_count": 391,
+          "like_count": 16051,
+          "listed_count": 23,
+          "media_count": 1690,
+          "tweet_count": 7034
+        },
+        "username": "christine_cpw",
+        "verified": true
+      }
+    ]
+  }
+}

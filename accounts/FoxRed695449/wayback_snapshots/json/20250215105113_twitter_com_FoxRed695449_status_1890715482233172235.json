@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890715482233172235",
+    "created_at": "2025-02-15T10:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T11:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890715482233172235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629074500305186817",
+          "start": 3,
+          "username": "carafutaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890715482233172235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890714180077944858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carafutaba: 现在还在大陆打工的小年轻都是神人，脑子多少有点精神问题的，勿碰勿扰勿较真\n\n打工人都是带着仇富的眼神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890715482233172235",
+        "created_at": "2025-02-15T10:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890715482233172235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629074500305186817",
+              "start": 3,
+              "username": "carafutaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890715482233172235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890714180077944858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carafutaba: 现在还在大陆打工的小年轻都是神人，脑子多少有点精神问题的，勿碰勿扰勿较真\n\n打工人都是带着仇富的眼神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629074500305186817",
+        "conversation_id": "1890714180077944858",
+        "created_at": "2025-02-15T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:45:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890714073077047537",
+          "1890714180077944858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890714180077944858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在还在大陆打工的小年轻都是神人，脑子多少有点精神问题的，勿碰勿扰勿较真\n\n打工人都是带着仇富的眼神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 490,
+          "like_count": 1645,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 1055
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T11:03:32.000Z",
+        "description": "🧡 春祺夏安 秋綏冬禧 双葉资本 杏子特辑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anzu.moe",
+                "end": 23,
+                "expanded_url": "https://anzu.moe",
+                "start": 0,
+                "url": "https://t.co/uyvReMg6DJ"
+              }
+            ]
+          }
+        },
+        "id": "1629074500305186817",
+        "location": "In Your Heart",
+        "name": "双葉杏",
+        "pinned_tweet_id": "1889485103077924890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803015602162053120/HYr1UFr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 1090,
+          "like_count": 51439,
+          "listed_count": 5,
+          "media_count": 1175,
+          "tweet_count": 13128
+        },
+        "url": "https://t.co/uyvReMg6DJ",
+        "username": "carafutaba",
+        "verified": true
+      }
+    ]
+  }
+}

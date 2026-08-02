@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873285381002805317",
+    "created_at": "2024-12-29T08:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873285770964025762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 26,
+          "id": "1719571122642161664",
+          "start": 14,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 35,
+          "id": "1573778885996584960",
+          "start": 27,
+          "username": "altaz_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873285770964025762",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873285381002805317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @AGeSang2008 @altaz_0 和解啊，當然可以和解啊\n但是不是應該先把錢還了再說\n至於被別人知道，難道不是你在群裡和我吵架的結果嗎？群裡100多個人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873285381002805317",
+        "created_at": "2024-12-29T08:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873285770964025762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 26,
+              "id": "1719571122642161664",
+              "start": 14,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 35,
+              "id": "1573778885996584960",
+              "start": 27,
+              "username": "altaz_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873285770964025762",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873285381002805317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @AGeSang2008 @altaz_0 和解啊，當然可以和解啊\n但是不是應該先把錢還了再說\n至於被別人知道，難道不是你在群裡和我吵架的結果嗎？群裡100多個人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1873285381002805317",
+        "created_at": "2024-12-29T08:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873285381002805317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1719571122642161664",
+              "start": 25,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 69,
+              "id": "1781308864438345728",
+              "start": 56,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 78,
+              "id": "1573778885996584960",
+              "start": 70,
+              "username": "altaz_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/foxred695449/status/1873283460347118055",
+              "start": 109,
+              "url": "https://t.co/Ud1oUPn9CO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873285381002805317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873283460347118055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从头到尾没想吵，指把这些事情尽可能泄漏给包括你前任@AGeSang2008 在内的人，试图给我上压力\n不知道你俩@FoxRed695449 @altaz_0 是出于什么心态，不想跟我和解，而是用这种制造更大矛盾的手段 https://t.co/Ud1oUPn9CO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 556
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 578,
+          "like_count": 8546,
+          "listed_count": 3,
+          "media_count": 1118,
+          "tweet_count": 8531
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/85｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党家暴党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音/AGE｜姐姐 @Anan628769｜小号 @AGeCAT2008｜爱着的N55 @N552AA｜欢迎大家找咱交朋友w｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Anan628769"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "N552AA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 423,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T20:59:51.000Z",
+        "description": "04年无证含糖mtf🏳️‍⚧️｜女同｜是xyn喵🍥｜gaht:1723106454｜地下党｜持证电工（高低压）｜欢迎多多交流喵~",
+        "id": "1573778885996584960",
+        "location": "10.10.0.10",
+        "name": "altaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 1116,
+          "like_count": 74210,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 263
+        },
+        "username": "altaz_0",
+        "verified": false
+      }
+    ]
+  }
+}

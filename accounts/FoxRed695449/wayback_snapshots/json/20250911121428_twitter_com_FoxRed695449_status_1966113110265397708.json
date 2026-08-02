@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966113101914513408"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1966026421903470859",
+    "created_at": "2025-09-11T12:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966113110265397708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788790058327343104",
+          "start": 0,
+          "username": "MrBing113339"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/siZv6nDUKf",
+          "end": 72,
+          "expanded_url": "https://x.com/FoxRed695449/status/1966113110265397708/photo/1",
+          "media_key": "3_1966113101914513408",
+          "start": 49,
+          "url": "https://t.co/siZv6nDUKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966113110265397708",
+    "in_reply_to_user_id": "1788790058327343104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966098288299618552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrBing113339 @whyyoutouzhele 我認為我應該有資格罵閣下是窮逼和傻逼 https://t.co/siZv6nDUKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966113101914513408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kJcwPbIAAkhYg.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966113101914513408"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966026421903470859",
+        "created_at": "2025-09-11T12:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966113110265397708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788790058327343104",
+              "start": 0,
+              "username": "MrBing113339"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/siZv6nDUKf",
+              "end": 72,
+              "expanded_url": "https://x.com/FoxRed695449/status/1966113110265397708/photo/1",
+              "media_key": "3_1966113101914513408",
+              "start": 49,
+              "url": "https://t.co/siZv6nDUKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966113110265397708",
+        "in_reply_to_user_id": "1788790058327343104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966098288299618552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrBing113339 @whyyoutouzhele 我認為我應該有資格罵閣下是窮逼和傻逼 https://t.co/siZv6nDUKf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788790058327343104",
+        "conversation_id": "1966026421903470859",
+        "created_at": "2025-09-11T11:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966098288299618552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747236156935376896",
+              "start": 0,
+              "username": "ochibabox"
+            },
+            {
+              "end": 26,
+              "id": "1260553941714186241",
+              "start": 11,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966098288299618552",
+        "in_reply_to_user_id": "1747236156935376896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966089919652311434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ochibabox @whyyoutouzhele 说你穷逼，没住过好酒店，还扛。 多赚点钱吧。 傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 686,
+          "like_count": 4295,
+          "listed_count": 8,
+          "media_count": 773,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T04:36:24.000Z",
+        "description": "某大厂前员工，雇佣刀手砍杀产品经理进ICU的重大嫌疑人之一。前某游戏网站创始人。现主业区块链。",
+        "id": "1788790058327343104",
+        "location": "US & THA & DXB",
+        "name": "饼小二 Mr.Bing",
+        "pinned_tweet_id": "1935782203960836253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788790209506922496/jQ0AywDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 693,
+          "like_count": 499,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 2213
+        },
+        "username": "MrBing113339",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1961459295813312811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101681,
+          "following_count": 990,
+          "like_count": 8062,
+          "listed_count": 8337,
+          "media_count": 34719,
+          "tweet_count": 41500
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

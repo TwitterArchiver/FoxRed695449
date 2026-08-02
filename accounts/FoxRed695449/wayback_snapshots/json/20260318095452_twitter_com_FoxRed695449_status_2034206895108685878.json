@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2034130417792733576",
+    "created_at": "2026-03-18T09:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034206895108685878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852205506879983618",
+          "start": 0,
+          "username": "dngxng341227"
+        },
+        {
+          "end": 25,
+          "id": "1420091954616885249",
+          "start": 14,
+          "username": "LiewViktor"
+        },
+        {
+          "end": 40,
+          "id": "95631742",
+          "start": 26,
+          "username": "shangguanluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034206895108685878",
+    "in_reply_to_user_id": "1852205506879983618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034205027003195478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngxng341227 @LiewViktor @shangguanluan 两位代码KP\n三位代码PRK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2034130417792733576",
+        "created_at": "2026-03-18T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034206895108685878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852205506879983618",
+              "start": 0,
+              "username": "dngxng341227"
+            },
+            {
+              "end": 25,
+              "id": "1420091954616885249",
+              "start": 14,
+              "username": "LiewViktor"
+            },
+            {
+              "end": 40,
+              "id": "95631742",
+              "start": 26,
+              "username": "shangguanluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034206895108685878",
+        "in_reply_to_user_id": "1852205506879983618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034205027003195478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngxng341227 @LiewViktor @shangguanluan 两位代码KP\n三位代码PRK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852205506879983618",
+        "conversation_id": "2034130417792733576",
+        "created_at": "2026-03-18T09:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034205027003195478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1420091954616885249",
+              "start": 0,
+              "username": "LiewViktor"
+            },
+            {
+              "end": 26,
+              "id": "95631742",
+              "start": 12,
+              "username": "shangguanluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034205027003195478",
+        "in_reply_to_user_id": "1420091954616885249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034152509401665832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiewViktor @shangguanluan 嘿，那我很好奇，那朝鲜在国际代码里是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 808,
+          "like_count": 6914,
+          "listed_count": 7,
+          "media_count": 948,
+          "tweet_count": 3016
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-01T04:26:27.000Z",
+        "description": "",
+        "id": "1852205506879983618",
+        "name": "moko delegrine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852205596516511744/WST_yMpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 502,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 1413
+        },
+        "username": "dngxng341227",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T18:41:27.000Z",
+        "description": "CSIRO, critical minerals research, mine planning, Chinese by birth, Australian by choice",
+        "id": "1420091954616885249",
+        "location": "Melbourne, Victoria",
+        "name": "Armin Liew🇦🇺 ⛏️🔨🔧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000557031019945984/qYk7q_iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 95,
+          "like_count": 83,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 5774
+        },
+        "username": "LiewViktor",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-09T12:00:10.000Z",
+        "description": "一個寫字的。",
+        "id": "95631742",
+        "location": "Taipei City, Taiwan",
+        "name": "上官亂",
+        "pinned_tweet_id": "1987084876647109104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905797066305277952/u8wAc85q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68348,
+          "following_count": 1340,
+          "like_count": 3537,
+          "listed_count": 365,
+          "media_count": 1171,
+          "tweet_count": 9218
+        },
+        "username": "shangguanluan",
+        "verified": true
+      }
+    ]
+  }
+}

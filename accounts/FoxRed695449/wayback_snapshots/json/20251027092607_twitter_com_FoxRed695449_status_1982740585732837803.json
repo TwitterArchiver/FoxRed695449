@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982740572549861376"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1982740585732837803",
+    "created_at": "2025-10-27T09:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982740585732837803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bj4SBpbOP",
+          "end": 132,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982740585732837803/photo/1",
+          "media_key": "3_1982740572549861376",
+          "start": 109,
+          "url": "https://t.co/7bj4SBpbOP"
+        },
+        {
+          "display_url": "x.com/LIGHTSEEKER198…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/LIGHTSEEKER1984/status/1869625274150887547",
+          "start": 133,
+          "url": "https://t.co/AQ8IheWyKg"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00ae3ed017d9d14b"
+    },
+    "id": "1982740585732837803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869625274150887547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "內地不論是否定罪被捕數據不公開我不知道\n香港的「包括所有因犯罪而被捕的人士，不論其最終有否被檢控」的數據我倒是能查到（即使是因「正當防衛」脫罪也納入統計）\n另外香港有預先醫療指示\n說陰謀論前麻煩先動下腦子想想力量差距 https://t.co/7bj4SBpbOP https://t.co/AQ8IheWyKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982740572549861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QcC7SW0AA8fTa.jpg",
+        "width": 1018
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1869625037038448640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfI-EMPacAAy4Og.jpg",
+        "width": 1234
+      },
+      {
+        "height": 2105,
+        "media_key": "3_1869625265808433152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfI-RgebYAAymPZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1869625040645632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfI-EZrbsAA3RPb.jpg",
+        "width": 945
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Kowloon City District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1724319,
+            22.2934292,
+            114.2193345,
+            22.3492137
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "00ae3ed017d9d14b",
+        "name": "Kowloon City District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982740572549861376"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982740585732837803",
+        "created_at": "2025-10-27T09:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982740585732837803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bj4SBpbOP",
+              "end": 132,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982740585732837803/photo/1",
+              "media_key": "3_1982740572549861376",
+              "start": 109,
+              "url": "https://t.co/7bj4SBpbOP"
+            },
+            {
+              "display_url": "x.com/LIGHTSEEKER198…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/LIGHTSEEKER1984/status/1869625274150887547",
+              "start": 133,
+              "url": "https://t.co/AQ8IheWyKg"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1982740585732837803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869625274150887547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "內地不論是否定罪被捕數據不公開我不知道\n香港的「包括所有因犯罪而被捕的人士，不論其最終有否被檢控」的數據我倒是能查到（即使是因「正當防衛」脫罪也納入統計）\n另外香港有預先醫療指示\n說陰謀論前麻煩先動下腦子想想力量差距 https://t.co/7bj4SBpbOP https://t.co/AQ8IheWyKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869625037038448640",
+            "3_1869625265808433152",
+            "3_1869625040645632000"
+          ]
+        },
+        "author_id": "3188575777",
+        "conversation_id": "1869625274150887547",
+        "created_at": "2024-12-19T06:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T07:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869625274150887547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPO8NACwdO",
+              "end": 162,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/1869625274150887547/photo/1",
+              "media_key": "3_1869625037038448640",
+              "start": 139,
+              "url": "https://t.co/fPO8NACwdO"
+            },
+            {
+              "display_url": "pic.x.com/fPO8NACwdO",
+              "end": 162,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/1869625274150887547/photo/1",
+              "media_key": "3_1869625265808433152",
+              "start": 139,
+              "url": "https://t.co/fPO8NACwdO"
+            },
+            {
+              "display_url": "pic.x.com/fPO8NACwdO",
+              "end": 162,
+              "expanded_url": "https://x.com/LIGHTSEEKER1984/status/1869625274150887547/photo/1",
+              "media_key": "3_1869625040645632000",
+              "start": 139,
+              "url": "https://t.co/fPO8NACwdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869625274150887547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14972,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "很多“自然死亡”的男人，实际上是被妻子害死的！要么是妻子故意不救，要么是被妻子投毒谋害，又或者是被妻子明目张胆的杀害，然后女人编一个“反抗家暴”或者“拒绝行房”的借口，女人就能被轻拿轻放\n男性丧失利用价值，就要被女人抛弃\n政府的存在，只是维护这个女本位社会和上层阶级的统治秩序 https://t.co/fPO8NACwdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 683,
+          "like_count": 4708,
+          "listed_count": 7,
+          "media_count": 856,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-08T08:40:10.000Z",
+        "description": "Red Pill#\nMan lives matter#\nFeminism is Totalitarianism#\nStrategic Analysis#\nPsychoanalysis#\n\n女权就是极权#\n男权即人权#\n献忠学家#\n男性面临全方位系统性的女本位压迫，拳国就是一个女权精神病妓院",
+        "id": "3188575777",
+        "location": "Sydney, New South Wales",
+        "name": "The Gulag Bot",
+        "pinned_tweet_id": "1865223958758592677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856377797968834564/o3wfa5ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 3006,
+          "like_count": 34453,
+          "listed_count": 35,
+          "media_count": 4301,
+          "tweet_count": 41008
+        },
+        "username": "LIGHTSEEKER1984",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918173914787950592"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918121772811239778",
+    "created_at": "2025-05-02T05:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918173917585522908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "A4rHk_3mU8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbfbXnpwl6",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1918173917585522908/photo/1",
+          "media_key": "3_1918173914787950592",
+          "start": 20,
+          "url": "https://t.co/NbfbXnpwl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918173917585522908",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918173469600067870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A4rHk_3mU8964 国泰的💀 https://t.co/NbfbXnpwl6"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918173469600067870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918173469600067870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918173469600067870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1918173914787950592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp65AzhbMAAI60J.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918173914787950592"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918121772811239778",
+        "created_at": "2025-05-02T05:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918173917585522908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "A4rHk_3mU8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbfbXnpwl6",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1918173917585522908/photo/1",
+              "media_key": "3_1918173914787950592",
+              "start": 20,
+              "url": "https://t.co/NbfbXnpwl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918173917585522908",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918173469600067870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A4rHk_3mU8964 国泰的💀 https://t.co/NbfbXnpwl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 644,
+          "like_count": 3006,
+          "listed_count": 6,
+          "media_count": 512,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Please do not mention this account to anyone who is not a follower",
+        "id": "1540698144429596673",
+        "name": "Only ants yield useful yeast",
+        "pinned_tweet_id": "1917107311589658915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903895361015455744/5Dvxz3O8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 80,
+          "like_count": 710,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 559
+        },
+        "username": "A4rHk_3mU8964",
+        "verified": false
+      }
+    ]
+  }
+}

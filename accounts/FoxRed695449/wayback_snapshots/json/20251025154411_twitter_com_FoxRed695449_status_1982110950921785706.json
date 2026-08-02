@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982110947327008768",
+        "3_1982110947507400704",
+        "3_1982110947738038272",
+        "3_1982110947327062016"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982110950921785706",
+    "created_at": "2025-10-25T15:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982110950921785706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3232393554",
+          "start": 5,
+          "username": "initiumnews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IS48fgPJl2",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+          "media_key": "3_1982110947327008768",
+          "start": 38,
+          "url": "https://t.co/IS48fgPJl2"
+        },
+        {
+          "display_url": "pic.x.com/IS48fgPJl2",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+          "media_key": "3_1982110947507400704",
+          "start": 38,
+          "url": "https://t.co/IS48fgPJl2"
+        },
+        {
+          "display_url": "pic.x.com/IS48fgPJl2",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+          "media_key": "3_1982110947738038272",
+          "start": 38,
+          "url": "https://t.co/IS48fgPJl2"
+        },
+        {
+          "display_url": "pic.x.com/IS48fgPJl2",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+          "media_key": "3_1982110947327062016",
+          "start": 38,
+          "url": "https://t.co/IS48fgPJl2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1982110950921785706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到了來自@initiumnews的10周年產品\n祝福端能有下一個10年🥰 https://t.co/IS48fgPJl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982110947327008768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HfZ6jW4AALTX5.jpg",
+        "width": 1531
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982110947507400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HfZ7OXcAAP0wW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1982110947738038272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HfZ8FWsAAFhpb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982110947327062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HfZ6jXsAA61TU.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982110947327008768",
+            "3_1982110947507400704",
+            "3_1982110947738038272",
+            "3_1982110947327062016"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982110950921785706",
+        "created_at": "2025-10-25T15:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982110950921785706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3232393554",
+              "start": 5,
+              "username": "initiumnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IS48fgPJl2",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+              "media_key": "3_1982110947327008768",
+              "start": 38,
+              "url": "https://t.co/IS48fgPJl2"
+            },
+            {
+              "display_url": "pic.x.com/IS48fgPJl2",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+              "media_key": "3_1982110947507400704",
+              "start": 38,
+              "url": "https://t.co/IS48fgPJl2"
+            },
+            {
+              "display_url": "pic.x.com/IS48fgPJl2",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+              "media_key": "3_1982110947738038272",
+              "start": 38,
+              "url": "https://t.co/IS48fgPJl2"
+            },
+            {
+              "display_url": "pic.x.com/IS48fgPJl2",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982110950921785706/photo/1",
+              "media_key": "3_1982110947327062016",
+              "start": 38,
+              "url": "https://t.co/IS48fgPJl2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1982110950921785706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了來自@initiumnews的10周年產品\n祝福端能有下一個10年🥰 https://t.co/IS48fgPJl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 684,
+          "like_count": 4682,
+          "listed_count": 7,
+          "media_count": 841,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com",
+                "end": 23,
+                "expanded_url": "https://theinitium.com",
+                "start": 0,
+                "url": "https://t.co/vudgmQ8aRR"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252637,
+          "following_count": 626,
+          "like_count": 386,
+          "listed_count": 1874,
+          "media_count": 14007,
+          "tweet_count": 39164
+        },
+        "url": "https://t.co/vudgmQ8aRR",
+        "username": "initiumnews",
+        "verified": true
+      }
+    ]
+  }
+}

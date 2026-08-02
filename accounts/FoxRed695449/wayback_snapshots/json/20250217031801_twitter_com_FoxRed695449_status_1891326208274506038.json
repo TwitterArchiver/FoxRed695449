@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891326202910244864"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891117242873438408",
+    "created_at": "2025-02-17T03:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T04:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891326208274506038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1412500553871986689",
+          "start": 0,
+          "username": "lonqi_vfx"
+        },
+        {
+          "end": 25,
+          "id": "1701426110083563520",
+          "start": 11,
+          "username": "wongkong00538"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/90vFYgADyX",
+          "end": 80,
+          "expanded_url": "https://x.com/FoxRed695449/status/1891326208274506038/photo/1",
+          "media_key": "3_1891326202910244864",
+          "start": 57,
+          "url": "https://t.co/90vFYgADyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891326208274506038",
+    "in_reply_to_user_id": "1412500553871986689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891315631502344284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonqi_vfx @wongkong00538 智商高是吧，這裡有幾道高中題目期待你這個智商高的中國人解一下 https://t.co/90vFYgADyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1891326202910244864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj9XKS7agAADBkS.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891326202910244864"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891117242873438408",
+        "created_at": "2025-02-17T03:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891326208274506038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1412500553871986689",
+              "start": 0,
+              "username": "lonqi_vfx"
+            },
+            {
+              "end": 25,
+              "id": "1701426110083563520",
+              "start": 11,
+              "username": "wongkong00538"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90vFYgADyX",
+              "end": 80,
+              "expanded_url": "https://x.com/FoxRed695449/status/1891326208274506038/photo/1",
+              "media_key": "3_1891326202910244864",
+              "start": 57,
+              "url": "https://t.co/90vFYgADyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891326208274506038",
+        "in_reply_to_user_id": "1412500553871986689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891315631502344284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonqi_vfx @wongkong00538 智商高是吧，這裡有幾道高中題目期待你這個智商高的中國人解一下 https://t.co/90vFYgADyX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412500553871986689",
+        "conversation_id": "1891117242873438408",
+        "created_at": "2025-02-17T02:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T03:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891315631502344284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891315631502344284",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891117242873438408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wongkong00538 智商远超快乐教育头脑简单的白皮欧美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 498,
+          "like_count": 1685,
+          "listed_count": 6,
+          "media_count": 343,
+          "tweet_count": 1074
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-06T19:56:08.000Z",
+        "description": "blender arties",
+        "id": "1412500553871986689",
+        "name": "lonqi 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863098437107056640/yoaqPzO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 433,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 568
+        },
+        "username": "lonqi_vfx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "123",
+        "id": "1701426110083563520",
+        "location": "西瓜星球 西瓜种植基地",
+        "name": "瓜师傅🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874957859307270144/7atK3j1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1016,
+          "like_count": 57625,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 16194
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

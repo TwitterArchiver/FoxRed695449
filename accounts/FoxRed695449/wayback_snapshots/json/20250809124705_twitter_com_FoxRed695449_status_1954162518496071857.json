@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954162515325427712"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1954054140935786618",
+    "created_at": "2025-08-09T12:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954162518496071857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCF6HivVWD",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1954162518496071857/photo/1",
+          "media_key": "3_1954162515325427712",
+          "start": 27,
+          "url": "https://t.co/zCF6HivVWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954162518496071857",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954054140935786618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 看起來是iCloud的問題 https://t.co/zCF6HivVWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954162515325427712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6UdD9bIAAx3KR.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954162515325427712"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1954054140935786618",
+        "created_at": "2025-08-09T12:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954162518496071857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCF6HivVWD",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1954162518496071857/photo/1",
+              "media_key": "3_1954162515325427712",
+              "start": 27,
+              "url": "https://t.co/zCF6HivVWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954162518496071857",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954054140935786618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 看起來是iCloud的問題 https://t.co/zCF6HivVWD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1954054140935786618",
+        "created_at": "2025-08-09T05:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954054140935786618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "快讯"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954054140935786618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10379,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#快讯 Apple App Store 以及 Apple ID 登录等服务异常，大量用户反馈无法正常登录。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 680,
+          "like_count": 3893,
+          "listed_count": 7,
+          "media_count": 603,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "1934117094939033766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26627,
+          "following_count": 645,
+          "like_count": 3538,
+          "listed_count": 235,
+          "media_count": 3942,
+          "tweet_count": 11730
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

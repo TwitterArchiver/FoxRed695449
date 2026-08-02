@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1941747947206738227",
+    "created_at": "2025-07-06T09:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941786103440376216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941786103440376216",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941747947206738227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 男主都死了不能出DLC？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1941747938465808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJ5dlOaAAABx4k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1941747947206738227",
+        "created_at": "2025-07-06T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941786103440376216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941786103440376216",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941747947206738227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 男主都死了不能出DLC？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941747938465808384"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1941747947206738227",
+        "created_at": "2025-07-06T06:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T07:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941747947206738227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75UyCUAveg",
+              "end": 35,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1941747947206738227/photo/1",
+              "media_key": "3_1941747938465808384",
+              "start": 12,
+              "url": "https://t.co/75UyCUAveg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941747947206738227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男主都死了还出第二季? https://t.co/75UyCUAveg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 667,
+          "like_count": 3670,
+          "listed_count": 7,
+          "media_count": 512,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜ASD&ADHD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "minokakay"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λ𝒛𝒖𝒓𝒆色號の水彩翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7198,
+          "following_count": 1041,
+          "like_count": 34099,
+          "listed_count": 9,
+          "media_count": 2359,
+          "tweet_count": 18919
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

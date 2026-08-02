@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966516851749576704"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966516859324231992",
+    "created_at": "2025-09-12T14:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966516859324231992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0qem14fFsR",
+          "end": 59,
+          "expanded_url": "https://x.com/FoxRed695449/status/1966516859324231992/photo/1",
+          "media_key": "3_1966516851749576704",
+          "start": 36,
+          "url": "https://t.co/0qem14fFsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966516859324231992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "來自香港郵政的餽贈！\n好大好多\n大到面積甚至和遊戲本大小差不多\n開心🥳 https://t.co/0qem14fFsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_1966516851749576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p4qFlaYAAEQnf.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966516851749576704"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966516859324231992",
+        "created_at": "2025-09-12T14:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966516859324231992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qem14fFsR",
+              "end": 59,
+              "expanded_url": "https://x.com/FoxRed695449/status/1966516859324231992/photo/1",
+              "media_key": "3_1966516851749576704",
+              "start": 36,
+              "url": "https://t.co/0qem14fFsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966516859324231992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "來自香港郵政的餽贈！\n好大好多\n大到面積甚至和遊戲本大小差不多\n開心🥳 https://t.co/0qem14fFsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 688,
+          "like_count": 4301,
+          "listed_count": 8,
+          "media_count": 778,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

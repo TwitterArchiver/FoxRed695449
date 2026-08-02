@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2041165166252007554",
+    "created_at": "2026-04-07T07:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041425469560758546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236908710523326464",
+          "start": 0,
+          "username": "lovelycake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20414…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/2041425373616058385",
+          "start": 12,
+          "url": "https://t.co/MswcQ9AThv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041425469560758546",
+    "in_reply_to_user_id": "1236908710523326464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041425373616058385",
+        "type": "quoted"
+      },
+      {
+        "id": "2041165166252007554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelycake https://t.co/MswcQ9AThv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_2041425366448029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSZjgqbQAA2Rxi.jpg",
+        "width": 1220
+      },
+      {
+        "duration_ms": 52701,
+        "height": 1592,
+        "media_key": "13_2041165069946687488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041165069946687488/img/QX4jCI-xKG5qisWz.jpg",
+        "public_metrics": {
+          "view_count": 20535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041165069946687488/pl/WtGcqBiClHenTWuq.m3u8?v=36d"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041165069946687488/vid/avc1/720x1296/mI_7qhO3-UAxVSPb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041165069946687488/vid/avc1/884x1592/u09y6n9HNOgzEkmc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041165069946687488/vid/avc1/320x576/NKMwgGoHcXaslxye.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041165069946687488/vid/avc1/480x864/hFBEyWEe4r86L5Tz.mp4"
+          }
+        ],
+        "width": 884
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041165069942505472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOs0QnbwAAaJm8.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2041165166252007554",
+        "created_at": "2026-04-07T07:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041425469560758546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236908710523326464",
+              "start": 0,
+              "username": "lovelycake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20414…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/2041425373616058385",
+              "start": 12,
+              "url": "https://t.co/MswcQ9AThv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041425469560758546",
+        "in_reply_to_user_id": "1236908710523326464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041425373616058385",
+            "type": "quoted"
+          },
+          {
+            "id": "2041165166252007554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelycake https://t.co/MswcQ9AThv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041425366448029696"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2041425373616058385",
+        "created_at": "2026-04-07T07:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041425373616058385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hwx7862g1z",
+              "end": 31,
+              "expanded_url": "https://x.com/FoxRed695449/status/2041425373616058385/photo/1",
+              "media_key": "3_2041425366448029696",
+              "start": 8,
+              "url": "https://t.co/Hwx7862g1z"
+            },
+            {
+              "display_url": "x.com/lovelycake/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lovelycake/status/2041165166252007554",
+              "start": 32,
+              "url": "https://t.co/SZlsikqhAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041425373616058385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041165166252007554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好，苹果也有 https://t.co/Hwx7862g1z https://t.co/SZlsikqhAt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041165069946687488",
+            "3_2041165069942505472"
+          ]
+        },
+        "author_id": "1236908710523326464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2041165166252007554",
+        "created_at": "2026-04-06T14:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041165166252007554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crv8KF8vS0",
+              "end": 86,
+              "expanded_url": "https://x.com/lovelycake/status/2041165166252007554/video/1",
+              "media_key": "13_2041165069946687488",
+              "start": 63,
+              "url": "https://t.co/crv8KF8vS0"
+            },
+            {
+              "display_url": "pic.x.com/crv8KF8vS0",
+              "end": 86,
+              "expanded_url": "https://x.com/lovelycake/status/2041165166252007554/video/1",
+              "media_key": "3_2041165069942505472",
+              "start": 63,
+              "url": "https://t.co/crv8KF8vS0"
+            },
+            {
+              "display_url": "x.com/lovelycake/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/lovelycake/status/2041089658873086221",
+              "start": 87,
+              "url": "https://t.co/cm0OZjFZe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041165166252007554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 70991,
+          "like_count": 218,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041089658873086221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为政企手机你听说过么😆\n24小时精准定位全方位监听无死角\n无法刷机，刷了也能精准定位你😊\n\n终于知道华为都是谁在买了🤣🤣🤣 https://t.co/crv8KF8vS0 https://t.co/cm0OZjFZe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 815,
+          "like_count": 7383,
+          "listed_count": 7,
+          "media_count": 975,
+          "tweet_count": 3097
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T06:56:46.000Z",
+        "description": "面对邪恶，如果我们都沉默了，那凭什么指望别人来拯救我们。",
+        "id": "1236908710523326464",
+        "location": "日本",
+        "name": "小蛋糕(日本勇者村）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345328983622107137/M5KziEMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19670,
+          "following_count": 1962,
+          "like_count": 27838,
+          "listed_count": 81,
+          "media_count": 3224,
+          "tweet_count": 8319
+        },
+        "username": "lovelycake",
+        "verified": true
+      }
+    ]
+  }
+}

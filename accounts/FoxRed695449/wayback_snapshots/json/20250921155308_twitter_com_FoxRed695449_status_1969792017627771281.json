@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969792009511825408"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1969389844221870564",
+    "created_at": "2025-09-21T15:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969792017627771281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505871580718673927",
+          "start": 0,
+          "username": "zzy86818320"
+        },
+        {
+          "end": 19,
+          "id": "3029501171",
+          "start": 13,
+          "username": "ltntw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQWpFfKtQy",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/1969792017627771281/photo/1",
+          "media_key": "3_1969792009511825408",
+          "start": 33,
+          "url": "https://t.co/SQWpFfKtQy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969792017627771281",
+    "in_reply_to_user_id": "1505871580718673927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969790735777218847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzy86818320 @ltntw 原來迪士尼不是美國企業了 https://t.co/SQWpFfKtQy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969792009511825408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YbZXBa8AAHk2a.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969792009511825408"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1969389844221870564",
+        "created_at": "2025-09-21T15:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969792017627771281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505871580718673927",
+              "start": 0,
+              "username": "zzy86818320"
+            },
+            {
+              "end": 19,
+              "id": "3029501171",
+              "start": 13,
+              "username": "ltntw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQWpFfKtQy",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1969792017627771281/photo/1",
+              "media_key": "3_1969792009511825408",
+              "start": 33,
+              "url": "https://t.co/SQWpFfKtQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969792017627771281",
+        "in_reply_to_user_id": "1505871580718673927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969790735777218847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzy86818320 @ltntw 原來迪士尼不是美國企業了 https://t.co/SQWpFfKtQy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505871580718673927",
+        "conversation_id": "1969389844221870564",
+        "created_at": "2025-09-21T15:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969790735777218847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3029501171",
+              "start": 0,
+              "username": "ltntw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969790735777218847",
+        "in_reply_to_user_id": "3029501171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969389844221870564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltntw 你美爹已经下架全所有的国际代言，你个傻逼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 696,
+          "like_count": 4372,
+          "listed_count": 8,
+          "media_count": 809,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T11:39:57.000Z",
+        "description": "",
+        "id": "1505871580718673927",
+        "name": "zzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725151811202678784/A6k56a7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 447,
+          "like_count": 31022,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 19300
+        },
+        "username": "zzy86818320",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-11T04:46:42.000Z",
+        "description": "提供第一手全球各地最即時的突發事件報導，為網友精準掌握新聞脈動。Liberty Times is the largest newspaper by circulation in Taiwan, providing national and international real-time news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltn.com.tw",
+                "end": 23,
+                "expanded_url": "http://www.ltn.com.tw/",
+                "start": 0,
+                "url": "https://t.co/NNg4IPIkTF"
+              }
+            ]
+          }
+        },
+        "id": "3029501171",
+        "location": "台北市內湖區瑞光路399號14樓",
+        "name": "自由時報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959911803443666944/mBMeVJ5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126846,
+          "following_count": 74,
+          "like_count": 232,
+          "listed_count": 723,
+          "media_count": 22625,
+          "tweet_count": 24407
+        },
+        "url": "https://t.co/NNg4IPIkTF",
+        "username": "ltntw",
+        "verified": false
+      }
+    ]
+  }
+}

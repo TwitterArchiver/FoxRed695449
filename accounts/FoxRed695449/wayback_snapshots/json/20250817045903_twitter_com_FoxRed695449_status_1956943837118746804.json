@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956943826435948544"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956943837118746804",
+    "created_at": "2025-08-17T04:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T05:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956943837118746804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqgilSEZ1M",
+          "end": 40,
+          "expanded_url": "https://x.com/FoxRed695449/status/1956943837118746804/photo/1",
+          "media_key": "3_1956943826435948544",
+          "start": 17,
+          "url": "https://t.co/mqgilSEZ1M"
+        },
+        {
+          "display_url": "x.com/abaablon/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/abaablon/status/1956774296417939546",
+          "start": 41,
+          "url": "https://t.co/aqkRhEgGqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956943837118746804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956774296417939546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已了解問題，並已對此問題逕行整改 https://t.co/mqgilSEZ1M https://t.co/aqkRhEgGqU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1956943826435948544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyh2CrQbwAAAiy0.jpg",
+        "width": 4032
+      },
+      {
+        "height": 294,
+        "media_key": "3_1956774291921608704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyfb2d-aoAAek99.jpg",
+        "width": 1498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956943826435948544"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956943837118746804",
+        "created_at": "2025-08-17T04:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T05:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956943837118746804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqgilSEZ1M",
+              "end": 40,
+              "expanded_url": "https://x.com/FoxRed695449/status/1956943837118746804/photo/1",
+              "media_key": "3_1956943826435948544",
+              "start": 17,
+              "url": "https://t.co/mqgilSEZ1M"
+            },
+            {
+              "display_url": "x.com/abaablon/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/abaablon/status/1956774296417939546",
+              "start": 41,
+              "url": "https://t.co/aqkRhEgGqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956943837118746804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956774296417939546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已了解問題，並已對此問題逕行整改 https://t.co/mqgilSEZ1M https://t.co/aqkRhEgGqU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956774291921608704"
+          ]
+        },
+        "author_id": "1768309380108406784",
+        "conversation_id": "1956774296417939546",
+        "created_at": "2025-08-16T17:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T18:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956774296417939546"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "wplacelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/49YMCvs9Ro",
+              "end": 201,
+              "expanded_url": "https://x.com/abaablon/status/1956774296417939546/photo/1",
+              "media_key": "3_1956774291921608704",
+              "start": 178,
+              "url": "https://t.co/49YMCvs9Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956774296417939546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 507,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#wplacelive 很搞笑，有人在杭州城区画跨旗🏳️‍⚧️，结果没几个小时就被几个Bionic开头的账号全部涂掉了，后来这个Bionic又写道\"Is drawing flags all you can do? STOP IT!\"\n结果被回复62(某市专属脏话)，被怼只会搞砸别人的作品，原句\"all\"被删去、\"STOP IT\"被改成了\"DO IT\"🤣 https://t.co/49YMCvs9Ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 691,
+          "like_count": 3985,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "🇨🇳CN，EN/JP/FR学习中🌏语言学Linguistics\n🏳️‍⚧️糕中生MtF🍥泛性恋pan.🏳️‍🌈PRIDE\n☔二次元老公❤️『笠っち』\n☮️热爱和平☀️反对任何极端主义\n😘はは@kir1same7 ちち@SShn_30741 あね@KiraRettosei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "kir1same7"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "SShn_30741"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "KiraRettosei"
+              }
+            ]
+          }
+        },
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930635060648239104/oEijdb4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 322,
+          "like_count": 15342,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1134
+        },
+        "username": "abaablon",
+        "verified": false
+      }
+    ]
+  }
+}

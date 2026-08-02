@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1946600113289461760"
+      ],
+      "media_source_tweet_id": [
+        "1946600229635338455"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1947142939530137747",
+    "created_at": "2025-07-21T03:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947142939530137747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1013099697181843456",
+          "start": 3,
+          "username": "lixim_pf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X9uFj8kYHo",
+          "end": 49,
+          "expanded_url": "https://x.com/lixim_pf/status/1946600229635338455/video/1",
+          "media_key": "13_1946600113289461760",
+          "start": 26,
+          "url": "https://t.co/X9uFj8kYHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947142939530137747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 908
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946600229635338455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lixim_pf: ああ化石になっちまうよ https://t.co/X9uFj8kYHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24128,
+        "height": 1080,
+        "media_key": "13_1946600113289461760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946600113289461760/img/caKkrHmHjo5AIbuc.jpg",
+        "public_metrics": {
+          "view_count": 75084
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946600113289461760/vid/avc1/1920x1080/OrUftoS19D5rx4fm.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946600113289461760/vid/avc1/480x270/QPyVz7Z8jejSmIDZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946600113289461760/vid/avc1/640x360/bpxTK0dfdPDb7MBS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946600113289461760/vid/avc1/1280x720/MvsSq0l9beu4-Lgn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946600113289461760/pl/K0iqdXGuJTR-HFkV.m3u8?v=198"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946600113289461760"
+          ],
+          "media_source_tweet_id": [
+            "1946600229635338455"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1947142939530137747",
+        "created_at": "2025-07-21T03:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947142939530137747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1013099697181843456",
+              "start": 3,
+              "username": "lixim_pf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9uFj8kYHo",
+              "end": 49,
+              "expanded_url": "https://x.com/lixim_pf/status/1946600229635338455/video/1",
+              "media_key": "13_1946600113289461760",
+              "start": 26,
+              "url": "https://t.co/X9uFj8kYHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947142939530137747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 908
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946600229635338455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lixim_pf: ああ化石になっちまうよ https://t.co/X9uFj8kYHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946600113289461760"
+          ]
+        },
+        "author_id": "1013099697181843456",
+        "conversation_id": "1946600229635338455",
+        "created_at": "2025-07-19T15:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946600229635338455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9uFj8kYHo",
+              "end": 35,
+              "expanded_url": "https://x.com/lixim_pf/status/1946600229635338455/video/1",
+              "media_key": "13_1946600113289461760",
+              "start": 12,
+              "url": "https://t.co/X9uFj8kYHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946600229635338455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 956,
+          "impression_count": 101605,
+          "like_count": 8424,
+          "quote_count": 48,
+          "reply_count": 10,
+          "retweet_count": 908
+        },
+        "reply_settings": "everyone",
+        "text": "ああ化石になっちまうよ https://t.co/X9uFj8kYHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 675,
+          "like_count": 3717,
+          "listed_count": 7,
+          "media_count": 556,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-30T16:39:25.000Z",
+        "description": "’00 ピアノとか...... │ https://t.co/F3pcI2ZGjZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/Lixim_",
+                "end": 41,
+                "expanded_url": "http://youtube.com/Lixim_",
+                "start": 18,
+                "url": "https://t.co/F3pcI2ZGjZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Lixim",
+                "end": 23,
+                "expanded_url": "https://lit.link/Lixim",
+                "start": 0,
+                "url": "https://t.co/r5lIr6WkFm"
+              }
+            ]
+          }
+        },
+        "id": "1013099697181843456",
+        "name": "Lixim /りくしむ",
+        "pinned_tweet_id": "1923004412437336235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595027260440219649/JZLrCvug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35705,
+          "following_count": 6,
+          "like_count": 39668,
+          "listed_count": 53,
+          "media_count": 81,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/r5lIr6WkFm",
+        "username": "lixim_pf",
+        "verified": true
+      }
+    ]
+  }
+}

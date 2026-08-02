@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918486568056320000"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1918115007830581255",
+    "created_at": "2025-05-03T02:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T03:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918486571419840957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "212849570",
+          "start": 0,
+          "username": "LiuGang8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iJElX2cbPu",
+          "end": 69,
+          "expanded_url": "https://x.com/FoxRed695449/status/1918486571419840957/photo/1",
+          "media_key": "3_1918486568056320000",
+          "start": 46,
+          "url": "https://t.co/iJElX2cbPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918486571419840957",
+    "in_reply_to_user_id": "212849570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918115007830581255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuGang8964 花15港币买个Google one就能直接给Google打电话了 https://t.co/iJElX2cbPu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1918486568056320000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp_VXnta8AAI03W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918486568056320000"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1918115007830581255",
+        "created_at": "2025-05-03T02:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T03:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918486571419840957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "212849570",
+              "start": 0,
+              "username": "LiuGang8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJElX2cbPu",
+              "end": 69,
+              "expanded_url": "https://x.com/FoxRed695449/status/1918486571419840957/photo/1",
+              "media_key": "3_1918486568056320000",
+              "start": 46,
+              "url": "https://t.co/iJElX2cbPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918486571419840957",
+        "in_reply_to_user_id": "212849570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918115007830581255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuGang8964 花15港币买个Google one就能直接给Google打电话了 https://t.co/iJElX2cbPu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "212849570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1918115007830581255",
+        "created_at": "2025-05-02T01:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T02:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918115007830581255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918115007830581255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 183651,
+          "like_count": 318,
+          "quote_count": 5,
+          "reply_count": 135,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Google 实在是可恨。一年前，不小心订阅了Google Workspace的90天试用版。后来忘记取消订阅了。随后就被每月自动扣除$164。几次设法取消这个谷歌账户都不得，给谷歌发电邮，一概不回应。上网查阅如何联系谷歌，谷歌总是给出一大堆链接，让自己先解决。或者跳出一群网络专家来通过网络聊天帮助解决问题."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 644,
+          "like_count": 3016,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-07T06:51:47.000Z",
+        "description": "列8964通缉令第三。头像是在89年被捕时的录像截屏\n1988年曾发起北大民主沙龙\n1989年发起成立北京高自联、工自联、农自联\n六四后被判监六年\n2005年成立“赵紫阳治丧委员会”、“中国天鹅绒行动”\n2009年组织“墙倒众人推”巡回画展\n2011年通过网络发起“中国茉莉花革命”\n数次在6月4日“闯关进京”纪念六四",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasmine-action.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://jasmine-action.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/QLXUnSn1vf"
+              }
+            ]
+          }
+        },
+        "id": "212849570",
+        "location": "美国",
+        "name": "刘刚",
+        "pinned_tweet_id": "1915476316087799836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/448424241105358848/dV-eRH4o_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73724,
+          "following_count": 2343,
+          "like_count": 190,
+          "listed_count": 376,
+          "media_count": 5217,
+          "tweet_count": 46623
+        },
+        "url": "https://t.co/QLXUnSn1vf",
+        "username": "LiuGang8964",
+        "verified": false
+      }
+    ]
+  }
+}

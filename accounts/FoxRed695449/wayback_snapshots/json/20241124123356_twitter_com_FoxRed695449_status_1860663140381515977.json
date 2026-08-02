@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860663128083795968"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1860663140381515977",
+    "created_at": "2024-11-24T12:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T13:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860663140381515977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KlDqCz7ynq",
+          "end": 54,
+          "expanded_url": "https://x.com/FoxRed695449/status/1860663140381515977/photo/1",
+          "media_key": "3_1860663128083795968",
+          "start": 31,
+          "url": "https://t.co/KlDqCz7ynq"
+        },
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/foxred695449/status/1860659357916234238",
+          "start": 55,
+          "url": "https://t.co/vSUlLxoQp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860663140381515977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860659357916234238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有什么比挨好捆以后到学校旁边的酒店美美地休息一下更舒服的呢 https://t.co/KlDqCz7ynq https://t.co/vSUlLxoQp0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860663140381515977].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860663140381515977",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860663140381515977"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1860663128083795968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJnQbwaEAAXVF0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860659346444816384"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1860659357916234238",
+        "created_at": "2024-11-24T12:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T13:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860659357916234238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1575113381886861313",
+              "start": 24,
+              "username": "scandal_sin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iU8vUeO0MW",
+              "end": 60,
+              "expanded_url": "https://x.com/FoxRed695449/status/1860659357916234238/photo/1",
+              "media_key": "3_1860659346444816384",
+              "start": 37,
+              "url": "https://t.co/iU8vUeO0MW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860659357916234238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新号600fo了，来张今天热乎的吊缚\n绳师/场地@scandal_sin https://t.co/iU8vUeO0MW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 245,
+          "like_count": 277,
+          "listed_count": 2,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

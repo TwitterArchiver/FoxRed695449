@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1955174249385300428",
+    "created_at": "2025-08-12T08:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955184274291949780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        },
+        {
+          "end": 23,
+          "id": "1749569248371023872",
+          "start": 10,
+          "username": "Eureka222323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955184274291949780",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955183903754609068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt @Eureka222323 原價是128hkd（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1955174249385300428",
+        "created_at": "2025-08-12T08:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955184274291949780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 23,
+              "id": "1749569248371023872",
+              "start": 10,
+              "username": "Eureka222323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955184274291949780",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955183903754609068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt @Eureka222323 原價是128hkd（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "1955174249385300428",
+        "created_at": "2025-08-12T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955183903754609068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749569248371023872",
+              "start": 0,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 27,
+              "id": "1781308864438345728",
+              "start": 14,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955183903754609068",
+        "in_reply_to_user_id": "1749569248371023872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955183470596202607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka222323 @FoxRed695449 哈人，￥150"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 682,
+          "like_count": 3920,
+          "listed_count": 7,
+          "media_count": 617,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁事学生 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 业余摄影 | DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 | ❤ Friendly to EVERYONE ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt/about",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt/about",
+                "start": 0,
+                "url": "https://t.co/IqxpClrmeQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "🐱ZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 593,
+          "like_count": 40789,
+          "listed_count": 4,
+          "media_count": 833,
+          "tweet_count": 10319
+        },
+        "url": "https://t.co/IqxpClrmeQ",
+        "username": "Jasonzyt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜阮玲玉｜长期孤独害怕谩骂的小女孩｜❤️@FoxRed695449｜繁简EN｜白柳玲玉 しらやなぎ レイギョク｜香港穷鬼一个| 逃生舱 @eureka2223232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "FoxRed695449"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "eureka2223232"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "地獄",
+        "name": "优莱卡Eureka 阮玲玉",
+        "pinned_tweet_id": "1952003214452384152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1617,
+          "like_count": 50077,
+          "listed_count": 3,
+          "media_count": 724,
+          "tweet_count": 9468
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

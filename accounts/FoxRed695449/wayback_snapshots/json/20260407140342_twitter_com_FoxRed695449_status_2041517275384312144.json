@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2041425373616058385",
+    "created_at": "2026-04-07T14:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041517275384312144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662871897309347842",
+          "start": 0,
+          "username": "ForsakenDreamm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041517275384312144",
+    "in_reply_to_user_id": "1662871897309347842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041513726378168641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForsakenDreamm 我在我底下已经回复清楚并且有展示过苹果的监管功能能怎么样\n你要是想挑字搞文字狱那我恕不奉陪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2041425373616058385",
+        "created_at": "2026-04-07T14:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041517275384312144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662871897309347842",
+              "start": 0,
+              "username": "ForsakenDreamm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041517275384312144",
+        "in_reply_to_user_id": "1662871897309347842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041513726378168641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForsakenDreamm 我在我底下已经回复清楚并且有展示过苹果的监管功能能怎么样\n你要是想挑字搞文字狱那我恕不奉陪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662871897309347842",
+        "conversation_id": "2041425373616058385",
+        "created_at": "2026-04-07T13:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041513726378168641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041513726378168641",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041487586129260846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这你得和原推说，但你引用他说有监听的推文说苹果也有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 813,
+          "like_count": 7383,
+          "listed_count": 7,
+          "media_count": 978,
+          "tweet_count": 3101
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T17:22:33.000Z",
+        "description": "",
+        "id": "1662871897309347842",
+        "location": "127.1&::1",
+        "name": "然然然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952549718510493696/5TpjMYpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 748,
+          "like_count": 50493,
+          "listed_count": 1,
+          "media_count": 643,
+          "tweet_count": 6535
+        },
+        "username": "ForsakenDreamm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2039527907257684069",
+    "created_at": "2026-04-02T04:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039562737198707040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1570532696950198272",
+          "start": 0,
+          "username": "Bob20262026"
+        },
+        {
+          "end": 24,
+          "id": "791197",
+          "start": 13,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039562737198707040",
+    "in_reply_to_user_id": "1570532696950198272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039555085769072772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bob20262026 @bbcchinese 但凡看看港英政府后期例如玫瑰园计划这些城市规划以及建设就不至于说出这种充满刻板印象与偏见的话\n可能在阁下眼里占香港最多土地的新界被开除港籍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2039527907257684069",
+        "created_at": "2026-04-02T04:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039562737198707040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1570532696950198272",
+              "start": 0,
+              "username": "Bob20262026"
+            },
+            {
+              "end": 24,
+              "id": "791197",
+              "start": 13,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039562737198707040",
+        "in_reply_to_user_id": "1570532696950198272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039555085769072772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bob20262026 @bbcchinese 但凡看看港英政府后期例如玫瑰园计划这些城市规划以及建设就不至于说出这种充满刻板印象与偏见的话\n可能在阁下眼里占香港最多土地的新界被开除港籍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570532696950198272",
+        "conversation_id": "2039527907257684069",
+        "created_at": "2026-04-02T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039555085769072772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0172af3d6505d899"
+        },
+        "id": "2039555085769072772",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039527907257684069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 这个地方除了尖沙咀中环金钟五六个区域不错，大部分地方都老破旧小脏。这就是英国统治百年的破地方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 816,
+          "like_count": 7288,
+          "listed_count": 7,
+          "media_count": 960,
+          "tweet_count": 3064
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T21:59:27.000Z",
+        "description": "天蝎座，中年大叔，爱品茶，美酒，美食，美景。常来往温哥华，京，沪。",
+        "id": "1570532696950198272",
+        "location": "Vancouver, British Columbia",
+        "name": "海淀大叔在温哥华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570548676275367936/PV43gwAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 833,
+          "like_count": 58761,
+          "listed_count": 13,
+          "media_count": 52,
+          "tweet_count": 8074
+        },
+        "username": "Bob20262026",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226596,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12074,
+          "media_count": 24580,
+          "tweet_count": 155420
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

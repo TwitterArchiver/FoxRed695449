@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859974398603936191",
+    "created_at": "2024-11-22T15:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T16:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859981831283859463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689136531913785346",
+          "start": 0,
+          "username": "xhl8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859981831283859463",
+    "in_reply_to_user_id": "1689136531913785346",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859981570930790601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhl8964 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859974398603936191",
+        "created_at": "2024-11-22T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859981831283859463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689136531913785346",
+              "start": 0,
+              "username": "xhl8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859981831283859463",
+        "in_reply_to_user_id": "1689136531913785346",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859981570930790601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhl8964 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689136531913785346",
+        "conversation_id": "1859974398603936191",
+        "created_at": "2024-11-22T15:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859981570930790601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859981570930790601",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859974398603936191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 外卖送过来都冷了，煎饼是要趁热吃啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 229,
+          "like_count": 228,
+          "listed_count": 2,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T04:48:34.000Z",
+        "description": "男孩子嗷，🚪20，现居成都。不知道些什么了",
+        "id": "1689136531913785346",
+        "location": "地球",
+        "name": "🧀☃小狐狸🦊（找工作版）",
+        "pinned_tweet_id": "1859882210901602639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809321246758432774/s0hqb67K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 1126,
+          "like_count": 27500,
+          "listed_count": 5,
+          "tweet_count": 9621
+        },
+        "username": "xhl8964",
+        "verified": false
+      }
+    ]
+  }
+}

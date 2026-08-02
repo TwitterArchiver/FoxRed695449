@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957377516794216448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1957304354345484457",
+    "created_at": "2025-08-18T09:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T10:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957377533781172630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401412511614767107",
+          "start": 0,
+          "username": "justice_trail"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tukjsBOPJZ",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957377533781172630/photo/1",
+          "media_key": "3_1957377516794216448",
+          "start": 27,
+          "url": "https://t.co/tukjsBOPJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957377533781172630",
+    "in_reply_to_user_id": "1401412511614767107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957304354345484457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justice_trail 需要以色列國防軍支援👍 https://t.co/tukjsBOPJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_1957377516794216448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoAexvbAAAte1P.jpg",
+        "width": 3556
+      },
+      {
+        "duration_ms": 60580,
+        "height": 874,
+        "media_key": "13_1957302993335808002",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957302993335808002/img/lTrCSx6UDWFrDDlX.jpg",
+        "public_metrics": {
+          "view_count": 9466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302993335808002/vid/avc1/320x388/T7JhTtcm61pn1EFH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302993335808002/vid/avc1/480x582/ajh4nLd9DGbLIV48.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302993335808002/vid/avc1/720x874/PgMUz7C_tuGXlPcb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957302993335808002/pl/hLxao5B-hnDVmaAM.m3u8?v=432"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 34266,
+        "height": 892,
+        "media_key": "13_1957302992912125952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957302992912125952/img/orTg5niJKpWt5Lxa.jpg",
+        "public_metrics": {
+          "view_count": 3149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992912125952/vid/avc1/320x396/sFfPsycqqlGSygsq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992912125952/vid/avc1/480x594/nqZekRSw9I9AriBx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992912125952/vid/avc1/720x892/bRJ17Nop_PR3qrXm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957302992912125952/pl/sTKOnhP4o1UYqCvQ.m3u8?v=ea6"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6700,
+        "height": 894,
+        "media_key": "13_1957302992895463424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957302992895463424/img/FLyym3UAD7_CmDD3.jpg",
+        "public_metrics": {
+          "view_count": 2932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992895463424/vid/avc1/320x396/Lq-f1Pp4CugUCeE6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992895463424/vid/avc1/480x596/ma4i8XnXOVbNp8-G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992895463424/vid/avc1/720x894/kHGRgbj2tfT41uUJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957302992895463424/pl/3C9UB4_If907DiNe.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10133,
+        "height": 664,
+        "media_key": "13_1957302992891260928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957302992891260928/img/AebCtrArweF9jlMJ.jpg",
+        "public_metrics": {
+          "view_count": 2368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992891260928/vid/avc1/320x390/9cU2ejLyGGgiFIS4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992891260928/vid/avc1/480x584/q8nIl22teMhFKvPM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957302992891260928/vid/avc1/544x664/ukT1-AXTt71jpavB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957302992891260928/pl/r8_BtO_xdT6VrW5l.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957377516794216448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957304354345484457",
+        "created_at": "2025-08-18T09:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957377533781172630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401412511614767107",
+              "start": 0,
+              "username": "justice_trail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tukjsBOPJZ",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957377533781172630/photo/1",
+              "media_key": "3_1957377516794216448",
+              "start": 27,
+              "url": "https://t.co/tukjsBOPJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957377533781172630",
+        "in_reply_to_user_id": "1401412511614767107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957304354345484457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justice_trail 需要以色列國防軍支援👍 https://t.co/tukjsBOPJZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957302993335808002",
+            "13_1957302992912125952",
+            "13_1957302992895463424",
+            "13_1957302992891260928"
+          ]
+        },
+        "author_id": "1401412511614767107",
+        "conversation_id": "1957304354345484457",
+        "created_at": "2025-08-18T04:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957304354345484457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1QEl8purq",
+              "end": 170,
+              "expanded_url": "https://x.com/justice_trail/status/1957304354345484457/video/1",
+              "media_key": "13_1957302993335808002",
+              "start": 147,
+              "url": "https://t.co/J1QEl8purq"
+            },
+            {
+              "display_url": "pic.x.com/J1QEl8purq",
+              "end": 170,
+              "expanded_url": "https://x.com/justice_trail/status/1957304354345484457/video/1",
+              "media_key": "13_1957302992912125952",
+              "start": 147,
+              "url": "https://t.co/J1QEl8purq"
+            },
+            {
+              "display_url": "pic.x.com/J1QEl8purq",
+              "end": 170,
+              "expanded_url": "https://x.com/justice_trail/status/1957304354345484457/video/1",
+              "media_key": "13_1957302992895463424",
+              "start": 147,
+              "url": "https://t.co/J1QEl8purq"
+            },
+            {
+              "display_url": "pic.x.com/J1QEl8purq",
+              "end": 170,
+              "expanded_url": "https://x.com/justice_trail/status/1957304354345484457/video/1",
+              "media_key": "13_1957302992891260928",
+              "start": 147,
+              "url": "https://t.co/J1QEl8purq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957304354345484457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 17108,
+          "like_count": 183,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "人民终于拿起武器做了最该做的事‼💪\n\n8月14日，河南封丘镇政府强拆家具厂，中共打手狗腿子穿上“红马甲”伪装成“志愿者”强拆老百姓工厂！\n\n这次结果让党出乎意料，事后五个红马甲狗腿子被杀被销户，剩下的望风而逃不敢露面！\n\n孟加拉模式开始，这是上天赋予我们的权力，给中共销户现在只有这一条路了！ https://t.co/J1QEl8purq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 695,
+          "like_count": 4026,
+          "listed_count": 7,
+          "media_count": 657,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T05:36:12.000Z",
+        "description": "The New Federal State of China. The Whistleblower Movement. Fight for freedom and rule of law. Take down the CCP！Economist/Columnist/Poet/Songwriter/Designer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuwangwudi.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wuwangwudi.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/8Q4nNxS4L7"
+              }
+            ]
+          }
+        },
+        "id": "1401412511614767107",
+        "location": "NFSC",
+        "name": "无王无帝（澳喜特战旅）🔥",
+        "pinned_tweet_id": "1874062436258795550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652922583661129733/3lcBNlgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13369,
+          "following_count": 1168,
+          "like_count": 91003,
+          "listed_count": 73,
+          "media_count": 6868,
+          "tweet_count": 117931
+        },
+        "url": "https://t.co/8Q4nNxS4L7",
+        "username": "justice_trail",
+        "verified": false
+      }
+    ]
+  }
+}

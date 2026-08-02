@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984574072026775554"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1984467504023158885",
+    "created_at": "2025-11-01T10:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T11:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984574074836914185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1244343708457164800",
+          "start": 0,
+          "username": "hinomaru8964"
+        },
+        {
+          "end": 24,
+          "id": "124187456",
+          "start": 14,
+          "username": "RigorGirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4GXtrepo8",
+          "end": 112,
+          "expanded_url": "https://x.com/FoxRed695449/status/1984574074836914185/photo/1",
+          "media_key": "3_1984574072026775554",
+          "start": 89,
+          "url": "https://t.co/C4GXtrepo8"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "1984574074836914185",
+    "in_reply_to_user_id": "1244343708457164800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984549702109679719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hinomaru8964 @RigorGirl 我没有日本的卡\n但我之前4月份的时候听说日本禁用了非pin支付然后搜了下日本信用卡协会确实有这个规定\n想询问下是有例外情况吗？ https://t.co/C4GXtrepo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984574072026775554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qfmpGbQAIsBSc.jpg",
+        "width": 921
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984574072026775554"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1984467504023158885",
+        "created_at": "2025-11-01T10:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984574074836914185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1244343708457164800",
+              "start": 0,
+              "username": "hinomaru8964"
+            },
+            {
+              "end": 24,
+              "id": "124187456",
+              "start": 14,
+              "username": "RigorGirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4GXtrepo8",
+              "end": 112,
+              "expanded_url": "https://x.com/FoxRed695449/status/1984574074836914185/photo/1",
+              "media_key": "3_1984574072026775554",
+              "start": 89,
+              "url": "https://t.co/C4GXtrepo8"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "1984574074836914185",
+        "in_reply_to_user_id": "1244343708457164800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984549702109679719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinomaru8964 @RigorGirl 我没有日本的卡\n但我之前4月份的时候听说日本禁用了非pin支付然后搜了下日本信用卡协会确实有这个规定\n想询问下是有例外情况吗？ https://t.co/C4GXtrepo8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244343708457164800",
+        "conversation_id": "1984467504023158885",
+        "created_at": "2025-11-01T09:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984549702109679719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "124187456",
+              "start": 0,
+              "username": "RigorGirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984549702109679719",
+        "in_reply_to_user_id": "124187456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984548454136492405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RigorGirl 不要出来秀智商丢人OK？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 669,
+          "like_count": 4742,
+          "listed_count": 7,
+          "media_count": 863,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-29T19:20:46.000Z",
+        "description": "还是老样子，偶尔出来冒个泡，不私聊！",
+        "id": "1244343708457164800",
+        "location": "東京 ",
+        "name": "舞子",
+        "pinned_tweet_id": "1984467504023158885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963819286151184384/21OjfoY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20989,
+          "following_count": 271,
+          "like_count": 113105,
+          "listed_count": 12,
+          "media_count": 4452,
+          "tweet_count": 54902
+        },
+        "username": "hinomaru8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T15:00:13.000Z",
+        "description": "cyber cow girl | 科技狂热 | 只泡技术大牛 | 似是而非的八卦 | 头像是盗图经常换",
+        "id": "124187456",
+        "location": "HK",
+        "name": "RigorGirl",
+        "pinned_tweet_id": "1963574346712322092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963862970217418752/ce_uJr5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29495,
+          "following_count": 3054,
+          "like_count": 3740,
+          "listed_count": 267,
+          "media_count": 9032,
+          "tweet_count": 4266
+        },
+        "username": "RigorGirl",
+        "verified": false
+      }
+    ]
+  }
+}

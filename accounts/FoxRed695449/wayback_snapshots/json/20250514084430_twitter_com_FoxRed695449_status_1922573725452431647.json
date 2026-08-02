@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1922556918695858465",
+    "created_at": "2025-05-14T08:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T09:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922573725452431647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782425698797309952",
+          "start": 0,
+          "username": "ChloeS395060"
+        },
+        {
+          "end": 26,
+          "id": "1353322529964756995",
+          "start": 14,
+          "username": "Minamikimon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922573725452431647",
+    "in_reply_to_user_id": "1782425698797309952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922572675270013308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChloeS395060 @Minamikimon 我找洋大人干嘛\n我收租都够我活一辈子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1922556918695858465",
+        "created_at": "2025-05-14T08:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922573725452431647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782425698797309952",
+              "start": 0,
+              "username": "ChloeS395060"
+            },
+            {
+              "end": 26,
+              "id": "1353322529964756995",
+              "start": 14,
+              "username": "Minamikimon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922573725452431647",
+        "in_reply_to_user_id": "1782425698797309952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922572675270013308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChloeS395060 @Minamikimon 我找洋大人干嘛\n我收租都够我活一辈子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782425698797309952",
+        "conversation_id": "1922556918695858465",
+        "created_at": "2025-05-14T08:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922572675270013308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 26,
+              "id": "1353322529964756995",
+              "start": 14,
+              "username": "Minamikimon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922572675270013308",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922571882529763547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Minamikimon 洋大人是不是不要你这种货色啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 645,
+          "like_count": 3178,
+          "listed_count": 6,
+          "media_count": 563,
+          "tweet_count": 1717
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-22T15:06:34.000Z",
+        "description": "",
+        "id": "1782425698797309952",
+        "name": "Chloe S",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 105,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "ChloeS395060",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T12:43:40.000Z",
+        "description": "滇國酒瘋子，日常想死，不專業AI畫師 中文/日本語/English 南條愛乃一番推し! 井口裕香が推し，單推七海麻美❤️❤️❤️",
+        "id": "1353322529964756995",
+        "location": "Ulster",
+        "name": "希子が負けない🇬🇧🇮🇪",
+        "pinned_tweet_id": "1829145407836110873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919693436325974016/14-9jhc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5288,
+          "following_count": 1537,
+          "like_count": 138007,
+          "listed_count": 20,
+          "media_count": 693,
+          "tweet_count": 3126
+        },
+        "username": "Minamikimon",
+        "verified": false
+      }
+    ]
+  }
+}

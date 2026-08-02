@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981657552967405569"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981657561289179413",
+    "created_at": "2025-10-24T09:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T10:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981657561289179413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/85Z15qNKBy",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/1981657561289179413/photo/1",
+          "media_key": "3_1981657552967405569",
+          "start": 4,
+          "url": "https://t.co/85Z15qNKBy"
+        },
+        {
+          "display_url": "x.com/theikevin/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/theikevin/status/1970454227924169086",
+          "start": 28,
+          "url": "https://t.co/efLI5cr80w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981657561289179413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970454227924169086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全劇終 https://t.co/85Z15qNKBy https://t.co/efLI5cr80w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1981657552967405569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BDC48XkAEuKCt.jpg",
+        "width": 828
+      },
+      {
+        "height": 2304,
+        "media_key": "3_1970454194160041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1h1plEWgAA1fR_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981657552967405569"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981657561289179413",
+        "created_at": "2025-10-24T09:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981657561289179413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/85Z15qNKBy",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/1981657561289179413/photo/1",
+              "media_key": "3_1981657552967405569",
+              "start": 4,
+              "url": "https://t.co/85Z15qNKBy"
+            },
+            {
+              "display_url": "x.com/theikevin/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/theikevin/status/1970454227924169086",
+              "start": 28,
+              "url": "https://t.co/efLI5cr80w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981657561289179413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970454227924169086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全劇終 https://t.co/85Z15qNKBy https://t.co/efLI5cr80w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970454194160041984"
+          ]
+        },
+        "author_id": "361796361",
+        "conversation_id": "1970454227924169086",
+        "created_at": "2025-09-23T11:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970454227924169086"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "TVB News",
+              "probability": 0.5183,
+              "start": 2,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tug3ZsQ6ps",
+              "end": 70,
+              "expanded_url": "https://x.com/TheiKevin/status/1970454227924169086/photo/1",
+              "media_key": "3_1970454194160041984",
+              "start": 47,
+              "url": "https://t.co/tug3ZsQ6ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970454227924169086",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 26959,
+          "like_count": 137,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "A TVB News reporter just got photobombed live… https://t.co/tug3ZsQ6ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 682,
+          "like_count": 4703,
+          "listed_count": 7,
+          "media_count": 865,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-25T10:34:28.000Z",
+        "description": "Sometimes a fixer. Feel free 2 correct. T&Cs apply. #ShotoniPhone #TeamPixel",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 52,
+                "tag": "ShotoniPhone"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "tag": "TeamPixel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/e/1FAI…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSe-IDVo5HticO4cDQis2vd41LnzwBAY4qZ5lN-Rsw9ZSRYujA/viewform",
+                "start": 0,
+                "url": "https://t.co/BIWCV7vH9G"
+              }
+            ]
+          }
+        },
+        "id": "361796361",
+        "location": "Universe",
+        "name": "Kevin Blue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838423190382465024/GLrYu14D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 999,
+          "like_count": 40198,
+          "listed_count": 29,
+          "media_count": 49242,
+          "tweet_count": 95014
+        },
+        "url": "https://t.co/BIWCV7vH9G",
+        "username": "TheiKevin",
+        "verified": false
+      }
+    ]
+  }
+}

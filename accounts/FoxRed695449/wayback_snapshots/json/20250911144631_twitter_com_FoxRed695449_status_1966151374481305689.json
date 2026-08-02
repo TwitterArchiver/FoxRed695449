@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "1966151374481305689",
+    "created_at": "2025-09-11T14:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T15:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966151374481305689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amongus1818/st…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/amongus1818/status/1965926545618575603",
+          "start": 71,
+          "url": "https://t.co/zlx8ECL6YT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966151374481305689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965926545618575603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃，他不僅說是代價，在必要的代價後面還跟了「That’s a prudent deal」即「這是一筆明智（深思熟慮）的交易」\n很難令人同情… https://t.co/zlx8ECL6YT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1966151374481305689",
+        "created_at": "2025-09-11T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966151374481305689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amongus1818/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/amongus1818/status/1965926545618575603",
+              "start": 71,
+              "url": "https://t.co/zlx8ECL6YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966151374481305689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965926545618575603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃，他不僅說是代價，在必要的代價後面還跟了「That’s a prudent deal」即「這是一筆明智（深思熟慮）的交易」\n很難令人同情… https://t.co/zlx8ECL6YT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502457747283001347",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1965926545618575603",
+        "created_at": "2025-09-10T23:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T00:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965926545618575603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965926545618575603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 19644,
+          "like_count": 291,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "中国的社交媒体上是这样评价 Charlie Kirk 的死的： \n“ 请大家不要忘记他是宪法第二修正案的支持者，他说为了持枪权，某些枪击案的发生是必要的代价。 现在他求锤得锤，自己成了那个‘代价’（配上一个得意的表情）。” \n\n然后下面很多中国人哈哈大笑，说：好个求锤得锤、回旋镖、活该、特朗普的狗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 688,
+          "like_count": 4298,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T01:34:08.000Z",
+        "description": "#反出生主义 理论大师。 以前是支黑，现在是人类黑。 这个宇宙，谁tm爱来谁来。  三体人占领地球后，其实并不会比人类好，它们只是一群自认为胜利的可怜接盘侠而已。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "反出生主义"
+              }
+            ]
+          }
+        },
+        "id": "1502457747283001347",
+        "name": "叶文洁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754534211510267905/_4wEQ15H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6499,
+          "following_count": 1037,
+          "like_count": 64778,
+          "listed_count": 50,
+          "media_count": 624,
+          "tweet_count": 20733
+        },
+        "username": "amongus1818",
+        "verified": false
+      }
+    ]
+  }
+}

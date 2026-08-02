@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859155265394012161"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859155273900085526",
+    "created_at": "2024-11-20T08:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T09:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859155273900085526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7fRjrDtqU",
+          "end": 59,
+          "expanded_url": "https://x.com/FoxRed695449/status/1859155273900085526/photo/1",
+          "media_key": "3_1859155265394012161",
+          "start": 36,
+          "url": "https://t.co/G7fRjrDtqU"
+        },
+        {
+          "display_url": "x.com/bq88uorzlifvym…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/bq88uorzlifvymn/status/1859152439309680860",
+          "start": 60,
+          "url": "https://t.co/eoKe6wEfAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859155273900085526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859152439309680860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起蔚蓝档案\n2次元的钱就是好赚\n入坑第1天就为了白子氪了148HKD https://t.co/G7fRjrDtqU https://t.co/eoKe6wEfAN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1859155265394012161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc0L3RgbcAEpoZk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859155265394012161"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859155273900085526",
+        "created_at": "2024-11-20T08:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T09:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859155273900085526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7fRjrDtqU",
+              "end": 59,
+              "expanded_url": "https://x.com/FoxRed695449/status/1859155273900085526/photo/1",
+              "media_key": "3_1859155265394012161",
+              "start": 36,
+              "url": "https://t.co/G7fRjrDtqU"
+            },
+            {
+              "display_url": "x.com/bq88uorzlifvym…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/bq88uorzlifvymn/status/1859152439309680860",
+              "start": 60,
+              "url": "https://t.co/eoKe6wEfAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859155273900085526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859152439309680860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起蔚蓝档案\n2次元的钱就是好赚\n入坑第1天就为了白子氪了148HKD https://t.co/G7fRjrDtqU https://t.co/eoKe6wEfAN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1859152275908038862",
+        "created_at": "2024-11-20T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859152439309680860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859152439309680860",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859152275908038862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 Bluearchive 😈😈😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 194,
+          "like_count": 157,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，有時候精神狀態低下(大多數時候正常)，會python(基礎)，活的，有問題私信(正常的會回)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1820666880765686115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818199395399290880/-Z0GVcm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 1367,
+          "like_count": 17392,
+          "listed_count": 2,
+          "tweet_count": 5761
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      }
+    ]
+  }
+}

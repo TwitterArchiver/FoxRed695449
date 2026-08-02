@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2002906232512975170",
+    "created_at": "2025-12-22T00:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T01:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002906232512975170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiangdaoren/st…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/jiangdaoren/status/2002570900076671337",
+          "start": 90,
+          "url": "https://t.co/75kTFk6PA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002906232512975170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002570900076671337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国倒车速度怎么这么快\n人权倒的有些地方比中国都差了渍渍渍\n我这个未成年在中国都能吃上医保报销的E2（当然前提是家长同意），而美国直接变成犯罪了\n自由灯塔的灯掉下来的速度有些快啊 https://t.co/75kTFk6PA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26866,
+        "height": 720,
+        "media_key": "13_2002570836277071872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002570836277071872/img/zPFyp1qYjcuz6n60.jpg",
+        "public_metrics": {
+          "view_count": 4300
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002570836277071872/vid/avc1/480x270/ndKDLdF7jn1N1j8W.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002570836277071872/vid/avc1/640x360/27y5BBq01rqJAT8W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002570836277071872/vid/avc1/1280x720/6oiEsLvoeF2nP8x_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002570836277071872/pl/Jg3Y7WER2XuSKB9r.m3u8?v=965"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2002906232512975170",
+        "created_at": "2025-12-22T00:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T01:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002906232512975170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiangdaoren/st…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/jiangdaoren/status/2002570900076671337",
+              "start": 90,
+              "url": "https://t.co/75kTFk6PA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002906232512975170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002570900076671337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国倒车速度怎么这么快\n人权倒的有些地方比中国都差了渍渍渍\n我这个未成年在中国都能吃上医保报销的E2（当然前提是家长同意），而美国直接变成犯罪了\n自由灯塔的灯掉下来的速度有些快啊 https://t.co/75kTFk6PA1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002570836277071872"
+          ]
+        },
+        "author_id": "1495112378198884356",
+        "conversation_id": "2002570900076671337",
+        "created_at": "2025-12-21T02:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002570900076671337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCxjyYhrKw",
+              "end": 89,
+              "expanded_url": "https://x.com/jiangdaoren/status/2002570900076671337/video/1",
+              "media_key": "13_2002570836277071872",
+              "start": 66,
+              "url": "https://t.co/qCxjyYhrKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002570900076671337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7989,
+          "like_count": 198,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "将未成年人进行跨性别转换，这本来就是一种犯罪，任何正常的父母都会反对，但还有两百多民主党人支持未成年变性，民主党已然成为邪教组织… https://t.co/qCxjyYhrKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 713,
+          "like_count": 5416,
+          "listed_count": 7,
+          "media_count": 913,
+          "tweet_count": 2818
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-19T19:06:45.000Z",
+        "description": "孤独的牧羊人｜圣经传统｜我的油管https://t.co/UfZWS2Gz0P ｜PayPal：https://t.co/HCfm5b3HCz（请给我杯水喝）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEMUH…",
+                "end": 39,
+                "expanded_url": "https://youtube.com/channel/UCEMUHug71GiSrtrL2OPpW7A?si=P3C0EHKIfBp696BL",
+                "start": 16,
+                "url": "https://t.co/UfZWS2Gz0P"
+              },
+              {
+                "display_url": "paypal.me/juyangjiang",
+                "end": 71,
+                "expanded_url": "https://www.paypal.me/juyangjiang",
+                "start": 48,
+                "url": "https://t.co/HCfm5b3HCz"
+              }
+            ]
+          }
+        },
+        "id": "1495112378198884356",
+        "name": "摩西摩西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515325476419473408/z64Fo8uF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19669,
+          "following_count": 1212,
+          "like_count": 7393,
+          "listed_count": 54,
+          "media_count": 1391,
+          "tweet_count": 7586
+        },
+        "username": "jiangdaoren",
+        "verified": false
+      }
+    ]
+  }
+}

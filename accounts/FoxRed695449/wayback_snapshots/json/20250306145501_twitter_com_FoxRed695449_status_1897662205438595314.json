@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897657729306820875",
+    "created_at": "2025-03-06T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897662205438595314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885806264766373888",
+          "start": 0,
+          "username": "tomoe_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897662205438595314",
+    "in_reply_to_user_id": "1885806264766373888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897657729306820875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomoe_QAQ 姐姐的家長好好！\n想要互fo，ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897657729306820875",
+        "created_at": "2025-03-06T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897662205438595314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885806264766373888",
+              "start": 0,
+              "username": "tomoe_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897662205438595314",
+        "in_reply_to_user_id": "1885806264766373888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897657729306820875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomoe_QAQ 姐姐的家長好好！\n想要互fo，ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885806264766373888",
+        "conversation_id": "1897657729306820875",
+        "created_at": "2025-03-06T14:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T15:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897657729306820875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897657729306820875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 451,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概讲一下吧…在tomoe性别焦虑爆发自杀之前tomoe妈妈本来就对tomoe很好，基本是首尔东京香港上海随处飞想买什么买什么那种）因为是单亲家庭所以妈妈特别爱tomoe才对tomoe这么好另外妈妈眼界很高什么都看得开她也有很多朋友也是LGBT）和周围朋友相比不算富裕但是满足tomoe愿望完全足够所以大家不用担心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 538,
+          "like_count": 2225,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T21:43:53.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈主账@tomoe_QVQ｜07｜mtf｜无证含糖🍥｜hrt2025.1.31🏳️‍⚧️｜les🏳️‍🌈｜🇭🇰女友@eri_QvQ｜🇯🇵老公@D_D_ovO_｜🇨🇦男友@aya_the_raven｜坐标📍🇯🇵東京🇨🇳成都🇭🇰香港🇨🇳上海🇰🇷首尔｜欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "tomoe_QVQ"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "eri_QvQ"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "aya_the_raven"
+              }
+            ]
+          }
+        },
+        "id": "1885806264766373888",
+        "name": "ともえ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1885818431234363607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885807280144490496/u0MVs6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 138,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 184
+        },
+        "username": "tomoe_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

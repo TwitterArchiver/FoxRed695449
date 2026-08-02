@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1983135985438470256",
+    "created_at": "2025-10-28T11:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983135985438470256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1983033556189446277",
+          "start": 56,
+          "url": "https://t.co/ptAWSJDyFX"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00ae3ed017d9d14b"
+    },
+    "id": "1983135985438470256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 30,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983033556189446277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "距離「防止學生自殺委員會」發佈最終報告快要9年了\n政府的官僚還記得16年年初9天內連續7起學生自殺的那件事嗎？ https://t.co/ptAWSJDyFX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1855,
+        "media_key": "3_1983033553312268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UmgprbwAA5VmI.jpg",
+        "width": 1220
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Kowloon City District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1724319,
+            22.2934292,
+            114.2193345,
+            22.3492137
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "00ae3ed017d9d14b",
+        "name": "Kowloon City District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1983135985438470256",
+        "created_at": "2025-10-28T11:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983135985438470256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1983033556189446277",
+              "start": 56,
+              "url": "https://t.co/ptAWSJDyFX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1983135985438470256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983033556189446277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "距離「防止學生自殺委員會」發佈最終報告快要9年了\n政府的官僚還記得16年年初9天內連續7起學生自殺的那件事嗎？ https://t.co/ptAWSJDyFX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983033553312268288"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1983033556189446277",
+        "created_at": "2025-10-28T04:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983033556189446277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4RlTCy3rH",
+              "end": 59,
+              "expanded_url": "https://x.com/FoxRed695449/status/1983033556189446277/photo/1",
+              "media_key": "3_1983033553312268288",
+              "start": 36,
+              "url": "https://t.co/v4RlTCy3rH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1983033556189446277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 437,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我們沒有選票，我們沒有話語權\n即使用盡生命控訴，在官僚面前依旧蒼白無力 https://t.co/v4RlTCy3rH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 682,
+          "like_count": 4718,
+          "listed_count": 7,
+          "media_count": 858,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

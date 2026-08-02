@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929099415995957249"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928670323328630994",
+    "created_at": "2025-06-01T08:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T09:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929099419309560204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551825528411209729",
+          "start": 0,
+          "username": "devine33304"
+        },
+        {
+          "end": 21,
+          "id": "36310338",
+          "start": 13,
+          "username": "bluetim"
+        },
+        {
+          "end": 29,
+          "id": "1602328096622800896",
+          "start": 22,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q1BYsoOPrO",
+          "end": 83,
+          "expanded_url": "https://x.com/FoxRed695449/status/1929099419309560204/photo/1",
+          "media_key": "3_1929099415995957249",
+          "start": 60,
+          "url": "https://t.co/q1BYsoOPrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929099419309560204",
+    "in_reply_to_user_id": "1551825528411209729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929064092196880677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@devine33304 @bluetim @dutyge 我覺得有點好笑\n大陸以外的銀行都發行銀聯，你和我說用不了？ https://t.co/q1BYsoOPrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_1929099415995957249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWJsrLaQAEPsep.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929099415995957249"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928670323328630994",
+        "created_at": "2025-06-01T08:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929099419309560204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551825528411209729",
+              "start": 0,
+              "username": "devine33304"
+            },
+            {
+              "end": 21,
+              "id": "36310338",
+              "start": 13,
+              "username": "bluetim"
+            },
+            {
+              "end": 29,
+              "id": "1602328096622800896",
+              "start": 22,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1BYsoOPrO",
+              "end": 83,
+              "expanded_url": "https://x.com/FoxRed695449/status/1929099419309560204/photo/1",
+              "media_key": "3_1929099415995957249",
+              "start": 60,
+              "url": "https://t.co/q1BYsoOPrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929099419309560204",
+        "in_reply_to_user_id": "1551825528411209729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929064092196880677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@devine33304 @bluetim @dutyge 我覺得有點好笑\n大陸以外的銀行都發行銀聯，你和我說用不了？ https://t.co/q1BYsoOPrO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551825528411209729",
+        "conversation_id": "1928670323328630994",
+        "created_at": "2025-06-01T06:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T07:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929064092196880677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "36310338",
+              "start": 0,
+              "username": "bluetim"
+            },
+            {
+              "end": 16,
+              "id": "1602328096622800896",
+              "start": 9,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929064092196880677",
+        "in_reply_to_user_id": "36310338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929054689448046832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluetim @dutyge 别脑残了，你去除了大陆地区以外怎么刷不了银联卡，这算不算特殊对待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 656,
+          "like_count": 3382,
+          "listed_count": 6,
+          "media_count": 611,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T07:03:40.000Z",
+        "description": "A beginner learning about blockchain and cryptocurrency",
+        "id": "1551825528411209729",
+        "name": "Devine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927540343391535104/KhahH12q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 142,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "devine33304",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-29T07:19:22.000Z",
+        "description": "已退休機械工程師，中間偏右。反極端。路見不爽吼兩聲。",
+        "id": "36310338",
+        "location": "New Taipei City, Taiwan",
+        "name": "小賢",
+        "pinned_tweet_id": "1927753528979640573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808517385705680896/pLeD0S7v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 111,
+          "like_count": 2228,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 7305
+        },
+        "username": "bluetim",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28821,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 115,
+          "media_count": 6675,
+          "tweet_count": 10404
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

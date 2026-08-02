@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2026732139044069674",
+    "created_at": "2026-02-26T09:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026952307301310893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026952307301310893",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026732139044069674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 我喜欢吃原味的xdxd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2026732139044069674",
+        "created_at": "2026-02-26T09:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026952307301310893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026952307301310893",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026732139044069674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 我喜欢吃原味的xdxd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2026732139044069674",
+        "created_at": "2026-02-25T18:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026732139044069674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026732139044069674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吃饺子不能蘸酱油也不能蘸醋的痛苦吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 785,
+          "like_count": 6455,
+          "listed_count": 7,
+          "media_count": 940,
+          "tweet_count": 2975
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "写点啥好",
+        "id": "1540698144429596673",
+        "name": "Bundesamt für Berliner und Weißwürste",
+        "pinned_tweet_id": "2025228865304506394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 566,
+          "like_count": 3583,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 4434
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

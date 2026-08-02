@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2081791413235441863",
+    "created_at": "2026-07-28T04:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081958980541386817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013652544455876612",
+          "start": 0,
+          "username": "aki_qiuqiu0912"
+        },
+        {
+          "end": 27,
+          "id": "1253165636210978817",
+          "start": 16,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081958980541386817",
+    "in_reply_to_user_id": "2013652544455876612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081800223345799548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aki_qiuqiu0912 @Exusiai159 优先值机，优先登机，额外托运行李额，优先处理托运行李，免费选择一般需付费的座位\n积分票的所需积分一般不会变，节假日可能会很划算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2081791413235441863",
+        "created_at": "2026-07-28T04:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081958980541386817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013652544455876612",
+              "start": 0,
+              "username": "aki_qiuqiu0912"
+            },
+            {
+              "end": 27,
+              "id": "1253165636210978817",
+              "start": 16,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081958980541386817",
+        "in_reply_to_user_id": "2013652544455876612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081800223345799548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aki_qiuqiu0912 @Exusiai159 优先值机，优先登机，额外托运行李额，优先处理托运行李，免费选择一般需付费的座位\n积分票的所需积分一般不会变，节假日可能会很划算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013652544455876612",
+        "conversation_id": "2081791413235441863",
+        "created_at": "2026-07-27T17:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081800223345799548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081800223345799548",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081791413235441863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 对的我一直很好奇那些会员卡什么什么的，还有那种航司的会员之类的，除了呃能在起飞前有休息室之类的我也想不出来有什么特权，但是网上有好多人因为积分还会特意去飞，我不大理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser｜關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 848,
+          "like_count": 8308,
+          "listed_count": 6,
+          "media_count": 1079,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T16:39:22.000Z",
+        "description": "♂ 🇨🇳20/INFP QUB 本科在读 中文/English/日本語（機械翻訳） Nagumo Tetora/Morgan（FGO）全肯定  我最喜欢最爱的人@AmouTianyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "AmouTianyu"
+              }
+            ]
+          }
+        },
+        "id": "2013652544455876612",
+        "name": "废料堆积处",
+        "pinned_tweet_id": "2031374674895188382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013654161649254400/S2vQo7d7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 304,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "aki_qiuqiu0912",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜对贴脸的极端歧视仇恨言论会直接开喷｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使🔜极兽聚",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5360,
+          "following_count": 7130,
+          "like_count": 197379,
+          "listed_count": 10,
+          "media_count": 5688,
+          "tweet_count": 59521
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

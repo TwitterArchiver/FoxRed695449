@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2006585657406402750",
+    "created_at": "2026-01-02T06:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T07:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006974594411016568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973321781327880192",
+          "start": 0,
+          "username": "jieluizi"
+        },
+        {
+          "end": 22,
+          "id": "817932880605233152",
+          "start": 10,
+          "username": "AsiaFinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006974594411016568",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006971138317091031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieluizi @AsiaFinance 除开第2、3份文件所提及的适用于当时的豁免收费以及资助，除发生重大公众利益事件时不会出现其他的豁免或资助，因为这是违反香港法例第113章第18条的\n所以你可以停止诡辩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-02T06:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006974594411016568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973321781327880192",
+              "start": 0,
+              "username": "jieluizi"
+            },
+            {
+              "end": 22,
+              "id": "817932880605233152",
+              "start": 10,
+              "username": "AsiaFinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006974594411016568",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006971138317091031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieluizi @AsiaFinance 除开第2、3份文件所提及的适用于当时的豁免收费以及资助，除发生重大公众利益事件时不会出现其他的豁免或资助，因为这是违反香港法例第113章第18条的\n所以你可以停止诡辩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-02T06:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006971138317091031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973321781327880192",
+              "start": 0,
+              "username": "jieluizi"
+            },
+            {
+              "end": 22,
+              "id": "817932880605233152",
+              "start": 10,
+              "username": "AsiaFinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006971138317091031",
+        "in_reply_to_user_id": "1973321781327880192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006964579373560294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieluizi @AsiaFinance 所有豁免收费条件在文件里全写了\n要么你没看要么你看不懂繁体中文和英语要么你阅读理解有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 724,
+          "like_count": 5480,
+          "listed_count": 7,
+          "media_count": 918,
+          "tweet_count": 2836
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T09:39:31.000Z",
+        "description": "bitcoin",
+        "id": "1973321781327880192",
+        "location": "Chicago, IL",
+        "name": "战神永不言败",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001398247248793600/d-sJsw6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 116
+        },
+        "username": "jieluizi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T03:16:10.000Z",
+        "description": "亚洲金融：政经领域的有意思的事儿。\nAsiaFinance: For the Rich and Powerful.",
+        "id": "817932880605233152",
+        "location": "New York, USA",
+        "name": "亚洲金融 Asia Finance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581767238968905729/WA2-mkJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376091,
+          "following_count": 580,
+          "like_count": 22244,
+          "listed_count": 1853,
+          "media_count": 12546,
+          "tweet_count": 15357
+        },
+        "username": "AsiaFinance",
+        "verified": true
+      }
+    ]
+  }
+}

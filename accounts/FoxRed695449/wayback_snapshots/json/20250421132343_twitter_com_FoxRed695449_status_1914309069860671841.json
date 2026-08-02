@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Special Education",
+          "id": "852273994698956800",
+          "name": "Special Education"
+        }
+      }
+    ],
+    "conversation_id": "1914309069860671841",
+    "created_at": "2025-04-21T13:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T14:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914309069860671841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1229628603412836353",
+          "start": 3,
+          "username": "Kiwi_Wiki27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SuperQQ_Jean",
+          "end": 139,
+          "expanded_url": "https://x.com/SuperQQ_Jean",
+          "start": 125,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://twitter.com/SuperQQ_Jean",
+          "url": "https://t.co/y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914309069860671841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914246357629702517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiwi_Wiki27: 这就是中国教育，我就不说正常孩子了，考虑过神经多样性和发育障碍的孩子吗？感统失调的孩子怎么控制自己的走路姿势保持在这种严苛的范围内？2025年了，发达国家想方设法地给不同儿童提供special education… https://t.co/y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914246351988363264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDE6j7akAAwkgb.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914246351988424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDE6j7bgAAnk_p.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Special Education",
+              "id": "852273994698956800",
+              "name": "Special Education"
+            }
+          }
+        ],
+        "conversation_id": "1914309069860671841",
+        "created_at": "2025-04-21T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914309069860671841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1229628603412836353",
+              "start": 3,
+              "username": "Kiwi_Wiki27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SuperQQ_Jean",
+              "end": 139,
+              "expanded_url": "https://x.com/SuperQQ_Jean",
+              "start": 125,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/SuperQQ_Jean",
+              "url": "https://t.co/y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914309069860671841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914246357629702517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiwi_Wiki27: 这就是中国教育，我就不说正常孩子了，考虑过神经多样性和发育障碍的孩子吗？感统失调的孩子怎么控制自己的走路姿势保持在这种严苛的范围内？2025年了，发达国家想方设法地给不同儿童提供special education… https://t.co/y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914246351988363264",
+            "3_1914246351988424704"
+          ]
+        },
+        "author_id": "1229628603412836353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Special Education",
+              "id": "852273994698956800",
+              "name": "Special Education"
+            }
+          }
+        ],
+        "conversation_id": "1914246357629702517",
+        "created_at": "2025-04-21T09:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914246357629702517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGevbb4yOq",
+              "end": 130,
+              "expanded_url": "https://x.com/Kiwi_Wiki27/status/1914246357629702517/photo/1",
+              "media_key": "3_1914246351988363264",
+              "start": 107,
+              "url": "https://t.co/yGevbb4yOq"
+            },
+            {
+              "display_url": "pic.x.com/yGevbb4yOq",
+              "end": 130,
+              "expanded_url": "https://x.com/Kiwi_Wiki27/status/1914246357629702517/photo/1",
+              "media_key": "3_1914246351988424704",
+              "start": 107,
+              "url": "https://t.co/yGevbb4yOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914246357629702517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这就是中国教育，我就不说正常孩子了，考虑过神经多样性和发育障碍的孩子吗？感统失调的孩子怎么控制自己的走路姿势保持在这种严苛的范围内？2025年了，发达国家想方设法地给不同儿童提供special education needs的同时，居然还有中国学校在以量化标准管理“走路姿势”。哪怕是监狱里的重刑犯也没有这样的，重刑犯只要戴上镣铐，想怎么动就怎么动。这简直是对“教育”二字的侮辱，很难想象这是一个两千年前就提出了“因材施教““有教无类”“的文明"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1796,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这就是中国教育，我就不说正常孩子了，考虑过神经多样性和发育障碍的孩子吗？感统失调的孩子怎么控制自己的走路姿势保持在这种严苛的范围内？2025年了，发达国家想方设法地给不同儿童提供special education https://t.co/yGevbb4yOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 617,
+          "like_count": 2885,
+          "listed_count": 6,
+          "media_count": 488,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-18T04:48:12.000Z",
+        "description": "A typical wiki nerd | #すこ部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "すこ部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org/wiki/Kiwi_(bir…",
+                "end": 23,
+                "expanded_url": "https://en.wikipedia.org/wiki/Kiwi_(bird)?wprov=sfti1#Description",
+                "start": 0,
+                "url": "https://t.co/8iMA60oJdK"
+              }
+            ]
+          }
+        },
+        "id": "1229628603412836353",
+        "location": "Kiwi’s home...across the ditch",
+        "name": "Kiwi.Wiki 🌐キウイーウイキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891060716268097536/3HwY9WGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1619,
+          "like_count": 144811,
+          "listed_count": 2,
+          "media_count": 1747,
+          "tweet_count": 10662
+        },
+        "url": "https://t.co/8iMA60oJdK",
+        "username": "Kiwi_Wiki27",
+        "verified": false
+      }
+    ]
+  }
+}

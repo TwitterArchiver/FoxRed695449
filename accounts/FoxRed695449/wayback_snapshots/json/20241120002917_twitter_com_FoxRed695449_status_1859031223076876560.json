@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859031174368423936"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1859031223076876560",
+    "created_at": "2024-11-20T00:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T01:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859031223076876560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1lAnkqqWY",
+          "end": 113,
+          "expanded_url": "https://x.com/FoxRed695449/status/1859031223076876560/photo/1",
+          "media_key": "3_1859031174368423936",
+          "start": 90,
+          "url": "https://t.co/c1lAnkqqWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859031223076876560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每年11月20日是跨性别追念日（Transgender Dayof Remembrance）。在这一天，我们纪念那些因为恐跨人士的暴力而去世的跨性别者，呼吁终结对跨性别者的暴力。 https://t.co/c1lAnkqqWY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1859031174368423936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcybAOabcAAIwyx.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859031174368423936"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859031223076876560",
+        "created_at": "2024-11-20T00:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859031223076876560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1lAnkqqWY",
+              "end": 113,
+              "expanded_url": "https://x.com/FoxRed695449/status/1859031223076876560/photo/1",
+              "media_key": "3_1859031174368423936",
+              "start": 90,
+              "url": "https://t.co/c1lAnkqqWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859031223076876560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每年11月20日是跨性别追念日（Transgender Dayof Remembrance）。在这一天，我们纪念那些因为恐跨人士的暴力而去世的跨性别者，呼吁终结对跨性别者的暴力。 https://t.co/c1lAnkqqWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 191,
+          "like_count": 152,
+          "listed_count": 0,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

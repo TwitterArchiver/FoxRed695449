@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1907324311872151962",
+    "created_at": "2025-04-02T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907435436534030370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907435436534030370",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907383420017144083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 香港普通精神科排隊都要一年半載，更別提性別認同診所了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907324311872151962",
+        "created_at": "2025-04-02T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907435436534030370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907435436534030370",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907383420017144083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 香港普通精神科排隊都要一年半載，更別提性別認同診所了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1907324311872151962",
+        "created_at": "2025-04-02T10:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907383420017144083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907383420017144083",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907324311872151962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 怎么这么长时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 593,
+          "like_count": 2706,
+          "listed_count": 6,
+          "media_count": 475,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own.. 男的，没钱，不约，不是跨性别，detrans，吃饭都靠混，不会写代码，不会修电脑，是社畜，家里上辈子没钱，是泥腿子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQW4ny"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu Pro Max Ultra Plus スライム 史莱姆",
+        "pinned_tweet_id": "1883169121145381042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905367550252216320/LvvKa7ep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10591,
+          "following_count": 1587,
+          "like_count": 87494,
+          "listed_count": 51,
+          "media_count": 41,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/Xo0VOQW4ny",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

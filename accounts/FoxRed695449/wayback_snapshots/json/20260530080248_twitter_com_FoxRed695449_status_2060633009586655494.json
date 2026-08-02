@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2060423018967605578",
+    "created_at": "2026-05-30T08:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060633009586655494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060633009586655494",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060423018967605578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2060423018967605578",
+        "created_at": "2026-05-30T08:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060633009586655494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060633009586655494",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060423018967605578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "2060423018967605578",
+        "created_at": "2026-05-29T18:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060423018967605578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060423018967605578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（猫猫探头）谁还记得我呢，我好无聊，想有人陪www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 840,
+          "like_count": 8021,
+          "listed_count": 6,
+          "media_count": 1031,
+          "tweet_count": 3288
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy_Zaychilk｜可爱对象小猫@C_baba_66ccff｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Anan628769"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Andy_Zaychilk"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "C_baba_66ccff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVufD8k"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2037118814676975760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745026618953728/-KrRTPp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1200,
+          "like_count": 195,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 6487
+        },
+        "url": "https://t.co/VmDoVufD8k",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

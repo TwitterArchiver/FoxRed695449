@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955136225075138563"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1954889054543323479",
+    "created_at": "2025-08-12T05:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T06:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955136232289358030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805898072712794112",
+          "start": 0,
+          "username": "BHi2oX7sKn39176"
+        },
+        {
+          "end": 29,
+          "id": "1924240660619796480",
+          "start": 17,
+          "username": "Fan_qiang69"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPF33TnL9P",
+          "end": 122,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955136232289358030/photo/1",
+          "media_key": "3_1955136225075138563",
+          "start": 99,
+          "url": "https://t.co/iPF33TnL9P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955136232289358030",
+    "in_reply_to_user_id": "1805898072712794112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955135310679118193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BHi2oX7sKn39176 @Fan_qiang69 你們國外\n原來香港是國外啊，那你這是分裂國家啊\n粉紅也真是會定義「暴民」，遊行示威的權利是寫在中國憲法上的，行使自己的權利就成暴民了是吧 https://t.co/iPF33TnL9P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1955136225075138563",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIKCbcaEAMvKel.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955136225075138563"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1954889054543323479",
+        "created_at": "2025-08-12T05:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955136232289358030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805898072712794112",
+              "start": 0,
+              "username": "BHi2oX7sKn39176"
+            },
+            {
+              "end": 29,
+              "id": "1924240660619796480",
+              "start": 17,
+              "username": "Fan_qiang69"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPF33TnL9P",
+              "end": 122,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955136232289358030/photo/1",
+              "media_key": "3_1955136225075138563",
+              "start": 99,
+              "url": "https://t.co/iPF33TnL9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955136232289358030",
+        "in_reply_to_user_id": "1805898072712794112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955135310679118193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BHi2oX7sKn39176 @Fan_qiang69 你們國外\n原來香港是國外啊，那你這是分裂國家啊\n粉紅也真是會定義「暴民」，遊行示威的權利是寫在中國憲法上的，行使自己的權利就成暴民了是吧 https://t.co/iPF33TnL9P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805898072712794112",
+        "conversation_id": "1954889054543323479",
+        "created_at": "2025-08-12T05:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955135310679118193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 26,
+              "id": "1924240660619796480",
+              "start": 14,
+              "username": "Fan_qiang69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955135310679118193",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955126333610283181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Fan_qiang69 我哪一个字说官兵市民不是人？！\n反中反的没逻辑了吗？\n官兵是中国的英雄，市民是我们人民。但是故意煽动的暴民就难说了。\n而你们国外那些四处纵火，顺手打砸的暴民动静之大也如大姨妈那么常来和准时！\n自个屁股没擦干净，手上还沾着屎呢，擦干净再来指手画脚！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 682,
+          "like_count": 3921,
+          "listed_count": 7,
+          "media_count": 613,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T09:37:28.000Z",
+        "description": "",
+        "id": "1805898072712794112",
+        "name": "王逛逛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947139224588660736/BFh8rmsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 19,
+          "like_count": 23939,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 972
+        },
+        "username": "BHi2oX7sKn39176",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T23:08:29.000Z",
+        "description": "有一個小型私人機場，廣東連外網100ms延遲，歡迎私訊詢問。",
+        "id": "1924240660619796480",
+        "location": "台灣",
+        "name": "Fennnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937099601753907200/fgcAmnpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "username": "Fan_qiang69",
+        "verified": false
+      }
+    ]
+  }
+}

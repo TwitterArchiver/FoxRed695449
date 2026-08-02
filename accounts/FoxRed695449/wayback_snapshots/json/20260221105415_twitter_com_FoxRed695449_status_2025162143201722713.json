@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2024825478864163136",
+    "created_at": "2026-02-21T10:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025162143201722713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025162143201722713",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024825478864163136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 就按照大部分老中学生对少数群体（例如社交差的，成绩差的，有点精神疾病的，有点残疾的，甚至单纯例如鼻炎等疾病以及性少数群体）嘲笑取外号孤立欺凌的\n虽然有些偏激，但很难能对整个学生群体有所怜悯而是看人决定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2024825478864163136",
+        "created_at": "2026-02-21T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025162143201722713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025162143201722713",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024825478864163136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 就按照大部分老中学生对少数群体（例如社交差的，成绩差的，有点精神疾病的，有点残疾的，甚至单纯例如鼻炎等疾病以及性少数群体）嘲笑取外号孤立欺凌的\n虽然有些偏激，但很难能对整个学生群体有所怜悯而是看人决定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2024825478864163136",
+        "created_at": "2026-02-20T12:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024825478864163136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/2024766183732625641",
+              "start": 61,
+              "url": "https://t.co/gPKhb5Iao8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024825478864163136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 63254,
+          "like_count": 480,
+          "quote_count": 8,
+          "reply_count": 72,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024766183732625641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根本不值得同情。去和他们讨论讨论，看看有多少人会感谢国家和社会给自己接受教育的机会，又有多少根本不觉得这是国家在虐待自己 https://t.co/gPKhb5Iao8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 779,
+          "like_count": 6357,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 2956
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🍥 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 31,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 8,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009681959396794368/z-ltr1zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26735,
+          "following_count": 11004,
+          "like_count": 86545,
+          "listed_count": 102,
+          "media_count": 4777,
+          "tweet_count": 16300
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

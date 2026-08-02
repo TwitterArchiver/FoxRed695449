@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899043415545036801"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897882832392921456",
+    "created_at": "2025-03-10T10:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T11:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899043434561667103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884505510185164800",
+          "start": 0,
+          "username": "TOor532878"
+        },
+        {
+          "end": 28,
+          "id": "1722071951139897344",
+          "start": 12,
+          "username": "qizhngzhng17136"
+        },
+        {
+          "end": 36,
+          "id": "1607231228142571521",
+          "start": 29,
+          "username": "Snofy8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/572ZGW99eV",
+          "end": 60,
+          "expanded_url": "https://x.com/FoxRed695449/status/1899043434561667103/photo/1",
+          "media_key": "3_1899043415545036801",
+          "start": 37,
+          "url": "https://t.co/572ZGW99eV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899043434561667103",
+    "in_reply_to_user_id": "1884505510185164800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899041778021335149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOor532878 @qizhngzhng17136 @Snofy8 https://t.co/572ZGW99eV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_1899043415545036801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrB7MSbQAEGJKj.jpg",
+        "width": 1829
+      },
+      {
+        "height": 1918,
+        "media_key": "3_1899041620089257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrASrsaQAAMt0c.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1918,
+        "media_key": "3_1899041621469270016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrASw1bkAAU3A2.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1918,
+        "media_key": "3_1899041647612383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrAUSOb0AAnBCd.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1918,
+        "media_key": "3_1899041660736270336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrAVDHacAA2oI5.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899043415545036801"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897882832392921456",
+        "created_at": "2025-03-10T10:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899043434561667103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884505510185164800",
+              "start": 0,
+              "username": "TOor532878"
+            },
+            {
+              "end": 28,
+              "id": "1722071951139897344",
+              "start": 12,
+              "username": "qizhngzhng17136"
+            },
+            {
+              "end": 36,
+              "id": "1607231228142571521",
+              "start": 29,
+              "username": "Snofy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/572ZGW99eV",
+              "end": 60,
+              "expanded_url": "https://x.com/FoxRed695449/status/1899043434561667103/photo/1",
+              "media_key": "3_1899043415545036801",
+              "start": 37,
+              "url": "https://t.co/572ZGW99eV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899043434561667103",
+        "in_reply_to_user_id": "1884505510185164800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899041778021335149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOor532878 @qizhngzhng17136 @Snofy8 https://t.co/572ZGW99eV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899041620089257984",
+            "3_1899041621469270016",
+            "3_1899041647612383232",
+            "3_1899041660736270336"
+          ]
+        },
+        "author_id": "1884505510185164800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1299419454644711424",
+              "name": "Rolls-Royce"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299419454644711424",
+              "name": "Rolls-Royce"
+            }
+          }
+        ],
+        "conversation_id": "1897882832392921456",
+        "created_at": "2025-03-10T10:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899041778021335149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1722071951139897344",
+              "start": 14,
+              "username": "qizhngzhng17136"
+            },
+            {
+              "end": 38,
+              "id": "1607231228142571521",
+              "start": 31,
+              "username": "Snofy8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPG3eXMGpQ",
+              "end": 156,
+              "expanded_url": "https://x.com/TOor532878/status/1899041778021335149/photo/1",
+              "media_key": "3_1899041620089257984",
+              "start": 133,
+              "url": "https://t.co/LPG3eXMGpQ"
+            },
+            {
+              "display_url": "pic.x.com/LPG3eXMGpQ",
+              "end": 156,
+              "expanded_url": "https://x.com/TOor532878/status/1899041778021335149/photo/1",
+              "media_key": "3_1899041621469270016",
+              "start": 133,
+              "url": "https://t.co/LPG3eXMGpQ"
+            },
+            {
+              "display_url": "pic.x.com/LPG3eXMGpQ",
+              "end": 156,
+              "expanded_url": "https://x.com/TOor532878/status/1899041778021335149/photo/1",
+              "media_key": "3_1899041647612383232",
+              "start": 133,
+              "url": "https://t.co/LPG3eXMGpQ"
+            },
+            {
+              "display_url": "pic.x.com/LPG3eXMGpQ",
+              "end": 156,
+              "expanded_url": "https://x.com/TOor532878/status/1899041778021335149/photo/1",
+              "media_key": "3_1899041660736270336",
+              "start": 133,
+              "url": "https://t.co/LPG3eXMGpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899041778021335149",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899027494184919548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @qizhngzhng17136 @Snofy8 带个香港旗，就代表您是香港人了？黎智英进去了，您怎么还没进去陪他，您好有钱啊，商务舱都能做得起，太有钱了，求求你赶紧买两辆Rolls Royce Cullinan好吗，快证明您比我有钱😂 https://t.co/LPG3eXMGpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 555,
+          "like_count": 2324,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T07:35:13.000Z",
+        "description": "",
+        "id": "1884505510185164800",
+        "name": "TOor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884506140941365248/4Ujb6J1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 452
+        },
+        "username": "TOor532878",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T02:02:21.000Z",
+        "description": "",
+        "id": "1722071951139897344",
+        "location": "Hsinchu County, Taiwan",
+        "name": "Duncan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852406288145362945/ovZPpxdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 629,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "username": "qizhngzhng17136",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T04:26:10.000Z",
+        "description": "一名普通的中国人，生生被无脑、无品、无德的反贼、殖人、1450逼成了小粉红，深爱中国，希冀与中华民族一起实现伟大复兴。\nAn ordinary Chinese. Love China deeply and hope to achieve great rejuvenation with  China.",
+        "id": "1607231228142571521",
+        "name": "豫章信使",
+        "pinned_tweet_id": "1892593027954417906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607231424888999938/1b6VOmLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76684,
+          "following_count": 23454,
+          "like_count": 103869,
+          "listed_count": 268,
+          "media_count": 9967,
+          "tweet_count": 32583
+        },
+        "username": "Snofy8",
+        "verified": true
+      }
+    ]
+  }
+}

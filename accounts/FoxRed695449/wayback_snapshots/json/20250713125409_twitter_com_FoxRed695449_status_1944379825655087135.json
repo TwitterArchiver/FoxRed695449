@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1944379825655087135",
+    "created_at": "2025-07-13T12:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T13:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944379825655087135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944379825655087135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944333471045828898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 估计最近大连工业大学的招生进度因为这件舆论可能受到了一些挫折。不过，网民们在互联网上怎么骂是一回事，你一个大学亲自下场羞辱自己的学生可真是抽象完了。\n如果说一个女学生的跟外国人出轨睡觉就是有损国格的话\n那贵校各种跪舔黑人留学生，给他们远…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1944379825655087135",
+        "created_at": "2025-07-13T12:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944379825655087135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944379825655087135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944333471045828898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 估计最近大连工业大学的招生进度因为这件舆论可能受到了一些挫折。不过，网民们在互联网上怎么骂是一回事，你一个大学亲自下场羞辱自己的学生可真是抽象完了。\n如果说一个女学生的跟外国人出轨睡觉就是有损国格的话\n那贵校各种跪舔黑人留学生，给他们远…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1944333471045828898",
+        "created_at": "2025-07-13T09:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944333471045828898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1944306428669206943",
+              "start": 138,
+              "url": "https://t.co/zZz2qF5qF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944333471045828898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "估计最近大连工业大学的招生进度因为这件舆论可能受到了一些挫折。不过，网民们在互联网上怎么骂是一回事，你一个大学亲自下场羞辱自己的学生可真是抽象完了。\n如果说一个女学生的跟外国人出轨睡觉就是有损国格的话\n那贵校各种跪舔黑人留学生，给他们远超中国学生的待遇，就是妥妥的汉奸行为。\n既然大连工业大学这么恨外国人，不如再发一个声明，取消留学生远超中国学生的福利地位，严格收紧留学生的毕业标准，也专门树立一条校规，对此前为留学生提供福利待遇的汉奸校长和汉奸部门负责人进行严肃处理，相信能挽回这一波舆论劣势。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 76737,
+          "like_count": 450,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944306428669206943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估计最近大连工业大学的招生进度因为这件舆论可能受到了一些挫折。不过，网民们在互联网上怎么骂是一回事，你一个大学亲自下场羞辱自己的学生可真是抽象完了。\n如果说一个女学生的跟外国人出轨睡觉就是有损国格的话\n那贵校各种跪舔黑人留学生，给他们远超中国学生的待遇，就是妥妥的汉奸行为。 https://t.co/zZz2qF5qF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 673,
+          "like_count": 3694,
+          "listed_count": 7,
+          "media_count": 534,
+          "tweet_count": 1830
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239507,
+          "following_count": 669,
+          "like_count": 5213,
+          "listed_count": 1269,
+          "media_count": 1357,
+          "tweet_count": 6902
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

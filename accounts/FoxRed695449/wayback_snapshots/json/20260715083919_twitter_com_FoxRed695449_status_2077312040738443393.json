@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077312033163538432"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2076940173921706220",
+    "created_at": "2026-07-15T08:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077312040738443393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805486373186793472",
+          "start": 0,
+          "username": "reizisokk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JrzYV9uikL",
+          "end": 64,
+          "expanded_url": "https://x.com/FoxRed695449/status/2077312040738443393/photo/1",
+          "media_key": "3_2077312033163538432",
+          "start": 41,
+          "url": "https://t.co/JrzYV9uikL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077312040738443393",
+    "in_reply_to_user_id": "1805486373186793472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076940173921706220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reizisokk 然而，由日本政府资助的机构仍然在中国的社交媒体上发布广告呢 https://t.co/JrzYV9uikL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2077312033163538432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQYScBbcAAb0U3.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077312033163538432"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2076940173921706220",
+        "created_at": "2026-07-15T08:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077312040738443393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805486373186793472",
+              "start": 0,
+              "username": "reizisokk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrzYV9uikL",
+              "end": 64,
+              "expanded_url": "https://x.com/FoxRed695449/status/2077312040738443393/photo/1",
+              "media_key": "3_2077312033163538432",
+              "start": 41,
+              "url": "https://t.co/JrzYV9uikL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077312040738443393",
+        "in_reply_to_user_id": "1805486373186793472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076940173921706220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reizisokk 然而，由日本政府资助的机构仍然在中国的社交媒体上发布广告呢 https://t.co/JrzYV9uikL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805486373186793472",
+        "conversation_id": "2076940173921706220",
+        "created_at": "2026-07-14T08:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076940173921706220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076940173921706220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 1610093,
+          "like_count": 40557,
+          "quote_count": 151,
+          "reply_count": 803,
+          "retweet_count": 2940
+        },
+        "reply_settings": "everyone",
+        "text": "中国人に一番嫌いな国はどこ？って聞いたら、\n全員が「日本」と答えるらしい。\n日本も中国が嫌いでWin-Winなのに\nなんでわざわざ来るんだろう？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 845,
+          "like_count": 8262,
+          "listed_count": 6,
+          "media_count": 1070,
+          "tweet_count": 3415
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:21:14.000Z",
+        "description": "#日本が大好き です。支持政党は特にありません。先人が守ってきた平和で美しい日本を維持したい。そんな気持ちでポストしてるのでよろしくお願いします！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "日本が大好き"
+              }
+            ]
+          }
+        },
+        "id": "1805486373186793472",
+        "name": "令和ちゃん🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807477813475528704/Vsct4eLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27500,
+          "following_count": 1047,
+          "like_count": 334,
+          "listed_count": 67,
+          "media_count": 1,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "reizisokk",
+        "verified": true
+      }
+    ]
+  }
+}

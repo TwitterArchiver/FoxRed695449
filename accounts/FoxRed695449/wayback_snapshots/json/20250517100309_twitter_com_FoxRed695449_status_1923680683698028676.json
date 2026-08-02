@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923680674201886721"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1923680683698028676",
+    "created_at": "2025-05-17T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923680683698028676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mlix3H0ESv",
+          "end": 183,
+          "expanded_url": "https://x.com/FoxRed695449/status/1923680683698028676/photo/1",
+          "media_key": "3_1923680674201886721",
+          "start": 160,
+          "url": "https://t.co/Mlix3H0ESv"
+        },
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 207,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/1923677615182971187",
+          "start": 184,
+          "url": "https://t.co/JlCDyY4cDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923680683698028676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923677615182971187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說句實話我個人認為giffgaff性價比真的低\n個人在內地的解決方案是中國電信（香港）的sim卡打電話加3sim hk的sim卡用流量\n當然香港的sim卡也有缺點，要用港澳通行證/護照實名\n但是電信的sim價格是真便宜啊，比起giffgaff的天價電話費不知道要便宜多少\n而3sim hk 45gb流量只要268hkd https://t.co/Mlix3H0ESv https://t.co/JlCDyY4cDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_1923680674201886721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJJYY8WYAE9Q2w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923680674201886721"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1923680683698028676",
+        "created_at": "2025-05-17T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923680683698028676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mlix3H0ESv",
+              "end": 183,
+              "expanded_url": "https://x.com/FoxRed695449/status/1923680683698028676/photo/1",
+              "media_key": "3_1923680674201886721",
+              "start": 160,
+              "url": "https://t.co/Mlix3H0ESv"
+            },
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1923677615182971187",
+              "start": 184,
+              "url": "https://t.co/JlCDyY4cDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923680683698028676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923677615182971187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說句實話我個人認為giffgaff性價比真的低\n個人在內地的解決方案是中國電信（香港）的sim卡打電話加3sim hk的sim卡用流量\n當然香港的sim卡也有缺點，要用港澳通行證/護照實名\n但是電信的sim價格是真便宜啊，比起giffgaff的天價電話費不知道要便宜多少\n而3sim hk 45gb流量只要268hkd https://t.co/Mlix3H0ESv https://t.co/JlCDyY4cDj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1923677615182971187",
+        "created_at": "2025-05-17T09:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T10:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923677615182971187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923677615182971187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "giffgaff到底有什么用啊，为什么都想买这个，就是国外实体卡方便注册国外平台账号吗？而且如果要保持持续激活状态不是还得一直充话费吗，那为什么不用一次性的接码平台。我真的不懂，求教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 649,
+          "like_count": 3210,
+          "listed_count": 6,
+          "media_count": 575,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 蓝v互关永不取关 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7445,
+          "following_count": 697,
+          "like_count": 18500,
+          "listed_count": 10,
+          "media_count": 2528,
+          "tweet_count": 18012
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

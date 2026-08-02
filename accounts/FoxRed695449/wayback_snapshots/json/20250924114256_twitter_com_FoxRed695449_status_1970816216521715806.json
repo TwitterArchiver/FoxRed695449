@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1970816216521715806",
+    "created_at": "2025-09-24T11:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970816216521715806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1970488325078503855",
+          "start": 18,
+          "url": "https://t.co/e0f6hqFCM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970816216521715806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970488325078503855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "誰做一個「快來喝賴清德咖啡」的梗圖 https://t.co/e0f6hqFCM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48560,
+        "height": 1280,
+        "media_key": "13_1970460906825097221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970460906825097221/img/SkCWEKvmRNMSljdy.jpg",
+        "public_metrics": {
+          "view_count": 31408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/320x568/AnM2zLhqRHcf8A4_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/480x852/SOV9W98m8graHE9m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/720x1280/zqCawHqtPsAiTnv4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/pl/TbRF-qXMsTCHJ7I9.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1970816216521715806",
+        "created_at": "2025-09-24T11:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970816216521715806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1970488325078503855",
+              "start": 18,
+              "url": "https://t.co/e0f6hqFCM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970816216521715806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970488325078503855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誰做一個「快來喝賴清德咖啡」的梗圖 https://t.co/e0f6hqFCM8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970460906825097221"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1970488325078503855",
+        "created_at": "2025-09-23T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970488325078503855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dE3ob2OU2f",
+              "end": 128,
+              "expanded_url": "https://x.com/bbcchinese/status/1970488325078503855/video/1",
+              "media_key": "13_1970460906825097221",
+              "start": 105,
+              "url": "https://t.co/dE3ob2OU2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970488325078503855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 75584,
+          "like_count": 210,
+          "quote_count": 7,
+          "reply_count": 76,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "受超强台风桦加沙影响，台湾东部花莲县万荣乡马太鞍溪堰塞湖周二（9月23日）下午溢流，马太鞍溪桥遭大水重击冲断，堤防溃堤。\n\n洪水涌入光复市区造成民众受困，花莲县消防局统计，截至傍晚，共有71人受困、两人失联。 https://t.co/dE3ob2OU2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 696,
+          "like_count": 4374,
+          "listed_count": 8,
+          "media_count": 812,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5134324,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11845,
+          "media_count": 23888,
+          "tweet_count": 153826
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

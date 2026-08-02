@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896069425696211154",
+    "created_at": "2025-03-02T05:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T06:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896077474183925890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 30,
+          "id": "1499461699904376834",
+          "start": 16,
+          "username": "oliviaisolive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896077474183925890",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896076743448178910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 @oliviaisolive 草，越补越差是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896069425696211154",
+        "created_at": "2025-03-02T05:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T06:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896077474183925890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 30,
+              "id": "1499461699904376834",
+              "start": 16,
+              "username": "oliviaisolive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896077474183925890",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896076743448178910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 @oliviaisolive 草，越补越差是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1896069425696211154",
+        "created_at": "2025-03-02T05:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T06:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896076743448178910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499461699904376834",
+              "start": 0,
+              "username": "oliviaisolive"
+            },
+            {
+              "end": 28,
+              "id": "1781308864438345728",
+              "start": 15,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896076743448178910",
+        "in_reply_to_user_id": "1499461699904376834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896072395502600270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oliviaisolive @FoxRed695449 搞笑的是我那間有補課也從3a降到3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3825,
+          "following_count": 527,
+          "like_count": 2090,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\nEnglish: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1886825412237607119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874491914344673280/JLEFcqLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 2569,
+          "like_count": 29139,
+          "listed_count": 3,
+          "media_count": 687,
+          "tweet_count": 4575
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T19:08:36.000Z",
+        "description": "病み垢｜04｜在搞笑和搞事業之間選擇了搞陰鬱｜Lesbian｜網黃勿擾｜不喜歡跟你聊天會直接拉黑｜ @richenied 一個在嘗試搬去地面居住的笨孩子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "richenied"
+              }
+            ]
+          }
+        },
+        "id": "1499461699904376834",
+        "location": "幽暗地域",
+        "name": "橄欖樹上的奧莉薇婭",
+        "pinned_tweet_id": "1874400129861775647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794755562846220288/AxldaX8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 293,
+          "like_count": 30052,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 3743
+        },
+        "username": "oliviaisolive",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057725314055479297"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Maps",
+          "id": "1006154112021377024",
+          "name": "Google Maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043701926",
+          "name": "Google Maps"
+        }
+      }
+    ],
+    "conversation_id": "2057725322762867032",
+    "created_at": "2026-05-22T07:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057725322762867032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjM4iqtdez",
+          "end": 59,
+          "expanded_url": "https://x.com/FoxRed695449/status/2057725322762867032/photo/1",
+          "media_key": "3_2057725314055479297",
+          "start": 36,
+          "url": "https://t.co/UjM4iqtdez"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2057445022757482774",
+          "start": 60,
+          "url": "https://t.co/XRf1M38z51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057725322762867032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057445022757482774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就无广告来说\n我觉得Apple Map应该是中国大陆体验最好的App了 https://t.co/UjM4iqtdez https://t.co/XRf1M38z51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2057725314055479297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6CRVWbIAEP1O5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057725314055479297"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Maps",
+              "id": "1006154112021377024",
+              "name": "Google Maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701926",
+              "name": "Google Maps"
+            }
+          }
+        ],
+        "conversation_id": "2057725322762867032",
+        "created_at": "2026-05-22T07:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057725322762867032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjM4iqtdez",
+              "end": 59,
+              "expanded_url": "https://x.com/FoxRed695449/status/2057725322762867032/photo/1",
+              "media_key": "3_2057725314055479297",
+              "start": 36,
+              "url": "https://t.co/UjM4iqtdez"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2057445022757482774",
+              "start": 60,
+              "url": "https://t.co/XRf1M38z51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057725322762867032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057445022757482774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就无广告来说\n我觉得Apple Map应该是中国大陆体验最好的App了 https://t.co/UjM4iqtdez https://t.co/XRf1M38z51"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Maps",
+              "id": "1006154112021377024",
+              "name": "Google Maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701926",
+              "name": "Google Maps"
+            }
+          }
+        ],
+        "conversation_id": "2057445022757482774",
+        "created_at": "2026-05-21T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057445022757482774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057445022757482774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19449,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个疑问\n\ngoogle map的广告很少\n\n但是高德和百度地图的广告很多\n\n有人说国产app要生存，谷歌是大厂，有背景\n但是高德背后是阿里巴巴\n百度地图背后是百度\n按理说生存不是问题呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 839,
+          "like_count": 7974,
+          "listed_count": 6,
+          "media_count": 1025,
+          "tweet_count": 3269
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11153,
+          "following_count": 4314,
+          "like_count": 46379,
+          "listed_count": 35,
+          "media_count": 2373,
+          "tweet_count": 14329
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

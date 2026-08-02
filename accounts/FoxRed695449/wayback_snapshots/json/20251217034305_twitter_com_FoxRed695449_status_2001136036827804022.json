@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2000786437139017953",
+    "created_at": "2025-12-17T03:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T04:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001136036827804022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378269990281900033",
+          "start": 0,
+          "username": "nitetuioxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001136036827804022",
+    "in_reply_to_user_id": "1378269990281900033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001116406054838675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nitetuioxin 能走能走，有易性症诊断就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2000786437139017953",
+        "created_at": "2025-12-17T03:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001136036827804022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378269990281900033",
+              "start": 0,
+              "username": "nitetuioxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001136036827804022",
+        "in_reply_to_user_id": "1378269990281900033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001116406054838675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nitetuioxin 能走能走，有易性症诊断就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378269990281900033",
+        "conversation_id": "2000786437139017953",
+        "created_at": "2025-12-17T02:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T03:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001116406054838675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001116406054838675",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000786437139017953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 走不了医保卡吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 718,
+          "like_count": 5380,
+          "listed_count": 7,
+          "media_count": 911,
+          "tweet_count": 2803
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T08:55:57.000Z",
+        "description": "",
+        "id": "1378269990281900033",
+        "name": "almate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420550360469368832/PN7f-fLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 551,
+          "like_count": 224,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 407
+        },
+        "username": "nitetuioxin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1984031350798872997",
+    "created_at": "2025-10-31T12:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984234243397210370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602447788607954944",
+          "start": 0,
+          "username": "SolsolWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984234243397210370",
+    "in_reply_to_user_id": "1602447788607954944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984031350798872997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SolsolWu 但是習近平坐的就是B747啊🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1984031350798872997",
+        "created_at": "2025-10-31T12:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984234243397210370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602447788607954944",
+              "start": 0,
+              "username": "SolsolWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984234243397210370",
+        "in_reply_to_user_id": "1602447788607954944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984031350798872997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SolsolWu 但是習近平坐的就是B747啊🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602447788607954944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043043119",
+              "name": "Boeing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1984031350798872997",
+        "created_at": "2025-10-30T22:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T23:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984031350798872997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HuWilliam41618…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/HuWilliam416184/status/1983805198532538398",
+              "start": 118,
+              "url": "https://t.co/wyLKExLyPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984031350798872997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 34314,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983805198532538398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国白人蠢货嘲笑习近平没有坐空军一号。\n\n有人解释：中国曾向波音公司订购了一架中国版的“空军一号”，但却在飞机上发现了上百个间谍装置。这件事发生在中美两国关系最好的时期。\n\n这就是美帝的“诚信”。多亏中国有智慧检查了出来，拒绝了收货。 https://t.co/wyLKExLyPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 669,
+          "like_count": 4739,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T23:38:58.000Z",
+        "description": "Acc 2.0, banned 3+ yrs. ❌Anti-vaccine ❌ Anti-Zionism   #Free Palestine******",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "Free"
+              }
+            ]
+          }
+        },
+        "id": "1602447788607954944",
+        "name": "TruthSeeker, ♥🇨🇳❤️ 🇾🇪 ❤️🇵🇸 ❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603952610045730816/zLK0BZ4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 820,
+          "like_count": 156485,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 12847
+        },
+        "username": "SolsolWu",
+        "verified": false
+      }
+    ]
+  }
+}

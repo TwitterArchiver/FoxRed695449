@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064298072667287611",
+    "created_at": "2026-06-09T15:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064363779551645991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 28,
+          "id": "2000777716132667392",
+          "start": 12,
+          "username": "ArshadHusa72562"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 52,
+          "expanded_url": "https://x.com/foxred695449/status/2064363581198815471?s=46&t=kqULhfyVycFB-dQcHjDieg",
+          "start": 29,
+          "url": "https://t.co/6mQIyDEbUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064363779551645991",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064363581198815471",
+        "type": "quoted"
+      },
+      {
+        "id": "2064363383886131704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @ArshadHusa72562 https://t.co/6mQIyDEbUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 837,
+        "media_key": "3_2064363574701731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYXu9VaMAAlv63.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064363779551645991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 28,
+              "id": "2000777716132667392",
+              "start": 12,
+              "username": "ArshadHusa72562"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 52,
+              "expanded_url": "https://x.com/foxred695449/status/2064363581198815471?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 29,
+              "url": "https://t.co/6mQIyDEbUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064363779551645991",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064363581198815471",
+            "type": "quoted"
+          },
+          {
+            "id": "2064363383886131704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @ArshadHusa72562 https://t.co/6mQIyDEbUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064363574701731840"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064340126382334426",
+        "created_at": "2026-06-09T15:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064363581198815471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1299977597527273472",
+              "start": 0,
+              "username": "aizai_711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThfWq41Jm7",
+              "end": 119,
+              "expanded_url": "https://x.com/FoxRed695449/status/2064363581198815471/photo/1",
+              "media_key": "3_2064363574701731840",
+              "start": 96,
+              "url": "https://t.co/ThfWq41Jm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064363581198815471",
+        "in_reply_to_user_id": "1299977597527273472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064362650746933411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizai_711 《民法典》第十八条 第二款:“十六周岁以上的未成年人,以自己的劳动收入为主要生活来源的,视为完全民事行为能力人”\n完全民事行为能力人没有性同意权\n你看看你说的是不是笑话 https://t.co/ThfWq41Jm7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064363383886131704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "2000777716132667392",
+              "start": 14,
+              "username": "ArshadHusa72562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064363383886131704",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064350493456097332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @ArshadHusa72562 法释〔2006〕1号\n最高人民法院关于\n审理未成年人刑事案件具体应用法律若干问题的解释\n……\n第六条 已满十四周岁不满十六周岁的人偶尔与幼女发生性行为，情节轻微、未造成严重后果的，不认为是犯罪。\n\n----\n如果改變合法性交年齡，上述解釋將需要調節，亦如無意外會同步獲得調節。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 841,
+          "like_count": 8121,
+          "listed_count": 6,
+          "media_count": 1039,
+          "tweet_count": 3322
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 223,
+          "like_count": 9819,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 13294
+        },
+        "username": "billyswong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T03:59:31.000Z",
+        "description": "Biochemist",
+        "id": "2000777716132667392",
+        "name": "Husaib Arshad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060445291556589568/VlZiSfus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 53,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 516
+        },
+        "username": "ArshadHusa72562",
+        "verified": false
+      }
+    ]
+  }
+}

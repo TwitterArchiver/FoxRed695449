@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016112459392663552"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2016109681488658837",
+    "created_at": "2026-01-27T11:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016112467039158710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JtmQSJJHvi",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2016112467039158710/photo/1",
+          "media_key": "3_2016112459392663552",
+          "start": 28,
+          "url": "https://t.co/JtmQSJJHvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016112467039158710",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016109681488658837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 炒币又看黄\n更符合刻板印象🤓👍 https://t.co/JtmQSJJHvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2016112459392663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qrmZlWwAAthCO.jpg",
+        "width": 828
+      },
+      {
+        "height": 888,
+        "media_key": "3_2016073741005160451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qIYsWbAAMlQ1Y.png",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016112459392663552"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2016109681488658837",
+        "created_at": "2026-01-27T11:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016112467039158710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtmQSJJHvi",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2016112467039158710/photo/1",
+              "media_key": "3_2016112459392663552",
+              "start": 28,
+              "url": "https://t.co/JtmQSJJHvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016112467039158710",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016109681488658837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 炒币又看黄\n更符合刻板印象🤓👍 https://t.co/JtmQSJJHvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016073741005160451"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2016109681488658837",
+        "created_at": "2026-01-27T11:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016109681488658837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IorvhCZ5ii",
+              "end": 28,
+              "expanded_url": "https://x.com/amecandy_x/status/2016109681488658837/photo/1",
+              "media_key": "3_2016073741005160451",
+              "start": 5,
+              "url": "https://t.co/IorvhCZ5ii"
+            },
+            {
+              "display_url": "x.com/ml20060626/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ml20060626/status/2015736143724335309",
+              "start": 29,
+              "url": "https://t.co/nXuIaZ9WWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016109681488658837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015736143724335309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "满意离开 https://t.co/IorvhCZ5ii https://t.co/nXuIaZ9WWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 748,
+          "like_count": 5859,
+          "listed_count": 7,
+          "media_count": 926,
+          "tweet_count": 2884
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/She·Her/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2015800491364803008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5250,
+          "following_count": 1785,
+          "like_count": 23763,
+          "listed_count": 15,
+          "media_count": 1024,
+          "tweet_count": 8195
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

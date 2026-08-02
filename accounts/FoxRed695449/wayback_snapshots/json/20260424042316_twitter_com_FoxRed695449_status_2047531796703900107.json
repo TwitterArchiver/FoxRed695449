@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047531788999024640"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2047531796703900107",
+    "created_at": "2026-04-24T04:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047531796703900107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/crHtxDpKiv",
+          "end": 23,
+          "expanded_url": "https://x.com/FoxRed695449/status/2047531796703900107/photo/1",
+          "media_key": "3_2047531788999024640",
+          "start": 0,
+          "url": "https://t.co/crHtxDpKiv"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2046884213014638706",
+          "start": 24,
+          "url": "https://t.co/XdXyu1LLsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047531796703900107",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046884213014638706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/crHtxDpKiv https://t.co/XdXyu1LLsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2047531788999024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpLUFWbYAAy5ta.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 52314,
+        "height": 1920,
+        "media_key": "13_2046838763045699585",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046838763045699585/img/ZF52ZKM_FzF5Wr8A.jpg",
+        "public_metrics": {
+          "view_count": 181023
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838763045699585/vid/avc1/720x1280/pLsB6Vf6fL3eNSHp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838763045699585/vid/avc1/480x852/qp7NwFGJhpiNLeV9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046838763045699585/pl/5DcflJDEWj-jRqTS.m3u8?v=8b9"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838763045699585/vid/avc1/1080x1920/RNDMvB9WbSTC4g-Z.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838763045699585/vid/avc1/320x568/tAoeL_o-9sli6X85.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 73466,
+        "height": 1280,
+        "media_key": "13_2046838775452475392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046838775452475392/img/NwH5b1EGKLWijG44.jpg",
+        "public_metrics": {
+          "view_count": 26988
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838775452475392/vid/avc1/320x568/lrE-yi4y0ziUUlgB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838775452475392/vid/avc1/480x852/w1WrepDyWf0iuqzo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838775452475392/vid/avc1/720x1280/RVYdjeRkMEkNnrjz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046838775452475392/pl/CFbWXeqpExGtbPQu.m3u8?v=5c9"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2046838785699168256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfVB-4XQAA_AL0.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2050,
+        "media_key": "3_2046838798248525824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfVCtoXQAAxyJr.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047531788999024640"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2047531796703900107",
+        "created_at": "2026-04-24T04:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047531796703900107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crHtxDpKiv",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/2047531796703900107/photo/1",
+              "media_key": "3_2047531788999024640",
+              "start": 0,
+              "url": "https://t.co/crHtxDpKiv"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2046884213014638706",
+              "start": 24,
+              "url": "https://t.co/XdXyu1LLsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047531796703900107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046884213014638706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/crHtxDpKiv https://t.co/XdXyu1LLsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046838763045699585",
+            "13_2046838775452475392",
+            "3_2046838785699168256",
+            "3_2046838798248525824"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2046884213014638706",
+        "created_at": "2026-04-22T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046884213014638706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgIy9zCJKe",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046884213014638706/video/1",
+              "media_key": "13_2046838763045699585",
+              "start": 138,
+              "url": "https://t.co/UgIy9zCJKe"
+            },
+            {
+              "display_url": "pic.x.com/UgIy9zCJKe",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046884213014638706/video/1",
+              "media_key": "13_2046838775452475392",
+              "start": 138,
+              "url": "https://t.co/UgIy9zCJKe"
+            },
+            {
+              "display_url": "pic.x.com/UgIy9zCJKe",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046884213014638706/video/1",
+              "media_key": "3_2046838785699168256",
+              "start": 138,
+              "url": "https://t.co/UgIy9zCJKe"
+            },
+            {
+              "display_url": "pic.x.com/UgIy9zCJKe",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046884213014638706/video/1",
+              "media_key": "3_2046838798248525824",
+              "start": 138,
+              "url": "https://t.co/UgIy9zCJKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046884213014638706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月21日，一名中国女乘客在航班上，因通话音量太大与其他乘客冲突、后因不满空乘说英语 又与机务人员发生争执，最终被警方带离。\n\n一网友表示：重庆飞吉隆坡转机期间，一名来自中国的女乘客因打电话声音太大，被一旁的马来西亚乘客提醒，双方发生争执。期间，马来西亚乘客用手机拍摄了她。\n\n于是，女子叫来了空乘对质，并要求对方删除照片。\n\n但该女子对空乘使用英语感到不满。\n她说：“我是中国人！空乘为什么要跟我飙英语？而且我打电话有什么错？？飞机又没起飞。我要求对方删除视频。我是南方航空的空姐，如果今天这事处理不好，所有人都别飞了！”\n\n网友称，事后公安把那名女子请下飞机协商。因为她导致我们中转航班延误，在吉隆坡滞留了一天，损失太大了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 980193,
+          "like_count": 1766,
+          "quote_count": 29,
+          "reply_count": 469,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "4月21日，一名中国女乘客在航班上，因通话音量太大与其他乘客冲突、后因不满空乘说英语 又与机务人员发生争执，最终被警方带离。\n\n一网友表示：重庆飞吉隆坡转机期间，一名来自中国的女乘客因打电话声音太大，被一旁的马来西亚乘客提醒，双方发生争执。期间，马来西亚乘客用手机拍摄了她。 https://t.co/UgIy9zCJKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 815,
+          "like_count": 7750,
+          "listed_count": 7,
+          "media_count": 990,
+          "tweet_count": 3161
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200292,
+          "following_count": 1037,
+          "like_count": 9420,
+          "listed_count": 8636,
+          "media_count": 45687,
+          "tweet_count": 52770
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083492541006225408"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2083492574057394502",
+    "created_at": "2026-08-01T09:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083492574057394502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoxJ9oZ2HR",
+          "end": 58,
+          "expanded_url": "https://x.com/FoxRed695449/status/2083492574057394502/photo/1",
+          "media_key": "3_2083492541006225408",
+          "start": 35,
+          "url": "https://t.co/hoxJ9oZ2HR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083492574057394502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实随地而坐我也算能一定程度理解下\n但今天见到的…真是让我大受震撼🫪 https://t.co/hoxJ9oZ2HR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2083492541006225408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoNbV7aIAA2p9z.jpg",
+        "width": 3697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083492541006225408"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2083492574057394502",
+        "created_at": "2026-08-01T09:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083492574057394502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoxJ9oZ2HR",
+              "end": 58,
+              "expanded_url": "https://x.com/FoxRed695449/status/2083492574057394502/photo/1",
+              "media_key": "3_2083492541006225408",
+              "start": 35,
+              "url": "https://t.co/hoxJ9oZ2HR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083492574057394502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实随地而坐我也算能一定程度理解下\n但今天见到的…真是让我大受震撼🫪 https://t.co/hoxJ9oZ2HR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser｜關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 844,
+          "like_count": 8309,
+          "listed_count": 7,
+          "media_count": 1081,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

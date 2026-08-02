@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1958210310676082930",
+    "created_at": "2025-08-20T18:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T19:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958228769678012652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451422182614069251",
+          "start": 0,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958228769678012652",
+    "in_reply_to_user_id": "1451422182614069251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958220859946205306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavariT72 例如三星的ai\n三星应用商店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1958210310676082930",
+        "created_at": "2025-08-20T18:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T19:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958228769678012652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451422182614069251",
+              "start": 0,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958228769678012652",
+        "in_reply_to_user_id": "1451422182614069251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958220859946205306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavariT72 例如三星的ai\n三星应用商店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451422182614069251",
+        "conversation_id": "1958210310676082930",
+        "created_at": "2025-08-20T17:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T18:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958220859946205306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958220859946205306",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958214801202778479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 部分功能送中是什么，不安国产app，有别的手机用，买这个只用谷歌商店app"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 697,
+          "like_count": 4090,
+          "listed_count": 7,
+          "media_count": 679,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~有主😋🥑🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45177,
+          "following_count": 1694,
+          "like_count": 72257,
+          "listed_count": 45,
+          "media_count": 3815,
+          "tweet_count": 49900
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

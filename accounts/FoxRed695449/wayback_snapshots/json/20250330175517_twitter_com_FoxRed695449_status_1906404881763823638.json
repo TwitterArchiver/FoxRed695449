@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1904885013692506470",
+    "created_at": "2025-03-30T17:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T18:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906404881763823638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870449380882370560",
+          "start": 0,
+          "username": "showmethelife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906404881763823638",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906404562753454194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showmethelife 當然，信用卡金卡，理財帳戶什麼的也都可以接受呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_1906404560731856896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTo2PCbYAANnta.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1904885013692506470",
+        "created_at": "2025-03-30T17:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T18:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906404881763823638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870449380882370560",
+              "start": 0,
+              "username": "showmethelife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906404881763823638",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906404562753454194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmethelife 當然，信用卡金卡，理財帳戶什麼的也都可以接受呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906404560731856896"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1904885013692506470",
+        "created_at": "2025-03-30T17:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T18:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906404562753454194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870449380882370560",
+              "start": 0,
+              "username": "showmethelife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xh2ylSim8x",
+              "end": 72,
+              "expanded_url": "https://x.com/FoxRed695449/status/1906404562753454194/photo/1",
+              "media_key": "3_1906404560731856896",
+              "start": 49,
+              "url": "https://t.co/Xh2ylSim8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906404562753454194",
+        "in_reply_to_user_id": "1870449380882370560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906403301215928551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmethelife 這樣吧，晒張航空公司金卡展示下實力怎麼樣，沒發你就是小丑，我先發了 https://t.co/Xh2ylSim8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 589,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T12:41:11.000Z",
+        "description": "",
+        "id": "1870449380882370560",
+        "name": "祢衡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870449620553519104/9dEYMesK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 197,
+          "like_count": 403,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 622
+        },
+        "username": "showmethelife",
+        "verified": false
+      }
+    ]
+  }
+}

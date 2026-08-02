@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896254180060520448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896252669343482128",
+    "created_at": "2025-03-02T17:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896254182757425321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sMKXiUK4ai",
+          "end": 39,
+          "expanded_url": "https://x.com/FoxRed695449/status/1896254182757425321/photo/1",
+          "media_key": "3_1896254180060520448",
+          "start": 16,
+          "url": "https://t.co/sMKXiUK4ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896254182757425321",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896252669343482128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 🤓👆 https://t.co/sMKXiUK4ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1896254180060520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDZIUZbYAA4EE_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1896252633565765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDXuTQWIAA7ZF3.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1896252658014666752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDXvuVawAAqHbs.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896254180060520448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896252669343482128",
+        "created_at": "2025-03-02T17:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896254182757425321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMKXiUK4ai",
+              "end": 39,
+              "expanded_url": "https://x.com/FoxRed695449/status/1896254182757425321/photo/1",
+              "media_key": "3_1896254180060520448",
+              "start": 16,
+              "url": "https://t.co/sMKXiUK4ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896254182757425321",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896252669343482128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 🤓👆 https://t.co/sMKXiUK4ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896252633565765632",
+            "3_1896252658014666752"
+          ]
+        },
+        "author_id": "1545736499597307904",
+        "conversation_id": "1896252669343482128",
+        "created_at": "2025-03-02T17:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896252669343482128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2vcuxBOQr",
+              "end": 37,
+              "expanded_url": "https://x.com/Andy1782010/status/1896252669343482128/photo/1",
+              "media_key": "3_1896252633565765632",
+              "start": 14,
+              "url": "https://t.co/J2vcuxBOQr"
+            },
+            {
+              "display_url": "pic.x.com/J2vcuxBOQr",
+              "end": 37,
+              "expanded_url": "https://x.com/Andy1782010/status/1896252669343482128/photo/1",
+              "media_key": "3_1896252658014666752",
+              "start": 14,
+              "url": "https://t.co/J2vcuxBOQr"
+            },
+            {
+              "display_url": "x.com/Andy1782010/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Andy1782010/status/1896231993081503811",
+              "start": 38,
+              "url": "https://t.co/HhXKrnVoq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896252669343482128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896231993081503811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来和我一起被数学强奸吧~ https://t.co/J2vcuxBOQr https://t.co/HhXKrnVoq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 526,
+          "like_count": 2117,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\ncrush @guo_lao32576\n主人@xvque5567 @fc1164283287992\n里推@Andy1782025\n好啦，备战中考，淡推了喵，6月份见",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "xvque5567"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fc1164283287992"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（备战中考）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 3082,
+          "like_count": 6051,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

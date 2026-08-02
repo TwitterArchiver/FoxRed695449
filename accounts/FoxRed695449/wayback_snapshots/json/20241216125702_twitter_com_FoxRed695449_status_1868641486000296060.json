@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1868291265491808369",
+    "created_at": "2024-12-16T12:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T13:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868641486000296060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "997726964231294976",
+          "start": 0,
+          "username": "Spencer_01exysa"
+        },
+        {
+          "end": 28,
+          "id": "3007509396",
+          "start": 17,
+          "username": "pengchujin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "toyadailylife.com/navigo-card-sm…",
+          "end": 84,
+          "expanded_url": "https://toyadailylife.com/navigo-card-smartphone/",
+          "start": 61,
+          "status": 200,
+          "unwound_url": "https://toyadailylife.com/navigo-card-smartphone/",
+          "url": "https://t.co/VJirHujw2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868641486000296060",
+    "in_reply_to_user_id": "997726964231294976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868638324782719473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spencer_01exysa @pengchujin 安卓還是沒蘋果方便，以法國為例，安卓用戶要下載多個app（參考：https://t.co/VJirHujw2o）才可以使用，同時也不能使用中國大陸的銀行卡；而Apple用戶只要在Apple Wallet裡面點擊然後直接充值就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1868291265491808369",
+        "created_at": "2024-12-16T12:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868641486000296060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "997726964231294976",
+              "start": 0,
+              "username": "Spencer_01exysa"
+            },
+            {
+              "end": 28,
+              "id": "3007509396",
+              "start": 17,
+              "username": "pengchujin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "toyadailylife.com/navigo-card-sm…",
+              "end": 84,
+              "expanded_url": "https://toyadailylife.com/navigo-card-smartphone/",
+              "start": 61,
+              "status": 200,
+              "unwound_url": "https://toyadailylife.com/navigo-card-smartphone/",
+              "url": "https://t.co/VJirHujw2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868641486000296060",
+        "in_reply_to_user_id": "997726964231294976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868638324782719473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spencer_01exysa @pengchujin 安卓還是沒蘋果方便，以法國為例，安卓用戶要下載多個app（參考：https://t.co/VJirHujw2o）才可以使用，同時也不能使用中國大陸的銀行卡；而Apple用戶只要在Apple Wallet裡面點擊然後直接充值就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997726964231294976",
+        "conversation_id": "1868291265491808369",
+        "created_at": "2024-12-16T12:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868638324782719473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "3007509396",
+              "start": 14,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868638324782719473",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868564319514050983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @pengchujin 我是说交通卡估计只有日本的是苹果独占。其他地区交通卡安卓都有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 367,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 410
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-19T06:33:39.000Z",
+        "description": "étudiant.",
+        "id": "997726964231294976",
+        "location": "République des Seychelles",
+        "name": "Spencer_an",
+        "pinned_tweet_id": "1239199913402982401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606179475854856193/S0RxuUxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 1250,
+          "like_count": 8883,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 212
+        },
+        "username": "Spencer_01exysa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "ⓘ 该账号已封禁",
+        "id": "3007509396",
+        "name": "酱紫表",
+        "pinned_tweet_id": "1827935072990937315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51103,
+          "following_count": 565,
+          "like_count": 1680,
+          "listed_count": 312,
+          "media_count": 716,
+          "tweet_count": 2360
+        },
+        "username": "pengchujin",
+        "verified": true
+      }
+    ]
+  }
+}

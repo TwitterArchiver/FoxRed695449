@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871169934719692800"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1871168790463164518",
+    "created_at": "2024-12-23T12:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T13:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871169943510954129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Dlmq2butE",
+          "end": 36,
+          "expanded_url": "https://x.com/FoxRed695449/status/1871169943510954129/photo/1",
+          "media_key": "3_1871169934719692800",
+          "start": 13,
+          "url": "https://t.co/0Dlmq2butE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871169943510954129",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871168955072856102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以扫QR码给兔兔写信！ https://t.co/0Dlmq2butE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1871169934719692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfe7JElbsAAFs2-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871169934719692800"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1871168790463164518",
+        "created_at": "2024-12-23T12:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871169943510954129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Dlmq2butE",
+              "end": 36,
+              "expanded_url": "https://x.com/FoxRed695449/status/1871169943510954129/photo/1",
+              "media_key": "3_1871169934719692800",
+              "start": 13,
+              "url": "https://t.co/0Dlmq2butE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871169943510954129",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871168955072856102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以扫QR码给兔兔写信！ https://t.co/0Dlmq2butE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1871168790463164518",
+        "created_at": "2024-12-23T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871168955072856102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "明日方舟的哔哩哔哩直播间,《明日方舟》2024感谢庆典特别直播将于10月26日20:00进行，届时欢迎大家前来观看本次直播。弹幕，礼物，道具，活动多种玩法，bilibili 直播让您拉进与小伙伴们之间的距离。",
+              "display_url": "b23.tv/p3xfYK3",
+              "end": 30,
+              "expanded_url": "https://b23.tv/p3xfYK3",
+              "start": 7,
+              "status": 200,
+              "title": "《明日方舟》2024感谢庆典特别直播 - 明日方舟 - 哔哩哔哩直播，二次元弹幕直播平台",
+              "unwound_url": "https://live.bilibili.com/5555734?broadcast_type=0&is_room_feed=1&plat_id=265&share_from=live&share_medium=iphone_i&share_plat=ios&share_session_id=E0A942DA-37F2-47B4-A6EE-A326B6ABBBF3&share_source=COPY&share_tag=s_i&timestamp=1734955842&unique_k=p3xfYK3",
+              "url": "https://t.co/LoE7MfpTlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871168955072856102",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871168790463164518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "官方直播链接：https://t.co/LoE7MfpTlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 377,
+          "like_count": 1015,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 491
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

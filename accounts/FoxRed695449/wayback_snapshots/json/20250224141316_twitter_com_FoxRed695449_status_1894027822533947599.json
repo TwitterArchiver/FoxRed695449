@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1894026676985548816",
+    "created_at": "2025-02-24T14:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T15:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894027822533947599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749569248371023872",
+          "start": 0,
+          "username": "Eureka222323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894027822533947599",
+    "in_reply_to_user_id": "1749569248371023872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894026676985548816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka222323 怎麼了怎麼了\n抱抱姐姐抱抱姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1894026676985548816",
+        "created_at": "2025-02-24T14:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894027822533947599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749569248371023872",
+              "start": 0,
+              "username": "Eureka222323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894027822533947599",
+        "in_reply_to_user_id": "1749569248371023872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894026676985548816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka222323 怎麼了怎麼了\n抱抱姐姐抱抱姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "conversation_id": "1894026676985548816",
+        "created_at": "2025-02-24T14:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T15:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894026676985548816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894026676985548816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3762,
+          "following_count": 514,
+          "like_count": 1950,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HKer🇭🇰 17｜不可爱的小女孩｜｜抑郁焦虑惊恐常患｜混吃等死的垃圾｜mygo真好看",
+        "id": "1749569248371023872",
+        "name": "优莱卡Eureka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 725,
+          "like_count": 11498,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 2398
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

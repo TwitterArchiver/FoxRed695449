@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1865766560297832832",
+    "created_at": "2024-12-08T14:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T15:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865766560297832832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1865531750484771162",
+          "start": 132,
+          "url": "https://t.co/JKBOFMCsLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865766560297832832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865531750484771162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可怕的不仅是学校将学生当成畜生一样管理，可怕的更是家长希望学校将学生当成畜生一样管理\n你问问那些家长，有几个能接受工作一周无休的？没几个吧？\n要是学术能力真能和学习时间成正比的话，那诺贝尔奖恐怕年年都有中国人吧。可笑的是只有2个人得了，1个是和平奖，1个是文学奖 https://t.co/JKBOFMCsLJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1865766560297832832",
+        "created_at": "2024-12-08T14:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865766560297832832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1865531750484771162",
+              "start": 132,
+              "url": "https://t.co/JKBOFMCsLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865766560297832832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865531750484771162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可怕的不仅是学校将学生当成畜生一样管理，可怕的更是家长希望学校将学生当成畜生一样管理\n你问问那些家长，有几个能接受工作一周无休的？没几个吧？\n要是学术能力真能和学习时间成正比的话，那诺贝尔奖恐怕年年都有中国人吧。可笑的是只有2个人得了，1个是和平奖，1个是文学奖 https://t.co/JKBOFMCsLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865530590986125312",
+            "3_1865530662100615168",
+            "3_1865530669843218432",
+            "3_1865530679590854656"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1865531750484771162",
+        "created_at": "2024-12-07T23:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T00:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865531750484771162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7J0kDbNTG",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1865531750484771162/photo/1",
+              "media_key": "3_1865530590986125312",
+              "start": 121,
+              "url": "https://t.co/q7J0kDbNTG"
+            },
+            {
+              "display_url": "pic.x.com/q7J0kDbNTG",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1865531750484771162/photo/1",
+              "media_key": "3_1865530662100615168",
+              "start": 121,
+              "url": "https://t.co/q7J0kDbNTG"
+            },
+            {
+              "display_url": "pic.x.com/q7J0kDbNTG",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1865531750484771162/photo/1",
+              "media_key": "3_1865530669843218432",
+              "start": 121,
+              "url": "https://t.co/q7J0kDbNTG"
+            },
+            {
+              "display_url": "pic.x.com/q7J0kDbNTG",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1865531750484771162/photo/1",
+              "media_key": "3_1865530679590854656",
+              "start": 121,
+              "url": "https://t.co/q7J0kDbNTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865531750484771162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 233305,
+          "like_count": 1209,
+          "quote_count": 25,
+          "reply_count": 201,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿 近日 宁夏银川 岳麓高级中学的高三家长因教育局不让周末补课，于是集体去教育局讨说法，家长们在教育局门口拉横幅游街，和教育局说周末是去学校写作业。最终学校恢复了周末补课。\n恢复补课后，有家长说：总算有个好消息，这下我们家长终于踏实了 https://t.co/q7J0kDbNTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 327,
+          "like_count": 709,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857872,
+          "following_count": 932,
+          "like_count": 5513,
+          "listed_count": 8015,
+          "media_count": 19957,
+          "tweet_count": 26176
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

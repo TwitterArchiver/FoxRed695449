@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898578967965433856",
+        "3_1898578967978012672",
+        "3_1898578967961247744",
+        "3_1898578967986356224"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1898579005571518942",
+    "created_at": "2025-03-09T03:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898579005571518942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qfDn52gjS",
+          "end": 37,
+          "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+          "media_key": "3_1898578967965433856",
+          "start": 14,
+          "url": "https://t.co/7qfDn52gjS"
+        },
+        {
+          "display_url": "pic.x.com/7qfDn52gjS",
+          "end": 37,
+          "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+          "media_key": "3_1898578967978012672",
+          "start": 14,
+          "url": "https://t.co/7qfDn52gjS"
+        },
+        {
+          "display_url": "pic.x.com/7qfDn52gjS",
+          "end": 37,
+          "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+          "media_key": "3_1898578967961247744",
+          "start": 14,
+          "url": "https://t.co/7qfDn52gjS"
+        },
+        {
+          "display_url": "pic.x.com/7qfDn52gjS",
+          "end": 37,
+          "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+          "media_key": "3_1898578967986356224",
+          "start": 14,
+          "url": "https://t.co/7qfDn52gjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898579005571518942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和爸爸媽媽一起吃午飯ing https://t.co/7qfDn52gjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898578967965433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkbgyObgAAK9A5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898578967978012672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkbgyRbcAA6vii.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898578967961247744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkbgyNboAA4tFV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898578967986356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlkbgyTawAAtepb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898578967965433856",
+            "3_1898578967978012672",
+            "3_1898578967961247744",
+            "3_1898578967986356224"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898579005571518942",
+        "created_at": "2025-03-09T03:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898579005571518942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qfDn52gjS",
+              "end": 37,
+              "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+              "media_key": "3_1898578967965433856",
+              "start": 14,
+              "url": "https://t.co/7qfDn52gjS"
+            },
+            {
+              "display_url": "pic.x.com/7qfDn52gjS",
+              "end": 37,
+              "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+              "media_key": "3_1898578967978012672",
+              "start": 14,
+              "url": "https://t.co/7qfDn52gjS"
+            },
+            {
+              "display_url": "pic.x.com/7qfDn52gjS",
+              "end": 37,
+              "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+              "media_key": "3_1898578967961247744",
+              "start": 14,
+              "url": "https://t.co/7qfDn52gjS"
+            },
+            {
+              "display_url": "pic.x.com/7qfDn52gjS",
+              "end": 37,
+              "expanded_url": "https://x.com/FoxRed695449/status/1898579005571518942/photo/1",
+              "media_key": "3_1898578967986356224",
+              "start": 14,
+              "url": "https://t.co/7qfDn52gjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898579005571518942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和爸爸媽媽一起吃午飯ing https://t.co/7qfDn52gjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 548,
+          "like_count": 2287,
+          "listed_count": 5,
+          "media_count": 407,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

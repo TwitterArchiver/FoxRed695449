@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896551819691925530",
+    "created_at": "2025-03-04T13:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896918864312828054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408476803241451522",
+          "start": 0,
+          "username": "ChenmgZ"
+        },
+        {
+          "end": 20,
+          "id": "1684788633797287936",
+          "start": 9,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896918864312828054",
+    "in_reply_to_user_id": "1408476803241451522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896817808954229215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenmgZ @Muoujiang_ 这书本来就是高一的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896551819691925530",
+        "created_at": "2025-03-04T13:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896918864312828054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408476803241451522",
+              "start": 0,
+              "username": "ChenmgZ"
+            },
+            {
+              "end": 20,
+              "id": "1684788633797287936",
+              "start": 9,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896918864312828054",
+        "in_reply_to_user_id": "1408476803241451522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896817808954229215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenmgZ @Muoujiang_ 这书本来就是高一的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408476803241451522",
+        "conversation_id": "1896551819691925530",
+        "created_at": "2025-03-04T06:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896817808954229215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "1684788633797287936",
+              "start": 14,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896817808954229215",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896796305286156402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Muoujiang_ 这不是国内高一基础难度？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 530,
+          "like_count": 2160,
+          "listed_count": 5,
+          "media_count": 395,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-25T17:27:01.000Z",
+        "description": "",
+        "id": "1408476803241451522",
+        "name": "Xc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408477065406390274/OIOs0Fa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 59,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1041
+        },
+        "username": "ChenmgZ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "一只无聊的木偶 | 加点东西：@huahuojiang_ |提问箱📦https://t.co/OJCInz4IdU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/marionette_sa1",
+                "end": 57,
+                "expanded_url": "https://ngl.link/marionette_sa1",
+                "start": 34,
+                "url": "https://t.co/OJCInz4IdU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Zapolyary Palace, Snezhnaya",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1807074114362036302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891979351568285698/sW_ffMTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19032,
+          "following_count": 10432,
+          "like_count": 66317,
+          "listed_count": 65,
+          "media_count": 2973,
+          "tweet_count": 11981
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

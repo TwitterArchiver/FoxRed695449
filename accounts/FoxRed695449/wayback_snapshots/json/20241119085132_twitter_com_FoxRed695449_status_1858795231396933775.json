@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858795224916783106",
+        "3_1858795224904200194"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1858795231396933775",
+    "created_at": "2024-11-19T08:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T09:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858795231396933775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9xm4Nshhi6",
+          "end": 128,
+          "expanded_url": "https://x.com/FoxRed695449/status/1858795231396933775/photo/1",
+          "media_key": "3_1858795224916783106",
+          "start": 105,
+          "url": "https://t.co/9xm4Nshhi6"
+        },
+        {
+          "display_url": "pic.x.com/9xm4Nshhi6",
+          "end": 128,
+          "expanded_url": "https://x.com/FoxRed695449/status/1858795231396933775/photo/1",
+          "media_key": "3_1858795224904200194",
+          "start": 105,
+          "url": "https://t.co/9xm4Nshhi6"
+        },
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/foxred695449/status/1858666716215247052",
+          "start": 129,
+          "url": "https://t.co/2XyS5LagDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858795231396933775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858666716215247052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "银行卡退款没入帐的事情已经解决了，在花了一天时间发了数封邮件并提交了我的购物与退款凭证后，我的退款成功入帐了！（为什么我会被银行风控啊…）\n接下来也会继续给X的客户团队发送邮件，争取能够取得原有账号的控制权！ https://t.co/9xm4Nshhi6 https://t.co/2XyS5LagDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1858795224916783106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcvEaKNbcAIeO0U.jpg",
+        "width": 946
+      },
+      {
+        "height": 821,
+        "media_key": "3_1858795224904200194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcvEaKKbcAIAOV1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858795224916783106",
+            "3_1858795224904200194"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1858795231396933775",
+        "created_at": "2024-11-19T08:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T09:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858795231396933775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xm4Nshhi6",
+              "end": 128,
+              "expanded_url": "https://x.com/FoxRed695449/status/1858795231396933775/photo/1",
+              "media_key": "3_1858795224916783106",
+              "start": 105,
+              "url": "https://t.co/9xm4Nshhi6"
+            },
+            {
+              "display_url": "pic.x.com/9xm4Nshhi6",
+              "end": 128,
+              "expanded_url": "https://x.com/FoxRed695449/status/1858795231396933775/photo/1",
+              "media_key": "3_1858795224904200194",
+              "start": 105,
+              "url": "https://t.co/9xm4Nshhi6"
+            },
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/foxred695449/status/1858666716215247052",
+              "start": 129,
+              "url": "https://t.co/2XyS5LagDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858795231396933775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858666716215247052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "银行卡退款没入帐的事情已经解决了，在花了一天时间发了数封邮件并提交了我的购物与退款凭证后，我的退款成功入帐了！（为什么我会被银行风控啊…）\n接下来也会继续给X的客户团队发送邮件，争取能够取得原有账号的控制权！ https://t.co/9xm4Nshhi6 https://t.co/2XyS5LagDN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858666709588340737",
+            "3_1858666709588307968"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1858666716215247052",
+        "created_at": "2024-11-19T00:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T01:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858666716215247052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vu9KjfftKI",
+              "end": 78,
+              "expanded_url": "https://x.com/FoxRed695449/status/1858666716215247052/photo/1",
+              "media_key": "3_1858666709588340737",
+              "start": 55,
+              "url": "https://t.co/Vu9KjfftKI"
+            },
+            {
+              "display_url": "pic.x.com/Vu9KjfftKI",
+              "end": 78,
+              "expanded_url": "https://x.com/FoxRed695449/status/1858666716215247052/photo/1",
+              "media_key": "3_1858666709588307968",
+              "start": 55,
+              "url": "https://t.co/Vu9KjfftKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858666716215247052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真的是要炸了，一方面我X的账号没了，现在得发邮件；另一方面我hk的银行卡退款没入帐，我还得发邮件问银行 https://t.co/Vu9KjfftKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 172,
+          "like_count": 131,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

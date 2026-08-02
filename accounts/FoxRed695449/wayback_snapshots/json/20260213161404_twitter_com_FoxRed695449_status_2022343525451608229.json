@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2022343525451608229",
+    "created_at": "2026-02-13T16:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022343525451608229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/frei98029391/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/frei98029391/status/2022274327941423585",
+          "start": 24,
+          "url": "https://t.co/9meMPK8hb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022343525451608229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022274327941423585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不敢自杀的原因其中之一就来自于下面那档子事（ https://t.co/9meMPK8hb8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2022343525451608229",
+        "created_at": "2026-02-13T16:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022343525451608229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frei98029391/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/frei98029391/status/2022274327941423585",
+              "start": 24,
+              "url": "https://t.co/9meMPK8hb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022343525451608229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022274327941423585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不敢自杀的原因其中之一就来自于下面那档子事（ https://t.co/9meMPK8hb8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233893730064699394",
+        "conversation_id": "2022274327941423585",
+        "created_at": "2026-02-13T11:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022274327941423585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/520illusion/status/2022147602737954859",
+              "start": 69,
+              "url": "https://t.co/Is418Mmzgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022274327941423585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5560,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022147602737954859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看到有一个跨女说，她家人原本不想送她去扭转，是当地政府威胁她父亲，大意是如果不送去扭转就不让她父亲在当地做生意，并且推荐了扭转机构。 https://t.co/Is418Mmzgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 765,
+          "like_count": 6216,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 2949
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-29T23:16:17.000Z",
+        "description": "trans, lesbian, Software Architect she (her) / they (them) / 她 / zij (haar) / sie (sie, ihr) English, 中文，Nederlands, Deutsch bluesky: @zephyrinefreiberg.bsky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 134,
+                "username": "zephyrinefreiberg"
+              }
+            ]
+          }
+        },
+        "id": "1233893730064699394",
+        "location": "Wien",
+        "name": "Zéphyrine Freiberg🏳️‍⚧️🏳️‍🌈🇪🇺🇺🇦",
+        "pinned_tweet_id": "1902361703058198694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 440,
+          "like_count": 13679,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 3467
+        },
+        "username": "frei98029391",
+        "verified": false
+      }
+    ]
+  }
+}

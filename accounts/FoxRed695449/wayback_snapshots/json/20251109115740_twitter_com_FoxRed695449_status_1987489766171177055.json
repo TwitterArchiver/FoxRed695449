@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987489763650351104"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1987489766171177055",
+    "created_at": "2025-11-09T11:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987489766171177055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/olGwiGx0Wt",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1987489766171177055/photo/1",
+          "media_key": "3_1987489763650351104",
+          "start": 40,
+          "url": "https://t.co/olGwiGx0Wt"
+        },
+        {
+          "display_url": "x.com/cuichenghao7/s…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/cuichenghao7/status/1987409723935850726",
+          "start": 64,
+          "url": "https://t.co/uiLWWeDLQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987489766171177055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987409723935850726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其實可能性還是挺多的\n例如機上WiFi，至少國泰航班上的WiFi都是美國的IP https://t.co/olGwiGx0Wt https://t.co/uiLWWeDLQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987489763650351104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T7aO0asAASucv.jpg",
+        "width": 921
+      },
+      {
+        "height": 693,
+        "media_key": "3_1987409715484053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Sym0KWUAAsUPS.jpg",
+        "width": 1079
+      },
+      {
+        "height": 835,
+        "media_key": "3_1987409715488260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Sym0LWgAAcguR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987489763650351104"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1987489766171177055",
+        "created_at": "2025-11-09T11:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987489766171177055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olGwiGx0Wt",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1987489766171177055/photo/1",
+              "media_key": "3_1987489763650351104",
+              "start": 40,
+              "url": "https://t.co/olGwiGx0Wt"
+            },
+            {
+              "display_url": "x.com/cuichenghao7/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/cuichenghao7/status/1987409723935850726",
+              "start": 64,
+              "url": "https://t.co/uiLWWeDLQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987489766171177055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987409723935850726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實可能性還是挺多的\n例如機上WiFi，至少國泰航班上的WiFi都是美國的IP https://t.co/olGwiGx0Wt https://t.co/uiLWWeDLQx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987409715484053504",
+            "3_1987409715488260096"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "1987409723935850726",
+        "created_at": "2025-11-09T06:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987409723935850726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fS64I5Cyk",
+              "end": 52,
+              "expanded_url": "https://x.com/cuichenghao7/status/1987409723935850726/photo/1",
+              "media_key": "3_1987409715484053504",
+              "start": 29,
+              "url": "https://t.co/7fS64I5Cyk"
+            },
+            {
+              "display_url": "pic.x.com/7fS64I5Cyk",
+              "end": 52,
+              "expanded_url": "https://x.com/cuichenghao7/status/1987409723935850726/photo/1",
+              "media_key": "3_1987409715488260096",
+              "start": 29,
+              "url": "https://t.co/7fS64I5Cyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987409723935850726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 107992,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "胡锡进仅用40分钟，就从美国飞回中国，坐的是弹道导弹吗？ https://t.co/7fS64I5Cyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 678,
+          "like_count": 4775,
+          "listed_count": 7,
+          "media_count": 873,
+          "tweet_count": 2627
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57214,
+          "following_count": 470,
+          "like_count": 1651,
+          "listed_count": 195,
+          "media_count": 947,
+          "tweet_count": 1038
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

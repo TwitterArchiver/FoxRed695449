@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078360021403156480"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2078360039220510813",
+    "created_at": "2026-07-18T06:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078360039220510813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fEi3hXkgxO",
+          "end": 39,
+          "expanded_url": "https://x.com/FoxRed695449/status/2078360039220510813/photo/1",
+          "media_key": "3_2078360021403156480",
+          "start": 16,
+          "url": "https://t.co/fEi3hXkgxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078360039220510813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来线下联动了～～\n是大大的瑞希 https://t.co/fEi3hXkgxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2078360021403156480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfRbYcbwAAQjeL.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078360021403156480"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2078360039220510813",
+        "created_at": "2026-07-18T06:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078360039220510813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEi3hXkgxO",
+              "end": 39,
+              "expanded_url": "https://x.com/FoxRed695449/status/2078360039220510813/photo/1",
+              "media_key": "3_2078360021403156480",
+              "start": 16,
+              "url": "https://t.co/fEi3hXkgxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078360039220510813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来线下联动了～～\n是大大的瑞希 https://t.co/fEi3hXkgxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 845,
+          "like_count": 8285,
+          "listed_count": 6,
+          "media_count": 1071,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

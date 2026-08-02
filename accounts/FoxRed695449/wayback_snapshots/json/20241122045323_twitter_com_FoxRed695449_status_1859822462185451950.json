@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859796015597121563",
+    "created_at": "2024-11-22T04:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T05:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859822462185451950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859822462185451950",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859808814410907815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 抱抱\n谢谢姐姐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859796015597121563",
+        "created_at": "2024-11-22T04:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T05:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859822462185451950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859822462185451950",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859808814410907815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 抱抱\n谢谢姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "1859796015597121563",
+        "created_at": "2024-11-22T03:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T04:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859808814410907815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859808814410907815",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859796015597121563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 抱抱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 222,
+          "like_count": 201,
+          "listed_count": 1,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "最爱的恋人@AliciaCervidae/姐姐@Shirlene_girl/妹妹@MarshMallowawa/女儿@QiuTtang/周深粉丝/喜欢做饭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "AliciaCervidae"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "MarshMallowawa"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "QiuTtang"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "1792167154097570276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1059,
+          "like_count": 12771,
+          "listed_count": 5,
+          "tweet_count": 3225
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

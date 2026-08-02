@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887341569893965824"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886747447021449303",
+    "created_at": "2025-02-06T03:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T04:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887341572649586792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846055543137517568",
+          "start": 0,
+          "username": "AXLV98"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eqa6bH4sTd",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxRed695449/status/1887341572649586792/photo/1",
+          "media_key": "3_1887341569893965824",
+          "start": 18,
+          "url": "https://t.co/Eqa6bH4sTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887341572649586792",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887341100626813241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AXLV98 以及歧視不代表罵人 https://t.co/Eqa6bH4sTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2215,
+        "media_key": "3_1887341569893965824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEvKINboAAOC-f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887341569893965824"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-06T03:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887341572649586792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846055543137517568",
+              "start": 0,
+              "username": "AXLV98"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eqa6bH4sTd",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887341572649586792/photo/1",
+              "media_key": "3_1887341569893965824",
+              "start": 18,
+              "url": "https://t.co/Eqa6bH4sTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887341572649586792",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887341100626813241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXLV98 以及歧視不代表罵人 https://t.co/Eqa6bH4sTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887341098257031172"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-06T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887341100626813241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846055543137517568",
+              "start": 0,
+              "username": "AXLV98"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhM31vV4s9",
+              "end": 31,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887341100626813241/photo/1",
+              "media_key": "3_1887341098257031172",
+              "start": 8,
+              "url": "https://t.co/xhM31vV4s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887341100626813241",
+        "in_reply_to_user_id": "1846055543137517568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887340730831806863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXLV98 https://t.co/xhM31vV4s9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3703,
+          "following_count": 463,
+          "like_count": 1385,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 927
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T05:08:47.000Z",
+        "description": "攻击我？",
+        "id": "1846055543137517568",
+        "location": "距离 21 公里",
+        "name": "咿呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846056114032672768/RIvur7CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 594
+        },
+        "username": "AXLV98",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887557473600729088"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1887557475970470353",
+    "created_at": "2025-02-06T17:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T18:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887557475970470353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ylHSUIQlg",
+          "end": 42,
+          "expanded_url": "https://x.com/FoxRed695449/status/1887557475970470353/photo/1",
+          "media_key": "3_1887557473600729088",
+          "start": 19,
+          "url": "https://t.co/4ylHSUIQlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887557475970470353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然意識到，要開學了\n我不要開學嗚嗚 https://t.co/4ylHSUIQlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_1887557473600729088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjHzhYMa8AAcZWi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887557473600729088"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887557475970470353",
+        "created_at": "2025-02-06T17:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T18:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887557475970470353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ylHSUIQlg",
+              "end": 42,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887557475970470353/photo/1",
+              "media_key": "3_1887557473600729088",
+              "start": 19,
+              "url": "https://t.co/4ylHSUIQlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887557475970470353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意識到，要開學了\n我不要開學嗚嗚 https://t.co/4ylHSUIQlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 464,
+          "like_count": 1415,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 958
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

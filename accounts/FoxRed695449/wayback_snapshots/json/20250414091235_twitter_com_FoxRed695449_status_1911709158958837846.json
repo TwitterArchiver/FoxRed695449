@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911709148489678848"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1911709158958837846",
+    "created_at": "2025-04-14T09:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T10:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911709158958837846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29VKZ8yUIC",
+          "end": 119,
+          "expanded_url": "https://x.com/FoxRed695449/status/1911709158958837846/photo/1",
+          "media_key": "3_1911709148489678848",
+          "start": 96,
+          "url": "https://t.co/29VKZ8yUIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911709158958837846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是，內地媒體有病吧\n拿別人的苦難開玩笑很好玩嗎？\n一邊說別人不尊重中國人，一邊在那裡各種不尊重少數群體\n真的是活該出境被歧視\n一次又一次刷新我對媒體底線的認知\n罵一句，內地新聞就是黃色新聞 https://t.co/29VKZ8yUIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1911709148489678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GofBV4WXgAAleS-.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911709148489678848"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1911709158958837846",
+        "created_at": "2025-04-14T09:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911709158958837846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29VKZ8yUIC",
+              "end": 119,
+              "expanded_url": "https://x.com/FoxRed695449/status/1911709158958837846/photo/1",
+              "media_key": "3_1911709148489678848",
+              "start": 96,
+              "url": "https://t.co/29VKZ8yUIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911709158958837846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，內地媒體有病吧\n拿別人的苦難開玩笑很好玩嗎？\n一邊說別人不尊重中國人，一邊在那裡各種不尊重少數群體\n真的是活該出境被歧視\n一次又一次刷新我對媒體底線的認知\n罵一句，內地新聞就是黃色新聞 https://t.co/29VKZ8yUIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3674,
+          "following_count": 604,
+          "like_count": 2779,
+          "listed_count": 6,
+          "media_count": 477,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

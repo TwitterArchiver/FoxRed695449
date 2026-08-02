@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973293283033153536"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1973293286057189569",
+    "created_at": "2025-10-01T07:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T08:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973293286057189569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPbI0IZeaL",
+          "end": 135,
+          "expanded_url": "https://x.com/FoxRed695449/status/1973293286057189569/photo/1",
+          "media_key": "3_1973293283033153536",
+          "start": 112,
+          "url": "https://t.co/KPbI0IZeaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973293286057189569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "amnestyhk.org/zh-hk/equality…",
+            "end": 358,
+            "expanded_url": "https://amnestyhk.org/zh-hk/equalityforhk/?utm_source=G&utm_medium=B&utm_campaign=T&utm_id=L&utm_term=l&utm_content=petition",
+            "start": 335,
+            "url": "https://t.co/8djlBm4UjH"
+          }
+        ]
+      },
+      "text": "oneaguy：\n「愛，不應該被拒於門外」\n最近，立法會否決了《同性伴侶關係登記條例草案》。它只是給予在外地合法結婚的同性伴侶最低限度的法律保障，例如探病、签醫療同意書、處理身後事等等.…….這些對異性配偶理所當然的權利。\n香港至今仍然不承認本地同性婚姻，讓許多同性伴侶在香港法律上仍被視作沒有關係的人。當對方出事，他們不能在病床旁守護，不能作任何決定，甚至連告別的機會都可能被剝奪。\n這是赤裸裸的歧視。\n為什麽同性伴侶不能在本地登記結婚？為什麽同性伴侶得不到異性伴侶相應的法律權利？為什麽愛也有高低之分？\n支持同性伴侶最基本的保障，並不是改變婚姻的定義，只是最起碼的人道關懷。\n如果你相信愛是平等的，不應該被法律阻隔，請發聲、請分享，請參與國際特赦香港海外分會的聯署\nhttps://t.co/8djlBm4UjH"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oneaguy：\n「愛，不應該被拒於門外」\n最近，立法會否決了《同性伴侶關係登記條例草案》。它只是給予在外地合法結婚的同性伴侶最低限度的法律保障，例如探病、签醫療同意書、處理身後事等等.…….這些對異性配偶理所當然的權利。 https://t.co/KPbI0IZeaL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_1973293283033153536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KLyTTbAAA1kD1.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973293283033153536"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1973293286057189569",
+        "created_at": "2025-10-01T07:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T08:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973293286057189569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPbI0IZeaL",
+              "end": 135,
+              "expanded_url": "https://x.com/FoxRed695449/status/1973293286057189569/photo/1",
+              "media_key": "3_1973293283033153536",
+              "start": 112,
+              "url": "https://t.co/KPbI0IZeaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973293286057189569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "amnestyhk.org/zh-hk/equality…",
+                "end": 358,
+                "expanded_url": "https://amnestyhk.org/zh-hk/equalityforhk/?utm_source=G&utm_medium=B&utm_campaign=T&utm_id=L&utm_term=l&utm_content=petition",
+                "start": 335,
+                "url": "https://t.co/8djlBm4UjH"
+              }
+            ]
+          },
+          "text": "oneaguy：\n「愛，不應該被拒於門外」\n最近，立法會否決了《同性伴侶關係登記條例草案》。它只是給予在外地合法結婚的同性伴侶最低限度的法律保障，例如探病、签醫療同意書、處理身後事等等.…….這些對異性配偶理所當然的權利。\n香港至今仍然不承認本地同性婚姻，讓許多同性伴侶在香港法律上仍被視作沒有關係的人。當對方出事，他們不能在病床旁守護，不能作任何決定，甚至連告別的機會都可能被剝奪。\n這是赤裸裸的歧視。\n為什麽同性伴侶不能在本地登記結婚？為什麽同性伴侶得不到異性伴侶相應的法律權利？為什麽愛也有高低之分？\n支持同性伴侶最基本的保障，並不是改變婚姻的定義，只是最起碼的人道關懷。\n如果你相信愛是平等的，不應該被法律阻隔，請發聲、請分享，請參與國際特赦香港海外分會的聯署\nhttps://t.co/8djlBm4UjH"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oneaguy：\n「愛，不應該被拒於門外」\n最近，立法會否決了《同性伴侶關係登記條例草案》。它只是給予在外地合法結婚的同性伴侶最低限度的法律保障，例如探病、签醫療同意書、處理身後事等等.…….這些對異性配偶理所當然的權利。 https://t.co/KPbI0IZeaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 696,
+          "like_count": 4387,
+          "listed_count": 8,
+          "media_count": 817,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

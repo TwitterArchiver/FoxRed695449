@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1892734884122394792",
+    "created_at": "2025-02-21T00:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T01:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892735597476729091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1553557029121576960",
+          "start": 0,
+          "username": "kuukichan0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892735597476729091",
+    "in_reply_to_user_id": "1553557029121576960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892734884122394792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukichan0327 來了杭州還是逃脫不了mtr的魔爪（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892734870750732290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkRYVjkXoAIXJsL.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1892734884122394792",
+        "created_at": "2025-02-21T00:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T01:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892735597476729091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1553557029121576960",
+              "start": 0,
+              "username": "kuukichan0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892735597476729091",
+        "in_reply_to_user_id": "1553557029121576960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892734884122394792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukichan0327 來了杭州還是逃脫不了mtr的魔爪（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892734870750732290"
+          ]
+        },
+        "author_id": "1553557029121576960",
+        "conversation_id": "1892734884122394792",
+        "created_at": "2025-02-21T00:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892734884122394792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNnKVRgKXk",
+              "end": 28,
+              "expanded_url": "https://x.com/kuukichan0327/status/1892734884122394792/photo/1",
+              "media_key": "3_1892734870750732290",
+              "start": 5,
+              "url": "https://t.co/wNnKVRgKXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892734884122394792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭港地铁 https://t.co/wNnKVRgKXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3570,
+          "following_count": 505,
+          "like_count": 1833,
+          "listed_count": 6,
+          "media_count": 352,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T01:44:21.000Z",
+        "description": "09 | INFP | mtf (HRT since 2023.5.30) | 英文会说 日文N2 | 会作编曲、混音后制 | 工作号 @wiruyuto | 算是半个交通迷 | 喜欢精神病和Vocaloid | 有主人 @ShaDow_0528",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "wiruyuto"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "ShaDow_0528"
+              }
+            ]
+          }
+        },
+        "id": "1553557029121576960",
+        "location": "羽久樺精神病院",
+        "name": "空気醬🏳‍⚧🍥",
+        "pinned_tweet_id": "1885788698434007429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853497382199304193/raQjHJtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 428,
+          "like_count": 6536,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1719
+        },
+        "username": "kuukichan0327",
+        "verified": false
+      }
+    ]
+  }
+}

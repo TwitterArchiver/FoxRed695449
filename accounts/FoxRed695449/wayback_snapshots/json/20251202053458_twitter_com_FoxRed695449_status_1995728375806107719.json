@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995728372836745216"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1995728375806107719",
+    "created_at": "2025-12-02T05:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995728375806107719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xkIQJNCSk",
+          "end": 25,
+          "expanded_url": "https://x.com/FoxRed695449/status/1995728375806107719/photo/1",
+          "media_key": "3_1995728372836745216",
+          "start": 2,
+          "url": "https://t.co/1xkIQJNCSk"
+        },
+        {
+          "display_url": "x.com/ltshijie/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/ltshijie/status/1995313338256093240",
+          "start": 26,
+          "url": "https://t.co/RuXI74ynLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995728375806107719",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995313338256093240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤡 https://t.co/1xkIQJNCSk https://t.co/RuXI74ynLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1995728372836745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JAYZsaQAAh6IY.jpg",
+        "width": 676
+      },
+      {
+        "duration_ms": 14928,
+        "height": 1878,
+        "media_key": "13_1995313263530409984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995313263530409984/img/D7GPkVBZkXn8c6Xt.jpg",
+        "public_metrics": {
+          "view_count": 263995
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995313263530409984/vid/avc1/720x1268/FVHfR9y-I0ffQqkd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995313263530409984/vid/avc1/1066x1878/-VuKHOLvn1_IP0of.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995313263530409984/pl/wsWiMcUXBgHZqrZ8.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995313263530409984/vid/avc1/320x562/ctMqKzEd69cWXOTf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995313263530409984/vid/avc1/480x844/aCM4E7Jv13k3cd89.mp4"
+          }
+        ],
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995728372836745216"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1995728375806107719",
+        "created_at": "2025-12-02T05:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995728375806107719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xkIQJNCSk",
+              "end": 25,
+              "expanded_url": "https://x.com/FoxRed695449/status/1995728375806107719/photo/1",
+              "media_key": "3_1995728372836745216",
+              "start": 2,
+              "url": "https://t.co/1xkIQJNCSk"
+            },
+            {
+              "display_url": "x.com/ltshijie/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ltshijie/status/1995313338256093240",
+              "start": 26,
+              "url": "https://t.co/RuXI74ynLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995728375806107719",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995313338256093240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤡 https://t.co/1xkIQJNCSk https://t.co/RuXI74ynLO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995313263530409984"
+          ]
+        },
+        "author_id": "2865179814",
+        "conversation_id": "1995313338256093240",
+        "created_at": "2025-12-01T02:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995313338256093240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnr3OdH5fD",
+              "end": 75,
+              "expanded_url": "https://x.com/ltshijie/status/1995313338256093240/video/1",
+              "media_key": "13_1995313263530409984",
+              "start": 52,
+              "url": "https://t.co/xnr3OdH5fD"
+            },
+            {
+              "display_url": "x.com/ltshijie/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/ltshijie/status/1995266694596739248",
+              "start": 76,
+              "url": "https://t.co/2mdMX7qQgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995313338256093240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 915261,
+          "like_count": 598,
+          "quote_count": 16,
+          "reply_count": 234,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995266694596739248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香港火災的「戰犯」從竹竿轉移到山東生產的綠色圍網。但是，有香港市民從現場截取綠色圍網試驗，阻燃性很好。 https://t.co/xnr3OdH5fD https://t.co/2mdMX7qQgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 710,
+          "like_count": 5120,
+          "listed_count": 7,
+          "media_count": 904,
+          "tweet_count": 2773
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-19T15:02:14.000Z",
+        "description": "Independent researcher of China issues. YouTube LT視界 ➡️ https://t.co/VMX9PeeS4y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ltshijie",
+                "end": 79,
+                "expanded_url": "http://youtube.com/@ltshijie",
+                "start": 56,
+                "url": "https://t.co/VMX9PeeS4y"
+              }
+            ]
+          }
+        },
+        "id": "2865179814",
+        "location": "United States",
+        "name": "LT 視界",
+        "pinned_tweet_id": "1995630266006864057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413570358872051714/3nwB6LKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380434,
+          "following_count": 966,
+          "like_count": 60233,
+          "listed_count": 2079,
+          "media_count": 12913,
+          "tweet_count": 37598
+        },
+        "username": "ltshijie",
+        "verified": true
+      }
+    ]
+  }
+}

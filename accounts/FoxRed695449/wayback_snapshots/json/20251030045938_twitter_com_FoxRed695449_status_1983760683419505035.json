@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1983760645142228992"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      }
+    ],
+    "conversation_id": "1983374638731407389",
+    "created_at": "2025-10-30T04:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983760683419505035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "60467059",
+          "start": 0,
+          "username": "zhao93"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IKJy9hwQ1u",
+          "end": 54,
+          "expanded_url": "https://x.com/FoxRed695449/status/1983760683419505035/video/1",
+          "media_key": "7_1983760645142228992",
+          "start": 31,
+          "url": "https://t.co/IKJy9hwQ1u"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01cb3bd54f92388e"
+    },
+    "id": "1983760683419505035",
+    "in_reply_to_user_id": "60467059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983374638731407389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao93 原來特首李家超也和中央搞軟對抗，要喪權辱國👍 https://t.co/IKJy9hwQ1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41958,
+        "height": 720,
+        "media_key": "7_1983760645142228992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983760645142228992/pu/img/Mo9xTmybgedfv8bW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983760645142228992/pu/vid/avc1/478x270/MpQZDfuSLSzHz9TX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983760645142228992/pu/vid/avc1/638x360/F2KeDldmwak6srmc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983760645142228992/pu/vid/avc1/1278x720/gRauNKDqQeN-hyxN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983760645142228992/pu/pl/A37r_mlH_81X-29W.m3u8?tag=12"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Wan Chai District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.163389,
+            22.252055,
+            114.2069673,
+            22.2912933
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "01cb3bd54f92388e",
+        "name": "Wan Chai District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983760645142228992"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "1983374638731407389",
+        "created_at": "2025-10-30T04:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983760683419505035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "60467059",
+              "start": 0,
+              "username": "zhao93"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKJy9hwQ1u",
+              "end": 54,
+              "expanded_url": "https://x.com/FoxRed695449/status/1983760683419505035/video/1",
+              "media_key": "7_1983760645142228992",
+              "start": 31,
+              "url": "https://t.co/IKJy9hwQ1u"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1983760683419505035",
+        "in_reply_to_user_id": "60467059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983374638731407389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao93 原來特首李家超也和中央搞軟對抗，要喪權辱國👍 https://t.co/IKJy9hwQ1u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60467059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "1983374638731407389",
+        "created_at": "2025-10-29T03:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983374638731407389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxzbst/status/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/sxzbst/status/1982390696750481602",
+              "start": 91,
+              "url": "https://t.co/6Z9A7fITJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983374638731407389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 106202,
+          "like_count": 333,
+          "quote_count": 11,
+          "reply_count": 324,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982390696750481602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本的首相（最高行政领导人）用英语对外发布，其实是一种非常丧权辱国的行为。\n无论你懂不懂英语，就算你英语是母语水平，作为日本的领导人，你都必须用日语来对外宣读政纲，而不能用英语的。 https://t.co/6Z9A7fITJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 668,
+          "like_count": 4729,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-27T02:46:22.000Z",
+        "description": "我是一名在日华侨，但华人血统不纯正。写推文主要替别人(包括各国政府们)把真心话说出来。为伟大的政府们、和正义的大善人们省口水。",
+        "id": "60467059",
+        "location": "日本 東京",
+        "name": "鸭蛋姐🎏",
+        "pinned_tweet_id": "1660829522923782149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279910664811671553/qUfFJiQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18524,
+          "following_count": 1898,
+          "like_count": 41799,
+          "listed_count": 57,
+          "media_count": 3950,
+          "tweet_count": 27021
+        },
+        "username": "zhao93",
+        "verified": false
+      }
+    ]
+  }
+}

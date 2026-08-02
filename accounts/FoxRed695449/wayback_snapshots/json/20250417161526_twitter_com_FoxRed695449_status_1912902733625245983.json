@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912902730894675969"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1912902733625245983",
+    "created_at": "2025-04-17T16:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T17:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912902733625245983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xmGILsnHu9",
+          "end": 121,
+          "expanded_url": "https://x.com/FoxRed695449/status/1912902733625245983/photo/1",
+          "media_key": "3_1912902730894675969",
+          "start": 98,
+          "url": "https://t.co/xmGILsnHu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912902733625245983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近開了個人民幣港幣的雙幣種銀聯卡\n然後發現一個離譜的事情，Google扣人民幣帳戶裡的錢而不是港幣帳戶裡的錢\n因此這卡基本上不用在Google上消費了（不然要承擔港幣到人民幣再到港幣的匯率差） https://t.co/xmGILsnHu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2620,
+        "media_key": "3_1912902730894675969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gov-5hTaEAExRuW.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912902730894675969"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1912902733625245983",
+        "created_at": "2025-04-17T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912902733625245983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmGILsnHu9",
+              "end": 121,
+              "expanded_url": "https://x.com/FoxRed695449/status/1912902733625245983/photo/1",
+              "media_key": "3_1912902730894675969",
+              "start": 98,
+              "url": "https://t.co/xmGILsnHu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912902733625245983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近開了個人民幣港幣的雙幣種銀聯卡\n然後發現一個離譜的事情，Google扣人民幣帳戶裡的錢而不是港幣帳戶裡的錢\n因此這卡基本上不用在Google上消費了（不然要承擔港幣到人民幣再到港幣的匯率差） https://t.co/xmGILsnHu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 607,
+          "like_count": 2809,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

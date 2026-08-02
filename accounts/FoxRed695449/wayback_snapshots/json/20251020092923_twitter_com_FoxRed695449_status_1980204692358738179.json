@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1980204022574526637",
+    "created_at": "2025-10-20T09:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T10:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980204692358738179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980204692358738179",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980204022574526637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 我就說b站上能看黃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980204019306958849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sZEGGXkAEQLBT.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980204019579539456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sZEHHW0AAFU9f.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980204020036665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sZEI0WAAA9CwM.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980204020229632001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sZEJiWcAEPbdB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1980204022574526637",
+        "created_at": "2025-10-20T09:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980204692358738179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980204692358738179",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980204022574526637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 我就說b站上能看黃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980204019306958849",
+            "3_1980204019579539456",
+            "3_1980204020036665344",
+            "3_1980204020229632001"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980204022574526637",
+        "created_at": "2025-10-20T09:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980204022574526637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPYeII4CNz",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1980204022574526637/photo/1",
+              "media_key": "3_1980204019306958849",
+              "start": 11,
+              "url": "https://t.co/sPYeII4CNz"
+            },
+            {
+              "display_url": "pic.x.com/sPYeII4CNz",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1980204022574526637/photo/1",
+              "media_key": "3_1980204019579539456",
+              "start": 11,
+              "url": "https://t.co/sPYeII4CNz"
+            },
+            {
+              "display_url": "pic.x.com/sPYeII4CNz",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1980204022574526637/photo/1",
+              "media_key": "3_1980204020036665344",
+              "start": 11,
+              "url": "https://t.co/sPYeII4CNz"
+            },
+            {
+              "display_url": "pic.x.com/sPYeII4CNz",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1980204022574526637/photo/1",
+              "media_key": "3_1980204020229632001",
+              "start": 11,
+              "url": "https://t.co/sPYeII4CNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980204022574526637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不豪，这是什么番）🫣 https://t.co/sPYeII4CNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 700,
+          "like_count": 4609,
+          "listed_count": 7,
+          "media_count": 844,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11779,
+          "following_count": 1351,
+          "like_count": 146307,
+          "listed_count": 23,
+          "media_count": 4690,
+          "tweet_count": 63799
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

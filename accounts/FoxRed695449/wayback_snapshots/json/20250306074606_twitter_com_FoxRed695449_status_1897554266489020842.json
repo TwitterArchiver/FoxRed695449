@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897553626454978823",
+    "created_at": "2025-03-06T07:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T08:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897554266489020842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774357995792777216",
+          "start": 0,
+          "username": "hanabishirosaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897554266489020842",
+    "in_reply_to_user_id": "1774357995792777216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897553626454978823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanabishirosaki 啊？什麼傻逼家長啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897553626454978823",
+        "created_at": "2025-03-06T07:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897554266489020842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774357995792777216",
+              "start": 0,
+              "username": "hanabishirosaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897554266489020842",
+        "in_reply_to_user_id": "1774357995792777216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897553626454978823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanabishirosaki 啊？什麼傻逼家長啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774357995792777216",
+        "conversation_id": "1897553626454978823",
+        "created_at": "2025-03-06T07:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897553626454978823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897553626454978823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自殺未遂後我媽還丟了我所有的糖….. 為什麼為什麼為什麼為什麼…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3846,
+          "following_count": 535,
+          "like_count": 2210,
+          "listed_count": 5,
+          "media_count": 399,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "抑鬱mtf 叫我百咲就可以了 最愛的姐姐💗 @ForteYuriHK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "ForteYuriHK"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "死",
+        "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
+        "pinned_tweet_id": "1871153733859672148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 781,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 369
+        },
+        "username": "hanabishirosaki",
+        "verified": false
+      }
+    ]
+  }
+}

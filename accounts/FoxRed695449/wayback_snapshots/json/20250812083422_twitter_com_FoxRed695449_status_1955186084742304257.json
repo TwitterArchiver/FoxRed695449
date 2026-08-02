@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955186071207284736"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1955183251649335739",
+    "created_at": "2025-08-12T08:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955186084742304257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smhGSY01uc",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/1955186084742304257/photo/1",
+          "media_key": "3_1955186071207284736",
+          "start": 33,
+          "url": "https://t.co/smhGSY01uc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955186084742304257",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955185260699996630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 因為政府為了省錢訂的是在內地都找不到的牌子： https://t.co/smhGSY01uc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_1955186071207284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyI3X2waEAAr13j.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955186071207284736"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1955183251649335739",
+        "created_at": "2025-08-12T08:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955186084742304257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smhGSY01uc",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955186084742304257/photo/1",
+              "media_key": "3_1955186071207284736",
+              "start": 33,
+              "url": "https://t.co/smhGSY01uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955186084742304257",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955185260699996630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 因為政府為了省錢訂的是在內地都找不到的牌子： https://t.co/smhGSY01uc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "conversation_id": "1955183251649335739",
+        "created_at": "2025-08-12T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955185260699996630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cpup2024/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/cpup2024/status/1894691641153458563",
+              "start": 64,
+              "url": "https://t.co/KvdirCBBfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955185260699996630",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894691641153458563",
+            "type": "quoted"
+          },
+          {
+            "id": "1955183251649335739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 上次是菠萝包，这次是瓶装水，香港人为什么要创造和内地人的壁垒，仿佛过了深港关卡，就是过奈何桥一样。 https://t.co/KvdirCBBfz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 682,
+          "like_count": 3920,
+          "listed_count": 7,
+          "media_count": 618,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。本不想注册新号，左右脑互搏还是有新号了@mikulovermua 新号键政少，更从心所欲。葱是左翼建制派，支持CPC领导之PRC。本人非粉蛆，但骄傲于做某些人嘴里的粉蛆。ally&非二元性别 勿忘我们的骄傲🏳️‍🌈stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC",
+        "name": "赛高の葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1955184227525464464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933516872659709952/x9MxFB_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1173,
+          "like_count": 31841,
+          "listed_count": 25,
+          "media_count": 640,
+          "tweet_count": 8103
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

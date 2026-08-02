@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966829802209636358"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1966314569623887904",
+    "created_at": "2025-09-13T11:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966829810925400348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2173540759",
+          "start": 0,
+          "username": "dpZrkOVemm9jXqQ"
+        },
+        {
+          "end": 32,
+          "id": "1824428396258234368",
+          "start": 17,
+          "username": "wingsing355236"
+        },
+        {
+          "end": 48,
+          "id": "1658355089084678144",
+          "start": 33,
+          "username": "daxiongmao1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqd0uDmnAW",
+          "end": 72,
+          "expanded_url": "https://x.com/FoxRed695449/status/1966829810925400348/photo/1",
+          "media_key": "3_1966829802209636358",
+          "start": 49,
+          "url": "https://t.co/mqd0uDmnAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966829810925400348",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966826468547457173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dpZrkOVemm9jXqQ @wingsing355236 @daxiongmao1234 https://t.co/mqd0uDmnAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_1966829802209636358",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uVSM5bcAYcqHa.jpg",
+        "width": 828
+      },
+      {
+        "height": 960,
+        "media_key": "3_1966826462679625731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uSP0LbcAMbuMT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966829802209636358"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966314569623887904",
+        "created_at": "2025-09-13T11:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966829810925400348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2173540759",
+              "start": 0,
+              "username": "dpZrkOVemm9jXqQ"
+            },
+            {
+              "end": 32,
+              "id": "1824428396258234368",
+              "start": 17,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 48,
+              "id": "1658355089084678144",
+              "start": 33,
+              "username": "daxiongmao1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqd0uDmnAW",
+              "end": 72,
+              "expanded_url": "https://x.com/FoxRed695449/status/1966829810925400348/photo/1",
+              "media_key": "3_1966829802209636358",
+              "start": 49,
+              "url": "https://t.co/mqd0uDmnAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966829810925400348",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966826468547457173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dpZrkOVemm9jXqQ @wingsing355236 @daxiongmao1234 https://t.co/mqd0uDmnAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966826462679625731"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966314569623887904",
+        "created_at": "2025-09-13T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966826468547457173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2173540759",
+              "start": 0,
+              "username": "dpZrkOVemm9jXqQ"
+            },
+            {
+              "end": 32,
+              "id": "1824428396258234368",
+              "start": 17,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 48,
+              "id": "1658355089084678144",
+              "start": 33,
+              "username": "daxiongmao1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5OhGvvoHq",
+              "end": 143,
+              "expanded_url": "https://x.com/FoxRed695449/status/1966826468547457173/photo/1",
+              "media_key": "3_1966826462679625731",
+              "start": 120,
+              "url": "https://t.co/Z5OhGvvoHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966826468547457173",
+        "in_reply_to_user_id": "2173540759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966582159298159026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dpZrkOVemm9jXqQ @wingsing355236 @daxiongmao1234 呃…隨便舉個例子\n滬昆高鐵滬杭段已經早6至晚11這段時間基本達到運載上限…但不是整條滬昆高鐵都滿客啊\n現在中國高鐵的處境就是旱的旱死澇的澇死 https://t.co/Z5OhGvvoHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 688,
+          "like_count": 4320,
+          "listed_count": 8,
+          "media_count": 785,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-04T07:43:23.000Z",
+        "description": "",
+        "id": "2173540759",
+        "location": "北京",
+        "name": "甜辣鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/739341441013407744/TecxJM8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 296,
+          "like_count": 654,
+          "listed_count": 5,
+          "media_count": 18,
+          "tweet_count": 435
+        },
+        "username": "dpZrkOVemm9jXqQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shkp.com/zh-HK",
+                "end": 23,
+                "expanded_url": "https://www.shkp.com/zh-HK",
+                "start": 0,
+                "url": "https://t.co/qiEvdTcl9Q"
+              }
+            ]
+          }
+        },
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{CHISATO}(E486)🇨🇳🇹🇼🇭🇰🇲🇴",
+        "pinned_tweet_id": "1961053911759937780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965648830176919556/4Wy3bSyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 924,
+          "like_count": 86293,
+          "listed_count": 8,
+          "media_count": 3885,
+          "tweet_count": 12057
+        },
+        "url": "https://t.co/qiEvdTcl9Q",
+        "username": "wingsing355236",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T06:14:13.000Z",
+        "description": "越是形势不好越要坚定战略定力，不要跟着别人去抱怨，别人在抱怨的时候脑袋已经出问题了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/happywangheyi",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/happywangheyi",
+                "start": 0,
+                "url": "https://t.co/NZdc0h0Jn4"
+              }
+            ]
+          }
+        },
+        "id": "1658355089084678144",
+        "name": "行进中的二诸葛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787995761617354752/2Ex-P2cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26432,
+          "following_count": 1433,
+          "like_count": 51641,
+          "listed_count": 70,
+          "media_count": 5591,
+          "tweet_count": 11987
+        },
+        "url": "https://t.co/NZdc0h0Jn4",
+        "username": "daxiongmao1234",
+        "verified": true
+      }
+    ]
+  }
+}

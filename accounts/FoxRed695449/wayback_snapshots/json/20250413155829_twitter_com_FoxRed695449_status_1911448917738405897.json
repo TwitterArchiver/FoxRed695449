@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911448914185601025"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1911448917738405897",
+    "created_at": "2025-04-13T15:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T16:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911448917738405897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/173zQAKpbH",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/1911448917738405897/photo/1",
+          "media_key": "3_1911448914185601025",
+          "start": 4,
+          "url": "https://t.co/173zQAKpbH"
+        },
+        {
+          "display_url": "x.com/Vincent8396195…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Vincent83961956/status/1910163979386892710",
+          "start": 28,
+          "url": "https://t.co/owRuaO1OI4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911448917738405897",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910163979386892710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣👆🤡 https://t.co/173zQAKpbH https://t.co/owRuaO1OI4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2784,
+        "media_key": "3_1911448914185601025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GobUqQBWwAE8TBB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911448914185601025"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1911448917738405897",
+        "created_at": "2025-04-13T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911448917738405897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/173zQAKpbH",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/1911448917738405897/photo/1",
+              "media_key": "3_1911448914185601025",
+              "start": 4,
+              "url": "https://t.co/173zQAKpbH"
+            },
+            {
+              "display_url": "x.com/Vincent8396195…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Vincent83961956/status/1910163979386892710",
+              "start": 28,
+              "url": "https://t.co/owRuaO1OI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911448917738405897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910163979386892710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣👆🤡 https://t.co/173zQAKpbH https://t.co/owRuaO1OI4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1209521749382946816",
+        "conversation_id": "1910145641746940094",
+        "created_at": "2025-04-10T02:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T03:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910163979386892710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910163979386892710",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910145641746940094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 香港有特殊性，中国文化不接受同性恋，这个就不要与时俱进了吧？英国作为原欧盟的同性恋之都，应该改！过几年你们喜欢跟猪玩，还可以再改，我们没意见，但是你们不能说，你们跟狗玩就是先进，我们落后（2003年，英国上学的时候，英国人还有羞耻心，跟意大利人互骂，谁是同性恋之都）男人是不安全的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 601,
+          "like_count": 2781,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-24T17:10:46.000Z",
+        "description": "",
+        "id": "1209521749382946816",
+        "name": "RichieTu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209522092707680257/2o7h1_km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 53,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1404
+        },
+        "username": "Vincent83961956",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902973208506273793"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1902973210796364222",
+    "created_at": "2025-03-21T06:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T07:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902973210796364222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s4PPqEmn6k",
+          "end": 60,
+          "expanded_url": "https://x.com/FoxRed695449/status/1902973210796364222/photo/1",
+          "media_key": "3_1902973208506273793",
+          "start": 37,
+          "url": "https://t.co/s4PPqEmn6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902973210796364222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识“操你妈的”其实是“肏你妈的”更加委婉的版本\n但貌似原话没有人记得 https://t.co/s4PPqEmn6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_1902973208506273793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmi4DP4aEAE6Jsb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902973208506273793"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1902973210796364222",
+        "created_at": "2025-03-21T06:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902973210796364222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4PPqEmn6k",
+              "end": 60,
+              "expanded_url": "https://x.com/FoxRed695449/status/1902973210796364222/photo/1",
+              "media_key": "3_1902973208506273793",
+              "start": 37,
+              "url": "https://t.co/s4PPqEmn6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902973210796364222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识“操你妈的”其实是“肏你妈的”更加委婉的版本\n但貌似原话没有人记得 https://t.co/s4PPqEmn6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1901896157540069695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914,
+          "following_count": 577,
+          "like_count": 2593,
+          "listed_count": 6,
+          "media_count": 426,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

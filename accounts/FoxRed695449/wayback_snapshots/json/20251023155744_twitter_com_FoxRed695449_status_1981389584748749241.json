@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981375639014825984"
+      ],
+      "media_source_tweet_id": [
+        "1981375686620434935"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "1981389584748749241",
+    "created_at": "2025-10-23T15:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981389584748749241"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Ado",
+          "probability": 0.7297,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1321399768258506757",
+          "start": 3,
+          "username": "ado_staff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SCFAK3vNP4",
+          "end": 66,
+          "expanded_url": "https://x.com/ado_staff/status/1981375686620434935/photo/1",
+          "media_key": "3_1981375639014825984",
+          "start": 43,
+          "url": "https://t.co/SCFAK3vNP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981389584748749241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981375686620434935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ado_staff: Happy 23rd Birthday, Ado!!🎂 https://t.co/SCFAK3vNP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1981375639014825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39CpVoXYAA5KAZ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981375639014825984"
+          ],
+          "media_source_tweet_id": [
+            "1981375686620434935"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1981389584748749241",
+        "created_at": "2025-10-23T15:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981389584748749241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Ado",
+              "probability": 0.7297,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1321399768258506757",
+              "start": 3,
+              "username": "ado_staff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCFAK3vNP4",
+              "end": 66,
+              "expanded_url": "https://x.com/ado_staff/status/1981375686620434935/photo/1",
+              "media_key": "3_1981375639014825984",
+              "start": 43,
+              "url": "https://t.co/SCFAK3vNP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981389584748749241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2489
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981375686620434935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ado_staff: Happy 23rd Birthday, Ado!!🎂 https://t.co/SCFAK3vNP4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981375639014825984"
+          ]
+        },
+        "author_id": "1321399768258506757",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "1981375686620434935",
+        "created_at": "2025-10-23T15:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981375686620434935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Ado",
+              "probability": 0.646,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCFAK3vNP4",
+              "end": 51,
+              "expanded_url": "https://x.com/ado_staff/status/1981375686620434935/photo/1",
+              "media_key": "3_1981375639014825984",
+              "start": 28,
+              "url": "https://t.co/SCFAK3vNP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981375686620434935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 58679,
+          "like_count": 8648,
+          "quote_count": 167,
+          "reply_count": 329,
+          "retweet_count": 2489
+        },
+        "reply_settings": "everyone",
+        "text": "Happy 23rd Birthday, Ado!!🎂 https://t.co/SCFAK3vNP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 681,
+          "like_count": 4694,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-28T10:34:42.000Z",
+        "description": "Adoスタッフ公式X🙋niconico https://t.co/VjLSh0DcJQ YouTube https://t.co/CWRnSxY4UQ TikTok https://t.co/aIUSjAXoOQ ご依頼 support@cloud9pro.co.jp 💌→https://t.co/dfKuvB4XG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3ovtGos",
+                "end": 43,
+                "expanded_url": "http://bit.ly/3ovtGos",
+                "start": 20,
+                "url": "https://t.co/VjLSh0DcJQ"
+              },
+              {
+                "display_url": "bit.ly/36OpNVy",
+                "end": 75,
+                "expanded_url": "http://bit.ly/36OpNVy",
+                "start": 52,
+                "url": "https://t.co/CWRnSxY4UQ"
+              },
+              {
+                "display_url": "bit.ly/2JK9LmK",
+                "end": 106,
+                "expanded_url": "http://bit.ly/2JK9LmK",
+                "start": 83,
+                "url": "https://t.co/aIUSjAXoOQ"
+              },
+              {
+                "display_url": "umusic.jp/ado_nl",
+                "end": 160,
+                "expanded_url": "https://umusic.jp/ado_nl",
+                "start": 137,
+                "url": "https://t.co/dfKuvB4XG5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ado.lnk.to/best_adobum",
+                "end": 23,
+                "expanded_url": "https://ado.lnk.to/best_adobum",
+                "start": 0,
+                "url": "https://t.co/NZfxdjCznI"
+              }
+            ]
+          }
+        },
+        "id": "1321399768258506757",
+        "location": "『Adoのベストアドバム』4.9 Release💿",
+        "name": "Ado Staff",
+        "pinned_tweet_id": "1964138031059013900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877551470251487237/RVBcU5dA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282948,
+          "following_count": 8,
+          "like_count": 3209,
+          "listed_count": 728,
+          "media_count": 2224,
+          "tweet_count": 7516
+        },
+        "url": "https://t.co/NZfxdjCznI",
+        "username": "ado_staff",
+        "verified": true
+      }
+    ]
+  }
+}

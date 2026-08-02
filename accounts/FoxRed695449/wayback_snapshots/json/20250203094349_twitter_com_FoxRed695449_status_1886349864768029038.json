@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T09:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T10:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886349864768029038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "CuSO4_04410162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886349864768029038",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886348143626977376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuSO4_04410162 不是不是，只是去參加過活動罷了（逃）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886349864768029038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "CuSO4_04410162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886349864768029038",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886348143626977376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuSO4_04410162 不是不是，只是去參加過活動罷了（逃）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247544266626183168",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886348143626977376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886348143626977376",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 港大大佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 450,
+          "like_count": 1341,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 801
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "世界，牢牢抓住我吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/scott",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/scott",
+                "start": 0,
+                "url": "https://t.co/1hDpO7ZwGA"
+              }
+            ]
+          }
+        },
+        "id": "1247544266626183168",
+        "location": "阿姆斯特朗环形山",
+        "name": "CuSO4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761701633401176064/OMiZkZ2B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1313,
+          "like_count": 53850,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 10105
+        },
+        "url": "https://t.co/1hDpO7ZwGA",
+        "username": "CuSO4_04410162",
+        "verified": true
+      }
+    ]
+  }
+}

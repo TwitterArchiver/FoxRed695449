@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033138990107545600"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2032259727581987234",
+    "created_at": "2026-03-15T11:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033138992787698168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422560510680043523",
+          "start": 0,
+          "username": "0xchal"
+        },
+        {
+          "end": 19,
+          "id": "1328191925195706372",
+          "start": 8,
+          "username": "Frank51515"
+        },
+        {
+          "end": 28,
+          "id": "1433678976564662273",
+          "start": 20,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWNS7eAAe8",
+          "end": 62,
+          "expanded_url": "https://x.com/FoxRed695449/status/2033138992787698168/photo/1",
+          "media_key": "3_2033138990107545600",
+          "start": 39,
+          "url": "https://t.co/xWNS7eAAe8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033138992787698168",
+    "in_reply_to_user_id": "1422560510680043523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032374533412573418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xchal @Frank51515 @hsn8086 他说的南昌是这个： https://t.co/xWNS7eAAe8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033138990107545600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcpI7RbUAAQ-Sn.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033138990107545600"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2032259727581987234",
+        "created_at": "2026-03-15T11:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033138992787698168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422560510680043523",
+              "start": 0,
+              "username": "0xchal"
+            },
+            {
+              "end": 19,
+              "id": "1328191925195706372",
+              "start": 8,
+              "username": "Frank51515"
+            },
+            {
+              "end": 28,
+              "id": "1433678976564662273",
+              "start": 20,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWNS7eAAe8",
+              "end": 62,
+              "expanded_url": "https://x.com/FoxRed695449/status/2033138992787698168/photo/1",
+              "media_key": "3_2033138990107545600",
+              "start": 39,
+              "url": "https://t.co/xWNS7eAAe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033138992787698168",
+        "in_reply_to_user_id": "1422560510680043523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032374533412573418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xchal @Frank51515 @hsn8086 他说的南昌是这个： https://t.co/xWNS7eAAe8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422560510680043523",
+        "conversation_id": "2032259727581987234",
+        "created_at": "2026-03-13T08:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032374533412573418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328191925195706372",
+              "start": 0,
+              "username": "Frank51515"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032374533412573418",
+        "in_reply_to_user_id": "1328191925195706372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032306685637706046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frank51515 @hsn8086 香港如果坐高铁是真的可以直达南昌😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 803,
+          "like_count": 6824,
+          "listed_count": 7,
+          "media_count": 947,
+          "tweet_count": 3008
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T14:10:51.000Z",
+        "description": "#Binance 广场认证创作者/联盟KOL成员 Arbitrum 华语大使 | 推文内容仅代表个人思路，不构成投资建议 商务合作DM✉️ https://t.co/4k4SB2aH2K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xchal",
+                "end": 93,
+                "expanded_url": "https://linktr.ee/0xchal",
+                "start": 70,
+                "url": "https://t.co/4k4SB2aH2K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheCharlieGard…",
+                "end": 23,
+                "expanded_url": "https://t.me/TheCharlieGarden",
+                "start": 0,
+                "url": "https://t.co/IXOHwnFOuA"
+              }
+            ]
+          }
+        },
+        "id": "1422560510680043523",
+        "location": "TG群👉",
+        "name": "Charlie | Brid 🕊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806762007678976/kr4xnXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7712,
+          "following_count": 6122,
+          "like_count": 34115,
+          "listed_count": 21,
+          "media_count": 487,
+          "tweet_count": 23025
+        },
+        "url": "https://t.co/IXOHwnFOuA",
+        "username": "0xchal",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-16T04:23:48.000Z",
+        "description": "探索的乐趣/喜欢小动物们/爱好🎻音乐 Clarinetto 🎮游戏 💻数码🧑🏻‍💻编码/SFW/想养狗狗（边牧）",
+        "id": "1328191925195706372",
+        "location": "Rofun, Rosunrii",
+        "name": "Frank515🐟",
+        "pinned_tweet_id": "1956967355088552230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958477341036077056/IlmujqUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1340,
+          "like_count": 32617,
+          "listed_count": 4,
+          "media_count": 588,
+          "tweet_count": 6041
+        },
+        "username": "Frank51515",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118211,
+          "following_count": 1035,
+          "like_count": 51606,
+          "listed_count": 274,
+          "media_count": 19861,
+          "tweet_count": 29920
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

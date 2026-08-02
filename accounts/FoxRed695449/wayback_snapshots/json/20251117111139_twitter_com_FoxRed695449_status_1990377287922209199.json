@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1990259975386787934",
+    "created_at": "2025-11-17T11:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T12:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990377287922209199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ping0.cc",
+          "end": 52,
+          "expanded_url": "https://ping0.cc/",
+          "start": 29,
+          "status": 200,
+          "unwound_url": "https://ping0.cc/",
+          "url": "https://t.co/NcMWw4jRuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990377287922209199",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990259975386787934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 看看IP纯度（（（\n估计是因为IP问题\nhttps://t.co/NcMWw4jRuP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1297,
+        "media_key": "3_1990259966557745152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57S5Q1a8AAQDU-.jpg",
+        "width": 1902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1990259975386787934",
+        "created_at": "2025-11-17T11:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990377287922209199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ping0.cc",
+              "end": 52,
+              "expanded_url": "https://ping0.cc/",
+              "start": 29,
+              "status": 200,
+              "unwound_url": "https://ping0.cc/",
+              "url": "https://t.co/NcMWw4jRuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990377287922209199",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990259975386787934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 看看IP纯度（（（\n估计是因为IP问题\nhttps://t.co/NcMWw4jRuP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990259966557745152"
+          ]
+        },
+        "author_id": "1819327280482865152",
+        "conversation_id": "1990259975386787934",
+        "created_at": "2025-11-17T03:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990259975386787934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WO68yuerEM",
+              "end": 96,
+              "expanded_url": "https://x.com/hzyj772/status/1990259975386787934/photo/1",
+              "media_key": "3_1990259966557745152",
+              "start": 73,
+              "url": "https://t.co/WO68yuerEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990259975386787934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不详的预感\n今天换了个机场，然后app颜色变成了推特蓝，图标也变默认了\n不会是premiuM审查在后台进行了吧🙀🙀🙀\n\n不想要封号啊喵🙀🙀🙀🙀🙀 https://t.co/WO68yuerEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 685,
+          "like_count": 4855,
+          "listed_count": 7,
+          "media_count": 882,
+          "tweet_count": 2680
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2EU0a"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984549670404882432/XHLn_YLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 288,
+          "like_count": 51786,
+          "listed_count": 1,
+          "media_count": 722,
+          "tweet_count": 6868
+        },
+        "url": "https://t.co/QY9nt2EU0a",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

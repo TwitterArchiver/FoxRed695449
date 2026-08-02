@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879771903797473280",
+        "3_1879771903805804544"
+      ],
+      "media_source_tweet_id": [
+        "1879771912953622706",
+        "1879771912953622706"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1879774643059675357",
+    "created_at": "2025-01-16T06:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T07:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879774643059675357"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "海洋公園",
+          "probability": 0.6901,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484871809589968907",
+          "start": 3,
+          "username": "TimeIsGone12"
+        },
+        {
+          "end": 40,
+          "id": "1781308864438345728",
+          "start": 27,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEBieyVQxA",
+          "end": 64,
+          "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+          "media_key": "3_1879771903797473280",
+          "start": 41,
+          "url": "https://t.co/PEBieyVQxA"
+        },
+        {
+          "display_url": "pic.x.com/PEBieyVQxA",
+          "end": 64,
+          "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+          "media_key": "3_1879771903805804544",
+          "start": 41,
+          "url": "https://t.co/PEBieyVQxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879774643059675357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879771912953622706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TimeIsGone12: 海洋公園with @FoxRed695449 https://t.co/PEBieyVQxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1879771903797473280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhZKlkibsAAuYnG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1879771903805804544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhZKlkka0AAiJli.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879771903797473280",
+            "3_1879771903805804544"
+          ],
+          "media_source_tweet_id": [
+            "1879771912953622706",
+            "1879771912953622706"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1879774643059675357",
+        "created_at": "2025-01-16T06:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879774643059675357"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "海洋公園",
+              "probability": 0.6901,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484871809589968907",
+              "start": 3,
+              "username": "TimeIsGone12"
+            },
+            {
+              "end": 40,
+              "id": "1781308864438345728",
+              "start": 27,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEBieyVQxA",
+              "end": 64,
+              "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+              "media_key": "3_1879771903797473280",
+              "start": 41,
+              "url": "https://t.co/PEBieyVQxA"
+            },
+            {
+              "display_url": "pic.x.com/PEBieyVQxA",
+              "end": 64,
+              "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+              "media_key": "3_1879771903805804544",
+              "start": 41,
+              "url": "https://t.co/PEBieyVQxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879774643059675357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879771912953622706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TimeIsGone12: 海洋公園with @FoxRed695449 https://t.co/PEBieyVQxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879771903797473280",
+            "3_1879771903805804544"
+          ]
+        },
+        "author_id": "1484871809589968907",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1879771912953622706",
+        "created_at": "2025-01-16T06:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879771912953622706"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "海洋公園",
+              "probability": 0.5968,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1781308864438345728",
+              "start": 9,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEBieyVQxA",
+              "end": 46,
+              "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+              "media_key": "3_1879771903797473280",
+              "start": 23,
+              "url": "https://t.co/PEBieyVQxA"
+            },
+            {
+              "display_url": "pic.x.com/PEBieyVQxA",
+              "end": 46,
+              "expanded_url": "https://x.com/TimeIsGone12/status/1879771912953622706/photo/1",
+              "media_key": "3_1879771903805804544",
+              "start": 23,
+              "url": "https://t.co/PEBieyVQxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879771912953622706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "海洋公園with @FoxRed695449 https://t.co/PEBieyVQxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3333,
+          "following_count": 413,
+          "like_count": 1237,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 674
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-22T12:53:36.000Z",
+        "description": "18/170/60.2kg/C2S19 PUBG Conqueror/农药Q区玩家 2020分/Cos/HKDSE 選手/害怕光明是美丽的陷阱",
+        "id": "1484871809589968907",
+        "location": "Gun Gale Online",
+        "name": "2月30号🇭🇰 rrrrrr",
+        "pinned_tweet_id": "1818198966451966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864662353192931328/jWCk4U-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 1883,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 442
+        },
+        "username": "TimeIsGone12",
+        "verified": false
+      }
+    ]
+  }
+}

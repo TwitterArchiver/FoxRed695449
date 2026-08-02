@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1982482207102103895",
+    "created_at": "2025-10-27T15:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982831304610844680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1069304930903584768",
+          "start": 0,
+          "username": "suparslime"
+        },
+        {
+          "end": 22,
+          "id": "1149739915799719937",
+          "start": 12,
+          "username": "AgentKwok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982831304610844680",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982829510669349096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suparslime @AgentKwok 還要嗎\n手上還有一堆照片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_1982829423561785344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Rs2vGXwAADzIp.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982482207102103895",
+        "created_at": "2025-10-27T15:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982831304610844680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069304930903584768",
+              "start": 0,
+              "username": "suparslime"
+            },
+            {
+              "end": 22,
+              "id": "1149739915799719937",
+              "start": 12,
+              "username": "AgentKwok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982831304610844680",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982829510669349096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suparslime @AgentKwok 還要嗎\n手上還有一堆照片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982829423561785344"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982482207102103895",
+        "created_at": "2025-10-27T15:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982829510669349096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069304930903584768",
+              "start": 0,
+              "username": "suparslime"
+            },
+            {
+              "end": 22,
+              "id": "1149739915799719937",
+              "start": 12,
+              "username": "AgentKwok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u9IBalWF9",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982829510669349096/photo/1",
+              "media_key": "3_1982829423561785344",
+              "start": 33,
+              "url": "https://t.co/1u9IBalWF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982829510669349096",
+        "in_reply_to_user_id": "1069304930903584768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982813185162821709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suparslime @AgentKwok 感謝你的自我介紹🤣 https://t.co/1u9IBalWF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 683,
+          "like_count": 4713,
+          "listed_count": 7,
+          "media_count": 855,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-02T18:58:57.000Z",
+        "description": "",
+        "id": "1069304930903584768",
+        "location": "Melbourne, Victoria",
+        "name": "SuParSlime_Byw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069306305125306371/OElz9G65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 124,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1064
+        },
+        "username": "suparslime",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-12T17:58:51.000Z",
+        "description": "2026年春晚节目组。",
+        "id": "1149739915799719937",
+        "location": "Fujian Province.",
+        "name": "車尉",
+        "pinned_tweet_id": "1171788578227015680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718164233702285312/wDzrhjG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8814,
+          "following_count": 1062,
+          "like_count": 258424,
+          "listed_count": 32,
+          "media_count": 9141,
+          "tweet_count": 72823
+        },
+        "username": "AgentKwok",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033936070531018752"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2033753735684309169",
+    "created_at": "2026-03-17T15:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033936073152479335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1818715363196256258",
+          "start": 0,
+          "username": "SYF321203"
+        },
+        {
+          "end": 22,
+          "id": "176126016",
+          "start": 11,
+          "username": "ChiuBob147"
+        },
+        {
+          "end": 39,
+          "id": "1428960202276040708",
+          "start": 23,
+          "username": "newszg_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yulkgDxEzM",
+          "end": 85,
+          "expanded_url": "https://x.com/FoxRed695449/status/2033936073152479335/photo/1",
+          "media_key": "3_2033936070531018752",
+          "start": 62,
+          "url": "https://t.co/yulkgDxEzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033936073152479335",
+    "in_reply_to_user_id": "1818715363196256258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033883488387273128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SYF321203 @ChiuBob147 @newszg_official 按你这意思\n香港政府只提供英文版要被收拾？ https://t.co/yulkgDxEzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033936070531018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDn-FHPa8AAl1vu.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033936070531018752"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2033753735684309169",
+        "created_at": "2026-03-17T15:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033936073152479335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1818715363196256258",
+              "start": 0,
+              "username": "SYF321203"
+            },
+            {
+              "end": 22,
+              "id": "176126016",
+              "start": 11,
+              "username": "ChiuBob147"
+            },
+            {
+              "end": 39,
+              "id": "1428960202276040708",
+              "start": 23,
+              "username": "newszg_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yulkgDxEzM",
+              "end": 85,
+              "expanded_url": "https://x.com/FoxRed695449/status/2033936073152479335/photo/1",
+              "media_key": "3_2033936070531018752",
+              "start": 62,
+              "url": "https://t.co/yulkgDxEzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033936073152479335",
+        "in_reply_to_user_id": "1818715363196256258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883488387273128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SYF321203 @ChiuBob147 @newszg_official 按你这意思\n香港政府只提供英文版要被收拾？ https://t.co/yulkgDxEzM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818715363196256258",
+        "conversation_id": "2033753735684309169",
+        "created_at": "2026-03-17T12:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033883488387273128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "176126016",
+              "start": 0,
+              "username": "ChiuBob147"
+            },
+            {
+              "end": 28,
+              "id": "1428960202276040708",
+              "start": 12,
+              "username": "newszg_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033883488387273128",
+        "in_reply_to_user_id": "176126016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033772958003695704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiuBob147 @newszg_official 香港属于中国，中文是官方语言，中国任何地方都没有权利禁止中文，它们跟这个香港垃圾一样，大陆早晚会收拾你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 809,
+          "like_count": 6902,
+          "listed_count": 7,
+          "media_count": 948,
+          "tweet_count": 3015
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T18:28:38.000Z",
+        "description": "",
+        "id": "1818715363196256258",
+        "name": "SYF1203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818715699931758594/VvJ2dWV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 251,
+          "like_count": 607,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 1508
+        },
+        "username": "SYF321203",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-08T16:58:39.000Z",
+        "description": "I am",
+        "id": "176126016",
+        "location": "Islands District, Hong Kong",
+        "name": "Bob Chiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610547968012341249/nEmev_Ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 110,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1573
+        },
+        "username": "ChiuBob147",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T06:01:23.000Z",
+        "description": "中国悲剧档案 (官方号) ！记录中国社会实录，关注民生百态。 所有内容均来自网友投稿，仅作事实陈述。 ❤️  #中国 #大陆 #中国新闻 #中國 #大陸 #中國新聞 #China",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 55,
+                "tag": "中国"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "大陆"
+              },
+              {
+                "end": 68,
+                "start": 63,
+                "tag": "中国新闻"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "中國"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "大陸"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "中國新聞"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/newszg_official",
+                "end": 23,
+                "expanded_url": "https://t.me/newszg_official",
+                "start": 0,
+                "url": "https://t.co/woHa36qeaI"
+              }
+            ]
+          }
+        },
+        "id": "1428960202276040708",
+        "location": "Telegram电报群➡️",
+        "name": "中国悲剧档案",
+        "pinned_tweet_id": "2033904911671275951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614773547343249410/BCRuA-GE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52794,
+          "following_count": 75,
+          "like_count": 271,
+          "listed_count": 169,
+          "media_count": 3795,
+          "tweet_count": 3933
+        },
+        "url": "https://t.co/woHa36qeaI",
+        "username": "newszg_official",
+        "verified": true
+      }
+    ]
+  }
+}

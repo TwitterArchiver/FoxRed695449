@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897276980963553354",
+    "created_at": "2025-03-05T13:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897276980963553354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiajia1216ovo/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/jiajia1216ovo/status/1897249787646545929",
+          "start": 36,
+          "url": "https://t.co/4lIzKWtdQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897276980963553354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897249787646545929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只能感受到她對於性少數的歧視和毫無邏輯的思維\n歡迎各位往黑名單裡進貨 https://t.co/4lIzKWtdQu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897276980963553354",
+        "created_at": "2025-03-05T13:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897276980963553354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiajia1216ovo/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/jiajia1216ovo/status/1897249787646545929",
+              "start": 36,
+              "url": "https://t.co/4lIzKWtdQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897276980963553354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897249787646545929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只能感受到她對於性少數的歧視和毫無邏輯的思維\n歡迎各位往黑名單裡進貨 https://t.co/4lIzKWtdQu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1897245258989330768",
+        "created_at": "2025-03-05T11:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897249787646545929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834433463904337923",
+              "start": 0,
+              "username": "4B3tAcbAFD34236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897249787646545929",
+        "in_reply_to_user_id": "1834433463904337923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897248995791265835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4B3tAcbAFD34236 集丑我不在乎你是t还是p，我不明白你转发我的推文并配上这些东西是什么意思，但我知道你绝对是个土同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 534,
+          "like_count": 2182,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "死于2005",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "转帖一条52（24h",
+        "name": "Sophia",
+        "pinned_tweet_id": "1897035813340504176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897142154960756740/isvl73cE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13249,
+          "following_count": 394,
+          "like_count": 9385,
+          "listed_count": 13,
+          "media_count": 517,
+          "tweet_count": 2969
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

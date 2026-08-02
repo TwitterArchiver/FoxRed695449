@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1966144756410651076",
+    "created_at": "2025-09-11T14:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T15:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966146957212266949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081884310829813761",
+          "start": 0,
+          "username": "NomoreTsukum0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966146957212266949",
+    "in_reply_to_user_id": "1081884310829813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966145701320265949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomoreTsukum0 甚至還是扣帳卡\n反正刷JR能爽死\n活動到年底結束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966144756410651076",
+        "created_at": "2025-09-11T14:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966146957212266949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081884310829813761",
+              "start": 0,
+              "username": "NomoreTsukum0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966146957212266949",
+        "in_reply_to_user_id": "1081884310829813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966145701320265949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomoreTsukum0 甚至還是扣帳卡\n反正刷JR能爽死\n活動到年底結束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081884310829813761",
+        "conversation_id": "1966144756410651076",
+        "created_at": "2025-09-11T14:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966145701320265949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966145701320265949",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966145627156525389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 這麼高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 687,
+          "like_count": 4296,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-06T12:04:54.000Z",
+        "description": "水手服配百褶裙 最可愛妹妹@yukiaqwq123 老妹@TennoujiNyano",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "yukiaqwq123"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "TennoujiNyano"
+              }
+            ]
+          }
+        },
+        "id": "1081884310829813761",
+        "location": "距離你5m",
+        "name": "九九",
+        "pinned_tweet_id": "1654452448004812800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 1990,
+          "like_count": 593258,
+          "listed_count": 24,
+          "media_count": 444,
+          "tweet_count": 59094
+        },
+        "username": "NomoreTsukum0",
+        "verified": false
+      }
+    ]
+  }
+}

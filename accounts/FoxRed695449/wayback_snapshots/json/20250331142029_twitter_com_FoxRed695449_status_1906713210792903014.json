@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1906713210792903014",
+    "created_at": "2025-03-31T14:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906713210792903014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749569248371023872",
+          "start": 3,
+          "username": "Eureka222323"
+        },
+        {
+          "end": 37,
+          "id": "1781308864438345728",
+          "start": 24,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906713210792903014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906712981725131182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eureka222323: 早上好，我是@FoxRed695449"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1906713210792903014",
+        "created_at": "2025-03-31T14:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906713210792903014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749569248371023872",
+              "start": 3,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 37,
+              "id": "1781308864438345728",
+              "start": 24,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906713210792903014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906712981725131182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eureka222323: 早上好，我是@FoxRed695449"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "conversation_id": "1906712981725131182",
+        "created_at": "2025-03-31T14:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906712981725131182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1781308864438345728",
+              "start": 6,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906712981725131182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，我是@FoxRed695449"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 589,
+          "like_count": 2691,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜阮玲玉｜不健全没趣又不可爱的小女孩｜❤️小狐狸 @FoxRed695449｜繁简EN｜我不富裕 | 逃生舱 @eureka2223232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "FoxRed695449"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "eureka2223232"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "name": "优莱卡Eureka 阮玲玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 1088,
+          "like_count": 18210,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 3825
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1996525799265239141",
+    "created_at": "2025-12-04T10:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996525799265239141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996525799265239141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996483194397552782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 2035年。\n\n20后小药娘：现在最新的跨性别诊疗手册里面已经把戴锁加进性别焦虑缓解的物理手段了。\n00后小药娘：礼崩乐坏，礼崩乐坏啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1996525799265239141",
+        "created_at": "2025-12-04T10:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996525799265239141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996525799265239141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996483194397552782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 2035年。\n\n20后小药娘：现在最新的跨性别诊疗手册里面已经把戴锁加进性别焦虑缓解的物理手段了。\n00后小药娘：礼崩乐坏，礼崩乐坏啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1996483194397552782",
+        "created_at": "2025-12-04T07:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996483194397552782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996483194397552782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9906,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "2035年。\n\n20后小药娘：现在最新的跨性别诊疗手册里面已经把戴锁加进性别焦虑缓解的物理手段了。\n00后小药娘：礼崩乐坏，礼崩乐坏啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 715,
+          "like_count": 5224,
+          "listed_count": 7,
+          "media_count": 906,
+          "tweet_count": 2777
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21902,
+          "following_count": 200,
+          "like_count": 686,
+          "listed_count": 75,
+          "media_count": 95,
+          "tweet_count": 21526
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

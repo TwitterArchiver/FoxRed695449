@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886747447021449303",
+    "created_at": "2025-02-04T12:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886749812378492966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "藥、社區、生存的方式與方法——源源不斷的信息化作一股安全感，由手機屏幕發起，逐漸外化，時刻跟隨她們。",
+          "display_url": "theinitium.com/article/202502…",
+          "end": 28,
+          "expanded_url": "https://theinitium.com/article/20250203-mainland-virtual-communities-underage-transgender",
+          "start": 5,
+          "status": 200,
+          "title": "B站、推特與跨性別醫療：中國青少年藥娘的生存之旅 | 端傳媒 Initium Media",
+          "unwound_url": "https://theinitium.com/article/20250203-mainland-virtual-communities-underage-transgender",
+          "url": "https://t.co/DQPwf8cSRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886749812378492966",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886747447021449303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新闻链接：https://t.co/DQPwf8cSRo\n可以找我借会员账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-04T12:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886749812378492966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "藥、社區、生存的方式與方法——源源不斷的信息化作一股安全感，由手機屏幕發起，逐漸外化，時刻跟隨她們。",
+              "display_url": "theinitium.com/article/202502…",
+              "end": 28,
+              "expanded_url": "https://theinitium.com/article/20250203-mainland-virtual-communities-underage-transgender",
+              "start": 5,
+              "status": 200,
+              "title": "B站、推特與跨性別醫療：中國青少年藥娘的生存之旅 | 端傳媒 Initium Media",
+              "unwound_url": "https://theinitium.com/article/20250203-mainland-virtual-communities-underage-transgender",
+              "url": "https://t.co/DQPwf8cSRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886749812378492966",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886747447021449303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新闻链接：https://t.co/DQPwf8cSRo\n可以找我借会员账号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886747444505141251"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-04T12:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886747447021449303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEFxC74tsc",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886747447021449303/photo/1",
+              "media_key": "3_1886747444505141251",
+              "start": 33,
+              "url": "https://t.co/wEFxC74tsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886747447021449303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当你的经历和身边的朋友登上报道，真的有一种...奇幻的感觉... https://t.co/wEFxC74tsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 455,
+          "like_count": 1349,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 815
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

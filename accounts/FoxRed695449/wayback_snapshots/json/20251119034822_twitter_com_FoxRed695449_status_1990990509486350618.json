@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990990507183616000"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1990990509486350618",
+    "created_at": "2025-11-19T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990990509486350618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7i4Sgpj2SH",
+          "end": 49,
+          "expanded_url": "https://x.com/FoxRed695449/status/1990990509486350618/photo/1",
+          "media_key": "3_1990990507183616000",
+          "start": 26,
+          "url": "https://t.co/7i4Sgpj2SH"
+        },
+        {
+          "display_url": "x.com/MengXi969/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/MengXi969/status/1990605015371911367",
+          "start": 50,
+          "url": "https://t.co/fMkYR2gHuV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990990509486350618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990605015371911367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "評價是：買台外版安卓（雖然對比起國行的確稍微貴一點 https://t.co/7i4Sgpj2SH https://t.co/fMkYR2gHuV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990990507183616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FrUUvasAAwXCB.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990605009025896448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AMtYMaEAAgHLX.jpg",
+        "width": 922
+      },
+      {
+        "height": 1062,
+        "media_key": "3_1990605008883363840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AMtXqbMAAUD9V.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990990507183616000"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1990990509486350618",
+        "created_at": "2025-11-19T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990990509486350618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7i4Sgpj2SH",
+              "end": 49,
+              "expanded_url": "https://x.com/FoxRed695449/status/1990990509486350618/photo/1",
+              "media_key": "3_1990990507183616000",
+              "start": 26,
+              "url": "https://t.co/7i4Sgpj2SH"
+            },
+            {
+              "display_url": "x.com/MengXi969/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/MengXi969/status/1990605015371911367",
+              "start": 50,
+              "url": "https://t.co/fMkYR2gHuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990990509486350618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990605015371911367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "評價是：買台外版安卓（雖然對比起國行的確稍微貴一點 https://t.co/7i4Sgpj2SH https://t.co/fMkYR2gHuV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990605009025896448",
+            "3_1990605008883363840"
+          ]
+        },
+        "author_id": "1488080791125237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990605015371911367",
+        "created_at": "2025-11-18T02:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990605015371911367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBrXQ0EI3e",
+              "end": 48,
+              "expanded_url": "https://x.com/MengXi969/status/1990605015371911367/photo/1",
+              "media_key": "3_1990605009025896448",
+              "start": 25,
+              "url": "https://t.co/VBrXQ0EI3e"
+            },
+            {
+              "display_url": "pic.x.com/VBrXQ0EI3e",
+              "end": 48,
+              "expanded_url": "https://x.com/MengXi969/status/1990605015371911367/photo/1",
+              "media_key": "3_1990605008883363840",
+              "start": 25,
+              "url": "https://t.co/VBrXQ0EI3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990605015371911367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 269122,
+          "like_count": 604,
+          "quote_count": 20,
+          "reply_count": 150,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我给96110👻了\n服了不买境内安卓手机了。。。 https://t.co/VBrXQ0EI3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 686,
+          "like_count": 4858,
+          "listed_count": 7,
+          "media_count": 884,
+          "tweet_count": 2689
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Student / 负能 @ch3rryzhu\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "nexaorion"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/AITe11Alh9"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1977787427604566120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 2581,
+          "like_count": 61998,
+          "listed_count": 4,
+          "media_count": 689,
+          "tweet_count": 4438
+        },
+        "url": "https://t.co/AITe11Alh9",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

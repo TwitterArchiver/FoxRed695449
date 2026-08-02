@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1915039651599094122",
+    "created_at": "2025-04-23T14:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T15:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915045544826929564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138408165014364162",
+          "start": 0,
+          "username": "shiratsuyudachi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915045544826929564",
+    "in_reply_to_user_id": "1138408165014364162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915045199950332005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratsuyudachi 我一个月药费600+"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1915039651599094122",
+        "created_at": "2025-04-23T14:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T15:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915045544826929564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138408165014364162",
+              "start": 0,
+              "username": "shiratsuyudachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915045544826929564",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915045199950332005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratsuyudachi 我一个月药费600+"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138408165014364162",
+        "conversation_id": "1915039651599094122",
+        "created_at": "2025-04-23T14:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T15:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915045199950332005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915045199950332005",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915039651599094122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 但香港的私家医生价格大概是国内精神科的10倍吧x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 619,
+          "like_count": 2919,
+          "listed_count": 6,
+          "media_count": 494,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。更多信息请参阅置顶推文｜水平偏振单推 @Cyan_0731 ｜垂直偏振单推 @Nickel_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Cyan_0731"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Nickel_Angel"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 1643,
+          "like_count": 49701,
+          "listed_count": 15,
+          "media_count": 1118,
+          "tweet_count": 12468
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

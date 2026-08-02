@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891007962384072791",
+    "created_at": "2025-02-16T06:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T07:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891019023585878416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        },
+        {
+          "end": 23,
+          "id": "1669543422586421248",
+          "start": 10,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891019023585878416",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891009974018474469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ @Letana358121 為什麼不穿絲襪👀👀👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891007962384072791",
+        "created_at": "2025-02-16T06:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T07:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891019023585878416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            },
+            {
+              "end": 23,
+              "id": "1669543422586421248",
+              "start": 10,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891019023585878416",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891009974018474469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ @Letana358121 為什麼不穿絲襪👀👀👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891009882503122944"
+          ]
+        },
+        "author_id": "1026482173300236288",
+        "conversation_id": "1891007962384072791",
+        "created_at": "2025-02-16T06:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T07:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891009974018474469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaWgmhADB1",
+              "end": 47,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1891009974018474469/photo/1",
+              "media_key": "3_1891009882503122944",
+              "start": 24,
+              "url": "https://t.co/YaWgmhADB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891009974018474469",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891009057357451429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 在穿了，差對絲襪😋 https://t.co/YaWgmhADB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 494,
+          "like_count": 1661,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 1061
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 615,
+          "like_count": 26061,
+          "listed_count": 3,
+          "media_count": 806,
+          "tweet_count": 7199
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🇲🇴🏳️‍⚧️🐶/@Yao_freezer❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA🐶",
+        "pinned_tweet_id": "1882632795270549520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888086180186693632/ZEE4oGW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 1095,
+          "like_count": 32566,
+          "listed_count": 4,
+          "media_count": 1431,
+          "tweet_count": 11995
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

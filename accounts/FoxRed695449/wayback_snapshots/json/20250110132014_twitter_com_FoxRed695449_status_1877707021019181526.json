@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1877705569223495963",
+    "created_at": "2025-01-10T13:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T14:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877707021019181526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877707021019181526",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877706316715614338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 当然！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1877705569223495963",
+        "created_at": "2025-01-10T13:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T14:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877707021019181526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877707021019181526",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877706316715614338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 当然！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "1877705569223495963",
+        "created_at": "2025-01-10T13:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T14:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877706316715614338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877706316715614338",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877706043658276864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 原来你在看着我呀……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 404,
+          "like_count": 1162,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 656
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/90｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党家暴党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音/AGE｜姐姐 @Anan628769｜小号 @AGeCAT2008｜笨蛋妹妹N55 @N552AA｜欢迎大家找咱交朋友w｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Anan628769"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "N552AA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 459,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

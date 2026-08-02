@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890222136704528386"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1890199647563424057",
+    "created_at": "2025-02-14T02:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T03:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890222139145613727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814563477807378432",
+          "start": 0,
+          "username": "xiaoyuxiaoyuao"
+        },
+        {
+          "end": 27,
+          "id": "791197",
+          "start": 16,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2sVBts938g",
+          "end": 64,
+          "expanded_url": "https://x.com/FoxRed695449/status/1890222139145613727/photo/1",
+          "media_key": "3_1890222136704528386",
+          "start": 41,
+          "url": "https://t.co/2sVBts938g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890222139145613727",
+    "in_reply_to_user_id": "1814563477807378432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890212033226019303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuxiaoyuao @bbcchinese 港大夥食垃圾，你搞笑的吧 https://t.co/2sVBts938g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1890222136704528386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjtrBLzacAISdRf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890222136704528386"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1890199647563424057",
+        "created_at": "2025-02-14T02:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T03:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890222139145613727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814563477807378432",
+              "start": 0,
+              "username": "xiaoyuxiaoyuao"
+            },
+            {
+              "end": 27,
+              "id": "791197",
+              "start": 16,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sVBts938g",
+              "end": 64,
+              "expanded_url": "https://x.com/FoxRed695449/status/1890222139145613727/photo/1",
+              "media_key": "3_1890222136704528386",
+              "start": 41,
+              "url": "https://t.co/2sVBts938g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890222139145613727",
+        "in_reply_to_user_id": "1814563477807378432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890212033226019303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuxiaoyuao @bbcchinese 港大夥食垃圾，你搞笑的吧 https://t.co/2sVBts938g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814563477807378432",
+        "conversation_id": "1890199647563424057",
+        "created_at": "2025-02-14T01:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T02:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890212033226019303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890212033226019303",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890199647563424057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 给它们经费不如给我改善改善港大这垃圾伙食，你们英国人的炸鱼真难吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 487,
+          "like_count": 1599,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 1040
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T07:30:39.000Z",
+        "description": "我就是小粉红，啥时候能把香港取消掉所谓自治权，然后杀光台湾🐸好让弟兄们去开拓！我要操死所有犹太婊子，阉光所有盎萨蛮子",
+        "id": "1814563477807378432",
+        "location": "Hong Kong",
+        "name": "血祭学神，颅献儒座🇨🇳🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860018901184315393/fp9-jPZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "xiaoyuxiaoyuao",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4751694,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11579,
+          "media_count": 22996,
+          "tweet_count": 151989
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

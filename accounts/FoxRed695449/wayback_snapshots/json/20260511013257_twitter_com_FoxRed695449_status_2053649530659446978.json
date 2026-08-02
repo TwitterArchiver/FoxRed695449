@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2053418451059040613",
+    "created_at": "2026-05-11T01:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053649530659446978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328537445609172992",
+          "start": 0,
+          "username": "1Fchan"
+        },
+        {
+          "end": 17,
+          "id": "1921426104763682816",
+          "start": 8,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053649530659446978",
+    "in_reply_to_user_id": "1328537445609172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053647560850767937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Fchan @hiner233 其实是摄影但是我一直在那里玩air"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2053418451059040613",
+        "created_at": "2026-05-11T01:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053649530659446978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328537445609172992",
+              "start": 0,
+              "username": "1Fchan"
+            },
+            {
+              "end": 17,
+              "id": "1921426104763682816",
+              "start": 8,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053649530659446978",
+        "in_reply_to_user_id": "1328537445609172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053647560850767937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Fchan @hiner233 其实是摄影但是我一直在那里玩air"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328537445609172992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2053418451059040613",
+        "created_at": "2026-05-11T01:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053647560850767937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 23,
+              "id": "1921426104763682816",
+              "start": 14,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053647560850767937",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053436840393535968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @hiner233 原来还有iPhone Air的体验活动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 834,
+          "like_count": 7929,
+          "listed_count": 6,
+          "media_count": 1019,
+          "tweet_count": 3254
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-17T03:16:38.000Z",
+        "description": "这里是F酱⭐️｜我永远喜欢西魔幽💜｜有四只耳朵🐱｜小男孩控｜NMLG-B｜摄影器材师｜索尼大法好｜欢迎找我聊酒店飞机铁道｜梦想是财务自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fchyan",
+                "end": 23,
+                "expanded_url": "https://t.me/fchyan",
+                "start": 0,
+                "url": "https://t.co/RgOsWOvB8W"
+              }
+            ]
+          }
+        },
+        "id": "1328537445609172992",
+        "location": "22°33′32″N, 114°07′40″E",
+        "name": "Fchan",
+        "pinned_tweet_id": "1777335652323045399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006318913433571328/LgOQdNX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6530,
+          "following_count": 1090,
+          "like_count": 9096,
+          "listed_count": 10,
+          "media_count": 614,
+          "tweet_count": 5312
+        },
+        "url": "https://t.co/RgOsWOvB8W",
+        "username": "1Fchan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "是 Hiner / 我的哥哥怎么是只🐱 @nekoPura_0011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "nekoPura_0011"
+              }
+            ]
+          }
+        },
+        "id": "1921426104763682816",
+        "location": "🐱",
+        "name": "hiner",
+        "pinned_tweet_id": "1960736148806098958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 684,
+          "like_count": 48475,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 7200
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

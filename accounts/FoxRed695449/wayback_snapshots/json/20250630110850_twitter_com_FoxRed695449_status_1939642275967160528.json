@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939642264604581888",
+        "3_1939642263862448128"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "1939642275967160528",
+    "created_at": "2025-06-30T11:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T12:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939642275967160528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsKH4KZK33",
+          "end": 132,
+          "expanded_url": "https://x.com/FoxRed695449/status/1939642275967160528/photo/1",
+          "media_key": "3_1939642264604581888",
+          "start": 109,
+          "url": "https://t.co/dsKH4KZK33"
+        },
+        {
+          "display_url": "pic.x.com/dsKH4KZK33",
+          "end": 132,
+          "expanded_url": "https://x.com/FoxRed695449/status/1939642275967160528/photo/1",
+          "media_key": "3_1939642263862448128",
+          "start": 109,
+          "url": "https://t.co/dsKH4KZK33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939642275967160528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "綁到雲閃付裡才發現\n匯豐HSBC的payme銀聯卡的神奇程度應該找不到第2張了\n因為它卡的等級是白金卡，但卡的屬性是預付卡（對，不是扣帳卡/借記卡）\n白金預付卡🤣🤣🤣總感覺有點好笑\n最主要因為卡的屬性導致這個白金很廢 https://t.co/dsKH4KZK33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_1939642264604581888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-XO0XIAAhnGj.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939642263862448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-XMDbEAAOm7p.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939642264604581888",
+            "3_1939642263862448128"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1939642275967160528",
+        "created_at": "2025-06-30T11:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939642275967160528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsKH4KZK33",
+              "end": 132,
+              "expanded_url": "https://x.com/FoxRed695449/status/1939642275967160528/photo/1",
+              "media_key": "3_1939642264604581888",
+              "start": 109,
+              "url": "https://t.co/dsKH4KZK33"
+            },
+            {
+              "display_url": "pic.x.com/dsKH4KZK33",
+              "end": 132,
+              "expanded_url": "https://x.com/FoxRed695449/status/1939642275967160528/photo/1",
+              "media_key": "3_1939642263862448128",
+              "start": 109,
+              "url": "https://t.co/dsKH4KZK33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939642275967160528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "綁到雲閃付裡才發現\n匯豐HSBC的payme銀聯卡的神奇程度應該找不到第2張了\n因為它卡的等級是白金卡，但卡的屬性是預付卡（對，不是扣帳卡/借記卡）\n白金預付卡🤣🤣🤣總感覺有點好笑\n最主要因為卡的屬性導致這個白金很廢 https://t.co/dsKH4KZK33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 670,
+          "like_count": 3656,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

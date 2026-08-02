@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1877532137525551208",
+    "created_at": "2025-01-11T09:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T10:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878018069593014390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "280995165",
+          "start": 0,
+          "username": "zzmmarilyn"
+        },
+        {
+          "end": 25,
+          "id": "1744315810548768768",
+          "start": 12,
+          "username": "SAKI_zuzuzu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878018069593014390",
+    "in_reply_to_user_id": "280995165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877951474459918706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzmmarilyn @SAKI_zuzuzu_ 說不過就罵人\n素質好差喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1877532137525551208",
+        "created_at": "2025-01-11T09:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T10:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878018069593014390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "280995165",
+              "start": 0,
+              "username": "zzmmarilyn"
+            },
+            {
+              "end": 25,
+              "id": "1744315810548768768",
+              "start": 12,
+              "username": "SAKI_zuzuzu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878018069593014390",
+        "in_reply_to_user_id": "280995165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877951474459918706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzmmarilyn @SAKI_zuzuzu_ 說不過就罵人\n素質好差喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "280995165",
+        "conversation_id": "1877532137525551208",
+        "created_at": "2025-01-11T05:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T06:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877951474459918706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744315810548768768",
+              "start": 0,
+              "username": "SAKI_zuzuzu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877951474459918706",
+        "in_reply_to_user_id": "1744315810548768768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877932769118163069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAKI_zuzuzu_ 傻逼！说的就是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 406,
+          "like_count": 1180,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 660
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-12T12:28:55.000Z",
+        "description": "とりあえず、生きてます〜",
+        "id": "280995165",
+        "name": "marilyn lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/485206062035763202/MfVDIAF1_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 84,
+          "like_count": 13102,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 10332
+        },
+        "username": "zzmmarilyn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:11:31.000Z",
+        "description": "宇宙最高 SAKI女王👑 この世、私は失ったものを取り戻します。 👊🏻👊🏻👊🏻SAKI唯の小号：@SAKI_zizizi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "SAKI_zizizi"
+              }
+            ]
+          }
+        },
+        "id": "1744315810548768768",
+        "location": "Japan",
+        "name": "🎐SAKI💫💖",
+        "pinned_tweet_id": "1825109081939697721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862796309847003136/duy-328E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 213,
+          "like_count": 10418,
+          "listed_count": 7,
+          "media_count": 115,
+          "tweet_count": 831
+        },
+        "username": "SAKI_zuzuzu_",
+        "verified": false
+      }
+    ]
+  }
+}

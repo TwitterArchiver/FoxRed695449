@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897954765075878000",
+    "created_at": "2025-03-07T10:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T11:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897955450576158774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279355676850970630",
+          "start": 0,
+          "username": "chiikashika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897955450576158774",
+    "in_reply_to_user_id": "1279355676850970630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897955260649685205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikashika 港五基本上都得4科，沒辦法╮(╯_╰)╭啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897954765075878000",
+        "created_at": "2025-03-07T10:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897955450576158774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279355676850970630",
+              "start": 0,
+              "username": "chiikashika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897955450576158774",
+        "in_reply_to_user_id": "1279355676850970630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897955260649685205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikashika 港五基本上都得4科，沒辦法╮(╯_╰)╭啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279355676850970630",
+        "conversation_id": "1897954765075878000",
+        "created_at": "2025-03-07T10:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T11:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897955260649685205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897955260649685205",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897954765075878000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 4科🥺😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3849,
+          "following_count": 543,
+          "like_count": 2252,
+          "listed_count": 5,
+          "media_count": 402,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T10:05:43.000Z",
+        "description": "🦋💙💛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chiikashika",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chiikashika",
+                "start": 0,
+                "url": "https://t.co/uo0ZsOAofV"
+              }
+            ]
+          }
+        },
+        "id": "1279355676850970630",
+        "location": "+852/+1/+44",
+        "name": "trashpanda(ラッコ)🦝🦌",
+        "pinned_tweet_id": "1847002684978606348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850250124498485248/w4KamzzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 544,
+          "like_count": 89289,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 4266
+        },
+        "url": "https://t.co/uo0ZsOAofV",
+        "username": "chiikashika",
+        "verified": false
+      }
+    ]
+  }
+}

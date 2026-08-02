@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1992027345017045462",
+    "created_at": "2025-11-22T11:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992193746780492272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762372511894056960",
+          "start": 0,
+          "username": "hakis26"
+        },
+        {
+          "end": 22,
+          "id": "1811888010088316932",
+          "start": 9,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992193746780492272",
+    "in_reply_to_user_id": "1762372511894056960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992192287078547569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakis26 @cuichenghao7 如果你觉得你比新华社还懂\n那我的确无话可说😶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T11:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992193746780492272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762372511894056960",
+              "start": 0,
+              "username": "hakis26"
+            },
+            {
+              "end": 22,
+              "id": "1811888010088316932",
+              "start": 9,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992193746780492272",
+        "in_reply_to_user_id": "1762372511894056960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992192287078547569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakis26 @cuichenghao7 如果你觉得你比新华社还懂\n那我的确无话可说😶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762372511894056960",
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T11:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992192287078547569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 27,
+              "id": "1811888010088316932",
+              "start": 14,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992192287078547569",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992186033618977095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @cuichenghao7 美国也只有尼米糍福特级航母能同时起降这样飞机但并不常用。就是因为空间小同时弹射，大量的飞机在空中很容易相撞。一般都是突发事件非常极端的情况下才会用这种方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 690,
+          "like_count": 4907,
+          "listed_count": 7,
+          "media_count": 891,
+          "tweet_count": 2714
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T07:02:58.000Z",
+        "description": "",
+        "id": "1762372511894056960",
+        "name": "bocal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817288534455103488/1YZmhJF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 21,
+          "like_count": 872,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 14482
+        },
+        "username": "hakis26",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60793,
+          "following_count": 498,
+          "like_count": 2361,
+          "listed_count": 202,
+          "media_count": 1100,
+          "tweet_count": 1209
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

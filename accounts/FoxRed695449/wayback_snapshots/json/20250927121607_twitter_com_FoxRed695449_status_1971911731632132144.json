@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1971797708722798902",
+    "created_at": "2025-09-27T12:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T13:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971911731632132144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971911731632132144",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971797708722798902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 我感觉全片最惨到是那条鲨鱼\n被骑了半部电影"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971797694382592000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G107jlab0AARZCd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1971797708722798902",
+        "created_at": "2025-09-27T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971911731632132144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971911731632132144",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971797708722798902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 我感觉全片最惨到是那条鲨鱼\n被骑了半部电影"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971797694382592000"
+          ]
+        },
+        "author_id": "1714894056986460160",
+        "conversation_id": "1971797708722798902",
+        "created_at": "2025-09-27T04:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971797708722798902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ew05culpNq",
+              "end": 31,
+              "expanded_url": "https://x.com/89JinPing64/status/1971797708722798902/photo/1",
+              "media_key": "3_1971797694382592000",
+              "start": 8,
+              "url": "https://t.co/Ew05culpNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971797708722798902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3345,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的两位妻子🥵 https://t.co/Ew05culpNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 695,
+          "like_count": 4374,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 2507
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6428,
+          "following_count": 1246,
+          "like_count": 95986,
+          "listed_count": 32,
+          "media_count": 1117,
+          "tweet_count": 20958
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1908355061434229095",
+    "created_at": "2025-04-05T03:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T04:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908355061434229095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1556640645447827461",
+          "start": 6,
+          "username": "Bq88UorZLiFvyMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908355061434229095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "關於我前對象@Bq88UorZLiFvyMN睡過頭錯過dse聆聽考試的這檔子事\n現在在和他打電話ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1908355061434229095",
+        "created_at": "2025-04-05T03:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908355061434229095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1556640645447827461",
+              "start": 6,
+              "username": "Bq88UorZLiFvyMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908355061434229095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "關於我前對象@Bq88UorZLiFvyMN睡過頭錯過dse聆聽考試的這檔子事\n現在在和他打電話ing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3553,
+          "following_count": 591,
+          "like_count": 2725,
+          "listed_count": 6,
+          "media_count": 479,
+          "tweet_count": 1433
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1820666880765686115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905495387194175488/SxgTGKrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1717,
+          "like_count": 36341,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 9666
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      }
+    ]
+  }
+}

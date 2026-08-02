@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050216191126626304"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2050216197707436507",
+    "created_at": "2026-05-01T14:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050216197707436507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TKLo26elXE",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxRed695449/status/2050216197707436507/photo/1",
+          "media_key": "3_2050216191126626304",
+          "start": 18,
+          "url": "https://t.co/TKLo26elXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050216197707436507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "银联的这种免责声明倒真是第一次见（ https://t.co/TKLo26elXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2050216191126626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPUw2jbYAA8XrD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050216191126626304"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2050216197707436507",
+        "created_at": "2026-05-01T14:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050216197707436507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKLo26elXE",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxRed695449/status/2050216197707436507/photo/1",
+              "media_key": "3_2050216191126626304",
+              "start": 18,
+              "url": "https://t.co/TKLo26elXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050216197707436507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "银联的这种免责声明倒真是第一次见（ https://t.co/TKLo26elXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 824,
+          "like_count": 7856,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 3180
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

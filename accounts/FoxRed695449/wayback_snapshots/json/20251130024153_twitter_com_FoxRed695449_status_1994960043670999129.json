@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1994929646669050231",
+    "created_at": "2025-11-30T02:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994960043670999129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        },
+        {
+          "end": 25,
+          "id": "1587653801305153538",
+          "start": 13,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994960043670999129",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994937153613136055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion @XiaoHuiHuiH 你是否在搜索保护性约束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1994929646669050231",
+        "created_at": "2025-11-30T02:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994960043670999129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            },
+            {
+              "end": 25,
+              "id": "1587653801305153538",
+              "start": 13,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994960043670999129",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994937153613136055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion @XiaoHuiHuiH 你是否在搜索保护性约束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "1994929646669050231",
+        "created_at": "2025-11-30T01:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994937153613136055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994937153613136055",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994929646669050231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 再发癫 别把捆绑列入医保名录了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 706,
+          "like_count": 5048,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2765
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义 | 幻象丛生 |  红  | 终将成为你 | 清水 | 循此苦旅 终抵繁星 | 人民万岁 | 📍 |",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳‍🌈",
+        "pinned_tweet_id": "1875839596950614307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994832715594493952/1lHkptPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 206,
+          "like_count": 3355,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 1946
+        },
+        "username": "520illusion",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11820,
+          "following_count": 1386,
+          "like_count": 152580,
+          "listed_count": 24,
+          "media_count": 4876,
+          "tweet_count": 65627
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

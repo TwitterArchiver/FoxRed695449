@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963609403992805386"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1963555901727461803",
+    "created_at": "2025-09-04T14:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963609410951119093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920198584055836675",
+          "start": 0,
+          "username": "eggs_bened1ct_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCaSG5ogZM",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1963609410951119093/photo/1",
+          "media_key": "3_1963609403992805386",
+          "start": 20,
+          "url": "https://t.co/MCaSG5ogZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963609410951119093",
+    "in_reply_to_user_id": "1920198584055836675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963555901727461803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggs_bened1ct_ 因為： https://t.co/MCaSG5ogZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_1963609403992805386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AkWWqbkAoYB4H.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963555894924599296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_zrt2a4AA52Da.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963609403992805386"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1963555901727461803",
+        "created_at": "2025-09-04T14:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963609410951119093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920198584055836675",
+              "start": 0,
+              "username": "eggs_bened1ct_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCaSG5ogZM",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1963609410951119093/photo/1",
+              "media_key": "3_1963609403992805386",
+              "start": 20,
+              "url": "https://t.co/MCaSG5ogZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963609410951119093",
+        "in_reply_to_user_id": "1920198584055836675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963555901727461803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggs_bened1ct_ 因為： https://t.co/MCaSG5ogZM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963555894924599296"
+          ]
+        },
+        "author_id": "1920198584055836675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963555901727461803",
+        "created_at": "2025-09-04T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963555901727461803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgI2AVQYxy",
+              "end": 52,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1963555901727461803/photo/1",
+              "media_key": "3_1963555894924599296",
+              "start": 29,
+              "url": "https://t.co/JgI2AVQYxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963555901727461803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1049,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来🇭🇰香港这么水深火热😨我土区用久了还觉得贵了🧎‍♂️ https://t.co/JgI2AVQYxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 694,
+          "like_count": 4244,
+          "listed_count": 8,
+          "media_count": 748,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T19:26:42.000Z",
+        "description": "🇭🇰Base in Great Bay Area, 👨‍🎓MSc, 🫧Multi-lingual: 🇨🇳zh-cn/🇭🇰zh-hk/🇬🇧en-uk/🇰🇷ko-kr/🇯🇵ja-jp. 🗣️Politics, 🔞Porno contents are 🚫BANNED here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eggs_bened1ct_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eggs_bened1ct_",
+                "start": 0,
+                "url": "https://t.co/JqDTYgqToY"
+              }
+            ]
+          }
+        },
+        "id": "1920198584055836675",
+        "location": "Great Bay Area🇨🇳🇭🇰🇲🇴",
+        "name": "蛋蓝",
+        "pinned_tweet_id": "1946481229626487254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925898360784822273/SZlhk8XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 458,
+          "like_count": 14237,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 4514
+        },
+        "url": "https://t.co/JqDTYgqToY",
+        "username": "eggs_bened1ct_",
+        "verified": true
+      }
+    ]
+  }
+}

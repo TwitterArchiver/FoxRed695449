@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974141678375350272"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1974141686394806712",
+    "created_at": "2025-10-03T15:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974141686394806712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hR3e1OboNN",
+          "end": 33,
+          "expanded_url": "https://x.com/FoxRed695449/status/1974141686394806712/photo/1",
+          "media_key": "3_1974141678375350272",
+          "start": 10,
+          "url": "https://t.co/hR3e1OboNN"
+        },
+        {
+          "display_url": "x.com/helenxie/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/helenxie/status/1973772536329679058",
+          "start": 34,
+          "url": "https://t.co/cuCGEthMJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974141686394806712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973772536329679058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "論MAGA的智商： https://t.co/hR3e1OboNN https://t.co/cuCGEthMJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1974141678375350272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WPZaPbMAA1gJD.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973772528775729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Q_qE0aEAAZw02.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974141678375350272"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1974141686394806712",
+        "created_at": "2025-10-03T15:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974141686394806712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hR3e1OboNN",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxRed695449/status/1974141686394806712/photo/1",
+              "media_key": "3_1974141678375350272",
+              "start": 10,
+              "url": "https://t.co/hR3e1OboNN"
+            },
+            {
+              "display_url": "x.com/helenxie/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/helenxie/status/1973772536329679058",
+              "start": 34,
+              "url": "https://t.co/cuCGEthMJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974141686394806712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973772536329679058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "論MAGA的智商： https://t.co/hR3e1OboNN https://t.co/cuCGEthMJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973772528775729152"
+          ]
+        },
+        "author_id": "1498453182623584256",
+        "conversation_id": "1973772536329679058",
+        "created_at": "2025-10-02T15:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973772536329679058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62nvNoALOj",
+              "end": 49,
+              "expanded_url": "https://x.com/HelenXie/status/1973772536329679058/photo/1",
+              "media_key": "3_1973772528775729152",
+              "start": 26,
+              "url": "https://t.co/62nvNoALOj"
+            },
+            {
+              "display_url": "x.com/helenxie/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/helenxie/status/1973770781722279970",
+              "start": 50,
+              "url": "https://t.co/Iz7aUSfXb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973772536329679058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15866,
+          "like_count": 212,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973770781722279970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奈飞股票继续down 就是最好的方式，请不要停。😌 https://t.co/62nvNoALOj https://t.co/Iz7aUSfXb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 698,
+          "like_count": 4395,
+          "listed_count": 8,
+          "media_count": 821,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T00:21:24.000Z",
+        "description": "A patriotic American woman who stands for common sense and justice, and stands with President Trump and Elon Musk.",
+        "id": "1498453182623584256",
+        "name": "Helen MAGA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971580931418025984/-f-eUKLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 266,
+          "like_count": 29659,
+          "listed_count": 17,
+          "media_count": 968,
+          "tweet_count": 15659
+        },
+        "username": "HelenXie",
+        "verified": true
+      }
+    ]
+  }
+}

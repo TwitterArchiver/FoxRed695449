@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064520304710578176"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064311745666265412",
+    "created_at": "2026-06-10T01:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064520310754627887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/egK3eY30a3",
+          "end": 55,
+          "expanded_url": "https://x.com/FoxRed695449/status/2064520310754627887/photo/1",
+          "media_key": "3_2064520304710578176",
+          "start": 32,
+          "url": "https://t.co/egK3eY30a3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064520310754627887",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064311745666265412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 买啊买啊买啊\n丐版全家桶也很爽的（ https://t.co/egK3eY30a3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2064520304710578176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKamR2Ha8AAeFiN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064520304710578176"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064311745666265412",
+        "created_at": "2026-06-10T01:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064520310754627887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egK3eY30a3",
+              "end": 55,
+              "expanded_url": "https://x.com/FoxRed695449/status/2064520310754627887/photo/1",
+              "media_key": "3_2064520304710578176",
+              "start": 32,
+              "url": "https://t.co/egK3eY30a3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064520310754627887",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064311745666265412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 买啊买啊买啊\n丐版全家桶也很爽的（ https://t.co/egK3eY30a3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2064311745666265412",
+        "created_at": "2026-06-09T11:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064311745666265412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2064234011560690025",
+              "start": 76,
+              "url": "https://t.co/eGVq390IJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064311745666265412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8661,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064234011560690025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸一直在怂恿我买 iPhone...\n\n他到底是什么时候被拐入苹果教的啊我怎么都不知道...\n\n我快撑不住了...不会我最终真要买 iPhone 吧 https://t.co/eGVq390IJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 840,
+          "like_count": 8127,
+          "listed_count": 6,
+          "media_count": 1044,
+          "tweet_count": 3331
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 690,
+          "like_count": 18594,
+          "listed_count": 5,
+          "media_count": 762,
+          "tweet_count": 13008
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

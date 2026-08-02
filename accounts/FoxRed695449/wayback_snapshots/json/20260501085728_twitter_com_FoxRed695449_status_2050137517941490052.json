@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2050136020319113662",
+    "created_at": "2026-05-01T08:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050137517941490052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1615252756289425411",
+          "start": 0,
+          "username": "IrohadaisukiUwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050137517941490052",
+    "in_reply_to_user_id": "1615252756289425411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050136178851197332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IrohadaisukiUwU 还有几个月成年的大朋友（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2050136020319113662",
+        "created_at": "2026-05-01T08:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050137517941490052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1615252756289425411",
+              "start": 0,
+              "username": "IrohadaisukiUwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050137517941490052",
+        "in_reply_to_user_id": "1615252756289425411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050136178851197332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IrohadaisukiUwU 还有几个月成年的大朋友（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615252756289425411",
+        "conversation_id": "2050136020319113662",
+        "created_at": "2026-05-01T08:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050136178851197332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050136178851197332",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050136020319113662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 大朋友www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 823,
+          "like_count": 7851,
+          "listed_count": 7,
+          "media_count": 994,
+          "tweet_count": 3178
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-17T07:41:03.000Z",
+        "description": "親友:@remilia_servant @ccnanoQAQ @XJP_8964_lv72 @b0900620881 @bydmian0721 @kotorichyandesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "remilia_servant"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "ccnanoQAQ"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "XJP_8964_lv72"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "b0900620881"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "bydmian0721"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "kotorichyandesu"
+              }
+            ]
+          }
+        },
+        "id": "1615252756289425411",
+        "location": "香港長大🇭🇰 去過： 🇦🇺🇯🇵🇹🇼",
+        "name": "Hæns•Coffee☕️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031768327048359936/bIDJH-_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 810,
+          "like_count": 132004,
+          "listed_count": 4,
+          "media_count": 3526,
+          "tweet_count": 16373
+        },
+        "username": "IrohadaisukiUwU",
+        "verified": false
+      }
+    ]
+  }
+}

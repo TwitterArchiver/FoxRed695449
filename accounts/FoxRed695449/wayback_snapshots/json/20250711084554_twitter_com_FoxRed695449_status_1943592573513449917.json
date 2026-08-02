@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1943482553513459930",
+    "created_at": "2025-07-11T08:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943592573513449917"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "恭喜",
+          "probability": 0.6666,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891810325512806400",
+          "start": 0,
+          "username": "Jiepaiki_meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943592573513449917",
+    "in_reply_to_user_id": "1891810325512806400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943482553513459930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiepaiki_meow 恭喜嘻嘻！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1943482550066057216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvijFQ_bkAAl8IT.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1943482553513459930",
+        "created_at": "2025-07-11T08:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943592573513449917"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "恭喜",
+              "probability": 0.6666,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891810325512806400",
+              "start": 0,
+              "username": "Jiepaiki_meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943592573513449917",
+        "in_reply_to_user_id": "1891810325512806400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943482553513459930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiepaiki_meow 恭喜嘻嘻！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943482550066057216"
+          ]
+        },
+        "author_id": "1891810325512806400",
+        "conversation_id": "1943482553513459930",
+        "created_at": "2025-07-11T01:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943482553513459930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLqE4roVzP",
+              "end": 41,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1943482553513459930/photo/1",
+              "media_key": "3_1943482550066057216",
+              "start": 18,
+              "url": "https://t.co/kLqE4roVzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943482553513459930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好~~耶~~\n前三志愿全中喽~\n🥰 https://t.co/kLqE4roVzP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 670,
+          "like_count": 3684,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 1808
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T11:21:56.000Z",
+        "description": "| 前世 @jiepaiqi_meow | 🏳️‍⚧️ | Bi |📍HK | 初三 | 重度抑鬱焦慮 | With 舍曲林 | 疑似双相、人格分裂 | 無證含糖 | Photographer | Hong Kongese | 卡拉彼丘 | Strinova | Maimai | Chunithm | PJSK |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "jiepaiqi_meow"
+              }
+            ]
+          }
+        },
+        "id": "1891810325512806400",
+        "location": "幻想鄉紅魔館兼幻想鄉核爆試驗場所內蕾米莉亞斯卡蕾特臥室的床上",
+        "name": "新•截拍器🏳️‍⚧️",
+        "pinned_tweet_id": "1901262314608734527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891810492777365504/94_igz5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1375,
+          "like_count": 16311,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1558
+        },
+        "username": "Jiepaiki_meow",
+        "verified": false
+      }
+    ]
+  }
+}

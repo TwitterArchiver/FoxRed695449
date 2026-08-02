@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1914953192212946983",
+    "created_at": "2025-04-23T09:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T10:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914977046549143606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504676358475157504",
+          "start": 0,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914977046549143606",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914976876709265717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964TortoiseBlk 而且也不算跑香港吧，應該叫回香港？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1914953192212946983",
+        "created_at": "2025-04-23T09:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914977046549143606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914977046549143606",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914976876709265717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 而且也不算跑香港吧，應該叫回香港？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1914953192212946983",
+        "created_at": "2025-04-23T09:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T10:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914976876709265717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914976876709265717",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914972449122517089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 準確來說是全國可飛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 619,
+          "like_count": 2915,
+          "listed_count": 6,
+          "media_count": 494,
+          "tweet_count": 1469
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武🍥（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8987,
+          "following_count": 379,
+          "like_count": 239839,
+          "listed_count": 20,
+          "media_count": 2645,
+          "tweet_count": 59177
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

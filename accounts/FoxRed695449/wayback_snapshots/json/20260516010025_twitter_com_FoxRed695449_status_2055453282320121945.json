@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055453272887144448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2055422982617694223",
+    "created_at": "2026-05-16T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055453282320121945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035018652970622977",
+          "start": 0,
+          "username": "JamesIrvineCA"
+        },
+        {
+          "end": 30,
+          "id": "1296834395584827395",
+          "start": 15,
+          "username": "james17_Canada"
+        },
+        {
+          "end": 46,
+          "id": "1260553941714186241",
+          "start": 31,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 61,
+          "id": "584438956",
+          "start": 47,
+          "username": "DictatorOfPRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTuRnRpV9m",
+          "end": 85,
+          "expanded_url": "https://x.com/FoxRed695449/status/2055453282320121945/photo/1",
+          "media_key": "3_2055453272887144448",
+          "start": 62,
+          "url": "https://t.co/OTuRnRpV9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055453282320121945",
+    "in_reply_to_user_id": "2035018652970622977",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055452430184394814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesIrvineCA @james17_Canada @whyyoutouzhele @DictatorOfPRC https://t.co/OTuRnRpV9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2055453272887144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZv3IbaMAAG81a.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055453272887144448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2055422982617694223",
+        "created_at": "2026-05-16T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055453282320121945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035018652970622977",
+              "start": 0,
+              "username": "JamesIrvineCA"
+            },
+            {
+              "end": 30,
+              "id": "1296834395584827395",
+              "start": 15,
+              "username": "james17_Canada"
+            },
+            {
+              "end": 46,
+              "id": "1260553941714186241",
+              "start": 31,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 61,
+              "id": "584438956",
+              "start": 47,
+              "username": "DictatorOfPRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTuRnRpV9m",
+              "end": 85,
+              "expanded_url": "https://x.com/FoxRed695449/status/2055453282320121945/photo/1",
+              "media_key": "3_2055453272887144448",
+              "start": 62,
+              "url": "https://t.co/OTuRnRpV9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055453282320121945",
+        "in_reply_to_user_id": "2035018652970622977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055452430184394814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesIrvineCA @james17_Canada @whyyoutouzhele @DictatorOfPRC https://t.co/OTuRnRpV9m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035018652970622977",
+        "conversation_id": "2055422982617694223",
+        "created_at": "2026-05-16T00:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055452430184394814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "1296834395584827395",
+              "start": 14,
+              "username": "james17_Canada"
+            },
+            {
+              "end": 45,
+              "id": "1260553941714186241",
+              "start": 30,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 60,
+              "id": "584438956",
+              "start": 46,
+              "username": "DictatorOfPRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055452430184394814",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055451724031394024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @james17_Canada @whyyoutouzhele @DictatorOfPRC 为啥叫panda，学美国华人开的？创办人在中国待过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 832,
+          "like_count": 7922,
+          "listed_count": 6,
+          "media_count": 1020,
+          "tweet_count": 3263
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T15:43:50.000Z",
+        "description": "",
+        "id": "2035018652970622977",
+        "name": "JS",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 76,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1094
+        },
+        "username": "JamesIrvineCA",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T15:40:32.000Z",
+        "description": "来是偶然，去是必然；尽其当然，得之坦然；失之淡然，争取必然；忙时井然，顺其自然；悟通八然，此生悠然.",
+        "id": "1296834395584827395",
+        "location": "Montreal,Canada",
+        "name": "James 江南晓渡🇨🇦🇺🇦🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354509635546476551/wGYQ6k4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 1102,
+          "like_count": 31686,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 18266
+        },
+        "username": "james17_Canada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226592,
+          "following_count": 1056,
+          "like_count": 9541,
+          "listed_count": 8749,
+          "media_count": 46903,
+          "tweet_count": 54020
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-19T04:37:06.000Z",
+        "description": "😜嘿！朕是你帝啊！👑",
+        "id": "584438956",
+        "name": "華☭帝",
+        "pinned_tweet_id": "1969653943799103850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637387629128986625/m9zlZGYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 2143,
+          "like_count": 71299,
+          "listed_count": 7,
+          "media_count": 1697,
+          "tweet_count": 30018
+        },
+        "username": "DictatorOfPRC",
+        "verified": false
+      }
+    ]
+  }
+}

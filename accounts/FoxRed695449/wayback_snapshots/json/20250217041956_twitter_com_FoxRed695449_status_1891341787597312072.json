@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891117242873438408",
+    "created_at": "2025-02-17T04:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T05:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891341787597312072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1412500553871986689",
+          "start": 0,
+          "username": "lonqi_vfx"
+        },
+        {
+          "end": 25,
+          "id": "1701426110083563520",
+          "start": 11,
+          "username": "wongkong00538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891341787597312072",
+    "in_reply_to_user_id": "1412500553871986689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891331432573710404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonqi_vfx @wongkong00538 我並不認為堆積如山的課本有什麼好夸的...因為我不那樣做也能申請上大學...\n比起刷題…我更願意去參加學校的科研項目或者交流項目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891117242873438408",
+        "created_at": "2025-02-17T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891341787597312072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1412500553871986689",
+              "start": 0,
+              "username": "lonqi_vfx"
+            },
+            {
+              "end": 25,
+              "id": "1701426110083563520",
+              "start": 11,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891341787597312072",
+        "in_reply_to_user_id": "1412500553871986689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891331432573710404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonqi_vfx @wongkong00538 我並不認為堆積如山的課本有什麼好夸的...因為我不那樣做也能申請上大學...\n比起刷題…我更願意去參加學校的科研項目或者交流項目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412500553871986689",
+        "conversation_id": "1891117242873438408",
+        "created_at": "2025-02-17T03:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T04:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891331432573710404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 28,
+              "id": "1701426110083563520",
+              "start": 14,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891331432573710404",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891326676291686644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @wongkong00538 这题目不就是量子物理换算公式为主吗  学会套公式记好运用好就行，不如高三堆积如山的课本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 498,
+          "like_count": 1686,
+          "listed_count": 6,
+          "media_count": 343,
+          "tweet_count": 1075
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-06T19:56:08.000Z",
+        "description": "blender arties",
+        "id": "1412500553871986689",
+        "name": "lonqi 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863098437107056640/yoaqPzO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 433,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 575
+        },
+        "username": "lonqi_vfx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "123",
+        "id": "1701426110083563520",
+        "location": "西瓜星球 西瓜种植基地",
+        "name": "瓜师傅🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874957859307270144/7atK3j1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1016,
+          "like_count": 57642,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 16199
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

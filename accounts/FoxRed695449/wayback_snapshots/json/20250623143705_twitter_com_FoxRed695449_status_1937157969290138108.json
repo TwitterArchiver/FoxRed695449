@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1936628954762506465",
+    "created_at": "2025-06-23T14:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T15:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937157969290138108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472111867036594179",
+          "start": 0,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937157969290138108",
+    "in_reply_to_user_id": "1472111867036594179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936628954762506465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeimoDev 未成年就不用看了\n用不了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1936628954762506465",
+        "created_at": "2025-06-23T14:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T15:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937157969290138108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472111867036594179",
+              "start": 0,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937157969290138108",
+        "in_reply_to_user_id": "1472111867036594179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936628954762506465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeimoDev 未成年就不用看了\n用不了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472111867036594179",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1936628954762506465",
+        "created_at": "2025-06-22T03:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936628954762506465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936628954762506465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 763,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨境支付通，实测一个来回（中国银行 -&gt; HSBC HK -&gt; 中国建设银行) 损耗为 1.22%，初始转账 50CNY，HSBC 收到54.5 HKD，全部转入建设银行到账 49.39 CNY\n\nBTW 目前 HSBC 北向转账到中国银行会被拒，转建设银行正常，其他未测"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 666,
+          "like_count": 3595,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨WorkWork!丨AdventureX丨Spark Lab丨 Android Dev丨简中丨繁中丨English丨20歲丨大二丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议丨@workworkorg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 162,
+                "start": 150,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 124,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 101,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362795879809025/HbzzOBdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 591,
+          "like_count": 6972,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 4156
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": false
+      }
+    ]
+  }
+}

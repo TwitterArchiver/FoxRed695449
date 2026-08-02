@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981959435905093987",
+    "created_at": "2025-10-25T05:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981959435905093987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inmediahk/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/inmediahk/status/1981689330927067577",
+          "start": 15,
+          "url": "https://t.co/siD6u1EJE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981959435905093987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981689330927067577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我睇到「由冶及興」帶嚟嘅好處 https://t.co/siD6u1EJE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_1981689311901663232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Bf7gMWQAAlZs5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981959435905093987",
+        "created_at": "2025-10-25T05:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981959435905093987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inmediahk/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/inmediahk/status/1981689330927067577",
+              "start": 15,
+              "url": "https://t.co/siD6u1EJE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981959435905093987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981689330927067577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我睇到「由冶及興」帶嚟嘅好處 https://t.co/siD6u1EJE6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981689311901663232"
+          ]
+        },
+        "author_id": "15435701",
+        "conversation_id": "1981689330927067577",
+        "created_at": "2025-10-24T11:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981689330927067577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bit.ly/4oDNO6Y",
+              "end": 54,
+              "expanded_url": "https://bit.ly/4oDNO6Y",
+              "start": 31,
+              "status": 403,
+              "unwound_url": "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E6%B8%AF%E6%BE%B3%E8%BE%A6%E6%92%B0%E6%96%87%E7%A8%B1%E3%80%8C%E4%B8%AD%E5%A4%AE%E5%B9%B2%E9%A0%90%E9%81%B8%E8%88%89%E3%80%8D%E6%98%AF%E5%81%BD%E5%91%BD%E9%A1%8C-%E8%AE%9A%E6%A3%84%E9%81%B8%E8%AD%B0%E5%93%A1%E3%80%8C%E9%AB%98%E9%A2%A8%E4%BA%AE%E7%AF%80%E3%80%8D",
+              "url": "https://t.co/XX2xxbod1R"
+            },
+            {
+              "display_url": "pic.x.com/ruIHEpt0ws",
+              "end": 78,
+              "expanded_url": "https://x.com/inmediahk/status/1981689330927067577/photo/1",
+              "media_key": "3_1981689311901663232",
+              "start": 55,
+              "url": "https://t.co/ruIHEpt0ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981689330927067577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "港澳辦撰文稱「中央干預選舉」是偽命題 讚棄選議員「高風亮節」\nhttps://t.co/XX2xxbod1R https://t.co/ruIHEpt0ws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 683,
+          "like_count": 4673,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2008-07-15T02:38:19.000Z",
+        "description": "Est. 2004. Indepedent citizen media in Hong Kong.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inmediahk.net",
+                "end": 23,
+                "expanded_url": "https://www.inmediahk.net",
+                "start": 0,
+                "url": "https://t.co/lgltMnOgQg"
+              }
+            ]
+          }
+        },
+        "id": "15435701",
+        "location": "Hong Kong",
+        "name": "inmediahknet",
+        "pinned_tweet_id": "1966455362862674105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875721763031728129/oDOqaJb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70597,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 468,
+          "media_count": 21470,
+          "tweet_count": 69590
+        },
+        "url": "https://t.co/lgltMnOgQg",
+        "username": "inmediahk",
+        "verified": false
+      }
+    ]
+  }
+}

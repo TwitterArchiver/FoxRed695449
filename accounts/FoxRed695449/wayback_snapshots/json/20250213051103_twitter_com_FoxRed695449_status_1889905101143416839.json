@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889905088120102914"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889797911875146031",
+    "created_at": "2025-02-13T05:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T06:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889905101143416839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqesRjQ2MG",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1889905101143416839/photo/1",
+          "media_key": "3_1889905088120102914",
+          "start": 40,
+          "url": "https://t.co/lqesRjQ2MG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889905101143416839",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889797911875146031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 之前去cuhk參加活動對cu印象還挺好的... https://t.co/lqesRjQ2MG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889905088120102914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjpKqhyaIAIMOn5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889905088120102914"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889797911875146031",
+        "created_at": "2025-02-13T05:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T06:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889905101143416839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqesRjQ2MG",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1889905101143416839/photo/1",
+              "media_key": "3_1889905088120102914",
+              "start": 40,
+              "url": "https://t.co/lqesRjQ2MG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889905101143416839",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889797911875146031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 之前去cuhk參加活動對cu印象還挺好的... https://t.co/lqesRjQ2MG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889797841750532096",
+            "3_1889797884259741696",
+            "3_1889797905654956032"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1889797911875146031",
+        "created_at": "2025-02-12T22:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T23:04:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889797666919329965",
+          "1889797911875146031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSzW6Ccf7v",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1889797911875146031/photo/1",
+              "media_key": "3_1889797841750532096",
+              "start": 89,
+              "url": "https://t.co/DSzW6Ccf7v"
+            },
+            {
+              "display_url": "pic.x.com/DSzW6Ccf7v",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1889797911875146031/photo/1",
+              "media_key": "3_1889797884259741696",
+              "start": 89,
+              "url": "https://t.co/DSzW6Ccf7v"
+            },
+            {
+              "display_url": "pic.x.com/DSzW6Ccf7v",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1889797911875146031/photo/1",
+              "media_key": "3_1889797905654956032",
+              "start": 89,
+              "url": "https://t.co/DSzW6Ccf7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889797911875146031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，香港中文大学深圳校区宣布，对23，24级会计学专业推出班主任计划，所有学生按照50人一班随机分组，配备一名班主任和四名副班主任以及一名辅导员。\n该措施引发学生们的不满。\n同学们表示，目前香港中文大学深圳校区的“内地化”非常严重，此前在教室内安装面部识别监控的项目，也已经在学生们的重重反对声下实施了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 149416,
+          "like_count": 502,
+          "quote_count": 5,
+          "reply_count": 142,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "近日，香港中文大学深圳校区宣布，对23，24级会计学专业推出班主任计划，所有学生按照50人一班随机分组，配备一名班主任和四名副班主任以及一名辅导员。\n该措施引发学生们的不满。… https://t.co/DSzW6Ccf7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 487,
+          "like_count": 1579,
+          "listed_count": 6,
+          "media_count": 333,
+          "tweet_count": 1034
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929322,
+          "following_count": 936,
+          "like_count": 5824,
+          "listed_count": 8030,
+          "media_count": 23226,
+          "tweet_count": 29549
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

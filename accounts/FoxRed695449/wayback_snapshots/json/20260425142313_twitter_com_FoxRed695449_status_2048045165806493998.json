@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048036187970179072",
+        "3_2048036187940810752",
+        "3_2048036187978571777",
+        "3_2048036187982737408"
+      ],
+      "media_source_tweet_id": [
+        "2048036193695302020",
+        "2048036193695302020",
+        "2048036193695302020",
+        "2048036193695302020"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2048045165806493998",
+    "created_at": "2026-04-25T14:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048045165806493998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c92kkOiHCS",
+          "end": 72,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+          "media_key": "3_2048036187970179072",
+          "start": 49,
+          "url": "https://t.co/c92kkOiHCS"
+        },
+        {
+          "display_url": "pic.x.com/c92kkOiHCS",
+          "end": 72,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+          "media_key": "3_2048036187940810752",
+          "start": 49,
+          "url": "https://t.co/c92kkOiHCS"
+        },
+        {
+          "display_url": "pic.x.com/c92kkOiHCS",
+          "end": 72,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+          "media_key": "3_2048036187978571777",
+          "start": 49,
+          "url": "https://t.co/c92kkOiHCS"
+        },
+        {
+          "display_url": "pic.x.com/c92kkOiHCS",
+          "end": 72,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+          "media_key": "3_2048036187982737408",
+          "start": 49,
+          "url": "https://t.co/c92kkOiHCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048045165806493998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048036193695302020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 通告出来了，避重就轻，无关痛痒，警察隐身，抽烟男隐身。 https://t.co/c92kkOiHCS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048036187970179072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwWD98bkAA8JvE.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048036187940810752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwWD91bcAAQtpn.jpg",
+        "width": 1014
+      },
+      {
+        "height": 788,
+        "media_key": "3_2048036187978571777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwWD9-boAEgDEf.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048036187982737408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwWD9_bMAAey6z.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048036187970179072",
+            "3_2048036187940810752",
+            "3_2048036187978571777",
+            "3_2048036187982737408"
+          ],
+          "media_source_tweet_id": [
+            "2048036193695302020",
+            "2048036193695302020",
+            "2048036193695302020",
+            "2048036193695302020"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2048045165806493998",
+        "created_at": "2026-04-25T14:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048045165806493998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 72,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187970179072",
+              "start": 49,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 72,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187940810752",
+              "start": 49,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 72,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187978571777",
+              "start": 49,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 72,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187982737408",
+              "start": 49,
+              "url": "https://t.co/c92kkOiHCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048045165806493998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048036193695302020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 通告出来了，避重就轻，无关痛痒，警察隐身，抽烟男隐身。 https://t.co/c92kkOiHCS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048036187970179072",
+            "3_2048036187940810752",
+            "3_2048036187978571777",
+            "3_2048036187982737408"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2048036193695302020",
+        "created_at": "2026-04-25T13:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036193695302020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 51,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187970179072",
+              "start": 28,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 51,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187940810752",
+              "start": 28,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 51,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187978571777",
+              "start": 28,
+              "url": "https://t.co/c92kkOiHCS"
+            },
+            {
+              "display_url": "pic.x.com/c92kkOiHCS",
+              "end": 51,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2048036193695302020/photo/1",
+              "media_key": "3_2048036187982737408",
+              "start": 28,
+              "url": "https://t.co/c92kkOiHCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048036193695302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 572,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "通告出来了，避重就轻，无关痛痒，警察隐身，抽烟男隐身。 https://t.co/c92kkOiHCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 818,
+          "like_count": 7775,
+          "listed_count": 7,
+          "media_count": 990,
+          "tweet_count": 3165
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28447,
+          "following_count": 564,
+          "like_count": 34949,
+          "listed_count": 90,
+          "media_count": 9917,
+          "tweet_count": 27115
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

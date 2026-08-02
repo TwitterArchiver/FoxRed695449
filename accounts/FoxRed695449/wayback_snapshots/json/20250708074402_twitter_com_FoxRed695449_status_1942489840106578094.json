@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1942089681682027001",
+    "created_at": "2025-07-08T07:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T08:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942489840106578094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090988661733113856",
+          "start": 0,
+          "username": "DoraDaemon1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 62,
+          "expanded_url": "https://x.com/FoxRed695449/status/1938239106196378003?t=1VgkD-vAtcm2zkgQ9fefIA&s=19",
+          "start": 39,
+          "url": "https://t.co/Cqb0jFnD5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942489840106578094",
+    "in_reply_to_user_id": "1090988661733113856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938239106196378003",
+        "type": "quoted"
+      },
+      {
+        "id": "1942089681682027001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoraDaemon1 虽然我讨厌这电影，但这谣言是不知道已经传了几手的了😓https://t.co/Cqb0jFnD5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938239102824132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYCMd2asAAB1nl.jpg",
+        "width": 921
+      },
+      {
+        "height": 1025,
+        "media_key": "3_1942089668180291584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOwQ3nXsAAKyOd.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1942089681682027001",
+        "created_at": "2025-07-08T07:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942489840106578094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090988661733113856",
+              "start": 0,
+              "username": "DoraDaemon1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 62,
+              "expanded_url": "https://x.com/FoxRed695449/status/1938239106196378003?t=1VgkD-vAtcm2zkgQ9fefIA&s=19",
+              "start": 39,
+              "url": "https://t.co/Cqb0jFnD5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942489840106578094",
+        "in_reply_to_user_id": "1090988661733113856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938239106196378003",
+            "type": "quoted"
+          },
+          {
+            "id": "1942089681682027001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoraDaemon1 虽然我讨厌这电影，但这谣言是不知道已经传了几手的了😓https://t.co/Cqb0jFnD5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938239102824132608"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1938206475866034187",
+        "created_at": "2025-06-26T14:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938239106196378003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhYS86K27S",
+              "end": 55,
+              "expanded_url": "https://x.com/FoxRed695449/status/1938239106196378003/photo/1",
+              "media_key": "3_1938239102824132608",
+              "start": 32,
+              "url": "https://t.co/rhYS86K27S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938239106196378003",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4727,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938206475866034187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 不知道多久之前的謠言了... https://t.co/rhYS86K27S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942089668180291584"
+          ]
+        },
+        "author_id": "1090988661733113856",
+        "conversation_id": "1942089681682027001",
+        "created_at": "2025-07-07T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942089681682027001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KP3y1TX7Hn",
+              "end": 36,
+              "expanded_url": "https://x.com/DoraDaemon1/status/1942089681682027001/photo/1",
+              "media_key": "3_1942089668180291584",
+              "start": 13,
+              "url": "https://t.co/KP3y1TX7Hn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942089681682027001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 95673,
+          "like_count": 549,
+          "quote_count": 13,
+          "reply_count": 120,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒2被全球票房榜移除？ https://t.co/KP3y1TX7Hn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 667,
+          "like_count": 3685,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-31T15:02:21.000Z",
+        "description": "G+难民/花草植物/游记/IT技术；",
+        "id": "1090988661733113856",
+        "location": "Earth",
+        "name": "𝐃ora𝐃aemon",
+        "pinned_tweet_id": "1118869795829501952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090990788001951745/G6bCRlQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11495,
+          "following_count": 2344,
+          "like_count": 116184,
+          "listed_count": 70,
+          "media_count": 20702,
+          "tweet_count": 74505
+        },
+        "username": "DoraDaemon1",
+        "verified": false
+      }
+    ]
+  }
+}

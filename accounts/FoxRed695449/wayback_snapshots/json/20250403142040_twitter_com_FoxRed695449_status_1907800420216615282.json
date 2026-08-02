@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907800416613707777"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1907800420216615282",
+    "created_at": "2025-04-03T14:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907800420216615282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jeyyXZd7IT",
+          "end": 102,
+          "expanded_url": "https://x.com/FoxRed695449/status/1907800420216615282/photo/1",
+          "media_key": "3_1907800416613707777",
+          "start": 79,
+          "url": "https://t.co/jeyyXZd7IT"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1907799016177545690",
+          "start": 103,
+          "url": "https://t.co/Jsl4EHv7Ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907800420216615282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907799016177545690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "内地要是没有职工医保或者在极个别有学生医保的城市的话，你有点长期病就算买了医保花费是这样的：\n顺便一提，你医保都没报多少了，今年开始还卡着我买原研药是真抽象 https://t.co/jeyyXZd7IT https://t.co/Jsl4EHv7Ye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1907800416613707777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnneXvaaMAEMOR6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 755,
+        "media_key": "3_1907799013350584322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnndGD2aMAI6-z5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907800416613707777"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907800420216615282",
+        "created_at": "2025-04-03T14:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907800420216615282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeyyXZd7IT",
+              "end": 102,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907800420216615282/photo/1",
+              "media_key": "3_1907800416613707777",
+              "start": 79,
+              "url": "https://t.co/jeyyXZd7IT"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1907799016177545690",
+              "start": 103,
+              "url": "https://t.co/Jsl4EHv7Ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907800420216615282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907799016177545690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "内地要是没有职工医保或者在极个别有学生医保的城市的话，你有点长期病就算买了医保花费是这样的：\n顺便一提，你医保都没报多少了，今年开始还卡着我买原研药是真抽象 https://t.co/jeyyXZd7IT https://t.co/Jsl4EHv7Ye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907799013350584322"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907799016177545690",
+        "created_at": "2025-04-03T14:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907799016177545690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEjxaQbpTj",
+              "end": 65,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907799016177545690/photo/1",
+              "media_key": "3_1907799013350584322",
+              "start": 42,
+              "url": "https://t.co/PEjxaQbpTj"
+            },
+            {
+              "display_url": "x.com/kinglinzhuhui/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/1907261552241316115",
+              "start": 66,
+              "url": "https://t.co/GmoEkvFM5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907799016177545690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907261552241316115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，這些粉紅是連自己工作都沒有的小學生嗎，連醫保帳戶是自己和單位交的錢都不知道嗎 https://t.co/PEjxaQbpTj https://t.co/GmoEkvFM5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 591,
+          "like_count": 2713,
+          "listed_count": 6,
+          "media_count": 483,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

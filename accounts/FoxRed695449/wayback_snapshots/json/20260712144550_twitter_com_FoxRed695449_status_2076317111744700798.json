@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2075839033553625415",
+    "created_at": "2026-07-12T14:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076317111744700798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037193859978153984",
+          "start": 0,
+          "username": "tzy9101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076317111744700798",
+    "in_reply_to_user_id": "2037193859978153984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076314416954609924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzy9101 是的，bw～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2075839033553625415",
+        "created_at": "2026-07-12T14:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076317111744700798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037193859978153984",
+              "start": 0,
+              "username": "tzy9101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076317111744700798",
+        "in_reply_to_user_id": "2037193859978153984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076314416954609924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzy9101 是的，bw～～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037193859978153984",
+        "conversation_id": "2075839033553625415",
+        "created_at": "2026-07-12T14:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076314416954609924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076314416954609924",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075839033553625415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这是，bw？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 845,
+          "like_count": 8242,
+          "listed_count": 6,
+          "media_count": 1068,
+          "tweet_count": 3410
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T15:44:13.000Z",
+        "description": "GL｜弗洛洛｜直吉不拆不逆｜家产就是生活动力\n发的都是自己约的稿，不是本人画的，看到喜欢的会转帖，本人生理性别♂，请别讨厌我",
+        "id": "2037193859978153984",
+        "name": "夕樱",
+        "pinned_tweet_id": "2071866033984479535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074000213900230656/XtkZIWDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 75,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "tzy9101",
+        "verified": false
+      }
+    ]
+  }
+}

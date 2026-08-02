@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      }
+    ],
+    "conversation_id": "2017615808789418401",
+    "created_at": "2026-01-31T15:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T16:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017615808789418401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851254945984741376",
+          "start": 3,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017615808789418401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017543627770405193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LastExeX01: 对于能给建制派港府洗的粉红，我建议把支黑勇武派拉出来，找个地方打擂台，这样做有几个好处：\n第一，让勇武派跟港府互殴，两个晦气东西打一块，就当是冲冲原本的晦气了。\n第二，打擂台估计大家也喜欢看，人民群众也开心。\n第三，把这两个类人东西全几把送上天，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "2017615808789418401",
+        "created_at": "2026-01-31T15:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017615808789418401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851254945984741376",
+              "start": 3,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017615808789418401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017543627770405193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LastExeX01: 对于能给建制派港府洗的粉红，我建议把支黑勇武派拉出来，找个地方打擂台，这样做有几个好处：\n第一，让勇武派跟港府互殴，两个晦气东西打一块，就当是冲冲原本的晦气了。\n第二，打擂台估计大家也喜欢看，人民群众也开心。\n第三，把这两个类人东西全几把送上天，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "2017543627770405193",
+        "created_at": "2026-01-31T10:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017543627770405193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/CPUP2024/status/2017169656168198404",
+              "start": 139,
+              "url": "https://t.co/eRxFLV36B4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017543627770405193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017169656168198404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于能给建制派港府洗的粉红，我建议把支黑勇武派拉出来，找个地方打擂台，这样做有几个好处：\n第一，让勇武派跟港府互殴，两个晦气东西打一块，就当是冲冲原本的晦气了。\n第二，打擂台估计大家也喜欢看，人民群众也开心。\n第三，把这两个类人东西全几把送上天，让剩下的正常人来控制这个世界。 https://t.co/eRxFLV36B4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 754,
+          "like_count": 5983,
+          "listed_count": 7,
+          "media_count": 930,
+          "tweet_count": 2896
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2017079521862963255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 306,
+          "like_count": 16912,
+          "listed_count": 5,
+          "media_count": 993,
+          "tweet_count": 7548
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2022245586880323965",
+    "created_at": "2026-02-13T09:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T10:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022245586880323965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zero121235/sta…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/zero121235/status/2022146257117167815",
+          "start": 152,
+          "url": "https://t.co/JTzYQFQbJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022245586880323965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022146257117167815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里有个误知\n银行卡不用联网不代表pos机不用\n现在大部分pos基本上都是走联机交易了,只有少部分特殊场景(例如飞机)才会用离线交易\n至于为什么?本质还是防非授权交易,例如超出银行卡设定的限额的情况下拒绝交易\n另外如果卡和pos机货币结算单位不同可能还会触发dcc(虽然现在就是个很坑的功能)的汇率查询 https://t.co/JTzYQFQbJL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2022245586880323965",
+        "created_at": "2026-02-13T09:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022245586880323965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zero121235/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/zero121235/status/2022146257117167815",
+              "start": 152,
+              "url": "https://t.co/JTzYQFQbJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022245586880323965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022146257117167815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里有个误知\n银行卡不用联网不代表pos机不用\n现在大部分pos基本上都是走联机交易了,只有少部分特殊场景(例如飞机)才会用离线交易\n至于为什么?本质还是防非授权交易,例如超出银行卡设定的限额的情况下拒绝交易\n另外如果卡和pos机货币结算单位不同可能还会触发dcc(虽然现在就是个很坑的功能)的汇率查询 https://t.co/JTzYQFQbJL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2833046798",
+        "conversation_id": "2021926454658035955",
+        "created_at": "2026-02-13T03:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022146257117167815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1074917175692050432",
+              "start": 0,
+              "username": "ryan4yin"
+            },
+            {
+              "end": 19,
+              "id": "1683218035602255872",
+              "start": 10,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022146257117167815",
+        "in_reply_to_user_id": "1074917175692050432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022145631301853336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryan4yin @jlxc2001 NFC甚至不需要联网，你告诉我怎么比扫码慢？除非国内卡不对喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 764,
+          "like_count": 6208,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 2947
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-26T15:08:46.000Z",
+        "description": "",
+        "id": "2833046798",
+        "name": "@_@",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566308855617036288/YE-ixRg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 295,
+          "like_count": 712,
+          "listed_count": 3,
+          "media_count": 1402,
+          "tweet_count": 4412
+        },
+        "username": "zero121235",
+        "verified": false
+      }
+    ]
+  }
+}

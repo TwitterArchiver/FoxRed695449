@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1868612549794730341",
+    "created_at": "2024-12-16T11:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T12:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868619406731084210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1837092704045649920",
+          "start": 0,
+          "username": "yurou920"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 33,
+          "expanded_url": "https://x.com/foxred695449/status/1868619366746726600?s=46",
+          "start": 10,
+          "url": "https://t.co/esiYNp9Ajp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868619406731084210",
+    "in_reply_to_user_id": "1837092704045649920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868619366746726600",
+        "type": "quoted"
+      },
+      {
+        "id": "1868612549794730341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yurou920 https://t.co/esiYNp9Ajp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1868619366746726600].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1868619366746726600",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868619366746726600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1868612549794730341",
+        "created_at": "2024-12-16T11:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868619406731084210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1837092704045649920",
+              "start": 0,
+              "username": "yurou920"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 33,
+              "expanded_url": "https://x.com/foxred695449/status/1868619366746726600?s=46",
+              "start": 10,
+              "url": "https://t.co/esiYNp9Ajp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868619406731084210",
+        "in_reply_to_user_id": "1837092704045649920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868619366746726600",
+            "type": "quoted"
+          },
+          {
+            "id": "1868612549794730341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yurou920 https://t.co/esiYNp9Ajp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868612519105036288"
+          ]
+        },
+        "author_id": "1837092704045649920",
+        "conversation_id": "1868612549794730341",
+        "created_at": "2024-12-16T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868612549794730341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ih6wEcRKYJ",
+              "end": 31,
+              "expanded_url": "https://x.com/yurou920/status/1868612549794730341/video/1",
+              "media_key": "7_1868612519105036288",
+              "start": 8,
+              "url": "https://t.co/Ih6wEcRKYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868612549794730341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠溶液！ https://t.co/Ih6wEcRKYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3244,
+          "following_count": 367,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 408
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T11:33:43.000Z",
+        "description": "一只无人要的流浪猫🐈‍⬛/持证含糖友跨/💊药龄2岁/身高163cm体重不超50kg/不建政🙅🏻‍♀️/心脏随心跳动💔很难受/可能会重开/逃生舱@yurou9420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yurou9420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yurou920",
+                "end": 23,
+                "expanded_url": "https://t.me/yurou920",
+                "start": 0,
+                "url": "https://t.co/GsTJx5cMjf"
+              }
+            ]
+          }
+        },
+        "id": "1837092704045649920",
+        "location": "PAI",
+        "name": "雨柔🏳️‍⚧️🍥8964",
+        "pinned_tweet_id": "1868253792782983453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868278477872680960/1JVhWAYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 182,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/GsTJx5cMjf",
+        "username": "yurou920",
+        "verified": false
+      }
+    ]
+  }
+}

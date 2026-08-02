@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2048177858330439990",
+    "created_at": "2026-04-26T15:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048420864727883792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1642412414003195904",
+          "start": 0,
+          "username": "cuoutsidewalls"
+        },
+        {
+          "end": 25,
+          "id": "1103830967163117568",
+          "start": 16,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048420864727883792",
+    "in_reply_to_user_id": "1642412414003195904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048418508128821345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@cuoutsidewalls @anblk984 感谢指正xd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2048418481436291072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1xwYFa8AA53XJ.png",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2048177858330439990",
+        "created_at": "2026-04-26T15:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048420864727883792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1642412414003195904",
+              "start": 0,
+              "username": "cuoutsidewalls"
+            },
+            {
+              "end": 25,
+              "id": "1103830967163117568",
+              "start": 16,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048420864727883792",
+        "in_reply_to_user_id": "1642412414003195904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048418508128821345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@cuoutsidewalls @anblk984 感谢指正xd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048418481436291072"
+          ]
+        },
+        "author_id": "1642412414003195904",
+        "conversation_id": "2048177858330439990",
+        "created_at": "2026-04-26T15:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048418508128821345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 23,
+              "id": "1103830967163117568",
+              "start": 14,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKGfX3BrdR",
+              "end": 66,
+              "expanded_url": "https://x.com/cuoutsidewalls/status/2048418508128821345/photo/1",
+              "media_key": "3_2048418481436291072",
+              "start": 43,
+              "url": "https://t.co/EKGfX3BrdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048418508128821345",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048330116208763375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@FoxRed695449 @anblk984 倒也不是，那堆名字是光明区公安局领导 https://t.co/EKGfX3BrdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 819,
+          "like_count": 7788,
+          "listed_count": 7,
+          "media_count": 991,
+          "tweet_count": 3167
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-02T06:23:44.000Z",
+        "description": "Chiiilllllled",
+        "id": "1642412414003195904",
+        "location": "Kowloon",
+        "name": "😋😇😅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899109063125803008/nTfNZiVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 135,
+          "like_count": 528,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 1559
+        },
+        "username": "cuoutsidewalls",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13078,
+          "following_count": 987,
+          "like_count": 114756,
+          "listed_count": 66,
+          "media_count": 2596,
+          "tweet_count": 27961
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

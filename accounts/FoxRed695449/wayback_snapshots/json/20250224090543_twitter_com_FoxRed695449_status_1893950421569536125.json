@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893950408793509888"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1893827907203584291",
+    "created_at": "2025-02-24T09:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893950421569536125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JcEu8JMNKF",
+          "end": 32,
+          "expanded_url": "https://x.com/FoxRed695449/status/1893950421569536125/photo/1",
+          "media_key": "3_1893950408793509888",
+          "start": 9,
+          "url": "https://t.co/JcEu8JMNKF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893950421569536125",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893827907203584291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 https://t.co/JcEu8JMNKF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893950408793509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkip3LpX0AA_6KR.jpg",
+        "width": 657
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1893827899800903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkg6cOFbYAAXhtu.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893950408793509888"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1893827907203584291",
+        "created_at": "2025-02-24T09:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893950421569536125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcEu8JMNKF",
+              "end": 32,
+              "expanded_url": "https://x.com/FoxRed695449/status/1893950421569536125/photo/1",
+              "media_key": "3_1893950408793509888",
+              "start": 9,
+              "url": "https://t.co/JcEu8JMNKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893950421569536125",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893827907203584291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 https://t.co/JcEu8JMNKF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893827899800903680"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1893827907203584291",
+        "created_at": "2025-02-24T00:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T01:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893827907203584291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "nsfw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nore8eZdge",
+              "end": 37,
+              "expanded_url": "https://x.com/hsn8086/status/1893827907203584291/photo/1",
+              "media_key": "3_1893827899800903680",
+              "start": 14,
+              "url": "https://t.co/nore8eZdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893827907203584291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12925,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊?太邪恶了!\n#nsfw https://t.co/nore8eZdge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 512,
+          "like_count": 1931,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40356,
+          "following_count": 919,
+          "like_count": 36596,
+          "listed_count": 105,
+          "media_count": 6625,
+          "tweet_count": 11839
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

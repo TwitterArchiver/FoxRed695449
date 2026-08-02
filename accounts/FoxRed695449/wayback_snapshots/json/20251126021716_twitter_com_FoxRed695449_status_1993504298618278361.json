@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993206544952181232",
+    "created_at": "2025-11-26T02:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T03:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993504298618278361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817394276298530816",
+          "start": 0,
+          "username": "momoblackmaga"
+        },
+        {
+          "end": 23,
+          "id": "2262723812",
+          "start": 15,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993504298618278361",
+    "in_reply_to_user_id": "1817394276298530816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993401704319181012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoblackmaga @abskoop 手机用流动网络IP就更不准了\n另外ipv6的前提是广猫有没有开ipv6\n我看到大部分中国家庭的网络还是以非公网的ipv4为主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993206544952181232",
+        "created_at": "2025-11-26T02:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993504298618278361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817394276298530816",
+              "start": 0,
+              "username": "momoblackmaga"
+            },
+            {
+              "end": 23,
+              "id": "2262723812",
+              "start": 15,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993504298618278361",
+        "in_reply_to_user_id": "1817394276298530816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993401704319181012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoblackmaga @abskoop 手机用流动网络IP就更不准了\n另外ipv6的前提是广猫有没有开ipv6\n我看到大部分中国家庭的网络还是以非公网的ipv4为主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817394276298530816",
+        "conversation_id": "1993206544952181232",
+        "created_at": "2025-11-25T19:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993401704319181012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 22,
+              "id": "2262723812",
+              "start": 14,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993401704319181012",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993269401991422397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @abskoop 现在手机基本上是IPv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 700,
+          "like_count": 4965,
+          "listed_count": 7,
+          "media_count": 898,
+          "tweet_count": 2754
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T02:59:30.000Z",
+        "description": "",
+        "id": "1817394276298530816",
+        "name": "momo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987371347111256066/a5vfHXBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1,
+          "like_count": 3971,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 449
+        },
+        "username": "momoblackmaga",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️虚假推友🫶🫰😘💕 收集分享各种互联网垃圾｜投稿侵权请私信｜谢谢不接推｜TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs l🔔重复刷无相关评论会被拉黑｜链接打不开用Chrome浏览器，不要用国产浏览器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 69,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 46,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731250,
+          "following_count": 1203,
+          "like_count": 26143,
+          "listed_count": 2624,
+          "media_count": 22921,
+          "tweet_count": 59091
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

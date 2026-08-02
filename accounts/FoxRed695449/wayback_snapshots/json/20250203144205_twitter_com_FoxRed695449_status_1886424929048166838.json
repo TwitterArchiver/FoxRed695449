@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886424926074322944"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T14:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T15:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886424929048166838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644062234367389697",
+          "start": 0,
+          "username": "Aesiayde"
+        },
+        {
+          "end": 20,
+          "id": "1459933885974953984",
+          "start": 10,
+          "username": "zhao_mama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRiQTZBgAr",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886424929048166838/photo/1",
+          "media_key": "3_1886424926074322944",
+          "start": 52,
+          "url": "https://t.co/zRiQTZBgAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886424929048166838",
+    "in_reply_to_user_id": "1644062234367389697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886328103900713432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aesiayde @zhao_mama 還有，我要是真為中國社會正名，桌子上就不會放這些政治類書籍了 https://t.co/zRiQTZBgAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886424926074322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi3teb4aQAAwNGp.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886424926074322944"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T14:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886424929048166838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644062234367389697",
+              "start": 0,
+              "username": "Aesiayde"
+            },
+            {
+              "end": 20,
+              "id": "1459933885974953984",
+              "start": 10,
+              "username": "zhao_mama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRiQTZBgAr",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886424929048166838/photo/1",
+              "media_key": "3_1886424926074322944",
+              "start": 52,
+              "url": "https://t.co/zRiQTZBgAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886424929048166838",
+        "in_reply_to_user_id": "1644062234367389697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886328103900713432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aesiayde @zhao_mama 還有，我要是真為中國社會正名，桌子上就不會放這些政治類書籍了 https://t.co/zRiQTZBgAr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644062234367389697",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T08:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886328103900713432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 24,
+              "id": "1459933885974953984",
+              "start": 14,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886328103900713432",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886310197729411581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @zhao_mama 特别有一种华春莹说自己也是14亿分之一自己也没有受压迫的美\n先不谈香港在文化上到底更接近支那还是西方，不觉得这种抛开文化差异和总体情况而只把个例拿出来想要为中国社会现状正名的行为和嘴脸不仅不科学严谨而且令人作呕吗\n写了一整篇小作文对别人的态度挑三拣四只会让你看起来很蠢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 451,
+          "like_count": 1340,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 805
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T19:39:31.000Z",
+        "description": "泉川 兰",
+        "id": "1644062234367389697",
+        "location": "6910",
+        "name": "Ashbridges\\",
+        "pinned_tweet_id": "1821607381102686704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806546682219524096/yguUL7Xi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 348,
+          "like_count": 11172,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 6623
+        },
+        "username": "Aesiayde",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-14T17:19:29.000Z",
+        "description": "极端支黑/极左/不学无术/又蠢又坏/不是夸出/性压抑支男/种花家的小兔子一枚吖 永远永远爱你哦",
+        "id": "1459933885974953984",
+        "name": "坂下りっか🕷️🎂🕷️",
+        "pinned_tweet_id": "1798060046473154832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871013086402080768/BC36xQDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 1947,
+          "like_count": 36161,
+          "listed_count": 12,
+          "media_count": 274,
+          "tweet_count": 15800
+        },
+        "username": "zhao_mama",
+        "verified": false
+      }
+    ]
+  }
+}

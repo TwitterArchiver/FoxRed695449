@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1904801613648462004",
+    "created_at": "2025-03-27T01:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T02:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905071880417186213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1001031427394232321",
+          "start": 0,
+          "username": "How1MetYourM"
+        },
+        {
+          "end": 24,
+          "id": "1643779014694408193",
+          "start": 14,
+          "username": "Freya_LXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905071880417186213",
+    "in_reply_to_user_id": "1001031427394232321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904932994848350322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@How1MetYourM @Freya_LXY 香港還有個cu（香港中文大學）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1904801613648462004",
+        "created_at": "2025-03-27T01:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T02:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905071880417186213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1001031427394232321",
+              "start": 0,
+              "username": "How1MetYourM"
+            },
+            {
+              "end": 24,
+              "id": "1643779014694408193",
+              "start": 14,
+              "username": "Freya_LXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905071880417186213",
+        "in_reply_to_user_id": "1001031427394232321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904932994848350322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@How1MetYourM @Freya_LXY 香港還有個cu（香港中文大學）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001031427394232321",
+        "conversation_id": "1904801613648462004",
+        "created_at": "2025-03-26T16:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T17:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904932994848350322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643779014694408193",
+              "start": 0,
+              "username": "Freya_LXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904932994848350322",
+        "in_reply_to_user_id": "1643779014694408193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12480,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904917752034603402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freya_LXY 你美能简写成CU的得有四五个吧、、这种的约定俗成就不会这么叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 578,
+          "like_count": 2649,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-28T09:24:25.000Z",
+        "description": "上升的一切必然汇合",
+        "id": "1001031427394232321",
+        "location": "中文/Eng/De/Fr/日本語 OK",
+        "name": "HIMYM",
+        "pinned_tweet_id": "1806312189944598831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816347943945003009/JjBGYz4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 126,
+          "like_count": 2957,
+          "listed_count": 8,
+          "media_count": 111,
+          "tweet_count": 906
+        },
+        "username": "How1MetYourM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T00:53:59.000Z",
+        "description": "整活 废话 照片💖| I KNOW NOTHING ABOUT CRYPTO🤪| 欢迎DM交流 😆｜猫猫头俱乐部🐱｜研究生辍学的废物💩｜无法独立完成思考🤔｜A-7 😇",
+        "id": "1643779014694408193",
+        "location": "1km",
+        "name": "Freya😇",
+        "pinned_tweet_id": "1888913451587911680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885691901338320896/tLqjjbqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4527,
+          "following_count": 1123,
+          "like_count": 7547,
+          "listed_count": 19,
+          "media_count": 101,
+          "tweet_count": 2026
+        },
+        "username": "Freya_LXY",
+        "verified": true
+      }
+    ]
+  }
+}

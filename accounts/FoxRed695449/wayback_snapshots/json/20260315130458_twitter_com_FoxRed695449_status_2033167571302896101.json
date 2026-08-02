@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2033094209679536285",
+    "created_at": "2026-03-15T13:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033167571302896101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1034996976029380608",
+          "start": 0,
+          "username": "CryptoDoggyCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033167571302896101",
+    "in_reply_to_user_id": "1034996976029380608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033094209679536285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CryptoDoggyCN 香港有个会说话的垃圾桶（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53730,
+        "height": 1280,
+        "media_key": "13_2033093026529300480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033093026529300480/img/KJV5oCVrSaGuS0Th.jpg",
+        "public_metrics": {
+          "view_count": 64914
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033093026529300480/vid/avc1/320x568/pdrj2QG3LSBNoh2Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033093026529300480/vid/avc1/480x852/bH7MeWv3upB5gx6Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033093026529300480/vid/avc1/720x1280/Jzbzozti5lGtsFBz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033093026529300480/pl/e42kEDRY9gzcVuBm.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2033094209679536285",
+        "created_at": "2026-03-15T13:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033167571302896101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1034996976029380608",
+              "start": 0,
+              "username": "CryptoDoggyCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033167571302896101",
+        "in_reply_to_user_id": "1034996976029380608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033094209679536285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoDoggyCN 香港有个会说话的垃圾桶（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033093026529300480"
+          ]
+        },
+        "author_id": "1034996976029380608",
+        "conversation_id": "2033094209679536285",
+        "created_at": "2026-03-15T08:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033094209679536285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFn5O8Ykt1",
+              "end": 88,
+              "expanded_url": "https://x.com/CryptoDoggyCN/status/2033094209679536285/video/1",
+              "media_key": "13_2033093026529300480",
+              "start": 65,
+              "url": "https://t.co/OFn5O8Ykt1"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/_FORAB/status/2033005760914002056",
+              "start": 89,
+              "url": "https://t.co/kP581yrJr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033094209679536285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 245245,
+          "like_count": 667,
+          "quote_count": 12,
+          "reply_count": 43,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033005760914002056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "迪士尼是真有钱，雪宝机器人，已经在巴黎冰雪世界专区接客了。\n\n造价百万美元，相当于2俩劳斯莱斯。\n\n下个月估计香港也会驻点一个。 https://t.co/OFn5O8Ykt1 https://t.co/kP581yrJr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 804,
+          "like_count": 6839,
+          "listed_count": 7,
+          "media_count": 947,
+          "tweet_count": 3010
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-30T02:51:23.000Z",
+        "description": "Sperm Capital 创始人 | AKA安全出入金之王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gogoweb3",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/gogoweb3",
+                "start": 0,
+                "url": "https://t.co/lvNaWleKL8"
+              }
+            ]
+          }
+        },
+        "id": "1034996976029380608",
+        "location": "赛博狗窝",
+        "name": "Crypto Doggy 叫我狗总",
+        "pinned_tweet_id": "1868301319108542940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732298405337247744/qpgNtRU2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107295,
+          "following_count": 714,
+          "like_count": 1522,
+          "listed_count": 837,
+          "media_count": 1444,
+          "tweet_count": 5864
+        },
+        "url": "https://t.co/lvNaWleKL8",
+        "username": "CryptoDoggyCN",
+        "verified": true
+      }
+    ]
+  }
+}

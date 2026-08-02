@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895466695579381761"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1895466800609169800",
+    "created_at": "2025-02-28T13:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895466800609169800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0u9Yju5XB",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/1895466800609169800/photo/1",
+          "media_key": "3_1895466695579381761",
+          "start": 12,
+          "url": "https://t.co/q0u9Yju5XB"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1895442400535101628",
+          "start": 36,
+          "url": "https://t.co/EvEkmYzJOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895466800609169800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895442400535101628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新：警察稱已經找到人 https://t.co/q0u9Yju5XB https://t.co/EvEkmYzJOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 326,
+        "media_key": "3_1895466695579381761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4M6sGXsAEnJ57.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895466695579381761"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1895466800609169800",
+        "created_at": "2025-02-28T13:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895466800609169800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0u9Yju5XB",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1895466800609169800/photo/1",
+              "media_key": "3_1895466695579381761",
+              "start": 12,
+              "url": "https://t.co/q0u9Yju5XB"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1895442400535101628",
+              "start": 36,
+              "url": "https://t.co/EvEkmYzJOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895466800609169800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895442400535101628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新：警察稱已經找到人 https://t.co/q0u9Yju5XB https://t.co/EvEkmYzJOg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1895442400535101628",
+        "created_at": "2025-02-28T11:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895442400535101628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanabishirosak…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hanabishirosaki/status/1895408722111029627",
+              "start": 37,
+              "url": "https://t.co/l9b8lSGJ3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895442400535101628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895408722111029627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前此人有自殺風險，急需有人能提供她的姓名，在香港的住址等信息\n萬分感謝 https://t.co/l9b8lSGJ3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 518,
+          "like_count": 2032,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

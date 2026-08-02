@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993301329767460865"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993296438890316197",
+    "created_at": "2025-11-25T12:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993301335866011783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y9wGS2RLqe",
+          "end": 39,
+          "expanded_url": "https://x.com/FoxRed695449/status/1993301335866011783/photo/1",
+          "media_key": "3_1993301329767460865",
+          "start": 16,
+          "url": "https://t.co/Y9wGS2RLqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993301335866011783",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993296438890316197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend https://t.co/Y9wGS2RLqe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1993301329767460865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mg_5sacAEQ2r-.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993301329767460865"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993296438890316197",
+        "created_at": "2025-11-25T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993301335866011783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9wGS2RLqe",
+              "end": 39,
+              "expanded_url": "https://x.com/FoxRed695449/status/1993301335866011783/photo/1",
+              "media_key": "3_1993301329767460865",
+              "start": 16,
+              "url": "https://t.co/Y9wGS2RLqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993301335866011783",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993296438890316197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend https://t.co/Y9wGS2RLqe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1993296438890316197",
+        "created_at": "2025-11-25T12:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993296438890316197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993296438890316197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么查看我的ip地址啊卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 699,
+          "like_count": 4959,
+          "listed_count": 7,
+          "media_count": 896,
+          "tweet_count": 2736
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是腓特烈@goldwater8964 送的😁 对象❤️@juhao0721 ☮️ 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko ，我和@minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎野🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988699869490655232/xNFDU44D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 400,
+          "like_count": 4415,
+          "listed_count": 9,
+          "media_count": 494,
+          "tweet_count": 4314
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

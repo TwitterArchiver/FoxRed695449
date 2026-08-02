@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873261557779709963",
+    "created_at": "2024-12-29T08:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873290153198010863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873290153198010863",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873261557779709963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 抱抱\n辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873261557779709963",
+        "created_at": "2024-12-29T08:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873290153198010863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873290153198010863",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873261557779709963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 抱抱\n辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719571122642161664",
+        "conversation_id": "1873261557779709963",
+        "created_at": "2024-12-29T06:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873261557779709963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873261557779709963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯……我家里人还是很可怜的……导致我找他们要钱买个眼镜都要可怜兮兮的……总觉得还是很对不起他们的，你说为什么我要摊上这么多事情呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1073,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 564
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/85｜HRT23.9.4｜infp｜是一只可爱小猫咪w｜坐标上海｜有小证｜天残党家暴党｜BPD｜ADHD｜Asperger｜热爱贴贴｜可以叫咱猫猫/绫音/AGE｜姐姐 @Anan628769｜小号 @AGeCAT2008｜爱着的N55 @N552AA｜欢迎大家找咱交朋友w｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Anan628769"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "N552AA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 423,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

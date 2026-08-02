@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2058752570735386853",
+    "created_at": "2026-05-25T15:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058931300569149814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2012900421275365376",
+          "start": 0,
+          "username": "hex6u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokeitokeilol/…",
+          "end": 30,
+          "expanded_url": "https://x.com/tokeitokeilol/status/2058769347007729862?s=46&t=kqULhfyVycFB-dQcHjDieg",
+          "start": 7,
+          "url": "https://t.co/MAYmItj0Dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058931300569149814",
+    "in_reply_to_user_id": "2012900421275365376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058769347007729862",
+        "type": "quoted"
+      },
+      {
+        "id": "2058752570735386853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hex6u https://t.co/MAYmItj0Dx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2058769343010537472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI3z0SbgAARioq.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2058769343006318592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI3z0RbIAAqlSN.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058752437536821248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIobyfaEAA5--C.jpg",
+        "width": 942
+      },
+      {
+        "height": 789,
+        "media_key": "3_2058752437545267200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIobyha8AAJDgH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1840,
+        "media_key": "3_2058752437536833536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIobyfaQAAeau2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2058752570735386853",
+        "created_at": "2026-05-25T15:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058931300569149814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2012900421275365376",
+              "start": 0,
+              "username": "hex6u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokeitokeilol/…",
+              "end": 30,
+              "expanded_url": "https://x.com/tokeitokeilol/status/2058769347007729862?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 7,
+              "url": "https://t.co/MAYmItj0Dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058931300569149814",
+        "in_reply_to_user_id": "2012900421275365376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058769347007729862",
+            "type": "quoted"
+          },
+          {
+            "id": "2058752570735386853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hex6u https://t.co/MAYmItj0Dx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058769343010537472",
+            "3_2058769343006318592"
+          ]
+        },
+        "author_id": "1732613699788255232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2058769347007729862",
+        "created_at": "2026-05-25T04:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058769347007729862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "75223140",
+              "start": 52,
+              "username": "masanews3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUm2He3mAS",
+              "end": 86,
+              "expanded_url": "https://x.com/TokeiTokeiLOL/status/2058769347007729862/photo/1",
+              "media_key": "3_2058769343010537472",
+              "start": 63,
+              "url": "https://t.co/fUm2He3mAS"
+            },
+            {
+              "display_url": "pic.x.com/fUm2He3mAS",
+              "end": 86,
+              "expanded_url": "https://x.com/TokeiTokeiLOL/status/2058769347007729862/photo/1",
+              "media_key": "3_2058769343006318592",
+              "start": 63,
+              "url": "https://t.co/fUm2He3mAS"
+            },
+            {
+              "display_url": "x.com/masanews3/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/masanews3/status/2057980095676252187",
+              "start": 87,
+              "url": "https://t.co/G7ZddH5cG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058769347007729862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14784,
+          "like_count": 129,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057980095676252187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你丫双标的，要长这样拍YouTube不露脸我也理解了。当然我也不喜欢那些到处出片的网红，光着屁股拉磨。@masanews3 https://t.co/fUm2He3mAS https://t.co/G7ZddH5cG9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058752437536821248",
+            "3_2058752437545267200",
+            "3_2058752437536833536"
+          ]
+        },
+        "author_id": "2012900421275365376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          }
+        ],
+        "conversation_id": "2058752570735386853",
+        "created_at": "2026-05-25T03:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058752570735386853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHEH7SX1Rp",
+              "end": 142,
+              "expanded_url": "https://x.com/hex6u/status/2058752570735386853/photo/1",
+              "media_key": "3_2058752437536821248",
+              "start": 119,
+              "url": "https://t.co/cHEH7SX1Rp"
+            },
+            {
+              "display_url": "pic.x.com/cHEH7SX1Rp",
+              "end": 142,
+              "expanded_url": "https://x.com/hex6u/status/2058752570735386853/photo/1",
+              "media_key": "3_2058752437545267200",
+              "start": 119,
+              "url": "https://t.co/cHEH7SX1Rp"
+            },
+            {
+              "display_url": "pic.x.com/cHEH7SX1Rp",
+              "end": 142,
+              "expanded_url": "https://x.com/hex6u/status/2058752570735386853/photo/1",
+              "media_key": "3_2058752437536833536",
+              "start": 119,
+              "url": "https://t.co/cHEH7SX1Rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058752570735386853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【悲報】富士山ローソン前でダンスして「迷惑系」と晒された中国人インフルエンサー、まさかの大どんでん返しで日本人が世界中から揶揄される事態に\n\n▼ 流れ\n\n「コンビニ前でダンス。邪魔すぎ」と動画を晒す\n↓\nアカウントまで特定、大炎上へ\n↓\nしかし晒された側が「撮影したのは朝5時。誰も邪魔してないし証拠もある。悪意ある投稿だ」とタイムスタンプ付きで反論\n\nしっかり配慮して日本の良さを広めてくれてるのに、悪意ある切り抜きで叩くの普通に失礼すぎる。こういう一部の投稿のせいで、日本人の評価が下がっていってる気が........"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 560,
+          "impression_count": 2612269,
+          "like_count": 2173,
+          "quote_count": 303,
+          "reply_count": 753,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】富士山ローソン前でダンスして「迷惑系」と晒された中国人インフルエンサー、まさかの大どんでん返しで日本人が世界中から揶揄される事態に\n\n▼ 流れ\n\n「コンビニ前でダンス。邪魔すぎ」と動画を晒す\n↓\nアカウントまで特定、大炎上へ\n↓ https://t.co/cHEH7SX1Rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 835,
+          "like_count": 7990,
+          "listed_count": 6,
+          "media_count": 1027,
+          "tweet_count": 3273
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T14:50:40.000Z",
+        "description": "Xでの話題や気になったことを投稿します📝明日の話題などに使えるかもフォローしていただけると励みになります！\n投稿して欲しい情報やネタ持ってる方はDMまで！",
+        "id": "2012900421275365376",
+        "name": "話題のメモ帳",
+        "pinned_tweet_id": "2058500448324387037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022525540851486720/v0mxNx9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9537,
+          "following_count": 903,
+          "like_count": 2871,
+          "listed_count": 17,
+          "media_count": 383,
+          "tweet_count": 2485
+        },
+        "username": "hex6u",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T04:11:22.000Z",
+        "description": "顶级评论家\nAI菜鸟\nlsp",
+        "id": "1732613699788255232",
+        "location": "日本 ",
+        "name": "Tokei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058396796637102080/_c9wsGSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "username": "TokeiTokeiLOL",
+        "verified": true
+      }
+    ]
+  }
+}

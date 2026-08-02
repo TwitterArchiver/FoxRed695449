@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T15:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T16:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886432520654205383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1087770357166006272",
+          "start": 0,
+          "username": "AntistarOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886432520654205383",
+    "in_reply_to_user_id": "1087770357166006272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886431651141410882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntistarOF 我小時候也是，大概是因為我抑鬱症自殺以後和他們好好談了一下以後房間才變成這樣\n感覺溝通和個人經歷還是很重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T15:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886432520654205383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1087770357166006272",
+              "start": 0,
+              "username": "AntistarOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886432520654205383",
+        "in_reply_to_user_id": "1087770357166006272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886431651141410882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntistarOF 我小時候也是，大概是因為我抑鬱症自殺以後和他們好好談了一下以後房間才變成這樣\n感覺溝通和個人經歷還是很重要的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886431646309650432",
+            "3_1886431646301245440"
+          ]
+        },
+        "author_id": "1087770357166006272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T15:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886431651141410882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wveT70F0I4",
+              "end": 162,
+              "expanded_url": "https://x.com/AntistarOF/status/1886431651141410882/photo/1",
+              "media_key": "3_1886431646309650432",
+              "start": 139,
+              "url": "https://t.co/wveT70F0I4"
+            },
+            {
+              "display_url": "pic.x.com/wveT70F0I4",
+              "end": 162,
+              "expanded_url": "https://x.com/AntistarOF/status/1886431651141410882/photo/1",
+              "media_key": "3_1886431646301245440",
+              "start": 139,
+              "url": "https://t.co/wveT70F0I4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886431651141410882",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 其实对于很多出生在传统封建家庭的孩子，原po描述的情况还是普遍的，例如我前任。在我小时候我家人也不是很注重个人隐私，经常闯入我的房间，不过后来他们有意识到问题去改正。出来上学以后这种情况就彻底被杜绝了。不过回家还是会发现有些东西被收起来，例如手办。 https://t.co/wveT70F0I4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 452,
+          "like_count": 1340,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 806
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T17:53:57.000Z",
+        "description": "Music  diversity Trance/Artcore/Melodic中文/English",
+        "id": "1087770357166006272",
+        "name": "Antistar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1087777975104196608/tF4FFXy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 206,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "username": "AntistarOF",
+        "verified": true
+      }
+    ]
+  }
+}

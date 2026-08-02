@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933734022305492994"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1933734025598021744",
+    "created_at": "2025-06-14T03:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T04:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933734025598021744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4NwkCVxUKw",
+          "end": 33,
+          "expanded_url": "https://x.com/FoxRed695449/status/1933734025598021744/photo/1",
+          "media_key": "3_1933734022305492994",
+          "start": 10,
+          "url": "https://t.co/4NwkCVxUKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933734025598021744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不行，真的笑死我了 https://t.co/4NwkCVxUKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933734022305492994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYA2RGbMAIzNmM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933734022305492994"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1933734025598021744",
+        "created_at": "2025-06-14T03:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T04:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933734025598021744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NwkCVxUKw",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxRed695449/status/1933734025598021744/photo/1",
+              "media_key": "3_1933734022305492994",
+              "start": 10,
+              "url": "https://t.co/4NwkCVxUKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933734025598021744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行，真的笑死我了 https://t.co/4NwkCVxUKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 661,
+          "like_count": 3511,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

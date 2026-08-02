@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897150808333926400"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1897150827028209706",
+    "created_at": "2025-03-05T05:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T06:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897150827028209706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWQYZdpYLi",
+          "end": 52,
+          "expanded_url": "https://x.com/FoxRed695449/status/1897150827028209706/photo/1",
+          "media_key": "3_1897150808333926400",
+          "start": 29,
+          "url": "https://t.co/nWQYZdpYLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897150827028209706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "學校新教室環境好好\n為什麼不是所有教室都這麼好環境🤬🤬🤬 https://t.co/nWQYZdpYLi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1897150808333926400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlQIm9AWwAA6zoD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897150808333926400"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1897150827028209706",
+        "created_at": "2025-03-05T05:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T06:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897150827028209706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWQYZdpYLi",
+              "end": 52,
+              "expanded_url": "https://x.com/FoxRed695449/status/1897150827028209706/photo/1",
+              "media_key": "3_1897150808333926400",
+              "start": 29,
+              "url": "https://t.co/nWQYZdpYLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897150827028209706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "學校新教室環境好好\n為什麼不是所有教室都這麼好環境🤬🤬🤬 https://t.co/nWQYZdpYLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 532,
+          "like_count": 2173,
+          "listed_count": 5,
+          "media_count": 398,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

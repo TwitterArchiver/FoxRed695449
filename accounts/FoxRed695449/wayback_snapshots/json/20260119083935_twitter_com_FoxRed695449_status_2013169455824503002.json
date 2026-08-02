@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2012801934856515864",
+    "created_at": "2026-01-19T08:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013169455824503002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889206585152741376",
+          "start": 0,
+          "username": "ChanaWeins89377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013169455824503002",
+    "in_reply_to_user_id": "1889206585152741376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012801934856515864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanaWeins89377 不如我之前住院隔壁床的那位有精神分裂的天天喊“我被习近平附身了”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2012801916623880192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7orcuXgAAb2SA.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2012801934856515864",
+        "created_at": "2026-01-19T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013169455824503002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889206585152741376",
+              "start": 0,
+              "username": "ChanaWeins89377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013169455824503002",
+        "in_reply_to_user_id": "1889206585152741376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012801934856515864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanaWeins89377 不如我之前住院隔壁床的那位有精神分裂的天天喊“我被习近平附身了”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012801916623880192"
+          ]
+        },
+        "author_id": "1889206585152741376",
+        "conversation_id": "2012801934856515864",
+        "created_at": "2026-01-18T08:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012801934856515864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HduM2k98e",
+              "end": 35,
+              "expanded_url": "https://x.com/ChanaWeins89377/status/2012801934856515864/photo/1",
+              "media_key": "3_2012801916623880192",
+              "start": 12,
+              "url": "https://t.co/7HduM2k98e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012801934856515864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 103074,
+          "like_count": 661,
+          "quote_count": 11,
+          "reply_count": 22,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院住院部的心愿墙 https://t.co/7HduM2k98e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 739,
+          "like_count": 5694,
+          "listed_count": 7,
+          "media_count": 923,
+          "tweet_count": 2875
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟如果让你不高兴了对不起我没有恶意，有人找我玩我会很开心。搞一点中⌚，大概是一种周飞辱追，看见他挨骂（各种意义上的）我会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 54,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 93
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

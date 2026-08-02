@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006276796992700416",
+        "3_2006276797256884224"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2006071950708539760",
+    "created_at": "2025-12-31T08:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T09:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006276804563337571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1561753484512612353",
+          "start": 0,
+          "username": "Moutai_H_Maple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjIybmBdRS",
+          "end": 71,
+          "expanded_url": "https://x.com/FoxRed695449/status/2006276804563337571/photo/1",
+          "media_key": "3_2006276796992700416",
+          "start": 48,
+          "url": "https://t.co/mjIybmBdRS"
+        },
+        {
+          "display_url": "pic.x.com/mjIybmBdRS",
+          "end": 71,
+          "expanded_url": "https://x.com/FoxRed695449/status/2006276804563337571/photo/1",
+          "media_key": "3_2006276797256884224",
+          "start": 48,
+          "url": "https://t.co/mjIybmBdRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006276804563337571",
+    "in_reply_to_user_id": "1561753484512612353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006071950708539760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moutai_H_Maple 别说买个电子产品收13%的税了\n在中国你吃顿饭都有6%的税呢亲 https://t.co/mjIybmBdRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2006276796992700416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9e6Hf3bwAAbCUS.jpg",
+        "width": 1220
+      },
+      {
+        "height": 825,
+        "media_key": "3_2006276797256884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9e6Hg2a4AAiwgQ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006276796992700416",
+            "3_2006276797256884224"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006071950708539760",
+        "created_at": "2025-12-31T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006276804563337571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561753484512612353",
+              "start": 0,
+              "username": "Moutai_H_Maple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjIybmBdRS",
+              "end": 71,
+              "expanded_url": "https://x.com/FoxRed695449/status/2006276804563337571/photo/1",
+              "media_key": "3_2006276796992700416",
+              "start": 48,
+              "url": "https://t.co/mjIybmBdRS"
+            },
+            {
+              "display_url": "pic.x.com/mjIybmBdRS",
+              "end": 71,
+              "expanded_url": "https://x.com/FoxRed695449/status/2006276804563337571/photo/1",
+              "media_key": "3_2006276797256884224",
+              "start": 48,
+              "url": "https://t.co/mjIybmBdRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006276804563337571",
+        "in_reply_to_user_id": "1561753484512612353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006071950708539760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moutai_H_Maple 别说买个电子产品收13%的税了\n在中国你吃顿饭都有6%的税呢亲 https://t.co/mjIybmBdRS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561753484512612353",
+        "conversation_id": "2006071950708539760",
+        "created_at": "2025-12-30T18:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T19:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006071950708539760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006071950708539760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国补这个，我本来还觉得我们党挺大方\n结果我前几天想回收一台我去年的小米手机，港版的。结果人家说港版回收比大陆国行手机少1500块。\n我问为什么，他说港版手机不交税。我就寻思国行的电子产品收了多少税，合着国补实际上就是退税呗。\n老百姓其实税没少交，但是不说谁知道自己交了这么多税。想想也是，要是跟加拿大一样货架只显示商品价，结账才算税。\n6888售价手机，结账的时候变成8000，那一颗红心都凉透了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4091,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国补这个，我本来还觉得我们党挺大方\n结果我前几天想回收一台我去年的小米手机，港版的。结果人家说港版回收比大陆国行手机少1500块。\n我问为什么，他说港版手机不交税。我就寻思国行的电子产品收了多少税，合着国补实际上就是退税呗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 722,
+          "like_count": 5465,
+          "listed_count": 7,
+          "media_count": 915,
+          "tweet_count": 2823
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "Studying in Canada 🇨🇦 |男同性恋，自认携带y染负能量病毒载体，靠近会被污染。\n尝试学徒（Apprentice）、观众（Spectator）双途径｜有很多名字：茅台、Nanase、Maple、Katon….｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅mtaiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 213,
+          "like_count": 1547,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1718
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

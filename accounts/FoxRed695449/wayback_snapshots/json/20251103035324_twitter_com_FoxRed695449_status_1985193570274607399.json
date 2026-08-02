@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985193548233543681"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1985193570274607399",
+    "created_at": "2025-11-03T03:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T04:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985193570274607399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6tRhS89yS0",
+          "end": 72,
+          "expanded_url": "https://x.com/FoxRed695449/status/1985193570274607399/photo/1",
+          "media_key": "3_1985193548233543681",
+          "start": 49,
+          "url": "https://t.co/6tRhS89yS0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1985193570274607399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "路上看到的,還有喇叭喊（我並不支持民建聯\n但對于內地遊客（沒有出國過的）來說也算香港特色了🤣🤣🤣 https://t.co/6tRhS89yS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985193548233543681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zTA5zbkAExyXf.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985193548233543681"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1985193570274607399",
+        "created_at": "2025-11-03T03:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985193570274607399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tRhS89yS0",
+              "end": 72,
+              "expanded_url": "https://x.com/FoxRed695449/status/1985193570274607399/photo/1",
+              "media_key": "3_1985193548233543681",
+              "start": 49,
+              "url": "https://t.co/6tRhS89yS0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1985193570274607399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路上看到的,還有喇叭喊（我並不支持民建聯\n但對于內地遊客（沒有出國過的）來說也算香港特色了🤣🤣🤣 https://t.co/6tRhS89yS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 672,
+          "like_count": 4753,
+          "listed_count": 7,
+          "media_count": 866,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

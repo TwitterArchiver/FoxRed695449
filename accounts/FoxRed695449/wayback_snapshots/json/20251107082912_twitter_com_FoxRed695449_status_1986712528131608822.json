@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986712515783585793",
+        "3_1986712516337221632"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1986712528131608822",
+    "created_at": "2025-11-07T08:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986712528131608822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3R172qWNWO",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1986712528131608822/photo/1",
+          "media_key": "3_1986712515783585793",
+          "start": 40,
+          "url": "https://t.co/3R172qWNWO"
+        },
+        {
+          "display_url": "pic.x.com/3R172qWNWO",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1986712528131608822/photo/1",
+          "media_key": "3_1986712516337221632",
+          "start": 40,
+          "url": "https://t.co/3R172qWNWO"
+        },
+        {
+          "display_url": "x.com/SpicyspacEmk16…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1986585141150658972",
+          "start": 64,
+          "url": "https://t.co/eyzaVF7HIs"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "1986712528131608822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986585141150658972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說起「霸王條款」這事情（與此事無關）\n我估計沒人讀過「Apple媒體服務條款」 https://t.co/3R172qWNWO https://t.co/eyzaVF7HIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_1986712515783585793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I4gc4acAEMzh3.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986712516337221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5I4ge8aQAA_qhA.jpg",
+        "width": 760
+      },
+      {
+        "height": 1573,
+        "media_key": "3_1986585132627861504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5HEpxpbIAAKQTY.jpg",
+        "width": 1389
+      }
+    ],
+    "places": [
+      {
+        "country": "Taiwan",
+        "country_code": "TW",
+        "full_name": "Taiwan",
+        "geo": {
+          "bbox": [
+            118.1261605,
+            21.754958,
+            124.579142,
+            26.460533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "204a435ce97d5de4",
+        "name": "Taiwan",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986712515783585793",
+            "3_1986712516337221632"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1986712528131608822",
+        "created_at": "2025-11-07T08:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986712528131608822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3R172qWNWO",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1986712528131608822/photo/1",
+              "media_key": "3_1986712515783585793",
+              "start": 40,
+              "url": "https://t.co/3R172qWNWO"
+            },
+            {
+              "display_url": "pic.x.com/3R172qWNWO",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1986712528131608822/photo/1",
+              "media_key": "3_1986712516337221632",
+              "start": 40,
+              "url": "https://t.co/3R172qWNWO"
+            },
+            {
+              "display_url": "x.com/SpicyspacEmk16…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1986585141150658972",
+              "start": 64,
+              "url": "https://t.co/eyzaVF7HIs"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1986712528131608822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986585141150658972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說起「霸王條款」這事情（與此事無關）\n我估計沒人讀過「Apple媒體服務條款」 https://t.co/3R172qWNWO https://t.co/eyzaVF7HIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986585132627861504"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1986585141150658972",
+        "created_at": "2025-11-07T00:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T01:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986585141150658972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7lArgPu33",
+              "end": 77,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1986585141150658972/photo/1",
+              "media_key": "3_1986585132627861504",
+              "start": 54,
+              "url": "https://t.co/s7lArgPu33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986585141150658972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就很不理解为什么那么多人会认为这种霸王条款合理 只能说灰色地带毫无监管的东西确实容易出现卖东西的变成上帝了 https://t.co/s7lArgPu33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 675,
+          "like_count": 4763,
+          "listed_count": 7,
+          "media_count": 869,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 1310,
+          "like_count": 87768,
+          "listed_count": 4,
+          "media_count": 653,
+          "tweet_count": 8282
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993448431495659796",
+    "created_at": "2025-11-27T06:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993926552736944539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 18,
+          "id": "1433678976564662273",
+          "start": 10,
+          "username": "hsn8086"
+        },
+        {
+          "end": 34,
+          "id": "1845454917236031495",
+          "start": 19,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 45,
+          "id": "1863439189909618688",
+          "start": 35,
+          "username": "hsn8086xe"
+        },
+        {
+          "end": 55,
+          "id": "1271652280438308864",
+          "start": 46,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993926552736944539",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993895567794295159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @hsn8086 @Dontbesadforit @hsn8086xe @Jaciezyt 姐姐求你了我真不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993448431495659796",
+        "created_at": "2025-11-27T06:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993926552736944539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            },
+            {
+              "end": 34,
+              "id": "1845454917236031495",
+              "start": 19,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 45,
+              "id": "1863439189909618688",
+              "start": 35,
+              "username": "hsn8086xe"
+            },
+            {
+              "end": 55,
+              "id": "1271652280438308864",
+              "start": 46,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993926552736944539",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993895567794295159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @hsn8086 @Dontbesadforit @hsn8086xe @Jaciezyt 姐姐求你了我真不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "1993448431495659796",
+        "created_at": "2025-11-27T04:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993895567794295159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 24,
+              "id": "1845454917236031495",
+              "start": 9,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 35,
+              "id": "1863439189909618688",
+              "start": 25,
+              "username": "hsn8086xe"
+            },
+            {
+              "end": 44,
+              "id": "1433678976564662273",
+              "start": 36,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993895567794295159",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993878872102982134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @Dontbesadforit @hsn8086xe @hsn8086 姐姐求你了我真不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 703,
+          "like_count": 4994,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2758
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2987,
+          "following_count": 749,
+          "like_count": 51215,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 12768
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110167,
+          "following_count": 1001,
+          "like_count": 47513,
+          "listed_count": 243,
+          "media_count": 17567,
+          "tweet_count": 26229
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "大白是我的狗，猫卷也是 MtF/无证含糖/🏳️‍⚧️HRT 2025.11.26 猫卷你他妈别改我bio了 我是纯顺直男",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 937,
+          "like_count": 57348,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 7623
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28541,
+          "following_count": 362,
+          "like_count": 61,
+          "listed_count": 82,
+          "media_count": 8382,
+          "tweet_count": 8411
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

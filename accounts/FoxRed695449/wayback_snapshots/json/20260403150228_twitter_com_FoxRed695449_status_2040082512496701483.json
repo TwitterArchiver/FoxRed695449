@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040082509158035456"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2040013749822816697",
+    "created_at": "2026-04-03T15:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040082512496701483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 26,
+          "id": "4752010152",
+          "start": 10,
+          "username": "garrulous_abyss"
+        },
+        {
+          "end": 39,
+          "id": "1556187726558515201",
+          "start": 27,
+          "username": "__Lucas04__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/teM3KrXCsu",
+          "end": 86,
+          "expanded_url": "https://x.com/FoxRed695449/status/2040082512496701483/photo/1",
+          "media_key": "3_2040082509158035456",
+          "start": 63,
+          "url": "https://t.co/teM3KrXCsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040082512496701483",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040014548942701032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @garrulous_abyss @__Lucas04__ 一想到我不是中国籍我考ABB就能上北大就想笑 https://t.co/teM3KrXCsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2040082509158035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_UO7baMAAK7Xb.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040082509158035456"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2040013749822816697",
+        "created_at": "2026-04-03T15:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040082512496701483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 26,
+              "id": "4752010152",
+              "start": 10,
+              "username": "garrulous_abyss"
+            },
+            {
+              "end": 39,
+              "id": "1556187726558515201",
+              "start": 27,
+              "username": "__Lucas04__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/teM3KrXCsu",
+              "end": 86,
+              "expanded_url": "https://x.com/FoxRed695449/status/2040082512496701483/photo/1",
+              "media_key": "3_2040082509158035456",
+              "start": 63,
+              "url": "https://t.co/teM3KrXCsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040082512496701483",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040014548942701032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @garrulous_abyss @__Lucas04__ 一想到我不是中国籍我考ABB就能上北大就想笑 https://t.co/teM3KrXCsu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2040013749822816697",
+        "created_at": "2026-04-03T10:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040014548942701032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556187726558515201",
+              "start": 0,
+              "username": "__Lucas04__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040014548942701032",
+        "in_reply_to_user_id": "1556187726558515201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040013749822816697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Lucas04__ 公平在哪 省内教育资源分配都不平衡 更不用说省际了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 817,
+          "like_count": 7327,
+          "listed_count": 7,
+          "media_count": 966,
+          "tweet_count": 3075
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3907,
+          "following_count": 909,
+          "like_count": 61331,
+          "listed_count": 10,
+          "media_count": 1274,
+          "tweet_count": 14938
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31575,
+          "following_count": 3672,
+          "like_count": 182499,
+          "listed_count": 107,
+          "media_count": 3863,
+          "tweet_count": 66987
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lucas04.top/about/",
+                "end": 23,
+                "expanded_url": "https://blog.lucas04.top/about/",
+                "start": 0,
+                "url": "https://t.co/ozwLzT6Si8"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 380,
+          "like_count": 7022,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/ozwLzT6Si8",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

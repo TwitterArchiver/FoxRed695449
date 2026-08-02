@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Investors and patents",
+          "id": "857878402157629440",
+          "name": "Investors and patents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1981610098863772098",
+    "created_at": "2025-10-24T06:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981610098863772098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/_FORAB/status/1981225988651700737",
+          "start": 135,
+          "url": "https://t.co/Oh79C622lk"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "013e6a97793d4084"
+    },
+    "id": "1981610098863772098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981225988651700737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然感覺那些基金、結構性投資的風險提示也能用在這裡：\n本產品並無抵押品。如發行人無力償债或違約，投資者可能無法收回部份或全部應收款項。本產品的價格可急升急跌，甚至變的毫無價值，投資者可能完全損失其投資。過往表現並不反映將來表現。投資前請參閱作出風險評估及尋求專業意見。 https://t.co/Oh79C622lk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_1981225445061210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G366C5jWsAAjwSG.jpg",
+        "width": 856
+      },
+      {
+        "height": 1802,
+        "media_key": "3_1981225761760522240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G366VVWWsAAJf1r.jpg",
+        "width": 1179
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Southern District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1100457,
+            22.1930645,
+            114.3103439,
+            22.275622
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "013e6a97793d4084",
+        "name": "Southern District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1981610098863772098",
+        "created_at": "2025-10-24T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981610098863772098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/_FORAB/status/1981225988651700737",
+              "start": 135,
+              "url": "https://t.co/Oh79C622lk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "013e6a97793d4084"
+        },
+        "id": "1981610098863772098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981225988651700737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然感覺那些基金、結構性投資的風險提示也能用在這裡：\n本產品並無抵押品。如發行人無力償债或違約，投資者可能無法收回部份或全部應收款項。本產品的價格可急升急跌，甚至變的毫無價值，投資者可能完全損失其投資。過往表現並不反映將來表現。投資前請參閱作出風險評估及尋求專業意見。 https://t.co/Oh79C622lk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981225445061210112",
+            "3_1981225761760522240"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1981225988651700737",
+        "created_at": "2025-10-23T05:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981225988651700737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9DucsItyh",
+              "end": 176,
+              "expanded_url": "https://x.com/_FORAB/status/1981225988651700737/photo/1",
+              "media_key": "3_1981225445061210112",
+              "start": 153,
+              "url": "https://t.co/Q9DucsItyh"
+            },
+            {
+              "display_url": "pic.x.com/Q9DucsItyh",
+              "end": 176,
+              "expanded_url": "https://x.com/_FORAB/status/1981225988651700737/photo/1",
+              "media_key": "3_1981225761760522240",
+              "start": 153,
+              "url": "https://t.co/Q9DucsItyh"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "594fa6c6bc5b5ba9"
+        },
+        "id": "1981225988651700737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全年一度涨幅超过比特币、标普 500 的 CSGO、CS2 游戏饰品道具，在今天早间全面崩盘。\n\n本该全年录得 76% 的涨幅\n今早饰品指数，直接下跌了 36%\n\n社区解释原因是因为近期的版本更新\n导致原本需要开箱，获得的刀子、手套类饰品\n现在可以直接，用 5 个红色等级饰品合成\n\n被社区解读为资产超发\n目前仍在下跌中，疑似恐慌踩踏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 190077,
+          "like_count": 445,
+          "quote_count": 15,
+          "reply_count": 110,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "全年一度涨幅超过比特币、标普 500 的 CSGO、CS2 游戏饰品道具，在今天早间全面崩盘。\n\n本该全年录得 76% 的涨幅\n今早饰品指数，直接下跌了 36%\n\n社区解释原因是因为近期的版本更新\n导致原本需要开箱，获得的刀子、手套类饰品\n现在可以直接，用 5 个红色等级饰品合成\n\n被社区解读为资产超发 https://t.co/Q9DucsItyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 682,
+          "like_count": 4702,
+          "listed_count": 7,
+          "media_count": 864,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱家庭，热爱研究，2016 入圈从业｜Ex @MeStar_Game @zkGamesClub @BlockBeatsAsia @sylo 元宝网｜已签约 币安广场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "MeStar_Game"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "zkGamesClub"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "BlockBeatsAsia"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "username": "sylo"
+              }
+            ]
+          }
+        },
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82821,
+          "following_count": 518,
+          "like_count": 8427,
+          "listed_count": 1445,
+          "media_count": 1554,
+          "tweet_count": 10323
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

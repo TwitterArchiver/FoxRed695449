@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860163742358732802"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1860163753247146171",
+    "created_at": "2024-11-23T03:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T04:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860163753247146171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGDQy1YDL5",
+          "end": 27,
+          "expanded_url": "https://x.com/FoxRed695449/status/1860163753247146171/photo/1",
+          "media_key": "3_1860163742358732802",
+          "start": 4,
+          "url": "https://t.co/rGDQy1YDL5"
+        },
+        {
+          "display_url": "x.com/shiratsuyudach…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/shiratsuyudachi/status/1860158520118902908",
+          "start": 28,
+          "url": "https://t.co/iAaq1KmBU0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860163753247146171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860158520118902908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要了 https://t.co/rGDQy1YDL5 https://t.co/iAaq1KmBU0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1860163742358732802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdChEW9agAIhoFx.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860163742358732802"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1860163753247146171",
+        "created_at": "2024-11-23T03:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T04:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860163753247146171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGDQy1YDL5",
+              "end": 27,
+              "expanded_url": "https://x.com/FoxRed695449/status/1860163753247146171/photo/1",
+              "media_key": "3_1860163742358732802",
+              "start": 4,
+              "url": "https://t.co/rGDQy1YDL5"
+            },
+            {
+              "display_url": "x.com/shiratsuyudach…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/shiratsuyudachi/status/1860158520118902908",
+              "start": 28,
+              "url": "https://t.co/iAaq1KmBU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860163753247146171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860158520118902908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要了 https://t.co/rGDQy1YDL5 https://t.co/iAaq1KmBU0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138408165014364162",
+        "conversation_id": "1860158520118902908",
+        "created_at": "2024-11-23T03:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T04:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860158520118902908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kxk1388574/status/1859978300141302019",
+              "start": 5,
+              "url": "https://t.co/XVAJrk7QIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860158520118902908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859978300141302019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "*想要了 https://t.co/XVAJrk7QIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 231,
+          "like_count": 232,
+          "listed_count": 2,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。更多信息请参阅置顶推文｜里号@shiratsuyukata｜单推 @Cyan_0731 ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 42,
+                "username": "shiratsuyukata"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Cyan_0731"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1520,
+          "like_count": 43841,
+          "listed_count": 8,
+          "tweet_count": 10648
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      }
+    ]
+  }
+}

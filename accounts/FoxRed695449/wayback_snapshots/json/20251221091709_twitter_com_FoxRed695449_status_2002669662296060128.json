@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2002374417696104826",
+    "created_at": "2025-12-21T09:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002669662296060128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002669662296060128",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002374417696104826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 手指还好吗🥹🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2002374380320694272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8nc485boAAq5IE.jpg",
+        "width": 2075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2002374417696104826",
+        "created_at": "2025-12-21T09:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002669662296060128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002669662296060128",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002374417696104826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 手指还好吗🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002374380320694272"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "2002374417696104826",
+        "created_at": "2025-12-20T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002374417696104826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0PXANMZYb",
+              "end": 44,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2002374417696104826/photo/1",
+              "media_key": "3_2002374380320694272",
+              "start": 21,
+              "url": "https://t.co/K0PXANMZYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002374417696104826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3653,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了为什么这都要写上去，音游害人啊啊啊 https://t.co/K0PXANMZYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 713,
+          "like_count": 5413,
+          "listed_count": 7,
+          "media_count": 913,
+          "tweet_count": 2817
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n高三牲/退役CChOer🧪||药理学💊，有机化学🧬，声乐🎙️，明日方舟，maimaiDX||想到什么发什么||我还想和你一起多看看这个世界\n☆🤗期待与你相逢ヾ(◍°∇°◍)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "宝批龙宫",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000432555192168448/tzepFMyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 539,
+          "like_count": 7860,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 2815
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

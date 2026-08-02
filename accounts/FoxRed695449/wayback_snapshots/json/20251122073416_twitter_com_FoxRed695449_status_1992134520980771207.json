@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992134515071062016"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1992027345017045462",
+    "created_at": "2025-11-22T07:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992134520980771207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762372511894056960",
+          "start": 0,
+          "username": "hakis26"
+        },
+        {
+          "end": 22,
+          "id": "1811888010088316932",
+          "start": 9,
+          "username": "cuichenghao7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8V3HGAzTIp",
+          "end": 76,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992134520980771207/photo/1",
+          "media_key": "3_1992134515071062016",
+          "start": 53,
+          "url": "https://t.co/8V3HGAzTIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992134520980771207",
+    "in_reply_to_user_id": "1762372511894056960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992080211329036398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakis26 @cuichenghao7 影响航母战力的主要因素之一就是舰载机出动效率\n你在说什么呢 https://t.co/8V3HGAzTIp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1992134515071062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6V7yWObEAAybdS.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992134515071062016"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T07:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992134520980771207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762372511894056960",
+              "start": 0,
+              "username": "hakis26"
+            },
+            {
+              "end": 22,
+              "id": "1811888010088316932",
+              "start": 9,
+              "username": "cuichenghao7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V3HGAzTIp",
+              "end": 76,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992134520980771207/photo/1",
+              "media_key": "3_1992134515071062016",
+              "start": 53,
+              "url": "https://t.co/8V3HGAzTIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992134520980771207",
+        "in_reply_to_user_id": "1762372511894056960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992080211329036398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakis26 @cuichenghao7 影响航母战力的主要因素之一就是舰载机出动效率\n你在说什么呢 https://t.co/8V3HGAzTIp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762372511894056960",
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T03:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992080211329036398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992080211329036398",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992027345017045462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 这个就是鸡蛋里挑骨头吹毛求疵。实际上你那个航母那么大点面积。 你就是在实战中同时起降飞机用到的机会恐怕也不多，那是非常危险的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 690,
+          "like_count": 4902,
+          "listed_count": 7,
+          "media_count": 889,
+          "tweet_count": 2706
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T07:02:58.000Z",
+        "description": "",
+        "id": "1762372511894056960",
+        "name": "bocal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817288534455103488/1YZmhJF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 21,
+          "like_count": 865,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 14441
+        },
+        "username": "hakis26",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60739,
+          "following_count": 497,
+          "like_count": 2342,
+          "listed_count": 202,
+          "media_count": 1096,
+          "tweet_count": 1205
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

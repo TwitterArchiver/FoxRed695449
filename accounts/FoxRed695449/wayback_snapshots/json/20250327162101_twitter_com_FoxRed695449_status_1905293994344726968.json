@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1905204862272573546",
+    "created_at": "2025-03-27T16:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T17:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905293994344726968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "875709617480753154",
+          "start": 0,
+          "username": "ni_bingbing_jie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905293994344726968",
+    "in_reply_to_user_id": "875709617480753154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905204862272573546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ni_bingbing_jie 雖然蒙古沙子挺多的...但內地也有像塔克拉瑪干沙漠這樣的一堆沙漠啊..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1905204862272573546",
+        "created_at": "2025-03-27T16:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T17:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905293994344726968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "875709617480753154",
+              "start": 0,
+              "username": "ni_bingbing_jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905293994344726968",
+        "in_reply_to_user_id": "875709617480753154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905204862272573546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni_bingbing_jie 雖然蒙古沙子挺多的...但內地也有像塔克拉瑪干沙漠這樣的一堆沙漠啊..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "875709617480753154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1905204862272573546",
+        "created_at": "2025-03-27T10:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905204862272573546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xg3sT57W994pQc…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Xg3sT57W994pQc/status/1903519678842212697",
+              "start": 48,
+              "url": "https://t.co/8oXKOKTwSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905204862272573546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9047,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903519678842212697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这又是什么傻逼。\n花粉是你日本国土上长出来的，\n黄沙是从蒙古国吹过来的，\n看点地理书这么难吗？ https://t.co/8oXKOKTwSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3471,
+          "following_count": 579,
+          "like_count": 2657,
+          "listed_count": 7,
+          "media_count": 450,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-16T13:40:17.000Z",
+        "description": "氷氷美人党幹事長、㈱中国スリムパラダイスアジア太平洋地区総代理\n山西省洪洞县大槐树后人\n✧₊⁎❝᷀ົཽ≀ˍ̮ ❝᷀ົཽ⁎⁺˳✧༚ᠲᠠᠪᠤᠨ ᠡᠰᠢᠲᠦ ᠨᠠᠮ ᠤᠨ ᠲᠡᠷᠢᠭᠦᠯᠡᠭᠴᠢ\n✨清水ともみのデマ反対✨邓为的梦中情人，窦骁也很迷🎶鍵垢のフォロワーをブロックするから悪しからず🎶wordle日課🎶",
+        "id": "875709617480753154",
+        "location": "霓虹",
+        "name": "【HENTAI】🌈東北照氷氷🇵🇸楕円機減量中",
+        "pinned_tweet_id": "1262702274888888320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766684316611043328/BnfnkqiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164,
+          "following_count": 771,
+          "like_count": 160934,
+          "listed_count": 46,
+          "media_count": 5015,
+          "tweet_count": 58321
+        },
+        "username": "ni_bingbing_jie",
+        "verified": false
+      }
+    ]
+  }
+}

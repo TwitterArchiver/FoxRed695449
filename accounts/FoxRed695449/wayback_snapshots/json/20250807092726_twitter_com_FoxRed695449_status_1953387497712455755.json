@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953387488023916544"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1952584842186756322",
+    "created_at": "2025-08-07T09:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953387497712455755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/61AUdfYIhe",
+          "end": 44,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953387497712455755/photo/1",
+          "media_key": "3_1953387488023916544",
+          "start": 21,
+          "url": "https://t.co/61AUdfYIhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953387497712455755",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953384939749003401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 🖐️😭🖐️ https://t.co/61AUdfYIhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1953387488023916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvTkiRbsAA-XzG.jpg",
+        "width": 1427
+      },
+      {
+        "height": 360,
+        "media_key": "3_1953384929678774272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvRPnsa0AAiak7.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953387488023916544"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1952584842186756322",
+        "created_at": "2025-08-07T09:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953387497712455755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/61AUdfYIhe",
+              "end": 44,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953387497712455755/photo/1",
+              "media_key": "3_1953387488023916544",
+              "start": 21,
+              "url": "https://t.co/61AUdfYIhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953387497712455755",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953384939749003401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 🖐️😭🖐️ https://t.co/61AUdfYIhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953384929678774272"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "1952584842186756322",
+        "created_at": "2025-08-07T09:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953384939749003401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZCbo59ocr",
+              "end": 49,
+              "expanded_url": "https://x.com/Goldwater8964/status/1953384939749003401/photo/1",
+              "media_key": "3_1953384929678774272",
+              "start": 26,
+              "url": "https://t.co/hZCbo59ocr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953384939749003401",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953384657958912359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 政府支持的訴求.jpg https://t.co/hZCbo59ocr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 679,
+          "like_count": 3878,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "Aucklander/Conservative/Male",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928729066917474304/7C1phgkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 187,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 151
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1984648676535320675",
+    "created_at": "2025-11-01T15:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984651221370880319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697848099090411520",
+          "start": 0,
+          "username": "caicaihi1110"
+        },
+        {
+          "end": 30,
+          "id": "1525487854763364354",
+          "start": 14,
+          "username": "xinzhongdeaishi"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01cb3bd54f92388e"
+    },
+    "id": "1984651221370880319",
+    "in_reply_to_user_id": "1697848099090411520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984649774499577937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicaihi1110 @xinzhongdeaishi 我之前HRT的处分都被盗到小红书上过🤣"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Wan Chai District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.163389,
+            22.252055,
+            114.2069673,
+            22.2912933
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "01cb3bd54f92388e",
+        "name": "Wan Chai District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1984648676535320675",
+        "created_at": "2025-11-01T15:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984651221370880319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697848099090411520",
+              "start": 0,
+              "username": "caicaihi1110"
+            },
+            {
+              "end": 30,
+              "id": "1525487854763364354",
+              "start": 14,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1984651221370880319",
+        "in_reply_to_user_id": "1697848099090411520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984649774499577937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicaihi1110 @xinzhongdeaishi 我之前HRT的处分都被盗到小红书上过🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697848099090411520",
+        "conversation_id": "1984648676535320675",
+        "created_at": "2025-11-01T15:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984649774499577937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525487854763364354",
+              "start": 0,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984649774499577937",
+        "in_reply_to_user_id": "1525487854763364354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984648676535320675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzhongdeaishi 这种人到底怎么想的，又不敢真跟人家见面🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 670,
+          "like_count": 4746,
+          "listed_count": 7,
+          "media_count": 864,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-02T05:45:13.000Z",
+        "description": "想要幸福一点点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://so.sulink.life/#/register?code=ijQ7d4sT",
+                "start": 0,
+                "url": "https://t.co/ba3w14fjg5"
+              }
+            ]
+          }
+        },
+        "id": "1697848099090411520",
+        "location": "自用高速稳定梯子",
+        "name": "香菜百香果小蛋糕",
+        "pinned_tweet_id": "1835753779079385489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802332289323642880/XatYNQ4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4603,
+          "following_count": 1391,
+          "like_count": 24145,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 6500
+        },
+        "url": "https://t.co/ba3w14fjg5",
+        "username": "caicaihi1110",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希",
+        "id": "1525487854763364354",
+        "location": "陆沉🐰",
+        "name": "sisi77_",
+        "pinned_tweet_id": "1981979222747807963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 96,
+          "like_count": 1750,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1545
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1947539507298828719",
+    "created_at": "2025-07-22T06:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T07:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947539723423256686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947539723423256686",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947539507298828719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 草草草\n这个我其实也有买的兴趣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_1947539503624630275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcM3CuWMAMGswE.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1947539507298828719",
+        "created_at": "2025-07-22T06:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947539723423256686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947539723423256686",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947539507298828719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 草草草\n这个我其实也有买的兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947539503624630275"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947539507298828719",
+        "created_at": "2025-07-22T06:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947539507298828719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blpQvSnQ1c",
+              "end": 30,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/1947539507298828719/photo/1",
+              "media_key": "3_1947539503624630275",
+              "start": 7,
+              "url": "https://t.co/blpQvSnQ1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947539507298828719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看的扣1👀 https://t.co/blpQvSnQ1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 675,
+          "like_count": 3780,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1942793846691385779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 3582,
+          "like_count": 136363,
+          "listed_count": 15,
+          "media_count": 2212,
+          "tweet_count": 20584
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

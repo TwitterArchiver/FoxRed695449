@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1967881091454582969",
+    "created_at": "2025-09-17T05:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968180852212597241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "768296787190820864",
+          "start": 0,
+          "username": "PFR_ice"
+        },
+        {
+          "end": 24,
+          "id": "974517717200875529",
+          "start": 9,
+          "username": "localhost_4173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968180852212597241",
+    "in_reply_to_user_id": "768296787190820864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967894602620473454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PFR_ice @localhost_4173 不过MacOS比iOS和iPadOS容易搞多了\n随便降级还能随便升级（包括不支持的设备）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1967881091454582969",
+        "created_at": "2025-09-17T05:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968180852212597241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "768296787190820864",
+              "start": 0,
+              "username": "PFR_ice"
+            },
+            {
+              "end": 24,
+              "id": "974517717200875529",
+              "start": 9,
+              "username": "localhost_4173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968180852212597241",
+        "in_reply_to_user_id": "768296787190820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967894602620473454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PFR_ice @localhost_4173 不过MacOS比iOS和iPadOS容易搞多了\n随便降级还能随便升级（包括不支持的设备）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768296787190820864",
+        "conversation_id": "1967881091454582969",
+        "created_at": "2025-09-16T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967894602620473454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "974517717200875529",
+              "start": 0,
+              "username": "localhost_4173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967894602620473454",
+        "in_reply_to_user_id": "974517717200875529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1240,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967881091454582969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@localhost_4173 我已经想把升级了的电脑砸了，成山寨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 693,
+          "like_count": 4354,
+          "listed_count": 8,
+          "media_count": 798,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-24T04:00:03.000Z",
+        "description": "🤫",
+        "id": "768296787190820864",
+        "name": "🫨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902566069681991680/d6eymvpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 371,
+          "like_count": 91,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 803
+        },
+        "username": "PFR_ice",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-16T05:28:24.000Z",
+        "description": "CEO of https://t.co/CjrW0kKKPC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chatwise.app",
+                "end": 30,
+                "expanded_url": "http://chatwise.app",
+                "start": 7,
+                "url": "https://t.co/CjrW0kKKPC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egoist.dev",
+                "end": 23,
+                "expanded_url": "https://egoist.dev",
+                "start": 0,
+                "url": "https://t.co/9otA2Ck0eR"
+              }
+            ]
+          }
+        },
+        "id": "974517717200875529",
+        "location": "Gooning",
+        "name": "低空飞行",
+        "pinned_tweet_id": "1907962321751691563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966745622394138624/5Z9goIiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12155,
+          "following_count": 532,
+          "like_count": 23160,
+          "listed_count": 151,
+          "media_count": 2313,
+          "tweet_count": 7518
+        },
+        "url": "https://t.co/9otA2Ck0eR",
+        "username": "localhost_4173",
+        "verified": true
+      }
+    ]
+  }
+}

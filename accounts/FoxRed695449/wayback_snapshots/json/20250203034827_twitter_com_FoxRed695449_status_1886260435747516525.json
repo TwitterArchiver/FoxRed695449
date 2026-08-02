@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886060907492413647",
+    "created_at": "2025-02-03T03:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T04:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886260435747516525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874276426565996544",
+          "start": 0,
+          "username": "xcgfrdshi"
+        },
+        {
+          "end": 21,
+          "id": "1538088308827656193",
+          "start": 11,
+          "username": "Luckin030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886260435747516525",
+    "in_reply_to_user_id": "1874276426565996544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886258129500799340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcgfrdshi @Luckin030 那香港所有地鐵站都是廁所了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886060907492413647",
+        "created_at": "2025-02-03T03:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T04:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886260435747516525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874276426565996544",
+              "start": 0,
+              "username": "xcgfrdshi"
+            },
+            {
+              "end": 21,
+              "id": "1538088308827656193",
+              "start": 11,
+              "username": "Luckin030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886260435747516525",
+        "in_reply_to_user_id": "1874276426565996544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886258129500799340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcgfrdshi @Luckin030 那香港所有地鐵站都是廁所了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874276426565996544",
+        "conversation_id": "1886060907492413647",
+        "created_at": "2025-02-03T03:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T04:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886258129500799340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1538088308827656193",
+              "start": 0,
+              "username": "Luckin030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886258129500799340",
+        "in_reply_to_user_id": "1538088308827656193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886060907492413647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckin030 这么贴瓷砖的地方，基本都是厕所"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3616,
+          "following_count": 446,
+          "like_count": 1333,
+          "listed_count": 6,
+          "media_count": 259,
+          "tweet_count": 764
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T02:08:25.000Z",
+        "description": "",
+        "id": "1874276426565996544",
+        "name": "Nathan Howell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874276464134414339/bBmlhdXL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 63,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "xcgfrdshi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:16:48.000Z",
+        "description": "Langs:🇨🇳🇯🇵🇬🇧(🇰🇷)｜18🐣｜INTP｜漢文📚｜政治的無関心｜文系｜数学が嫌い｜歴史 鉄道 地理 都市交通｜💫 高三生 梦想是好好活着 #ApexLegends🦕⚡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 74,
+                "tag": "ApexLegends"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-emu.cn",
+                "end": 23,
+                "expanded_url": "https://www.china-emu.cn/",
+                "start": 0,
+                "url": "https://t.co/ax833p6nAv"
+              }
+            ]
+          }
+        },
+        "id": "1538088308827656193",
+        "location": "シェンヤン（奉天市）",
+        "name": "铃鹿松饼.🍰",
+        "pinned_tweet_id": "1829000507509362688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871952826064363520/J3j3LGa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 974,
+          "like_count": 24179,
+          "listed_count": 20,
+          "media_count": 367,
+          "tweet_count": 4514
+        },
+        "url": "https://t.co/ax833p6nAv",
+        "username": "Luckin030",
+        "verified": false
+      }
+    ]
+  }
+}

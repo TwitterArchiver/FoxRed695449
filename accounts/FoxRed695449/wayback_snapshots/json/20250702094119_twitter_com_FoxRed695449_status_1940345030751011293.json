@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1940104332042699107",
+    "created_at": "2025-07-02T09:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T10:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940345030751011293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733825514723524608",
+          "start": 0,
+          "username": "noCPCinChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940345030751011293",
+    "in_reply_to_user_id": "1733825514723524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940104332042699107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noCPCinChina 就CCP和普通老中对于LGBT的看法对比起来\n我觉得CCP都算进步势力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1940104332042699107",
+        "created_at": "2025-07-02T09:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940345030751011293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733825514723524608",
+              "start": 0,
+              "username": "noCPCinChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940345030751011293",
+        "in_reply_to_user_id": "1733825514723524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940104332042699107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noCPCinChina 就CCP和普通老中对于LGBT的看法对比起来\n我觉得CCP都算进步势力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733825514723524608",
+        "conversation_id": "1940104332042699107",
+        "created_at": "2025-07-01T17:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940104332042699107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940104332042699107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9655,
+          "like_count": 182,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我有一种预感，共产党真的快灭亡了\n黄河长江泛滥了\n全国闹旱灾了\n各种加强剥削的法令出台了\n共产党匪徒破亿了\n全国经济萧条了\n共产党民心没了\n中华人民共和国马上灭亡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 669,
+          "like_count": 3655,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-10T12:27:02.000Z",
+        "description": "自由主义者",
+        "id": "1733825514723524608",
+        "location": "Nagasaki,Japan",
+        "name": "普通学生",
+        "pinned_tweet_id": "1925181056849965487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924821422519508992/jpagSEk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 733,
+          "like_count": 5943,
+          "listed_count": 10,
+          "media_count": 236,
+          "tweet_count": 2840
+        },
+        "username": "noCPCinChina",
+        "verified": false
+      }
+    ]
+  }
+}

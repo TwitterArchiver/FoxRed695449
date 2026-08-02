@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1966447902290583765",
+    "created_at": "2025-09-13T08:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966783725426893010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898691877366583296",
+          "start": 0,
+          "username": "du348565693202"
+        },
+        {
+          "end": 30,
+          "id": "1420205241404772352",
+          "start": 16,
+          "username": "YanboOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 54,
+          "expanded_url": "https://x.com/foxred695449/status/1966737794937827724?s=46&t=kqULhfyVycFB-dQcHjDieg",
+          "start": 31,
+          "url": "https://t.co/3nKzIwc75s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966783725426893010",
+    "in_reply_to_user_id": "1898691877366583296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966737794937827724",
+        "type": "quoted"
+      },
+      {
+        "id": "1966717830675755479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du348565693202 @YanboOfficial https://t.co/3nKzIwc75s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966447902290583765",
+        "created_at": "2025-09-13T08:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966783725426893010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898691877366583296",
+              "start": 0,
+              "username": "du348565693202"
+            },
+            {
+              "end": 30,
+              "id": "1420205241404772352",
+              "start": 16,
+              "username": "YanboOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 54,
+              "expanded_url": "https://x.com/foxred695449/status/1966737794937827724?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 31,
+              "url": "https://t.co/3nKzIwc75s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966783725426893010",
+        "in_reply_to_user_id": "1898691877366583296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966737794937827724",
+            "type": "quoted"
+          },
+          {
+            "id": "1966717830675755479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du348565693202 @YanboOfficial https://t.co/3nKzIwc75s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966737794937827724",
+        "created_at": "2025-09-13T05:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966737794937827724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alantur5742677…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/alantur57426778/status/1966200644005695964",
+              "start": 115,
+              "url": "https://t.co/sSJ12gPvsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966737794937827724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "此次草案的提出原於《岑子杰訴律政司司長案》，2023年10月終審法院以多數票作出判決，宣告政府違反了香港人權法案第14條下的積極義務，即建立同性關係的法律認可的替代框架，並為此類認可提供相應的權利和義務，以確保有效履行上述義務。\n在此草案被否決的情況下，同性伴侶唯有逐樣權利去司法覆核，香港作為普通法系地區，未來如果有終審法院提到實質同性伴侶的權利，是現行法律沒有滿足到，基本上香港政府一定會輸。最終耗費的，也只是香港寶貴的司法資源以及香港政府財政。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966200644005695964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此次草案的提出原於《岑子杰訴律政司司長案》，2023年10月終審法院以多數票作出判決，宣告政府違反了香港人權法案第14條下的積極義務，即建立同性關係的法律認可的替代框架，並為此類認可提供相應的權利和義務，以確保有效履行上述義務。 https://t.co/sSJ12gPvsO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898691877366583296",
+        "conversation_id": "1966447902290583765",
+        "created_at": "2025-09-13T04:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966717830675755479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "YanboOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966717830675755479",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966447902290583765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanboOfficial 都自由意志了，还在意这个证干什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 688,
+          "like_count": 4308,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T11:06:43.000Z",
+        "description": "",
+        "id": "1898691877366583296",
+        "name": "干う",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898691978524803072/QTUJDUiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 108
+        },
+        "username": "du348565693202",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "“该溜子”@🌍｜20yo.｜Cooking @WorkWorkOrg｜Drop out｜Single｜Digital Nomad & Photoghapher｜Budget travel 17 countries.｜YOLO｜Twitter is my Diary.｜EN/CN/JP｜❤️ @sakanaction",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "WorkWorkOrg"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "sakanaction"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/yanbo",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/yanbo",
+                "start": 0,
+                "url": "https://t.co/sfUzgW0l9v"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote",
+        "name": "烟波@WorkWork",
+        "pinned_tweet_id": "1963281891341275405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721865807926538240/lGu5XZsR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 1444,
+          "like_count": 84257,
+          "listed_count": 31,
+          "media_count": 2184,
+          "tweet_count": 16254
+        },
+        "url": "https://t.co/sfUzgW0l9v",
+        "username": "YanboOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

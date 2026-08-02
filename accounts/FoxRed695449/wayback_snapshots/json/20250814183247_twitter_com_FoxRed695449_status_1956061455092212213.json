@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1954564534972358934",
+    "created_at": "2025-08-14T18:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T19:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956061455092212213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1221297322090385408",
+          "start": 0,
+          "username": "seikissa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956061455092212213",
+    "in_reply_to_user_id": "1221297322090385408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954564534972358934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seikissa 5hkd？\n多少年前的價？？？\n哪家啊，良心啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954564526751584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyACFNObkAAhwA3.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1954564534972358934",
+        "created_at": "2025-08-14T18:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956061455092212213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1221297322090385408",
+              "start": 0,
+              "username": "seikissa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956061455092212213",
+        "in_reply_to_user_id": "1221297322090385408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954564534972358934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seikissa 5hkd？\n多少年前的價？？？\n哪家啊，良心啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954564526751584256"
+          ]
+        },
+        "author_id": "1221297322090385408",
+        "conversation_id": "1954564534972358934",
+        "created_at": "2025-08-10T15:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954564534972358934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGhyHB5ean",
+              "end": 142,
+              "expanded_url": "https://x.com/seikissa/status/1954564534972358934/photo/1",
+              "media_key": "3_1954564526751584256",
+              "start": 119,
+              "url": "https://t.co/CGhyHB5ean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954564534972358934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 322765,
+          "like_count": 1409,
+          "quote_count": 26,
+          "reply_count": 324,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "香港的商店老板真的是。。。😅\n我拿了一瓶可乐准备结账，他说冰的更好喝哦，5块钱\n我敷衍说是的是的\n然后扫码时他阴阳怪气说：冰的就加一块钱也不舍得！\nwcnm我今天经期啊！！傻比老登\n做生意就天天讽刺顾客是吧 在这儿买东西还要听老板训话啊 https://t.co/CGhyHB5ean"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 684,
+          "like_count": 3936,
+          "listed_count": 7,
+          "media_count": 630,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T05:02:38.000Z",
+        "description": "東京｜记录抹茶、喫茶店、思考、日语学习和自己的成长",
+        "id": "1221297322090385408",
+        "location": "Japan",
+        "name": "星喫茶 ✰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940193010223824896/fOBuk0rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20420,
+          "following_count": 610,
+          "like_count": 36253,
+          "listed_count": 85,
+          "media_count": 977,
+          "tweet_count": 10155
+        },
+        "username": "seikissa",
+        "verified": true
+      }
+    ]
+  }
+}

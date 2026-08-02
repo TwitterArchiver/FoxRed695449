@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1917762266507927804",
+    "created_at": "2025-05-01T05:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T06:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917818814970093931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        },
+        {
+          "end": 28,
+          "id": "1768487038645678080",
+          "start": 16,
+          "username": "Yamada_Ryo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917818814970093931",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917816633604858016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 @Yamada_Ryo4 懶得記新名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1917762266507927804",
+        "created_at": "2025-05-01T05:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917818814970093931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 28,
+              "id": "1768487038645678080",
+              "start": 16,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917818814970093931",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917816633604858016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 @Yamada_Ryo4 懶得記新名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824428396258234368",
+        "conversation_id": "1917762266507927804",
+        "created_at": "2025-05-01T05:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917816633604858016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 26,
+              "id": "1768487038645678080",
+              "start": 14,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917816633604858016",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917815348163964935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Yamada_Ryo4 BingAI不是變成Copilot了嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 644,
+          "like_count": 3009,
+          "listed_count": 6,
+          "media_count": 509,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{TAKAO}(E486)🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916095244644593664/KBB-d21J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 542,
+          "like_count": 47830,
+          "listed_count": 4,
+          "media_count": 2130,
+          "tweet_count": 6427
+        },
+        "username": "wingsing355236",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": "🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 103,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 80,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yamada…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yamada-ryo4.bsky.social",
+                "start": 0,
+                "url": "https://t.co/XfKQNjfysE"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912742109645578240/Xe8D4HTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 549,
+          "like_count": 9226,
+          "listed_count": 12,
+          "media_count": 987,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/XfKQNjfysE",
+        "username": "Yamada_Ryo4",
+        "verified": false
+      }
+    ]
+  }
+}

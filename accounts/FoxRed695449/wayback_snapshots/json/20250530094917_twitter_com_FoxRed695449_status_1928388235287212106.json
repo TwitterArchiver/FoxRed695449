@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1928375831799160916",
+    "created_at": "2025-05-30T09:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T10:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928388235287212106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928388235287212106",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928375831799160916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese Emma...10月份之前港府要根據法庭判決推出同性伴侶承認替代框架，能親眼在外面看到自己的起訴政府違憲的成果落實好棒！\n期待能在驕傲月的活動上見到他（？）希望可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86211,
+        "height": 1920,
+        "media_key": "13_1928371145205821440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928371145205821440/img/-fwiJtUEEZ7B_qIO.jpg",
+        "public_metrics": {
+          "view_count": 4114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928371145205821440/vid/avc1/1080x1920/5n9NGPqLiYgfYlQ6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928371145205821440/vid/avc1/720x1280/0aiVHnCqTLh9IYUw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928371145205821440/vid/avc1/480x852/ZMXqHrplEid6uHt1.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928371145205821440/vid/avc1/320x568/yQJ5Kj80c-HVSAyk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928371145205821440/pl/pfPc7g0lKy6WiPrH.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1928375831799160916",
+        "created_at": "2025-05-30T09:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928388235287212106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928388235287212106",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928375831799160916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese Emma...10月份之前港府要根據法庭判決推出同性伴侶承認替代框架，能親眼在外面看到自己的起訴政府違憲的成果落實好棒！\n期待能在驕傲月的活動上見到他（？）希望可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928371145205821440"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1928375831799160916",
+        "created_at": "2025-05-30T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928375831799160916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZSv3bBVM0",
+              "end": 122,
+              "expanded_url": "https://x.com/bbcchinese/status/1928375831799160916/video/1",
+              "media_key": "13_1928371145205821440",
+              "start": 99,
+              "url": "https://t.co/cZSv3bBVM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928375831799160916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "香港“民主派初选47人案”中，45人被判“串谋颠覆国家政权”罪成。周五（30日），再有4人刑满出狱，包括前民间人权阵线召集人岑子杰。\n\n他形容四年分隔“十分牵肠挂肚”，指曾感无力，将来会振作生活。\n\n岑子杰、谭凯邦、王百羽、李嘉达认罪，他们被列为“积极参与者”，以七年为起点，判囚四年三个月。此前毛孟静、谭文豪、郭家麒及范国威已于4月29日出狱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11247,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "香港“民主派初选47人案”中，45人被判“串谋颠覆国家政权”罪成。周五（30日），再有4人刑满出狱，包括前民间人权阵线召集人岑子杰。\n\n他形容四年分隔“十分牵肠挂肚”，指曾感无力，将来会振作生活。 https://t.co/cZSv3bBVM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 655,
+          "like_count": 3363,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4944379,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11742,
+          "media_count": 23394,
+          "tweet_count": 152781
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967086107809771521",
+        "3_1967086107784613888",
+        "3_1967086107595784192"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1966314569623887904",
+    "created_at": "2025-09-14T04:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967086115476959671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2173540759",
+          "start": 0,
+          "username": "dpZrkOVemm9jXqQ"
+        },
+        {
+          "end": 32,
+          "id": "1824428396258234368",
+          "start": 17,
+          "username": "wingsing355236"
+        },
+        {
+          "end": 48,
+          "id": "1658355089084678144",
+          "start": 33,
+          "username": "daxiongmao1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xGEmewewZU",
+          "end": 113,
+          "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+          "media_key": "3_1967086107809771521",
+          "start": 90,
+          "url": "https://t.co/xGEmewewZU"
+        },
+        {
+          "display_url": "pic.x.com/xGEmewewZU",
+          "end": 113,
+          "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+          "media_key": "3_1967086107784613888",
+          "start": 90,
+          "url": "https://t.co/xGEmewewZU"
+        },
+        {
+          "display_url": "pic.x.com/xGEmewewZU",
+          "end": 113,
+          "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+          "media_key": "3_1967086107595784192",
+          "start": 90,
+          "url": "https://t.co/xGEmewewZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967086115476959671",
+    "in_reply_to_user_id": "2173540759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967084480935719361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dpZrkOVemm9jXqQ @wingsing355236 @daxiongmao1234 假的\n那你上12306搜咯\n上海虹橋到杭州東的從現在到1512只有一班車有大量票 https://t.co/xGEmewewZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_1967086107809771521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x-ZJqbcAENYwJ.jpg",
+        "width": 828
+      },
+      {
+        "height": 1770,
+        "media_key": "3_1967086107784613888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x-ZJkbkAAgg2e.jpg",
+        "width": 828
+      },
+      {
+        "height": 1768,
+        "media_key": "3_1967086107595784192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x-ZI3aQAAikck.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967084473604018176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x86BxakAAVSuR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967086107809771521",
+            "3_1967086107784613888",
+            "3_1967086107595784192"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1966314569623887904",
+        "created_at": "2025-09-14T04:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967086115476959671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2173540759",
+              "start": 0,
+              "username": "dpZrkOVemm9jXqQ"
+            },
+            {
+              "end": 32,
+              "id": "1824428396258234368",
+              "start": 17,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 48,
+              "id": "1658355089084678144",
+              "start": 33,
+              "username": "daxiongmao1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGEmewewZU",
+              "end": 113,
+              "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+              "media_key": "3_1967086107809771521",
+              "start": 90,
+              "url": "https://t.co/xGEmewewZU"
+            },
+            {
+              "display_url": "pic.x.com/xGEmewewZU",
+              "end": 113,
+              "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+              "media_key": "3_1967086107784613888",
+              "start": 90,
+              "url": "https://t.co/xGEmewewZU"
+            },
+            {
+              "display_url": "pic.x.com/xGEmewewZU",
+              "end": 113,
+              "expanded_url": "https://x.com/FoxRed695449/status/1967086115476959671/photo/1",
+              "media_key": "3_1967086107595784192",
+              "start": 90,
+              "url": "https://t.co/xGEmewewZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967086115476959671",
+        "in_reply_to_user_id": "2173540759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967084480935719361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dpZrkOVemm9jXqQ @wingsing355236 @daxiongmao1234 假的\n那你上12306搜咯\n上海虹橋到杭州東的從現在到1512只有一班車有大量票 https://t.co/xGEmewewZU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967084473604018176"
+          ]
+        },
+        "author_id": "2173540759",
+        "conversation_id": "1966314569623887904",
+        "created_at": "2025-09-14T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967084480935719361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            },
+            {
+              "end": 29,
+              "id": "1781308864438345728",
+              "start": 16,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 45,
+              "id": "1658355089084678144",
+              "start": 30,
+              "username": "daxiongmao1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbMxoYRvRL",
+              "end": 108,
+              "expanded_url": "https://x.com/dpZrkOVemm9jXqQ/status/1967084480935719361/photo/1",
+              "media_key": "3_1967084473604018176",
+              "start": 85,
+              "url": "https://t.co/TbMxoYRvRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967084480935719361",
+        "in_reply_to_user_id": "2173540759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967077640633974997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 @FoxRed695449 @daxiongmao1234 笑死，发了个假的被我打脸，马上删帖，又发了杭州到上海，动不动就删帖谁还回你啊 https://t.co/TbMxoYRvRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 690,
+          "like_count": 4324,
+          "listed_count": 8,
+          "media_count": 791,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-04T07:43:23.000Z",
+        "description": "",
+        "id": "2173540759",
+        "location": "北京",
+        "name": "甜辣鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/739341441013407744/TecxJM8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 298,
+          "like_count": 657,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 445
+        },
+        "username": "dpZrkOVemm9jXqQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shkp.com/zh-HK",
+                "end": 23,
+                "expanded_url": "https://www.shkp.com/zh-HK",
+                "start": 0,
+                "url": "https://t.co/qiEvdTcl9Q"
+              }
+            ]
+          }
+        },
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{CHISATO}(E486)🇨🇳🇹🇼🇭🇰🇲🇴",
+        "pinned_tweet_id": "1961053911759937780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965648830176919556/4Wy3bSyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 935,
+          "like_count": 86582,
+          "listed_count": 8,
+          "media_count": 3888,
+          "tweet_count": 12080
+        },
+        "url": "https://t.co/qiEvdTcl9Q",
+        "username": "wingsing355236",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T06:14:13.000Z",
+        "description": "越是形势不好越要坚定战略定力，不要跟着别人去抱怨，别人在抱怨的时候脑袋已经出问题了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/happywangheyi",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/happywangheyi",
+                "start": 0,
+                "url": "https://t.co/NZdc0h0Jn4"
+              }
+            ]
+          }
+        },
+        "id": "1658355089084678144",
+        "name": "行进中的二诸葛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787995761617354752/2Ex-P2cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26544,
+          "following_count": 1432,
+          "like_count": 51649,
+          "listed_count": 70,
+          "media_count": 5598,
+          "tweet_count": 11994
+        },
+        "url": "https://t.co/NZdc0h0Jn4",
+        "username": "daxiongmao1234",
+        "verified": true
+      }
+    ]
+  }
+}

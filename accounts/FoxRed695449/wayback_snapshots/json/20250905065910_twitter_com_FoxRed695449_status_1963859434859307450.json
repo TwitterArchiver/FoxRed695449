@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963859429880922112"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1963793708886941775",
+    "created_at": "2025-09-05T06:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T07:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963859434859307450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1527472904543272963",
+          "start": 0,
+          "username": "bz678345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpQ1hcSOxP",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1963859434859307450/photo/1",
+          "media_key": "3_1963859429880922112",
+          "start": 23,
+          "url": "https://t.co/KpQ1hcSOxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963859434859307450",
+    "in_reply_to_user_id": "1527472904543272963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963793708886941775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bz678345 嗯\n信牆內中介也是沒誰了 https://t.co/KpQ1hcSOxP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963859429880922112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0EHvxragAAlf5B.jpg",
+        "width": 921
+      },
+      {
+        "duration_ms": 12515,
+        "height": 640,
+        "media_key": "13_1961634705633058816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961634705633058816/img/fq_JcB_5yvDCuuBH.jpg",
+        "public_metrics": {
+          "view_count": 15162
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961634705633058816/vid/avc1/320x580/I0Xze6q-8h-jZTTr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961634705633058816/vid/avc1/352x640/6uVo98WzsNMx7tk-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961634705633058816/pl/02YzD7P3nnTWBq7q.m3u8?v=cfc"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963859429880922112"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1963793708886941775",
+        "created_at": "2025-09-05T06:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T07:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963859434859307450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1527472904543272963",
+              "start": 0,
+              "username": "bz678345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpQ1hcSOxP",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1963859434859307450/photo/1",
+              "media_key": "3_1963859429880922112",
+              "start": 23,
+              "url": "https://t.co/KpQ1hcSOxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963859434859307450",
+        "in_reply_to_user_id": "1527472904543272963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963793708886941775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bz678345 嗯\n信牆內中介也是沒誰了 https://t.co/KpQ1hcSOxP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961634705633058816"
+          ]
+        },
+        "author_id": "1527472904543272963",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963793708886941775",
+        "created_at": "2025-09-05T02:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T03:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963793708886941775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVsLPeY89T",
+              "end": 71,
+              "expanded_url": "https://x.com/bz678345/status/1963793708886941775/video/1",
+              "media_key": "13_1961634705633058816",
+              "start": 48,
+              "url": "https://t.co/sVsLPeY89T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963793708886941775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 26646,
+          "like_count": 61,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "“香港宣布，墙内22所高校本科毕业生（含往届），直接发香港身份....\n 还能装下这么多人吗？ https://t.co/sVsLPeY89T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 694,
+          "like_count": 4251,
+          "listed_count": 8,
+          "media_count": 749,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T02:16:11.000Z",
+        "description": "传播真相，匡扶正义良知。\n解体中共,   回归中华传统。\n中共不等于中国，爱国不等于爱党。\n支持罗斯福提出的四大自由：言论自由、信仰自由、免于匮乏的自由、免于恐惧的自由。\n今天你不为自由发声，明天又有谁为你发声？",
+        "id": "1527472904543272963",
+        "name": "班昭姐姐",
+        "pinned_tweet_id": "1570065543096303617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535978417006465026/UX8Ng5Hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112140,
+          "following_count": 75,
+          "like_count": 56844,
+          "listed_count": 291,
+          "media_count": 15374,
+          "tweet_count": 20329
+        },
+        "username": "bz678345",
+        "verified": true
+      }
+    ]
+  }
+}

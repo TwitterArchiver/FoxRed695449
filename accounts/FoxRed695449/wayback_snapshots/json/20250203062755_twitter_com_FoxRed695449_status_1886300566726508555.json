@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886300559671783424",
+        "3_1886300561236246528",
+        "3_1886300562477740032",
+        "3_1886300563857612800"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886283633016918022",
+    "created_at": "2025-02-03T06:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886300566726508555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1426513039419867139",
+          "start": 0,
+          "username": "cLOUDDEAD_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cpcp2xDbgD",
+          "end": 180,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+          "media_key": "3_1886300559671783424",
+          "start": 157,
+          "url": "https://t.co/cpcp2xDbgD"
+        },
+        {
+          "display_url": "pic.x.com/cpcp2xDbgD",
+          "end": 180,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+          "media_key": "3_1886300561236246528",
+          "start": 157,
+          "url": "https://t.co/cpcp2xDbgD"
+        },
+        {
+          "display_url": "pic.x.com/cpcp2xDbgD",
+          "end": 180,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+          "media_key": "3_1886300562477740032",
+          "start": 157,
+          "url": "https://t.co/cpcp2xDbgD"
+        },
+        {
+          "display_url": "pic.x.com/cpcp2xDbgD",
+          "end": 180,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+          "media_key": "3_1886300563857612800",
+          "start": 157,
+          "url": "https://t.co/cpcp2xDbgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886300566726508555",
+    "in_reply_to_user_id": "1426513039419867139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "誒，可是我只是表達自己的一個觀點，即不是所有的中國孩子都沒有自己的personal space，也想表達出原po以偏概全，並不是中國的真是狀況。和我有相同觀點的人也不止我一位。網路不應該是一個只能容許一種個人狀況，一種觀點的地方。社交平臺之所以能進行社交，正是因為不同的觀點能互相交流。\n這個世界存在不止一套價值觀，每個人對於公平，道德是有不同的標準的。你的標準，不代表我的標準。而正邪惡正正就是一個道德批判，我不認為我有資格批判別人，同理，我也不認為你有資格對我人生攻擊。\n價值觀不需要一致，要是一致就太無聊了。標籤不是問題，關鍵點是標籤的準繩度，尤其是我們會不會用自己的標準，去衡量一個標準與自己完全不同的人，從而給錯誤的標籤在他身上呢？同一個po文，可以有不同的解讀。如果一看，你就認為有貶義，那很可能反應的是你自己的個人想法。\n如果我為了反對一個人，去誣衊他，那是否反應，其實我是為了錯誤的原因，為反而反呢？\n透過標籤去否定對方，結果不小心，揭示出了自己的立場，那是標籤我，還是標籤你自己呢？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886283633016918022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cLOUDDEAD_ 誒，可是我只是表達自己的一個觀點，即不是所有的中國孩子都沒有自己的personal space，也想表達出原po以偏概全，並不是中國的真是狀況。和我有相同觀點的人也不止我一位。網路不應該是一個只能容許一種個人狀況，一種觀點的地方。社交平臺之所以能進行社交，正是因為不同的觀點能互相交流。… https://t.co/cpcp2xDbgD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886300559671783424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi18XW7bcAAcd0z.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886300561236246528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi18XcwbQAA4vfA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886300562477740032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi18XhYa8AAvr2d.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886300563857612800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi18XmhaIAAJ-1c.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886300559671783424",
+            "3_1886300561236246528",
+            "3_1886300562477740032",
+            "3_1886300563857612800"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886283633016918022",
+        "created_at": "2025-02-03T06:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886300566726508555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1426513039419867139",
+              "start": 0,
+              "username": "cLOUDDEAD_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpcp2xDbgD",
+              "end": 180,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+              "media_key": "3_1886300559671783424",
+              "start": 157,
+              "url": "https://t.co/cpcp2xDbgD"
+            },
+            {
+              "display_url": "pic.x.com/cpcp2xDbgD",
+              "end": 180,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+              "media_key": "3_1886300561236246528",
+              "start": 157,
+              "url": "https://t.co/cpcp2xDbgD"
+            },
+            {
+              "display_url": "pic.x.com/cpcp2xDbgD",
+              "end": 180,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+              "media_key": "3_1886300562477740032",
+              "start": 157,
+              "url": "https://t.co/cpcp2xDbgD"
+            },
+            {
+              "display_url": "pic.x.com/cpcp2xDbgD",
+              "end": 180,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886300566726508555/photo/1",
+              "media_key": "3_1886300563857612800",
+              "start": 157,
+              "url": "https://t.co/cpcp2xDbgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886300566726508555",
+        "in_reply_to_user_id": "1426513039419867139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "誒，可是我只是表達自己的一個觀點，即不是所有的中國孩子都沒有自己的personal space，也想表達出原po以偏概全，並不是中國的真是狀況。和我有相同觀點的人也不止我一位。網路不應該是一個只能容許一種個人狀況，一種觀點的地方。社交平臺之所以能進行社交，正是因為不同的觀點能互相交流。\n這個世界存在不止一套價值觀，每個人對於公平，道德是有不同的標準的。你的標準，不代表我的標準。而正邪惡正正就是一個道德批判，我不認為我有資格批判別人，同理，我也不認為你有資格對我人生攻擊。\n價值觀不需要一致，要是一致就太無聊了。標籤不是問題，關鍵點是標籤的準繩度，尤其是我們會不會用自己的標準，去衡量一個標準與自己完全不同的人，從而給錯誤的標籤在他身上呢？同一個po文，可以有不同的解讀。如果一看，你就認為有貶義，那很可能反應的是你自己的個人想法。\n如果我為了反對一個人，去誣衊他，那是否反應，其實我是為了錯誤的原因，為反而反呢？\n透過標籤去否定對方，結果不小心，揭示出了自己的立場，那是標籤我，還是標籤你自己呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886283633016918022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cLOUDDEAD_ 誒，可是我只是表達自己的一個觀點，即不是所有的中國孩子都沒有自己的personal space，也想表達出原po以偏概全，並不是中國的真是狀況。和我有相同觀點的人也不止我一位。網路不應該是一個只能容許一種個人狀況，一種觀點的地方。社交平臺之所以能進行社交，正是因為不同的觀點能互相交流。… https://t.co/cpcp2xDbgD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426513039419867139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1886283633016918022",
+        "created_at": "2025-02-03T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886283633016918022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/foxred695449/status/1886050512526807169",
+              "start": 41,
+              "url": "https://t.co/o71EKH8FKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886283633016918022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "深刻地证明了二次元手游的玩家群体大多都是缺乏同理心或者对别人的表达有理解障碍的- https://t.co/o71EKH8FKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 447,
+          "like_count": 1335,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 769
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "overdoseoverthinkkk/any pronouns",
+        "id": "1426513039419867139",
+        "location": "Galaxie 500",
+        "name": "晚安疮面人",
+        "pinned_tweet_id": "1884951278276775964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883348734232461312/3qv1cG7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 495,
+          "like_count": 6483,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 876
+        },
+        "username": "cLOUDDEAD_",
+        "verified": false
+      }
+    ]
+  }
+}

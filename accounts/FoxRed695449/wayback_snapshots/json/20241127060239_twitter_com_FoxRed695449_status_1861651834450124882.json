@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1861630976948093172",
+    "created_at": "2024-11-27T06:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T07:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861651834450124882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1176535991454064640",
+          "start": 0,
+          "username": "nekomakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861651834450124882",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861650722166907104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekomakiQAQ 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1861630976948093172",
+        "created_at": "2024-11-27T06:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T07:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861651834450124882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "nekomakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861651834450124882",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861650722166907104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekomakiQAQ 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1861630976948093172",
+        "created_at": "2024-11-27T05:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861650722166907104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861650722166907104",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861630976948093172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我不管我要看绳子啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 261,
+          "like_count": 348,
+          "listed_count": 2,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "🇸🇬 @NUSComputing LOA? | 妹妹 🕊️ @JR_YamanoteE235 | Benzo drugs addict",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "NUSComputing"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "Lumi猫巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861090894520504320/6RCXNy7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 469,
+          "like_count": 24030,
+          "listed_count": 5,
+          "tweet_count": 7331
+        },
+        "username": "nekomakiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

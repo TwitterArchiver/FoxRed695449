@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046213670083211264"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2046177310450315468",
+    "created_at": "2026-04-20T13:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046213676278120517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "MutsumiXiaomu"
+        },
+        {
+          "end": 26,
+          "id": "1621552410048237569",
+          "start": 15,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "nmpa.gov.cn/directory/web/…",
+          "end": 68,
+          "expanded_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20260420172848146.html",
+          "start": 45,
+          "status": 412,
+          "unwound_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20260420172848146.html",
+          "url": "https://t.co/fHdVJVoD9R"
+        },
+        {
+          "display_url": "pic.x.com/3HUxxVEDqC",
+          "end": 93,
+          "expanded_url": "https://x.com/FoxRed695449/status/2046213676278120517/photo/1",
+          "media_key": "3_2046213670083211264",
+          "start": 70,
+          "url": "https://t.co/3HUxxVEDqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046213676278120517",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046207939296493786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiXiaomu @amecandy_x 但凡上国家药监局官网搜下原文件…\n（https://t.co/fHdVJVoD9R） https://t.co/3HUxxVEDqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1915,
+        "media_key": "3_2046213670083211264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWcfdvbsAAg61X.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046213670083211264"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2046177310450315468",
+        "created_at": "2026-04-20T13:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046213676278120517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            },
+            {
+              "end": 26,
+              "id": "1621552410048237569",
+              "start": 15,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "nmpa.gov.cn/directory/web/…",
+              "end": 68,
+              "expanded_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20260420172848146.html",
+              "start": 45,
+              "status": 412,
+              "unwound_url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20260420172848146.html",
+              "url": "https://t.co/fHdVJVoD9R"
+            },
+            {
+              "display_url": "pic.x.com/3HUxxVEDqC",
+              "end": 93,
+              "expanded_url": "https://x.com/FoxRed695449/status/2046213676278120517/photo/1",
+              "media_key": "3_2046213670083211264",
+              "start": 70,
+              "url": "https://t.co/3HUxxVEDqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046213676278120517",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046207939296493786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu @amecandy_x 但凡上国家药监局官网搜下原文件…\n（https://t.co/fHdVJVoD9R） https://t.co/3HUxxVEDqC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011873376445612032",
+        "conversation_id": "2046177310450315468",
+        "created_at": "2026-04-20T12:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046207939296493786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046207939296493786",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046177310450315468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 请先别过早下定论，第一文章里面没说网络禁售，第二该文章并不是出自官方，第三OTC禁售相当于提前给企业宣布倒闭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 810,
+          "like_count": 7641,
+          "listed_count": 7,
+          "media_count": 988,
+          "tweet_count": 3151
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨OD 支黑 精日丨BPD  被害妄想 抑郁焦虑丨Bad end 已达成n次我相信这次也不例外丨好朋友：@Natsumeann13丨亲爱的OD导师：@tanka_TwT   下一世：@MutsumiKawa1i  ☆必定互fo☆ 推荐组合：600mg普瑞+40mg美金刚，48h后服用下一次",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "tanka_TwT"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "MutsumiKawa1i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/iyLJv2y83X"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiLovesYOU🇯🇵",
+        "pinned_tweet_id": "2033416843646697603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1317,
+          "like_count": 10200,
+          "listed_count": 23,
+          "media_count": 69,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/iyLJv2y83X",
+        "username": "MutsumiXiaomu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6138,
+          "following_count": 2121,
+          "like_count": 27076,
+          "listed_count": 15,
+          "media_count": 1413,
+          "tweet_count": 10099
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

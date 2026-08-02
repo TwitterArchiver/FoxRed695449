@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956644174281015508",
+    "created_at": "2025-08-16T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T15:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956722136867049780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718549877070958592",
+          "start": 0,
+          "username": "I_cut_ur_balls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956722136867049780",
+    "in_reply_to_user_id": "1718549877070958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956696490279047438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_cut_ur_balls 啊啊啊啊，的確是大美女🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956644174281015508",
+        "created_at": "2025-08-16T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956722136867049780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718549877070958592",
+              "start": 0,
+              "username": "I_cut_ur_balls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956722136867049780",
+        "in_reply_to_user_id": "1718549877070958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956696490279047438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_cut_ur_balls 啊啊啊啊，的確是大美女🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718549877070958592",
+        "conversation_id": "1956644174281015508",
+        "created_at": "2025-08-16T12:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956696490279047438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956696490279047438",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956644174281015508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 港大美女這一塊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 688,
+          "like_count": 3966,
+          "listed_count": 7,
+          "media_count": 641,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T08:46:56.000Z",
+        "description": "Eng/中/廣東話 maybe | She/ Her | Vocaloid Creator | Accredited failure | Proud Hong Konger | Transfem🏳️‍⚧️",
+        "id": "1718549877070958592",
+        "name": "Rollingirl.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718554997724753920/39L16nvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 701,
+          "like_count": 5343,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1074
+        },
+        "username": "I_cut_ur_balls",
+        "verified": false
+      }
+    ]
+  }
+}

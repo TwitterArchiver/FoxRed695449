@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891122562052022325",
+    "created_at": "2025-02-17T00:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T01:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891280695055601768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774357995792777216",
+          "start": 0,
+          "username": "hanabishirosaki"
+        },
+        {
+          "end": 29,
+          "id": "1491429513779359745",
+          "start": 17,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891280695055601768",
+    "in_reply_to_user_id": "1774357995792777216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891140402956148852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanabishirosaki @mizuchanqwq 《走出性別困境》!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891122562052022325",
+        "created_at": "2025-02-17T00:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T01:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891280695055601768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774357995792777216",
+              "start": 0,
+              "username": "hanabishirosaki"
+            },
+            {
+              "end": 29,
+              "id": "1491429513779359745",
+              "start": 17,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891280695055601768",
+        "in_reply_to_user_id": "1774357995792777216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891140402956148852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanabishirosaki @mizuchanqwq 《走出性別困境》!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774357995792777216",
+        "conversation_id": "1891122562052022325",
+        "created_at": "2025-02-16T14:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T15:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891140402956148852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891140402956148852",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891125403353325637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 嗯.. 我也推介一下關於跨的書給她吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 498,
+          "like_count": 1681,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 1070
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "可以叫我百咲醬或咲咲/2024.12.23 Hrt🍥香港mtf 🏳️‍⚧️炸櫃無證/中文English/其实，比起我是家中的長子，我更想成为的是“家长党”。 如果能有爸爸妈妈的支持，我肯定早就变成了女孩子了。最愛的姐姐💗 @ForteYuriHK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "ForteYuriHK"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "糖糖王國🍥！",
+        "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
+        "pinned_tweet_id": "1871153733859672148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 672,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 299
+        },
+        "username": "hanabishirosaki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🐱貓貓需要關心，貼貼抱抱和愛 | HRT 15 July 2023 | 抱著貼貼❤️ @makaochanqwq 鍵垢 @mizu_notfound 空想世界 @mizuchan_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "makaochanqwq"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "mizu_notfound"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "mizuchan_desu"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "貓窩",
+        "name": "若水醬𖦹 ̫ × 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1886049953619071031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876221960797253632/-I0Qa5-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 2216,
+          "like_count": 81893,
+          "listed_count": 10,
+          "media_count": 1694,
+          "tweet_count": 8798
+        },
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869053602687549440",
+        "3_1869053602683355137"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1869053610107257012",
+    "created_at": "2024-12-17T16:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T17:13:13.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1869053242631708840",
+      "1869053610107257012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjdsulKJo9",
+          "end": 133,
+          "expanded_url": "https://x.com/FoxRed695449/status/1869053610107257012/photo/1",
+          "media_key": "3_1869053602687549440",
+          "start": 110,
+          "url": "https://t.co/UjdsulKJo9"
+        },
+        {
+          "display_url": "pic.x.com/UjdsulKJo9",
+          "end": 133,
+          "expanded_url": "https://x.com/FoxRed695449/status/1869053610107257012/photo/1",
+          "media_key": "3_1869053602683355137",
+          "start": 110,
+          "url": "https://t.co/UjdsulKJo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869053610107257012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在一边在夸集采好，一边在说精神科拉没病的人住院\n咱就是说内地的医疗系统肯定是有问题，但问题没那么大吧？\n集采好吗？我药开不出来。精神科抓没病的人吗？我承认不排除有，但一半就夸装了…精神科那玩意，有些医院住院甚至要排队 https://t.co/UjdsulKJo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869053602687549440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfA2WVZbAAAS09S.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1869053602683355137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfA2WVYbAAEh3_e.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1869053242631708840",
+        "created_at": "2024-12-17T16:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:13:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869053242631708840",
+          "1869053610107257012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869053242631708840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在一边在夸集采好，一边在说精神科拉没病的人住院\n咱就是说内地的医疗系统肯定是有问题，但问题没那么大吧？\n集采好吗？我药开不出来。精神科抓没病的人吗？我承认不排除有，但一半就夸装了…精神科那玩意，有些医院住院甚至要排队"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869053602687549440",
+            "3_1869053602683355137"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869053610107257012",
+        "created_at": "2024-12-17T16:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:13:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869053242631708840",
+          "1869053610107257012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjdsulKJo9",
+              "end": 133,
+              "expanded_url": "https://x.com/FoxRed695449/status/1869053610107257012/photo/1",
+              "media_key": "3_1869053602687549440",
+              "start": 110,
+              "url": "https://t.co/UjdsulKJo9"
+            },
+            {
+              "display_url": "pic.x.com/UjdsulKJo9",
+              "end": 133,
+              "expanded_url": "https://x.com/FoxRed695449/status/1869053610107257012/photo/1",
+              "media_key": "3_1869053602683355137",
+              "start": 110,
+              "url": "https://t.co/UjdsulKJo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869053610107257012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在一边在夸集采好，一边在说精神科拉没病的人住院\n咱就是说内地的医疗系统肯定是有问题，但问题没那么大吧？\n集采好吗？我药开不出来。精神科抓没病的人吗？我承认不排除有，但一半就夸装了…精神科那玩意，有些医院住院甚至要排队 https://t.co/UjdsulKJo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 371,
+          "like_count": 934,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 455
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

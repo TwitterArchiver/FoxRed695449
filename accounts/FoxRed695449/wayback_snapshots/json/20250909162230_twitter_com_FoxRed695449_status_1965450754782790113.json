@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1965037995842839024",
+    "created_at": "2025-09-09T16:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T17:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965450754782790113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688934789737570304",
+          "start": 0,
+          "username": "LoniceraJanuary"
+        },
+        {
+          "end": 28,
+          "id": "1182505815082553344",
+          "start": 17,
+          "username": "AlanTse777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965450754782790113",
+    "in_reply_to_user_id": "1688934789737570304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965413193578414512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoniceraJanuary @AlanTse777 .gov.hk只有香港政府能註冊（\n就如同.gov.uk只有英國政府能註冊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1965037995842839024",
+        "created_at": "2025-09-09T16:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T17:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965450754782790113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688934789737570304",
+              "start": 0,
+              "username": "LoniceraJanuary"
+            },
+            {
+              "end": 28,
+              "id": "1182505815082553344",
+              "start": 17,
+              "username": "AlanTse777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965450754782790113",
+        "in_reply_to_user_id": "1688934789737570304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965413193578414512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoniceraJanuary @AlanTse777 .gov.hk只有香港政府能註冊（\n就如同.gov.uk只有英國政府能註冊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688934789737570304",
+        "conversation_id": "1965037995842839024",
+        "created_at": "2025-09-09T13:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965413193578414512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1182505815082553344",
+              "start": 0,
+              "username": "AlanTse777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965413193578414512",
+        "in_reply_to_user_id": "1182505815082553344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965073611510968395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanTse777 究竟係放棄左個網站定係故意站停, 都可以間接方法驗證, 就係出錢租佢個網域, 如果租得到, 即係代表網站到期唔續約, 如果租唔到, 即係代表網域使用權仲係佢地度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 701,
+          "like_count": 4282,
+          "listed_count": 8,
+          "media_count": 760,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T15:27:01.000Z",
+        "description": "以遊戲化教育來質問傳統教育制度，反思考學習的意義和方向，因此成立鈴鐺書院作為實驗的小教室。\n\n中文(粵、普、國)⭕\nEnglish🔺\n日本語❌\n\n直播/影片Tag: #忍冬講義\n精華/烤肉Tag: #忍冬筆記\nFan Art: #忍冬塗鴉\n迷因: #忍冬教材\n限制級: #忍冬今天網絡用太多了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "忍冬講義"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "忍冬筆記"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "忍冬塗鴉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "忍冬教材"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "tag": "忍冬今天網絡用太多了"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n5yg3xixm9698y…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n5yg3xixm9698yn?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nJqr09bV76"
+              }
+            ]
+          }
+        },
+        "id": "1688934789737570304",
+        "name": "端月忍冬@HKVtuber（強迫自己8月出道）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712838671555289088/0tjECfoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 4318,
+          "like_count": 195,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/nJqr09bV76",
+        "username": "LoniceraJanuary",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T03:58:59.000Z",
+        "description": "一名愛整MEME圖，烤肉，鐘意香港及Vtuber的香港人 One Hongkonger who love MEME, Clipping, Vtuber &Hong Kong 歡迎各位投稿Vtuber直播精華！你肯投我就剪, 黃底黑字Icon是我的特色，不定期直播，請各位多多指教",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AlanTse777",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AlanTse777",
+                "start": 0,
+                "url": "https://t.co/9RXi1eVyRq"
+              }
+            ]
+          }
+        },
+        "id": "1182505815082553344",
+        "name": "Alan Tse",
+        "pinned_tweet_id": "1568988400140812288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509924104945938436/Dc0wGDMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 4688,
+          "like_count": 89173,
+          "listed_count": 6,
+          "media_count": 3906,
+          "tweet_count": 62729
+        },
+        "url": "https://t.co/9RXi1eVyRq",
+        "username": "AlanTse777",
+        "verified": false
+      }
+    ]
+  }
+}

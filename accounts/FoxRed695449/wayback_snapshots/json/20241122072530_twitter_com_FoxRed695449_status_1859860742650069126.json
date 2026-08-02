@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859860742650069126",
+    "created_at": "2024-11-22T07:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T08:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859860742650069126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847896784791883777",
+          "start": 3,
+          "username": "yezhixyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859860742650069126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859218200388686259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yezhixyn: 锐评“药圈皇帝”芙卡，我本人是对卖淫不抱有负面想法的，但是祂素质极低。\n在清蒸频道中对跨性别群体辱骂（见图二，标题只有投稿人才能起）\n且我们的“药圈皇帝”智商不高，毕竟初中辍学，连挂人都挂不明白（见图三），可以证明“药圈皇帝”本人投稿（已承认）。\n但…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859860742650069126",
+        "created_at": "2024-11-22T07:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T08:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859860742650069126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847896784791883777",
+              "start": 3,
+              "username": "yezhixyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859860742650069126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859218200388686259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yezhixyn: 锐评“药圈皇帝”芙卡，我本人是对卖淫不抱有负面想法的，但是祂素质极低。\n在清蒸频道中对跨性别群体辱骂（见图二，标题只有投稿人才能起）\n且我们的“药圈皇帝”智商不高，毕竟初中辍学，连挂人都挂不明白（见图三），可以证明“药圈皇帝”本人投稿（已承认）。\n但…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859218197553221632",
+            "3_1859218197460955136",
+            "3_1859218197800722432"
+          ]
+        },
+        "author_id": "1847896784791883777",
+        "conversation_id": "1859218200388686259",
+        "created_at": "2024-11-20T12:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859218200388686259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzL2DfU1Tx",
+              "end": 169,
+              "expanded_url": "https://x.com/yezhixyn/status/1859218200388686259/photo/1",
+              "media_key": "3_1859218197553221632",
+              "start": 146,
+              "url": "https://t.co/DzL2DfU1Tx"
+            },
+            {
+              "display_url": "pic.x.com/DzL2DfU1Tx",
+              "end": 169,
+              "expanded_url": "https://x.com/yezhixyn/status/1859218200388686259/photo/1",
+              "media_key": "3_1859218197460955136",
+              "start": 146,
+              "url": "https://t.co/DzL2DfU1Tx"
+            },
+            {
+              "display_url": "pic.x.com/DzL2DfU1Tx",
+              "end": 169,
+              "expanded_url": "https://x.com/yezhixyn/status/1859218200388686259/photo/1",
+              "media_key": "3_1859218197800722432",
+              "start": 146,
+              "url": "https://t.co/DzL2DfU1Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859218200388686259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 52440,
+          "like_count": 187,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "锐评“药圈皇帝”芙卡，我本人是对卖淫不抱有负面想法的，但是祂素质极低。\n在清蒸频道中对跨性别群体辱骂（见图二，标题只有投稿人才能起）\n且我们的“药圈皇帝”智商不高，毕竟初中辍学，连挂人都挂不明白（见图三），可以证明“药圈皇帝”本人投稿（已承认）。\n但祂至今都不知道自己哪里有错。\n（1/3） https://t.co/DzL2DfU1Tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 225,
+          "like_count": 209,
+          "listed_count": 1,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T07:05:21.000Z",
+        "description": "09年║23 2 4hrt║在读高一是高中牲║可能有双相║不定时爆血图",
+        "id": "1847896784791883777",
+        "name": "夜芷🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847899507364941824/cdcwf7kj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 45,
+          "like_count": 92,
+          "listed_count": 0,
+          "tweet_count": 41
+        },
+        "username": "yezhixyn",
+        "verified": false
+      }
+    ]
+  }
+}

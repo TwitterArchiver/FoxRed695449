@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "1925680775803851133",
+    "created_at": "2025-05-24T11:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T12:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926234232319320360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438768050535231489",
+          "start": 0,
+          "username": "whiteTony99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926234232319320360",
+    "in_reply_to_user_id": "1438768050535231489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925680775803851133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whiteTony99 按照1297（百万人次）的年客流量，一天大概就是355万\n根据彭博的报道（标题为New York City Transit System Chips Away at Subway Fare Evasion）中的：About 9.8% of subway riders skipped the fee in the first quarter of 2025\n那么一天大概就是35万人逃票\n好吧，虽然还是挺多的，不过没这么夸张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_1925680765150375936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrlkdAWXMAAnYQ6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1925680775803851133",
+        "created_at": "2025-05-24T11:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926234232319320360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438768050535231489",
+              "start": 0,
+              "username": "whiteTony99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926234232319320360",
+        "in_reply_to_user_id": "1438768050535231489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925680775803851133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whiteTony99 按照1297（百万人次）的年客流量，一天大概就是355万\n根据彭博的报道（标题为New York City Transit System Chips Away at Subway Fare Evasion）中的：About 9.8% of subway riders skipped the fee in the first quarter of 2025\n那么一天大概就是35万人逃票\n好吧，虽然还是挺多的，不过没这么夸张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925680765150375936"
+          ]
+        },
+        "author_id": "1438768050535231489",
+        "conversation_id": "1925680775803851133",
+        "created_at": "2025-05-22T22:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T23:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925680775803851133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taWceA9pR2",
+              "end": 127,
+              "expanded_url": "https://x.com/whiteTony99/status/1925680775803851133/photo/1",
+              "media_key": "3_1925680765150375936",
+              "start": 104,
+              "url": "https://t.co/taWceA9pR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925680775803851133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 137322,
+          "like_count": 477,
+          "quote_count": 16,
+          "reply_count": 186,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "《读者》上讲过：外国人不检票，但他们从来不逃票。因为他们有信用机制，只要逃过一次，以后就难以在社会立足。\n\n可现实却给了这些公知文一记响亮的耳光：纽约地铁每天有90万人逃票！公知们鼓吹的西方社会信用机制呢？ https://t.co/taWceA9pR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 651,
+          "like_count": 3308,
+          "listed_count": 6,
+          "media_count": 601,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-17T07:33:58.000Z",
+        "description": "世界并不只有零和游戏，还有合作共赢。",
+        "id": "1438768050535231489",
+        "location": "Singapore",
+        "name": "hello world",
+        "pinned_tweet_id": "1925676351131935228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869943608075546624/BabjG_qI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20303,
+          "following_count": 5640,
+          "like_count": 19456,
+          "listed_count": 0,
+          "media_count": 5278,
+          "tweet_count": 10808
+        },
+        "username": "whiteTony99",
+        "verified": false
+      }
+    ]
+  }
+}

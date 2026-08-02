@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1961099134091608174",
+    "created_at": "2025-08-28T16:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T17:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961099134091608174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wshngknshji1/s…",
+          "end": 236,
+          "expanded_url": "https://twitter.com/wshngknshji1/status/1960522828719313055",
+          "start": 213,
+          "url": "https://t.co/dnND5JnAjW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961099134091608174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960522828719313055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The force said a Bulgarian couple - a man and a woman - were approached by youths in St Ann Lane, Lochee, at about 19:40 on Saturday.\n當然咯,陰謀論的人的是不會信的\n喔,不對,都看不懂\n這麼反移民有沒有想過華人不是白人,更不是local\n真要排外華人一起遭殃,美國這麼大個例子是看不見嗎?🥲 https://t.co/dnND5JnAjW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_1960522819613417473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzUtHf0a4AE2qN6.jpg",
+        "width": 1006
+      },
+      {
+        "height": 1598,
+        "media_key": "3_1960522819869270016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzUtHgxa4AAIbXE.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1961099134091608174",
+        "created_at": "2025-08-28T16:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961099134091608174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wshngknshji1/s…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/wshngknshji1/status/1960522828719313055",
+              "start": 213,
+              "url": "https://t.co/dnND5JnAjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961099134091608174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960522828719313055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The force said a Bulgarian couple - a man and a woman - were approached by youths in St Ann Lane, Lochee, at about 19:40 on Saturday.\n當然咯,陰謀論的人的是不會信的\n喔,不對,都看不懂\n這麼反移民有沒有想過華人不是白人,更不是local\n真要排外華人一起遭殃,美國這麼大個例子是看不見嗎?🥲 https://t.co/dnND5JnAjW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960522819613417473",
+            "3_1960522819869270016"
+          ]
+        },
+        "author_id": "1576700645209346048",
+        "conversation_id": "1960522828719313055",
+        "created_at": "2025-08-27T02:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960522828719313055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6TFOAOOyW",
+              "end": 148,
+              "expanded_url": "https://x.com/wshngknshji1/status/1960522828719313055/photo/1",
+              "media_key": "3_1960522819613417473",
+              "start": 125,
+              "url": "https://t.co/u6TFOAOOyW"
+            },
+            {
+              "display_url": "pic.x.com/u6TFOAOOyW",
+              "end": 148,
+              "expanded_url": "https://x.com/wshngknshji1/status/1960522828719313055/photo/1",
+              "media_key": "3_1960522819869270016",
+              "start": 125,
+              "url": "https://t.co/u6TFOAOOyW"
+            },
+            {
+              "display_url": "x.com/wshngknshji1/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/wshngknshji1/status/1960501534262952365",
+              "start": 149,
+              "url": "https://t.co/tT1kdQ869z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960522828719313055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以盖棺定论：英国完了。\n\n英国一名14岁的女孩，为了保护自己和亲人，面对歹徒挑衅时，亮出自己随身携带的刀和斧头，吓退了歹徒，但自己却被英国警方逮捕。\n\n此事一出，网络上炸锅了。无数人为她打抱不平，美国有议员要求政府把这名勇敢的女孩接到美国来庇护。\n\n堂堂大英帝国的警察不为民除害，反而抓捕勇敢对抗犯罪的美少女，让全世界颠倒三观。\n\n这可不是英国在世人面前第一次离奇丢脸，各位可知道英国是全球强奸犯罪发生率最高的国家之一？而且是强奸犯罪破案率最低的国家之一？\n\n连马斯克都看不下去了，声称愿意帮助英国政府打击犯罪。\n\n德国有魏德尔在拯救，法国有勒庞在拯救，而英国的保守派却早就失去了血性。\n\n帝国余晖，愈来愈暗。叫人伤感不已。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 608747,
+          "like_count": 1983,
+          "quote_count": 30,
+          "reply_count": 229,
+          "retweet_count": 415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960501534262952365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以盖棺定论：英国完了。\n\n英国一名14岁的女孩，为了保护自己和亲人，面对歹徒挑衅时，亮出自己随身携带的刀和斧头，吓退了歹徒，但自己却被英国警方逮捕。\n\n此事一出，网络上炸锅了。无数人为她打抱不平，美国有议员要求政府把这名勇敢的女孩接到美国来庇护。 https://t.co/u6TFOAOOyW https://t.co/tT1kdQ869z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 695,
+          "like_count": 4221,
+          "listed_count": 8,
+          "media_count": 736,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T22:28:57.000Z",
+        "description": "温和右派，坚定MAGA。小本生意，大龄奶爸。欢迎订阅YouTube频道《海阔天空看世界》。https://t.co/3YsLh9JC98。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC66lU…",
+                "end": 68,
+                "expanded_url": "https://youtube.com/channel/UC66lUaU_yWh_fgznYq6ovYw?si=Ot6YgufRnkwtHBd1",
+                "start": 45,
+                "url": "https://t.co/3YsLh9JC98"
+              }
+            ]
+          }
+        },
+        "id": "1576700645209346048",
+        "name": "海阔天空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837600023133196288/_C6sr5xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36329,
+          "following_count": 4970,
+          "like_count": 64931,
+          "listed_count": 140,
+          "media_count": 1593,
+          "tweet_count": 12651
+        },
+        "username": "wshngknshji1",
+        "verified": true
+      }
+    ]
+  }
+}

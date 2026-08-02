@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886203005948629049",
+    "created_at": "2025-02-04T12:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886752908806643876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3232393554",
+          "start": 0,
+          "username": "initiumnews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886752908806643876",
+    "in_reply_to_user_id": "3232393554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886203005948629049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@initiumnews 呜呜呜，和自己遇到过的相似事情还有身边的朋友登上报道，真的好感动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886203005948629049",
+        "created_at": "2025-02-04T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886752908806643876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3232393554",
+              "start": 0,
+              "username": "initiumnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886752908806643876",
+        "in_reply_to_user_id": "3232393554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886203005948629049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@initiumnews 呜呜呜，和自己遇到过的相似事情还有身边的朋友登上报道，真的好感动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886203002538586112"
+          ]
+        },
+        "author_id": "3232393554",
+        "conversation_id": "1886203005948629049",
+        "created_at": "2025-02-03T00:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T01:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886203005948629049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "跨性別"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xJTIfu0sC",
+              "end": 100,
+              "expanded_url": "https://x.com/initiumnews/status/1886203005948629049/photo/1",
+              "media_key": "3_1886203002538586112",
+              "start": 77,
+              "url": "https://t.co/3xJTIfu0sC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886203005948629049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "跨性別"
+              }
+            ]
+          },
+          "text": "「我是誰？」\n「我如何成為要做的那個自己？」\n\n在中國大陸，對於 #跨性別 青少年群體而言，這些很難回答的問題，她們在社交網絡和流行文化中找到了答案。\n\n無論是在一線城市，還是小型城鎮，曾經是小學生、中學生的她們，通過B站粉絲群、二次元視頻、百度與推特上流傳的醫院白名單、Telegram和微信黑市販賣的激素藥物，慢慢得出自己的答案，並與素不相識的「世界上另一個我」頻頻分享實操經驗。這個稚嫩脆弱但也堅韌靈活的社群，在線上線下的平行空間裏不斷綿延，成為每個個體感到安全的歸屬地，化作她們隨身攜帶的「家」與「自己人」。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4120,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "「我是誰？」\n「我如何成為要做的那個自己？」\n\n在中國大陸，對於 #跨性別 青少年群體而言，這些很難回答的問題，她們在社交網絡和流行文化中找到了答案。… https://t.co/3xJTIfu0sC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 456,
+          "like_count": 1349,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 816
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com",
+                "end": 23,
+                "expanded_url": "https://theinitium.com",
+                "start": 0,
+                "url": "https://t.co/vudgmQ8aRR"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "pinned_tweet_id": "1884164647802036239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254740,
+          "following_count": 634,
+          "like_count": 397,
+          "listed_count": 1871,
+          "media_count": 13395,
+          "tweet_count": 38365
+        },
+        "url": "https://t.co/vudgmQ8aRR",
+        "username": "initiumnews",
+        "verified": true
+      }
+    ]
+  }
+}

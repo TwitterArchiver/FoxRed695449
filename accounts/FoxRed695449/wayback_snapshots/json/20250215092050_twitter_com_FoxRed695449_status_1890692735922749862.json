@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890665376037405087",
+    "created_at": "2025-02-15T09:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T10:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890692735922749862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890692735922749862",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890692233860448702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 草草草\n我基本上身體有點什麼事都會往醫院跑（我保險報銷）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890665376037405087",
+        "created_at": "2025-02-15T09:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890692735922749862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890692735922749862",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890692233860448702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 草草草\n我基本上身體有點什麼事都會往醫院跑（我保險報銷）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843510989964369920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1890665376037405087",
+        "created_at": "2025-02-15T09:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890692233860448702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890692233860448702",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890691697580875846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 白色的是双氧水起的泡沫啦，伤口是满健康的粉红色来着（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 489,
+          "like_count": 1638,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 1051
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "无证含糖mtx，hrt2025.1.11/08职校牲 在湖北新东方学西餐🤓👍/什么都发一点/酒鬼🥂/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/经常会哈气🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaajiancaipifa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaajiancaipifa1",
+                "start": 0,
+                "url": "https://t.co/356g9XFjWy"
+              }
+            ]
+          }
+        },
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "pinned_tweet_id": "1880067033725038847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 158,
+          "like_count": 6047,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/356g9XFjWy",
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

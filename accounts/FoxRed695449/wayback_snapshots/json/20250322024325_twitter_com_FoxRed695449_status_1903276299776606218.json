@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1903271567918014801",
+    "created_at": "2025-03-22T02:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T03:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903276299776606218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903276299776606218",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903275746636034441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 再掛點燈🤓👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1903271567918014801",
+        "created_at": "2025-03-22T02:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903276299776606218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903276299776606218",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903275746636034441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 再掛點燈🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026482173300236288",
+        "conversation_id": "1903271567918014801",
+        "created_at": "2025-03-22T02:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903275746636034441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903275746636034441",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903274947952451930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 窩是好看的聖誕樹！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1901896157540069695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914,
+          "following_count": 577,
+          "like_count": 2615,
+          "listed_count": 6,
+          "media_count": 433,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 618,
+          "like_count": 28465,
+          "listed_count": 3,
+          "media_count": 908,
+          "tweet_count": 8221
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

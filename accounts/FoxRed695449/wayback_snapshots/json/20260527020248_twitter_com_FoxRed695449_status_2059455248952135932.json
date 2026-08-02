@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2059195925323489703",
+    "created_at": "2026-05-27T02:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059455248952135932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1570977440754991104",
+          "start": 0,
+          "username": "Mizuki__Kazuha"
+        },
+        {
+          "end": 27,
+          "id": "2045513838850641921",
+          "start": 16,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059455248952135932",
+    "in_reply_to_user_id": "1570977440754991104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059333291208278458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizuki__Kazuha @inline_int 我的也是要到客服中心\n（以前刷万事达从来没遇到过这种问题，只能说适配银联不怎么样）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2059195925323489703",
+        "created_at": "2026-05-27T02:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059455248952135932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1570977440754991104",
+              "start": 0,
+              "username": "Mizuki__Kazuha"
+            },
+            {
+              "end": 27,
+              "id": "2045513838850641921",
+              "start": 16,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059455248952135932",
+        "in_reply_to_user_id": "1570977440754991104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059333291208278458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizuki__Kazuha @inline_int 我的也是要到客服中心\n（以前刷万事达从来没遇到过这种问题，只能说适配银联不怎么样）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570977440754991104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2059195925323489703",
+        "created_at": "2026-05-26T17:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059333291208278458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "2045513838850641921",
+              "start": 14,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059333291208278458",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059247196181291402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @inline_int 问一下（你出站没被拒付嘛，我的拒付了，最后去的柜台才行，同样是阿米娅招行卡Apple Pay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 833,
+          "like_count": 7997,
+          "listed_count": 6,
+          "media_count": 1028,
+          "tweet_count": 3274
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-17T03:26:31.000Z",
+        "description": "",
+        "id": "1570977440754991104",
+        "name": "Mizuki_Kazuha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020942968031674377/q-lT3g5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 349,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "Mizuki__Kazuha",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中焦重抑/似乎转双向/自杀未遂/前ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 801,
+          "like_count": 644,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

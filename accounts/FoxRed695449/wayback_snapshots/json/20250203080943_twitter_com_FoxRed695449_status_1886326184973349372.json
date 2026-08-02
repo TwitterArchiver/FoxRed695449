@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T08:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T09:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886326184973349372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817380600480768000",
+          "start": 0,
+          "username": "Youkino25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886326184973349372",
+    "in_reply_to_user_id": "1817380600480768000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886325556456607833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youkino25 比我想像中的要便宜！\n不過看上去好長，應該很難抬起來吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T08:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886326184973349372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817380600480768000",
+              "start": 0,
+              "username": "Youkino25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886326184973349372",
+        "in_reply_to_user_id": "1817380600480768000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886325556456607833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youkino25 比我想像中的要便宜！\n不過看上去好長，應該很難抬起來吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817380600480768000",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T08:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T09:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886325556456607833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886325556456607833",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886325272791945338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 火龙刀剑厂199包邮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 449,
+          "like_count": 1336,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 797
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T02:05:14.000Z",
+        "description": "黄色人種至上/中国国家社会主义者/同時に自由主義者でもある/中国が東亞共栄を統領する/反共産主義は反中国ではない/国際主義者、自我民族憎恨の漢奸吾絶対勢不兩立/若有战，去填线，七生報國",
+        "id": "1817380600480768000",
+        "location": "第三新东京市，千叶区，总武新校，侍奉部",
+        "name": "卍竜之助🇹🇼",
+        "pinned_tweet_id": "1885712402362122588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884006656419205120/hx4uUK28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 566,
+          "like_count": 28313,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 15861
+        },
+        "username": "Youkino25",
+        "verified": false
+      }
+    ]
+  }
+}

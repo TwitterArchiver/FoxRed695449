@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048766748741210112"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048766756597227611",
+    "created_at": "2026-04-27T14:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048766756597227611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7n6Ary4xiJ",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxRed695449/status/2048766756597227611/photo/1",
+          "media_key": "3_2048766748741210112",
+          "start": 18,
+          "url": "https://t.co/7n6Ary4xiJ"
+        },
+        {
+          "display_url": "x.com/csosc246708/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/csosc246708/status/2048605830015291438",
+          "start": 42,
+          "url": "https://t.co/NV2nzMzFaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048766756597227611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048605830015291438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還是特區政府強推的煙草包裝好看🤓👍 https://t.co/7n6Ary4xiJ https://t.co/NV2nzMzFaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2048766748741210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ugM5aEAAWt1v.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048766748741210112"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048766756597227611",
+        "created_at": "2026-04-27T14:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048766756597227611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n6Ary4xiJ",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxRed695449/status/2048766756597227611/photo/1",
+              "media_key": "3_2048766748741210112",
+              "start": 18,
+              "url": "https://t.co/7n6Ary4xiJ"
+            },
+            {
+              "display_url": "x.com/csosc246708/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/csosc246708/status/2048605830015291438",
+              "start": 42,
+              "url": "https://t.co/NV2nzMzFaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048766756597227611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048605830015291438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還是特區政府強推的煙草包裝好看🤓👍 https://t.co/7n6Ary4xiJ https://t.co/NV2nzMzFaU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720499640980881408",
+        "conversation_id": "2048603038634365173",
+        "created_at": "2026-04-27T03:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048605830015291438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048605830015291438",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10206,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048603038634365173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 现在把男人pua成以瘦为美，有个词叫蜻蜓，然后被批是粉底液将军，打架不行啊😌现在抽烟的人都已经很克制了，一直被排挤……如果我在室外开阔场地抽烟，你还来找我麻烦，判死刑我都要揍你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 820,
+          "like_count": 7815,
+          "listed_count": 7,
+          "media_count": 992,
+          "tweet_count": 3168
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T17:54:58.000Z",
+        "description": "今天无论多难熬，它一定会过去，明天不管多难等，它一定会到来，因为时间不会停。",
+        "id": "1720499640980881408",
+        "name": "我在18号等你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975849877083918336/jHihgDar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 280,
+          "like_count": 525,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 4759
+        },
+        "username": "csosc246708",
+        "verified": false
+      }
+    ]
+  }
+}

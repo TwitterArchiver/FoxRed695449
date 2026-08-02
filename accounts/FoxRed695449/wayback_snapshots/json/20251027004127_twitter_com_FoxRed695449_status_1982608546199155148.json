@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1982454464272605546",
+    "created_at": "2025-10-27T00:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982608546199155148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1553886103198806016",
+          "start": 0,
+          "username": "xusfhk"
+        },
+        {
+          "end": 24,
+          "id": "1575923039283314699",
+          "start": 8,
+          "username": "onemanshow20223"
+        },
+        {
+          "end": 33,
+          "id": "2893886738",
+          "start": 25,
+          "username": "bbjk666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982608546199155148",
+    "in_reply_to_user_id": "1553886103198806016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982602651000066429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xusfhk @onemanshow20223 @bbjk666 飛機門寬到疫情的時候可以客艙轉貨倉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982454464272605546",
+        "created_at": "2025-10-27T00:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982608546199155148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1553886103198806016",
+              "start": 0,
+              "username": "xusfhk"
+            },
+            {
+              "end": 24,
+              "id": "1575923039283314699",
+              "start": 8,
+              "username": "onemanshow20223"
+            },
+            {
+              "end": 33,
+              "id": "2893886738",
+              "start": 25,
+              "username": "bbjk666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982608546199155148",
+        "in_reply_to_user_id": "1553886103198806016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982602651000066429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xusfhk @onemanshow20223 @bbjk666 飛機門寬到疫情的時候可以客艙轉貨倉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553886103198806016",
+        "conversation_id": "1982454464272605546",
+        "created_at": "2025-10-27T00:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982602651000066429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575923039283314699",
+              "start": 0,
+              "username": "onemanshow20223"
+            },
+            {
+              "end": 25,
+              "id": "2893886738",
+              "start": 17,
+              "username": "bbjk666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982602651000066429",
+        "in_reply_to_user_id": "1575923039283314699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982517883214479429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onemanshow20223 @bbjk666 飞机门多宽你清楚吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 682,
+          "like_count": 4694,
+          "listed_count": 7,
+          "media_count": 846,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-31T23:31:44.000Z",
+        "description": "",
+        "id": "1553886103198806016",
+        "name": "阿倫狄龍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655427348035149829/UfZLUWuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 306,
+          "like_count": 57457,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 10167
+        },
+        "username": "xusfhk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T18:58:41.000Z",
+        "description": "",
+        "id": "1575923039283314699",
+        "name": "onemanshow20220930",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 201,
+          "like_count": 7193,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1636
+        },
+        "username": "onemanshow20223",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "分享的内容源自网络，点赞=已阅。 ⭐不要相信山寨我的账号和评论区非官方广告❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIWBH"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "𝕏",
+        "name": "背包健客",
+        "pinned_tweet_id": "1982454464272605546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169021,
+          "following_count": 1377,
+          "like_count": 15987,
+          "listed_count": 629,
+          "media_count": 11807,
+          "tweet_count": 15702
+        },
+        "url": "https://t.co/XQRiJuIWBH",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

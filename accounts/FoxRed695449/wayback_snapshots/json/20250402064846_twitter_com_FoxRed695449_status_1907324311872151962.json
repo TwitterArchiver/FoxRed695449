@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907324307937882112"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1907324311872151962",
+    "created_at": "2025-04-02T06:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907324311872151962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QUmQp34zNn",
+          "end": 39,
+          "expanded_url": "https://x.com/FoxRed695449/status/1907324311872151962/photo/1",
+          "media_key": "3_1907324307937882112",
+          "start": 16,
+          "url": "https://t.co/QUmQp34zNn"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1907318594737774599",
+          "start": 40,
+          "url": "https://t.co/UcqKqk55Wu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907324311872151962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907318594737774599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "論香港醫院的排隊時間\n有點好笑 https://t.co/QUmQp34zNn https://t.co/UcqKqk55Wu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1907324307937882112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngtWkYa8AAkbO8.jpg",
+        "width": 3840
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1907318589780365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GngoJulbkAAYDx8.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907324307937882112"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907324311872151962",
+        "created_at": "2025-04-02T06:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907324311872151962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUmQp34zNn",
+              "end": 39,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907324311872151962/photo/1",
+              "media_key": "3_1907324307937882112",
+              "start": 16,
+              "url": "https://t.co/QUmQp34zNn"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1907318594737774599",
+              "start": 40,
+              "url": "https://t.co/UcqKqk55Wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907324311872151962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907318594737774599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "論香港醫院的排隊時間\n有點好笑 https://t.co/QUmQp34zNn https://t.co/UcqKqk55Wu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907318589780365312"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907318594737774599",
+        "created_at": "2025-04-02T06:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907318594737774599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1749569248371023872",
+              "start": 12,
+              "username": "Eureka222323"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IoKciakdla",
+              "end": 49,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907318594737774599/photo/1",
+              "media_key": "3_1907318589780365312",
+              "start": 26,
+              "url": "https://t.co/IoKciakdla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907318594737774599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性別認同診所\nwith @Eureka222323 https://t.co/IoKciakdla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3499,
+          "following_count": 591,
+          "like_count": 2704,
+          "listed_count": 6,
+          "media_count": 475,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

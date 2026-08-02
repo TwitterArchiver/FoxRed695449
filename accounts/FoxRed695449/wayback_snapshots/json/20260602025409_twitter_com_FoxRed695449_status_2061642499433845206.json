@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2061588005756838234",
+    "created_at": "2026-06-02T02:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061642499433845206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061642499433845206",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061642243249733922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061642243249733922].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061642243249733922",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061642243249733922"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2061588005756838234",
+        "created_at": "2026-06-02T02:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061642499433845206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061642499433845206",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061642243249733922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 843,
+          "like_count": 8059,
+          "listed_count": 6,
+          "media_count": 1033,
+          "tweet_count": 3295
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres \n🏳️‍⚧️@amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 951,
+          "like_count": 4251,
+          "listed_count": 10,
+          "media_count": 113,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

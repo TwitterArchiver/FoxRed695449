@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919612216602722308"
+      ],
+      "media_source_tweet_id": [
+        "1919612229978108181"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1919967631316025652",
+    "created_at": "2025-05-07T04:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T05:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919967631316025652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2603306065",
+          "start": 3,
+          "username": "BobbyCSH"
+        }
+      ],
+      "urls": [
+        {
+          "description": "選港鐵的都不是香港人吧",
+          "display_url": "threads.com/@akane_yonezaw…",
+          "end": 49,
+          "expanded_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C?xmt=AQGzAgV6rnFNCWI-pYy0XJ4Turnm--6VFCFmFXk8twKHgQ",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "米澤茜的老公 (@akane_yonezawa_love) on Threads",
+          "unwound_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C",
+          "url": "https://t.co/pL8m3p2bpe"
+        },
+        {
+          "display_url": "pic.x.com/8e3gK0pU8A",
+          "end": 73,
+          "expanded_url": "https://x.com/BobbyCSH/status/1919612229978108181/photo/1",
+          "media_key": "3_1919612216602722308",
+          "start": 50,
+          "url": "https://t.co/8e3gK0pU8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919967631316025652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919612229978108181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BobbyCSH: 佛 誕 除 藉 派 對\nhttps://t.co/pL8m3p2bpe https://t.co/8e3gK0pU8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_1919612216602722308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPVI_UbAAQtvGc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919612216602722308"
+          ],
+          "media_source_tweet_id": [
+            "1919612229978108181"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1919967631316025652",
+        "created_at": "2025-05-07T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919967631316025652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2603306065",
+              "start": 3,
+              "username": "BobbyCSH"
+            }
+          ],
+          "urls": [
+            {
+              "description": "選港鐵的都不是香港人吧",
+              "display_url": "threads.com/@akane_yonezaw…",
+              "end": 49,
+              "expanded_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C?xmt=AQGzAgV6rnFNCWI-pYy0XJ4Turnm--6VFCFmFXk8twKHgQ",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "米澤茜的老公 (@akane_yonezawa_love) on Threads",
+              "unwound_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C",
+              "url": "https://t.co/pL8m3p2bpe"
+            },
+            {
+              "display_url": "pic.x.com/8e3gK0pU8A",
+              "end": 73,
+              "expanded_url": "https://x.com/BobbyCSH/status/1919612229978108181/photo/1",
+              "media_key": "3_1919612216602722308",
+              "start": 50,
+              "url": "https://t.co/8e3gK0pU8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919967631316025652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919612229978108181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BobbyCSH: 佛 誕 除 藉 派 對\nhttps://t.co/pL8m3p2bpe https://t.co/8e3gK0pU8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919612216602722308"
+          ]
+        },
+        "author_id": "2603306065",
+        "conversation_id": "1919612229978108181",
+        "created_at": "2025-05-06T04:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T05:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919612229978108181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "選港鐵的都不是香港人吧",
+              "display_url": "threads.com/@akane_yonezaw…",
+              "end": 35,
+              "expanded_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C?xmt=AQGzAgV6rnFNCWI-pYy0XJ4Turnm--6VFCFmFXk8twKHgQ",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1919612233450962944/8hmAotPH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "米澤茜的老公 (@akane_yonezawa_love) on Threads",
+              "unwound_url": "https://www.threads.com/@akane_yonezawa_love/post/DJSAWduTP7C",
+              "url": "https://t.co/pL8m3p2bpe"
+            },
+            {
+              "display_url": "pic.x.com/8e3gK0pU8A",
+              "end": 59,
+              "expanded_url": "https://x.com/BobbyCSH/status/1919612229978108181/photo/1",
+              "media_key": "3_1919612216602722308",
+              "start": 36,
+              "url": "https://t.co/8e3gK0pU8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919612229978108181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2668,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "佛 誕 除 藉 派 對\nhttps://t.co/pL8m3p2bpe https://t.co/8e3gK0pU8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 645,
+          "like_count": 3080,
+          "listed_count": 6,
+          "media_count": 550,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-04T11:11:45.000Z",
+        "description": "@endo_yurika & @Yuki_nakashim 大好き Roselia fan. 誕生日は今井リサと同じ日です @AkatsukiDHotaru 推し sub-account @BobbyLoveYuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "endo_yurika"
+              },
+              {
+                "end": 29,
+                "start": 15,
+                "username": "Yuki_nakashim"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "AkatsukiDHotaru"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "BobbyLoveYuki"
+              }
+            ]
+          }
+        },
+        "id": "2603306065",
+        "location": "Wong Tai Sin District",
+        "name": "Bobby·波鳩比❄️ykst→次回有明",
+        "pinned_tweet_id": "1839341069512892902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867834533363822595/UVmNy9Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 438,
+          "like_count": 86556,
+          "listed_count": 8,
+          "media_count": 2389,
+          "tweet_count": 30728
+        },
+        "username": "BobbyCSH",
+        "verified": true
+      }
+    ]
+  }
+}

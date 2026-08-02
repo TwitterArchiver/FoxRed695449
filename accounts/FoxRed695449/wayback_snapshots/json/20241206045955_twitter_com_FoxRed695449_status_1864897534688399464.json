@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1864897534688399464",
+    "created_at": "2024-12-06T04:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T05:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864897534688399464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1864610673507897717",
+          "start": 21,
+          "url": "https://t.co/yXpOBDjYfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864897534688399464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864610673507897717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这帖子底下的评论区更加论证了她们有多伟大 https://t.co/yXpOBDjYfq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1864897534688399464",
+        "created_at": "2024-12-06T04:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T05:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864897534688399464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1864610673507897717",
+              "start": 21,
+              "url": "https://t.co/yXpOBDjYfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864897534688399464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864610673507897717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这帖子底下的评论区更加论证了她们有多伟大 https://t.co/yXpOBDjYfq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864595629953179648",
+            "3_1864595629957369856",
+            "3_1864595629953175558"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1864610673507897717",
+        "created_at": "2024-12-05T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864610673507897717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5FzW9RAe6",
+              "end": 153,
+              "expanded_url": "https://x.com/bbcchinese/status/1864610673507897717/photo/1",
+              "media_key": "3_1864595629953179648",
+              "start": 130,
+              "url": "https://t.co/J5FzW9RAe6"
+            },
+            {
+              "display_url": "pic.x.com/J5FzW9RAe6",
+              "end": 153,
+              "expanded_url": "https://x.com/bbcchinese/status/1864610673507897717/photo/1",
+              "media_key": "3_1864595629957369856",
+              "start": 130,
+              "url": "https://t.co/J5FzW9RAe6"
+            },
+            {
+              "display_url": "pic.x.com/J5FzW9RAe6",
+              "end": 153,
+              "expanded_url": "https://x.com/bbcchinese/status/1864610673507897717/photo/1",
+              "media_key": "3_1864595629953175558",
+              "start": 130,
+              "url": "https://t.co/J5FzW9RAe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864610673507897717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 298,
+                "start": 286,
+                "tag": "BBC100Women"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 329,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 306,
+                "url": "https://t.co/xPNsBSoGP4"
+              }
+            ]
+          },
+          "text": "2024年BBC全球最具启发性和影响力的100位女性名单揭晓，《BBC巾帼百名》向那些在动荡世界中，仍凭藉坚韧不拔的精神推动改变的女性致敬。\n\n获选百大杰出的两岸女性包括台湾立法委员黄捷、中国女权行动者冯媛（“平等北京”创始人），以及公路旅行者和网红苏敏。\n\n黄捷在今年成为台湾首位公开的LGBTQ+立法委员，创下历史。她致力于为单身女性和女同志争取生育治疗的权利。\n\n冯媛创办的“平等北京”专注于法律改革，并透过中国的热线服务打击性别暴力。\n\n苏敏则因逃离一段受暴婚姻，于2020年开始了独自穿越中国的公路旅行。她的故事激励了数百万人，并被改编为电影《出走的决心》。\n\n#BBC100Women \n\n更多新闻：https://t.co/xPNsBSoGP4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 72964,
+          "like_count": 216,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "2024年BBC全球最具启发性和影响力的100位女性名单揭晓，《BBC巾帼百名》向那些在动荡世界中，仍凭藉坚韧不拔的精神推动改变的女性致敬。\n\n获选百大杰出的两岸女性包括台湾立法委员黄捷、中国女权行动者冯媛（“平等北京”创始人），以及公路旅行者和网红苏敏。… https://t.co/J5FzW9RAe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213,
+          "following_count": 321,
+          "like_count": 674,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544749,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11554,
+          "media_count": 22757,
+          "tweet_count": 151581
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

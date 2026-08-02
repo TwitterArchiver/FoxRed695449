@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1929837368527540226"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1929837426002088244",
+    "created_at": "2025-06-03T09:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T10:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929837426002088244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmkLbVY8LB",
+          "end": 23,
+          "expanded_url": "https://x.com/FoxRed695449/status/1929837426002088244/video/1",
+          "media_key": "7_1929837368527540226",
+          "start": 0,
+          "url": "https://t.co/RmkLbVY8LB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929837426002088244",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RmkLbVY8LB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22852,
+        "height": 1080,
+        "media_key": "7_1929837368527540226",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929837368527540226/pu/img/1vWUTE-0D_tTexxc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929837368527540226/pu/vid/avc1/480x270/tdrjg5ylMOgBfUUZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929837368527540226/pu/vid/avc1/640x360/mnFphRhZBAdGqRQI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929837368527540226/pu/vid/avc1/1280x720/dR3J1HbBoM722JK-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929837368527540226/pu/pl/fqGayeo51AKT2Ii8.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929837368527540226"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1929837426002088244",
+        "created_at": "2025-06-03T09:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T10:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929837426002088244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmkLbVY8LB",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1929837426002088244/video/1",
+              "media_key": "7_1929837368527540226",
+              "start": 0,
+              "url": "https://t.co/RmkLbVY8LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929837426002088244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RmkLbVY8LB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 658,
+          "like_count": 3416,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

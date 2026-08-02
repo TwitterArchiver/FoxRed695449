@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897839621297557504"
+      ],
+      "media_source_tweet_id": [
+        "1897839624493711452"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "1897925808708313545",
+    "created_at": "2025-03-07T08:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T09:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897925808708313545"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "NAGOYA",
+          "probability": 0.4388,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1716828677860937729",
+          "start": 3,
+          "username": "Arin_Yumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOEhLM4t9P",
+          "end": 125,
+          "expanded_url": "https://x.com/Arin_Yumi/status/1897839624493711452/photo/1",
+          "media_key": "3_1897839621297557504",
+          "start": 102,
+          "url": "https://t.co/KOEhLM4t9P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897925808708313545",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897839624493711452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arin_Yumi: BREAKING: NAGOYA HIGH COURT RULES JAPAN'S BAN ON SAME-SEX MARRIAGE IS UNCONSTITUTIONAL https://t.co/KOEhLM4t9P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1897839621297557504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlZ7FJQaUAACK5G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897839621297557504"
+          ],
+          "media_source_tweet_id": [
+            "1897839624493711452"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1897925808708313545",
+        "created_at": "2025-03-07T08:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T09:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897925808708313545"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "NAGOYA",
+              "probability": 0.4388,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1716828677860937729",
+              "start": 3,
+              "username": "Arin_Yumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOEhLM4t9P",
+              "end": 125,
+              "expanded_url": "https://x.com/Arin_Yumi/status/1897839624493711452/photo/1",
+              "media_key": "3_1897839621297557504",
+              "start": 102,
+              "url": "https://t.co/KOEhLM4t9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897925808708313545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897839624493711452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arin_Yumi: BREAKING: NAGOYA HIGH COURT RULES JAPAN'S BAN ON SAME-SEX MARRIAGE IS UNCONSTITUTIONAL https://t.co/KOEhLM4t9P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897839621297557504"
+          ]
+        },
+        "author_id": "1716828677860937729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1897839624493711452",
+        "created_at": "2025-03-07T02:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T03:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897839624493711452"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "NAGOYA",
+              "probability": 0.5039,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOEhLM4t9P",
+              "end": 110,
+              "expanded_url": "https://x.com/Arin_Yumi/status/1897839624493711452/photo/1",
+              "media_key": "3_1897839621297557504",
+              "start": 87,
+              "url": "https://t.co/KOEhLM4t9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897839624493711452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 36685,
+          "like_count": 1251,
+          "quote_count": 35,
+          "reply_count": 63,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: NAGOYA HIGH COURT RULES JAPAN'S BAN ON SAME-SEX MARRIAGE IS UNCONSTITUTIONAL https://t.co/KOEhLM4t9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 543,
+          "like_count": 2245,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-24T14:47:15.000Z",
+        "description": "Posting JP news for fun & Kurokawa Akane's biggest fan | 2️⃣ @Arin_Yumisecond",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Arin_Yumisecond"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/arin_yuni",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/arin_yuni",
+                "start": 0,
+                "url": "https://t.co/j4iQhcsuVC"
+              }
+            ]
+          }
+        },
+        "id": "1716828677860937729",
+        "location": "Tokyo-to, Japan",
+        "name": "由仁アリン Arin Yuni",
+        "pinned_tweet_id": "1857425939673887078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853079469621481472/2c-uQYCX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19239,
+          "following_count": 955,
+          "like_count": 32316,
+          "listed_count": 69,
+          "media_count": 1519,
+          "tweet_count": 6759
+        },
+        "url": "https://t.co/j4iQhcsuVC",
+        "username": "Arin_Yumi",
+        "verified": true
+      }
+    ]
+  }
+}

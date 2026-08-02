@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931196627999764480",
+        "3_1931196629736148992",
+        "3_1931196629509672960"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1930031823578640396",
+    "created_at": "2025-06-07T03:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T04:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931196632370122827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387253355764862976",
+          "start": 0,
+          "username": "Hnbhger17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zp10CnJsJH",
+          "end": 116,
+          "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+          "media_key": "3_1931196627999764480",
+          "start": 93,
+          "url": "https://t.co/Zp10CnJsJH"
+        },
+        {
+          "display_url": "pic.x.com/Zp10CnJsJH",
+          "end": 116,
+          "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+          "media_key": "3_1931196629736148992",
+          "start": 93,
+          "url": "https://t.co/Zp10CnJsJH"
+        },
+        {
+          "display_url": "pic.x.com/Zp10CnJsJH",
+          "end": 116,
+          "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+          "media_key": "3_1931196629509672960",
+          "start": 93,
+          "url": "https://t.co/Zp10CnJsJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931196632370122827",
+    "in_reply_to_user_id": "1387253355764862976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930031823578640396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hnbhger17 遊行是香港基本法和中華人民共和國憲法賜予我的權利\n你可以放棄你的權利，但你不能阻止別人行使自己的權利\n只要找到到人，你當然可以搞一次反LGBT遊行啊，有人願意嗎？ https://t.co/Zp10CnJsJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_1931196627999764480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsz9GetbsAAQhm_.jpg",
+        "width": 1030
+      },
+      {
+        "height": 717,
+        "media_key": "3_1931196629736148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsz9GlLa0AAR6S0.jpg",
+        "width": 1050
+      },
+      {
+        "height": 705,
+        "media_key": "3_1931196629509672960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsz9GkVbEAAcE81.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931196627999764480",
+            "3_1931196629736148992",
+            "3_1931196629509672960"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1930031823578640396",
+        "created_at": "2025-06-07T03:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T04:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931196632370122827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387253355764862976",
+              "start": 0,
+              "username": "Hnbhger17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zp10CnJsJH",
+              "end": 116,
+              "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+              "media_key": "3_1931196627999764480",
+              "start": 93,
+              "url": "https://t.co/Zp10CnJsJH"
+            },
+            {
+              "display_url": "pic.x.com/Zp10CnJsJH",
+              "end": 116,
+              "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+              "media_key": "3_1931196629736148992",
+              "start": 93,
+              "url": "https://t.co/Zp10CnJsJH"
+            },
+            {
+              "display_url": "pic.x.com/Zp10CnJsJH",
+              "end": 116,
+              "expanded_url": "https://x.com/FoxRed695449/status/1931196632370122827/photo/1",
+              "media_key": "3_1931196629509672960",
+              "start": 93,
+              "url": "https://t.co/Zp10CnJsJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931196632370122827",
+        "in_reply_to_user_id": "1387253355764862976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930031823578640396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hnbhger17 遊行是香港基本法和中華人民共和國憲法賜予我的權利\n你可以放棄你的權利，但你不能阻止別人行使自己的權利\n只要找到到人，你當然可以搞一次反LGBT遊行啊，有人願意嗎？ https://t.co/Zp10CnJsJH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387253355764862976",
+        "conversation_id": "1930031823578640396",
+        "created_at": "2025-06-03T22:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T23:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930031823578640396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Appraiser008/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Appraiser008/status/1929919488587379085",
+              "start": 51,
+              "url": "https://t.co/rrnitD34eC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930031823578640396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 59322,
+          "like_count": 299,
+          "quote_count": 7,
+          "reply_count": 103,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929919488587379085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人歧视你们，没人管你们，没人抓你们，自己爽就行了，上什么街啊？异性恋为什么没人自豪？证明你们自卑？ https://t.co/rrnitD34eC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 658,
+          "like_count": 3467,
+          "listed_count": 6,
+          "media_count": 634,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-28T03:52:41.000Z",
+        "description": "世事兜兜转转，复兴曲曲折折，笑看X圈纷扰，但愿海内升平",
+        "id": "1387253355764862976",
+        "name": "汉尼拔火罐",
+        "pinned_tweet_id": "1710529978264396056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782433419751985152/Y-NOvqFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38522,
+          "following_count": 2097,
+          "like_count": 54935,
+          "listed_count": 204,
+          "media_count": 6755,
+          "tweet_count": 30141
+        },
+        "username": "Hnbhger17",
+        "verified": true
+      }
+    ]
+  }
+}

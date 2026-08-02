@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962879962433667072"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962700894408945822",
+    "created_at": "2025-09-02T14:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962879965013344589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1377477172139593732",
+          "start": 0,
+          "username": "ziqiyan4"
+        },
+        {
+          "end": 25,
+          "id": "1575300480023945216",
+          "start": 10,
+          "username": "juicestraw8964"
+        },
+        {
+          "end": 39,
+          "id": "1846088255537926146",
+          "start": 26,
+          "username": "v50toseethis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MdyAPsKBG5",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1962879965013344589/photo/1",
+          "media_key": "3_1962879962433667072",
+          "start": 40,
+          "url": "https://t.co/MdyAPsKBG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962879965013344589",
+    "in_reply_to_user_id": "1377477172139593732",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962874498161541497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziqiyan4 @juicestraw8964 @v50toseethis https://t.co/MdyAPsKBG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1962879962433667072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2M7RGXQAA-w5p.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962879962433667072"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962700894408945822",
+        "created_at": "2025-09-02T14:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962879965013344589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1377477172139593732",
+              "start": 0,
+              "username": "ziqiyan4"
+            },
+            {
+              "end": 25,
+              "id": "1575300480023945216",
+              "start": 10,
+              "username": "juicestraw8964"
+            },
+            {
+              "end": 39,
+              "id": "1846088255537926146",
+              "start": 26,
+              "username": "v50toseethis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdyAPsKBG5",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1962879965013344589/photo/1",
+              "media_key": "3_1962879962433667072",
+              "start": 40,
+              "url": "https://t.co/MdyAPsKBG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962879965013344589",
+        "in_reply_to_user_id": "1377477172139593732",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962874498161541497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziqiyan4 @juicestraw8964 @v50toseethis https://t.co/MdyAPsKBG5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377477172139593732",
+        "conversation_id": "1962700894408945822",
+        "created_at": "2025-09-02T13:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962874498161541497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1575300480023945216",
+              "start": 0,
+              "username": "juicestraw8964"
+            },
+            {
+              "end": 29,
+              "id": "1846088255537926146",
+              "start": 16,
+              "username": "v50toseethis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962874498161541497",
+        "in_reply_to_user_id": "1575300480023945216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962853118661554437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juicestraw8964 @v50toseethis 穷比别漏怯了，咋的，我摆个摊还要花大几千买个pos机呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 694,
+          "like_count": 4241,
+          "listed_count": 8,
+          "media_count": 745,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T04:25:29.000Z",
+        "description": "Tyne",
+        "id": "1377477172139593732",
+        "name": "Salah",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 26,
+          "like_count": 194,
+          "listed_count": 9,
+          "media_count": 120,
+          "tweet_count": 2381
+        },
+        "username": "ziqiyan4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T01:44:48.000Z",
+        "description": "love and peace 🙏 要有脑子理性地反，无脑反魔怔了的要B赶紧B。以及，我在海外🤣👮叔叔们就不用试图拿我当业绩了",
+        "id": "1575300480023945216",
+        "location": "Boston, MA",
+        "name": "果汁吸管通讯社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575300640380633089/5RPpTZUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 182,
+          "like_count": 1131,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1380
+        },
+        "username": "juicestraw8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T07:18:46.000Z",
+        "description": "难得来一次，不如过的开心一些😄\n欢迎关注！",
+        "id": "1846088255537926146",
+        "name": "人类多样性调查",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912321798185553921/_l5m2uW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 13,
+          "like_count": 217,
+          "listed_count": 6,
+          "media_count": 869,
+          "tweet_count": 1315
+        },
+        "username": "v50toseethis",
+        "verified": false
+      }
+    ]
+  }
+}

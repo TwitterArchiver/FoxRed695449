@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024863314300551168"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2024863323528089824",
+    "created_at": "2026-02-20T15:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024863323528089824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TH72A5nvSI",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2024863323528089824/photo/1",
+          "media_key": "3_2024863314300551168",
+          "start": 28,
+          "url": "https://t.co/TH72A5nvSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024863323528089824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么在俄罗斯出事就不呼吁中国公民尽量避免前往俄罗斯了🫣 https://t.co/TH72A5nvSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1395,
+        "media_key": "3_2024863314300551168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnCdMeawAAxN0z.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024863314300551168"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2024863323528089824",
+        "created_at": "2026-02-20T15:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024863323528089824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TH72A5nvSI",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2024863323528089824/photo/1",
+              "media_key": "3_2024863314300551168",
+              "start": 28,
+              "url": "https://t.co/TH72A5nvSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024863323528089824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么在俄罗斯出事就不呼吁中国公民尽量避免前往俄罗斯了🫣 https://t.co/TH72A5nvSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 777,
+          "like_count": 6343,
+          "listed_count": 7,
+          "media_count": 938,
+          "tweet_count": 2956
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

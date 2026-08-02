@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1884237711743320394",
+    "created_at": "2025-01-31T15:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T16:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885347992426995733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 23,
+          "expanded_url": "https://x.com/FoxRed695449/status/1885347830073876969?t=kcKmYa_t9jUxEITXaQ5iuA&s=19",
+          "start": 0,
+          "url": "https://t.co/BrSTqyMZrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885347992426995733",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885347830073876969",
+        "type": "quoted"
+      },
+      {
+        "id": "1884994079815282865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/BrSTqyMZrg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1884237711743320394",
+        "created_at": "2025-01-31T15:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885347992426995733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1885347830073876969?t=kcKmYa_t9jUxEITXaQ5iuA&s=19",
+              "start": 0,
+              "url": "https://t.co/BrSTqyMZrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885347992426995733",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885347830073876969",
+            "type": "quoted"
+          },
+          {
+            "id": "1884994079815282865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/BrSTqyMZrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885347826974285824"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1885347830073876969",
+        "created_at": "2025-01-31T15:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885347830073876969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1749569248371023872",
+              "start": 14,
+              "username": "Eureka222323"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAYj3TcVt7",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/1885347830073876969/photo/1",
+              "media_key": "3_1885347826974285824",
+              "start": 28,
+              "url": "https://t.co/NAYj3TcVt7"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1884237711743320394",
+              "start": 52,
+              "url": "https://t.co/CCxewALiWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885347830073876969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884237711743320394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天的中奖者是第63位转发者@Eureka222323 https://t.co/NAYj3TcVt7 https://t.co/CCxewALiWz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1884237711743320394",
+        "created_at": "2025-01-30T15:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884994079815282865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1884959326282056144?t=RlU2tVdcQHoVhVa1ijhIuA&s=19",
+              "start": 0,
+              "url": "https://t.co/pltsBcyOMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884994079815282865",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884959326282056144",
+            "type": "quoted"
+          },
+          {
+            "id": "1884434657724527033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pltsBcyOMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 443,
+          "like_count": 1322,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 754
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

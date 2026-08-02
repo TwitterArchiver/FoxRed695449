@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1977832131675201924",
+    "created_at": "2025-10-14T02:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T03:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977917630888759352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1238802256511643649",
+          "start": 0,
+          "username": "Catt_immortal"
+        },
+        {
+          "end": 24,
+          "id": "1244424427313348608",
+          "start": 15,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977917630888759352",
+    "in_reply_to_user_id": "1238802256511643649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977892448098488730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Catt_immortal @Errrrese 中国学校真的“对弱势保护”吗？\n有点中式幽默了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1977832131675201924",
+        "created_at": "2025-10-14T02:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977917630888759352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1238802256511643649",
+              "start": 0,
+              "username": "Catt_immortal"
+            },
+            {
+              "end": 24,
+              "id": "1244424427313348608",
+              "start": 15,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977917630888759352",
+        "in_reply_to_user_id": "1238802256511643649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977892448098488730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Catt_immortal @Errrrese 中国学校真的“对弱势保护”吗？\n有点中式幽默了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238802256511643649",
+        "conversation_id": "1977832131675201924",
+        "created_at": "2025-10-14T00:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T01:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977892448098488730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977892448098488730",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977832131675201924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese 有点用吧，成年人承受能力强很多，而且社会上的社交不舒服可以立刻离开，在学校的人际关系避不开，更需要对弱势保护。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 700,
+          "like_count": 4464,
+          "listed_count": 8,
+          "media_count": 831,
+          "tweet_count": 2538
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-14T12:20:59.000Z",
+        "description": "举目见日，不见长安",
+        "id": "1238802256511643649",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "壹猫头",
+        "pinned_tweet_id": "1392398170617827328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945310155375042561/GnToYrub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 487,
+          "like_count": 45023,
+          "listed_count": 3,
+          "media_count": 2257,
+          "tweet_count": 17474
+        },
+        "username": "Catt_immortal",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "二十年後又是一條好漢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4zVdahr8MmdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4zVdahr8MmdmZjI1",
+                "start": 0,
+                "url": "https://t.co/pMI9Cu6KOu"
+              }
+            ]
+          }
+        },
+        "id": "1244424427313348608",
+        "location": "사리원",
+        "name": "老资历",
+        "pinned_tweet_id": "1973619917556723808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973387374425153536/qntaO7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 1964,
+          "like_count": 83731,
+          "listed_count": 17,
+          "media_count": 2218,
+          "tweet_count": 25320
+        },
+        "url": "https://t.co/pMI9Cu6KOu",
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

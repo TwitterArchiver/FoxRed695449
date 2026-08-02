@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2020843474367692995",
+    "created_at": "2026-02-10T10:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021162432350032080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597958304747032576",
+          "start": 0,
+          "username": "_KOMISON_"
+        },
+        {
+          "end": 21,
+          "id": "1163648854006349825",
+          "start": 11,
+          "username": "Xin_Fannn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021162432350032080",
+    "in_reply_to_user_id": "1597958304747032576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020910044561428630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_KOMISON_ @Xin_Fannn 内地售票处也能打印跨境段报销凭证的，因为跨境段不提供电子报销凭证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2020843474367692995",
+        "created_at": "2026-02-10T10:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021162432350032080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597958304747032576",
+              "start": 0,
+              "username": "_KOMISON_"
+            },
+            {
+              "end": 21,
+              "id": "1163648854006349825",
+              "start": 11,
+              "username": "Xin_Fannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021162432350032080",
+        "in_reply_to_user_id": "1597958304747032576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020910044561428630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_KOMISON_ @Xin_Fannn 内地售票处也能打印跨境段报销凭证的，因为跨境段不提供电子报销凭证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597958304747032576",
+        "conversation_id": "2020843474367692995",
+        "created_at": "2026-02-09T17:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020910044561428630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1163648854006349825",
+              "start": 0,
+              "username": "Xin_Fannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020910044561428630",
+        "in_reply_to_user_id": "1163648854006349825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020843474367692995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin_Fannn 前两天坐了两次这个来回 今天刚走🥲\n才知道这里还能兑换报销凭证 我还很可惜觉得手上一张这样的报销凭证都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 760,
+          "like_count": 6165,
+          "listed_count": 7,
+          "media_count": 936,
+          "tweet_count": 2934
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-30T14:18:58.000Z",
+        "description": "MORNING！ 早上好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@komison_cn",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@komison_cn",
+                "start": 0,
+                "url": "https://t.co/u4zO5TW2I2"
+              }
+            ]
+          }
+        },
+        "id": "1597958304747032576",
+        "location": "月球",
+        "name": "KOMISON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013881403180752896/jvQcqrYT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 619,
+          "like_count": 20039,
+          "listed_count": 1,
+          "media_count": 566,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/u4zO5TW2I2",
+        "username": "_KOMISON_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T03:08:13.000Z",
+        "description": "社交能量日常不足｜低浮上",
+        "id": "1163648854006349825",
+        "name": "Hoshino_Fannn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004386280046743552/pGhp6xb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 379,
+          "like_count": 11950,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 767
+        },
+        "username": "Xin_Fannn",
+        "verified": false
+      }
+    ]
+  }
+}

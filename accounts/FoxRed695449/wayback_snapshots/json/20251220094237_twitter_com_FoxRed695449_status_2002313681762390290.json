@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2002313681762390290",
+    "created_at": "2025-12-20T09:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002313681762390290"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002313681762390290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么一些人遇到点什么争端就喜欢开对面盒😅\n先不管你开盒的对象正不正义，你开盒发网上本身就是个犯罪的事（虽然你中普遍不执法\n鉴于中国大陆的户籍保护程度，以及户籍被挂网上的泛滥程度，我十分迫切想能拿个单程证/永居把我那b户籍注销\n而且因为那傻逼户籍导致hkid上的英文名必须要拼音😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2002313681762390290",
+        "created_at": "2025-12-20T09:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002313681762390290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002313681762390290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么一些人遇到点什么争端就喜欢开对面盒😅\n先不管你开盒的对象正不正义，你开盒发网上本身就是个犯罪的事（虽然你中普遍不执法\n鉴于中国大陆的户籍保护程度，以及户籍被挂网上的泛滥程度，我十分迫切想能拿个单程证/永居把我那b户籍注销\n而且因为那傻逼户籍导致hkid上的英文名必须要拼音😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 714,
+          "like_count": 5401,
+          "listed_count": 7,
+          "media_count": 912,
+          "tweet_count": 2815
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

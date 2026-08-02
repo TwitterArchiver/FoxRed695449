@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1980469095830356405",
+    "created_at": "2025-10-22T10:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980937461464519030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "1980937461464519030",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980469095830356405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui 不會有早5晚11的逆天高中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1980468629264113664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wJubAXoAA_lsa.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1980469095830356405",
+        "created_at": "2025-10-22T10:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980937461464519030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "1980937461464519030",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980469095830356405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 不會有早5晚11的逆天高中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980468629264113664"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "1980469095830356405",
+        "created_at": "2025-10-21T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:58:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980468632443580466",
+          "1980469095830356405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NySobu98ZD",
+              "end": 98,
+              "expanded_url": "https://x.com/liuguangchui/status/1980469095830356405/photo/1",
+              "media_key": "3_1980468629264113664",
+              "start": 75,
+              "url": "https://t.co/NySobu98ZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980469095830356405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 56969,
+          "like_count": 192,
+          "quote_count": 7,
+          "reply_count": 377,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "所以，台湾到底有啥福利，这么天天吹？\n可别说什么免签的护照啊，说出来自己不嫌丢人吗，免签又不是免费，说这个不等于自己笑话自己吗？还不如台胞证好用呢。 https://t.co/NySobu98ZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 702,
+          "like_count": 4658,
+          "listed_count": 7,
+          "media_count": 858,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护：中国式现代化：Chinese path to modernization\n人民有信仰，民族有希望，國家有力量。實現中華民族偉大復興。\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCJBZM"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979224513821790217/qC79tCEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26919,
+          "following_count": 1329,
+          "like_count": 48033,
+          "listed_count": 136,
+          "media_count": 7816,
+          "tweet_count": 30781
+        },
+        "url": "https://t.co/JFVpOCJBZM",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

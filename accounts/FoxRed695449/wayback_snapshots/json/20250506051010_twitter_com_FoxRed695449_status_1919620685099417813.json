@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-06T05:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919620685099417813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513190881540841475",
+          "start": 0,
+          "username": "Gosolo22411"
+        },
+        {
+          "end": 29,
+          "id": "1839168670918127617",
+          "start": 13,
+          "username": "TidVR7NzHA26324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919620685099417813",
+    "in_reply_to_user_id": "1513190881540841475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919619506072105287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gosolo22411 @TidVR7NzHA26324 我引用這個是想說移民潮誒\n如果移民潮沒影響政府為什麼要急著引進專才呢？\n而且這不是我說的誒，看都看不明白嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T05:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919620685099417813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513190881540841475",
+              "start": 0,
+              "username": "Gosolo22411"
+            },
+            {
+              "end": 29,
+              "id": "1839168670918127617",
+              "start": 13,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919620685099417813",
+        "in_reply_to_user_id": "1513190881540841475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919619506072105287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gosolo22411 @TidVR7NzHA26324 我引用這個是想說移民潮誒\n如果移民潮沒影響政府為什麼要急著引進專才呢？\n而且這不是我說的誒，看都看不明白嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513190881540841475",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T05:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919619506072105287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1839168670918127617",
+              "start": 14,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919619506072105287",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919588403156512922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TidVR7NzHA26324 你也不看看香港的居住环境什么样子，哪个专才住得惯这样的房子，鬼才愿意来。服务业也是，本地人都经常往深圳跑，本地的服务业真心一般。住得差服务也不行，不跑才怪。\n另外你这最后两句话说了跟没说一样，放哪个国家或地区只要我对它不满都可以用，因为大部分国家和地区都在举债发展"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 644,
+          "like_count": 3057,
+          "listed_count": 6,
+          "media_count": 537,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T16:23:45.000Z",
+        "description": "日已夕兮予心忧悲，月已驰兮何不渡为？",
+        "id": "1513190881540841475",
+        "location": "Reykjavík",
+        "name": "\"está lloviendo en Macondo.\"",
+        "pinned_tweet_id": "1894724015740363223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685563900451061760/mWzCvba4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 277,
+          "like_count": 17326,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 3014
+        },
+        "username": "Gosolo22411",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 465,
+          "like_count": 12491,
+          "listed_count": 34,
+          "media_count": 762,
+          "tweet_count": 8339
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

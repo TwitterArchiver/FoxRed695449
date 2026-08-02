@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1939929455176167604",
+    "created_at": "2025-07-01T06:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T07:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939929455176167604"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 133,
+          "normalized_text": "Spain",
+          "probability": 0.9459,
+          "start": 129,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1528377022992588802",
+          "start": 3,
+          "username": "SophieMolly_OFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939929455176167604",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939608419981251024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @SophieMolly_OFF: \"imposes prison sentences of up to two years on those who oppose gender transition treatments for minors.\"\n\nSpain lead…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1939929455176167604",
+        "created_at": "2025-07-01T06:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939929455176167604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 133,
+              "normalized_text": "Spain",
+              "probability": 0.9459,
+              "start": 129,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1528377022992588802",
+              "start": 3,
+              "username": "SophieMolly_OFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939929455176167604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939608419981251024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @SophieMolly_OFF: \"imposes prison sentences of up to two years on those who oppose gender transition treatments for minors.\"\n\nSpain lead…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528377022992588802",
+        "conversation_id": "1939608419981251024",
+        "created_at": "2025-06-30T08:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939608419981251024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 112,
+              "normalized_text": "Spain",
+              "probability": 0.9539,
+              "start": 108,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The ‘center-right’ has joined the Left in a surreal proposal to amend the Spanish Penal Code.",
+              "display_url": "europeanconservative.com/articles/news/…",
+              "end": 176,
+              "expanded_url": "https://europeanconservative.com/articles/news/oppose-your-kids-gender-transition-spain-wants-you-behind-bars/",
+              "images": [
+                {
+                  "height": 1442,
+                  "url": "https://pbs.twimg.com/news_img/1938276446348230656/51iun_tP?format=jpg&name=orig",
+                  "width": 2560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1938276446348230656/51iun_tP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 153,
+              "status": 200,
+              "title": "Oppose Your Kids’ Gender Transition? Spain Wants You Behind Bars",
+              "unwound_url": "https://europeanconservative.com/articles/news/oppose-your-kids-gender-transition-spain-wants-you-behind-bars/",
+              "url": "https://t.co/5Kqtg2Q9Y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939608419981251024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6710,
+          "like_count": 317,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 60
+        },
+        "reply_settings": "following",
+        "text": "\"imposes prison sentences of up to two years on those who oppose gender transition treatments for minors.\"\n\nSpain leading the charge on human rights 🇪🇸\n\nhttps://t.co/5Kqtg2Q9Y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 669,
+          "like_count": 3649,
+          "listed_count": 7,
+          "media_count": 501,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T14:07:46.000Z",
+        "description": "Progressive lefty/feminist. Political Activist/Journalist/Songwriter. Outperformed Posie Parker in the 2024 General Election. Trans people are beautiful 🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sophiemollymu…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@sophiemollymusic?si=kggWHvjmaONahu0E",
+                "start": 0,
+                "url": "https://t.co/Og5GUbkdAh"
+              }
+            ]
+          }
+        },
+        "id": "1528377022992588802",
+        "location": "Aberdeen, Scotland",
+        "name": "Sophie Molly 🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1901263404897095785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914801905928212480/ms1r9Z1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8525,
+          "following_count": 2483,
+          "like_count": 46731,
+          "listed_count": 378,
+          "media_count": 2803,
+          "tweet_count": 33871
+        },
+        "url": "https://t.co/Og5GUbkdAh",
+        "username": "SophieMolly_OFF",
+        "verified": false
+      }
+    ]
+  }
+}

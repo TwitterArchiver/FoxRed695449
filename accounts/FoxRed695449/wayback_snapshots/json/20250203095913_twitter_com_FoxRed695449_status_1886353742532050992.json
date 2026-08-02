@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T09:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T10:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886353742532050992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1644062234367389697",
+          "start": 0,
+          "username": "Aesiayde"
+        },
+        {
+          "end": 20,
+          "id": "1459933885974953984",
+          "start": 10,
+          "username": "zhao_mama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886353742532050992",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886352558605938700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aesiayde @zhao_mama 透過標籤去否定對方，結果不小心，揭示出了自己的立場，那是標籤我，還是標籤你自己呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886353742532050992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644062234367389697",
+              "start": 0,
+              "username": "Aesiayde"
+            },
+            {
+              "end": 20,
+              "id": "1459933885974953984",
+              "start": 10,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886353742532050992",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886352558605938700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aesiayde @zhao_mama 透過標籤去否定對方，結果不小心，揭示出了自己的立場，那是標籤我，還是標籤你自己呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886352558605938700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1644062234367389697",
+              "start": 0,
+              "username": "Aesiayde"
+            },
+            {
+              "end": 20,
+              "id": "1459933885974953984",
+              "start": 10,
+              "username": "zhao_mama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 44,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886332228055273850?t=rLuDuUJlht6nrvctwmCrgg&s=19",
+              "start": 21,
+              "url": "https://t.co/jvdYny72M1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886352558605938700",
+        "in_reply_to_user_id": "1644062234367389697",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886332228055273850",
+            "type": "quoted"
+          },
+          {
+            "id": "1886328103900713432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aesiayde @zhao_mama https://t.co/jvdYny72M1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 450,
+          "like_count": 1341,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 804
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T19:39:31.000Z",
+        "description": "泉川 兰",
+        "id": "1644062234367389697",
+        "location": "6910",
+        "name": "Ashbridges\\",
+        "pinned_tweet_id": "1821607381102686704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806546682219524096/yguUL7Xi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 348,
+          "like_count": 11172,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 6623
+        },
+        "username": "Aesiayde",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-14T17:19:29.000Z",
+        "description": "极端支黑/极左/不学无术/又蠢又坏/不是夸出/性压抑支男/种花家的小兔子一枚吖 永远永远爱你哦",
+        "id": "1459933885974953984",
+        "name": "坂下りっか🕷️🎂🕷️",
+        "pinned_tweet_id": "1798060046473154832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871013086402080768/BC36xQDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 1947,
+          "like_count": 36128,
+          "listed_count": 12,
+          "media_count": 274,
+          "tweet_count": 15781
+        },
+        "username": "zhao_mama",
+        "verified": false
+      }
+    ]
+  }
+}

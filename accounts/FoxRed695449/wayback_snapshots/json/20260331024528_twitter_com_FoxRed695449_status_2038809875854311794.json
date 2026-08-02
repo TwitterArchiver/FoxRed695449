@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038809872951873536"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038809875854311794",
+    "created_at": "2026-03-31T02:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038809875854311794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HWtybPnlY6",
+          "end": 42,
+          "expanded_url": "https://x.com/FoxRed695449/status/2038809875854311794/photo/1",
+          "media_key": "3_2038809872951873536",
+          "start": 19,
+          "url": "https://t.co/HWtybPnlY6"
+        },
+        {
+          "display_url": "x.com/RX_Xron28390/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/RX_Xron28390/status/2038763321399153047",
+          "start": 43,
+          "url": "https://t.co/hZPCmzJU8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038809875854311794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038763321399153047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被捕人：我也是這麼想的怎麼就被抓了啊 https://t.co/HWtybPnlY6 https://t.co/hZPCmzJU8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_2038809872951873536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtOxwHbEAAE644.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038809872951873536"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038809875854311794",
+        "created_at": "2026-03-31T02:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038809875854311794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWtybPnlY6",
+              "end": 42,
+              "expanded_url": "https://x.com/FoxRed695449/status/2038809875854311794/photo/1",
+              "media_key": "3_2038809872951873536",
+              "start": 19,
+              "url": "https://t.co/HWtybPnlY6"
+            },
+            {
+              "display_url": "x.com/RX_Xron28390/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/RX_Xron28390/status/2038763321399153047",
+              "start": 43,
+              "url": "https://t.co/hZPCmzJU8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038809875854311794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038763321399153047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被捕人：我也是這麼想的怎麼就被抓了啊 https://t.co/HWtybPnlY6 https://t.co/hZPCmzJU8Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2038620316700951001",
+        "created_at": "2026-03-30T23:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T00:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038763321399153047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2023868417384894464",
+              "start": 0,
+              "username": "Piiseeo"
+            },
+            {
+              "end": 21,
+              "id": "1896175390005342208",
+              "start": 9,
+              "username": "Monggiacmeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038763321399153047",
+        "in_reply_to_user_id": "2023868417384894464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038751816264086016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Piiseeo @Monggiacmeo 养活是义务，好好对待是附加的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 812,
+          "like_count": 7216,
+          "listed_count": 7,
+          "media_count": 950,
+          "tweet_count": 3031
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/超级地球赛博斯坦指定冻肉 Anti-trans，恐虐麾下出场，纳垢锅里喝汤，奸奇桌前分账，色孽闺中睡床，德皇kaiser：@sanitf1 向伟大的奥匈、俄联邦、英联邦，奥斯曼，拜占庭致敬🇷🇺🇩🇪🇹🇷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2037930660434723151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 200,
+          "like_count": 5124,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3397
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

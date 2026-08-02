@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859861220272242895",
+    "created_at": "2024-11-22T07:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T08:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859861220272242895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1847896784791883777",
+          "start": 3,
+          "username": "yezhixyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859861220272242895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859646667299119435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yezhixyn: 重磅消息（我不对此信息负责 自行判断）\n芙卡骗金主钱一事\n首先，我要告诉大家，芙卡曾与雨梦联合骗金主钱，后因矛盾分手。对开放性关系不做评价（图一二） 据小道消息来源，芙卡以起诉某人，然后某人与受害者关系密切，所以开庭要到场为由要挟骗钱（图三四），受害…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859861220272242895",
+        "created_at": "2024-11-22T07:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T08:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859861220272242895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847896784791883777",
+              "start": 3,
+              "username": "yezhixyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859861220272242895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859646667299119435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yezhixyn: 重磅消息（我不对此信息负责 自行判断）\n芙卡骗金主钱一事\n首先，我要告诉大家，芙卡曾与雨梦联合骗金主钱，后因矛盾分手。对开放性关系不做评价（图一二） 据小道消息来源，芙卡以起诉某人，然后某人与受害者关系密切，所以开庭要到场为由要挟骗钱（图三四），受害…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859646662899269633",
+            "3_1859646664019247104",
+            "3_1859646663327088644",
+            "3_1859646664543551488"
+          ]
+        },
+        "author_id": "1847896784791883777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859646667299119435",
+        "created_at": "2024-11-21T17:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T18:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859646667299119435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd3ZqcuSZe",
+              "end": 168,
+              "expanded_url": "https://x.com/yezhixyn/status/1859646667299119435/photo/1",
+              "media_key": "3_1859646662899269633",
+              "start": 145,
+              "url": "https://t.co/Yd3ZqcuSZe"
+            },
+            {
+              "display_url": "pic.x.com/Yd3ZqcuSZe",
+              "end": 168,
+              "expanded_url": "https://x.com/yezhixyn/status/1859646667299119435/photo/1",
+              "media_key": "3_1859646664019247104",
+              "start": 145,
+              "url": "https://t.co/Yd3ZqcuSZe"
+            },
+            {
+              "display_url": "pic.x.com/Yd3ZqcuSZe",
+              "end": 168,
+              "expanded_url": "https://x.com/yezhixyn/status/1859646667299119435/photo/1",
+              "media_key": "3_1859646663327088644",
+              "start": 145,
+              "url": "https://t.co/Yd3ZqcuSZe"
+            },
+            {
+              "display_url": "pic.x.com/Yd3ZqcuSZe",
+              "end": 168,
+              "expanded_url": "https://x.com/yezhixyn/status/1859646667299119435/photo/1",
+              "media_key": "3_1859646664543551488",
+              "start": 145,
+              "url": "https://t.co/Yd3ZqcuSZe"
+            },
+            {
+              "display_url": "x.com/yezhixyn/statu…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/yezhixyn/status/1859218200388686259",
+              "start": 169,
+              "url": "https://t.co/swKjAkP4hS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859646667299119435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7633,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859218200388686259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重磅消息（我不对此信息负责 自行判断）\n芙卡骗金主钱一事\n首先，我要告诉大家，芙卡曾与雨梦联合骗金主钱，后因矛盾分手。对开放性关系不做评价（图一二） 据小道消息来源，芙卡以起诉某人，然后某人与受害者关系密切，所以开庭要到场为由要挟骗钱（图三四），受害者也就是芙卡的金主最起码被骗了2000 https://t.co/Yd3ZqcuSZe https://t.co/swKjAkP4hS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 225,
+          "like_count": 210,
+          "listed_count": 1,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-20T07:05:21.000Z",
+        "description": "09年║23 2 4hrt║在读高一是高中牲║可能有双相║不定时爆血图",
+        "id": "1847896784791883777",
+        "name": "夜芷🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847899507364941824/cdcwf7kj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 45,
+          "like_count": 92,
+          "listed_count": 0,
+          "tweet_count": 41
+        },
+        "username": "yezhixyn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993311902366371904",
+    "created_at": "2025-11-25T14:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993321260915605821"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "恭喜",
+          "probability": 0.6128,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718549877070958592",
+          "start": 0,
+          "username": "I_cut_ur_balls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993321260915605821",
+    "in_reply_to_user_id": "1718549877070958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993311902366371904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_cut_ur_balls 恭喜www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993311897937182721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mqnDMbAAEjTW-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1903,
+        "media_key": "3_1993311803271675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mqhiiaAAAnUsr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993311899031945219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mqnHRbwAMasY8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 787,
+        "media_key": "3_1993311791410253824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mqg2WbEAAXSr-.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993311902366371904",
+        "created_at": "2025-11-25T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993321260915605821"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "恭喜",
+              "probability": 0.6128,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718549877070958592",
+              "start": 0,
+              "username": "I_cut_ur_balls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993321260915605821",
+        "in_reply_to_user_id": "1718549877070958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993311902366371904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_cut_ur_balls 恭喜www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993311897937182721",
+            "3_1993311803271675904",
+            "3_1993311899031945219",
+            "3_1993311791410253824"
+          ]
+        },
+        "author_id": "1718549877070958592",
+        "conversation_id": "1993311902366371904",
+        "created_at": "2025-11-25T13:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993311902366371904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPQq2WbQkm",
+              "end": 32,
+              "expanded_url": "https://x.com/I_cut_ur_balls/status/1993311902366371904/photo/1",
+              "media_key": "3_1993311897937182721",
+              "start": 9,
+              "url": "https://t.co/lPQq2WbQkm"
+            },
+            {
+              "display_url": "pic.x.com/lPQq2WbQkm",
+              "end": 32,
+              "expanded_url": "https://x.com/I_cut_ur_balls/status/1993311902366371904/photo/1",
+              "media_key": "3_1993311803271675904",
+              "start": 9,
+              "url": "https://t.co/lPQq2WbQkm"
+            },
+            {
+              "display_url": "pic.x.com/lPQq2WbQkm",
+              "end": 32,
+              "expanded_url": "https://x.com/I_cut_ur_balls/status/1993311902366371904/photo/1",
+              "media_key": "3_1993311899031945219",
+              "start": 9,
+              "url": "https://t.co/lPQq2WbQkm"
+            },
+            {
+              "display_url": "pic.x.com/lPQq2WbQkm",
+              "end": 32,
+              "expanded_url": "https://x.com/I_cut_ur_balls/status/1993311902366371904/photo/1",
+              "media_key": "3_1993311791410253824",
+              "start": 9,
+              "url": "https://t.co/lPQq2WbQkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993311902366371904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️‍⚧️🔥♥️ https://t.co/lPQq2WbQkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 699,
+          "like_count": 4962,
+          "listed_count": 7,
+          "media_count": 897,
+          "tweet_count": 2750
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T08:46:56.000Z",
+        "description": "Eng/中/廣東話 maybe | She/ Her | Vocaloid Creator | Accredited failure | Proud Hong Konger | Transfem🏳️‍⚧️",
+        "id": "1718549877070958592",
+        "name": "Rollingirl.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718554997724753920/39L16nvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 736,
+          "like_count": 6927,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 1300
+        },
+        "username": "I_cut_ur_balls",
+        "verified": false
+      }
+    ]
+  }
+}

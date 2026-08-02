@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882329498190036992"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "1881547317314240932",
+    "created_at": "2025-01-23T07:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T08:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882329500882784402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1351422054608760832",
+          "start": 0,
+          "username": "joker86671367"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ingAjhHeE3",
+          "end": 87,
+          "expanded_url": "https://x.com/FoxRed695449/status/1882329500882784402/photo/1",
+          "media_key": "3_1882329498190036992",
+          "start": 64,
+          "url": "https://t.co/ingAjhHeE3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882329500882784402",
+    "in_reply_to_user_id": "1351422054608760832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882052337801585110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joker86671367 可是港版當然是在香港用啊\n三星光支持八達通，就不知道比其他國內Android手機不知道方便多少了 https://t.co/ingAjhHeE3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1882329498190036992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh9gtKHbQAAzkzr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882329498190036992"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1881547317314240932",
+        "created_at": "2025-01-23T07:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T08:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882329500882784402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1351422054608760832",
+              "start": 0,
+              "username": "joker86671367"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ingAjhHeE3",
+              "end": 87,
+              "expanded_url": "https://x.com/FoxRed695449/status/1882329500882784402/photo/1",
+              "media_key": "3_1882329498190036992",
+              "start": 64,
+              "url": "https://t.co/ingAjhHeE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882329500882784402",
+        "in_reply_to_user_id": "1351422054608760832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882052337801585110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joker86671367 可是港版當然是在香港用啊\n三星光支持八達通，就不知道比其他國內Android手機不知道方便多少了 https://t.co/ingAjhHeE3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351422054608760832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1881547317314240932",
+        "created_at": "2025-01-22T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882052337801585110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882052337801585110",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881547317314240932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我用的就是港版s24u，Google为安全着想个屁，我想出国用着方便，没想到装软件动不动就显示不兼容，国内软件不兼容我就认了，md国外这些软件PayPal啥的还能显示不兼容我也是服了，还有TMD港版三星为啥连录入门禁卡这些都不行，这现在但凡是个智能机都能录入吧，真尼玛后老悔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 423,
+          "like_count": 1270,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 719
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T06:51:56.000Z",
+        "description": "like playing instrument",
+        "id": "1351422054608760832",
+        "name": "joker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399074157476802560/KM8qAqDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 563,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1310
+        },
+        "username": "joker86671367",
+        "verified": false
+      }
+    ]
+  }
+}

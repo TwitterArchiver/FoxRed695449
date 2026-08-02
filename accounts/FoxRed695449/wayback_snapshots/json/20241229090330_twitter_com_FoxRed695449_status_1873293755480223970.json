@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873291479546053044",
+    "created_at": "2024-12-29T09:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T10:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873293755480223970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873293755480223970",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873293321667539261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 你自己在有100多人的群裡主動和我吵架，大家當然會知道喔\n還有，這個你至少發了3次了，真是複讀機啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873291479546053044",
+        "created_at": "2024-12-29T09:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873293755480223970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873293755480223970",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873293321667539261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 你自己在有100多人的群裡主動和我吵架，大家當然會知道喔\n還有，這個你至少發了3次了，真是複讀機啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1873291479546053044",
+        "created_at": "2024-12-29T09:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873293321667539261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nagivictoria/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/nagivictoria/status/1873285381002805317",
+              "start": 80,
+              "url": "https://t.co/YL8CEsZDgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873293321667539261",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873285381002805317",
+            "type": "quoted"
+          },
+          {
+            "id": "1873292645638041892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 谁都没说，指把事情尽可能泄漏给这么多人吗\n其他什么问题呢，你怎么不说啊\n不会有人觉得自己不是老中思维吧\n不会有人只会拼命引用推文吧 https://t.co/YL8CEsZDgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1075,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 573
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 578,
+          "like_count": 8549,
+          "listed_count": 3,
+          "media_count": 1119,
+          "tweet_count": 8541
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

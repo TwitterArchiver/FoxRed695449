@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1916022128878751787",
+    "created_at": "2025-04-26T15:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T16:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916150947543498885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619328516604198912",
+          "start": 0,
+          "username": "DaBingJingDuo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "An Act to revise the law of England and Wales as to theft and similar or associated offences, and in connection therewith to make provision as to criminal proceedings by one party to a marriage against the other, and to make certain amendments extending beyond England and Wales in the Post Office Act 1953 and other enactments; and for other purposes connected therewith.",
+          "display_url": "legislation.gov.uk/ukpga/1968/60/…",
+          "end": 233,
+          "expanded_url": "https://www.legislation.gov.uk/ukpga/1968/60/section/13",
+          "start": 210,
+          "status": 200,
+          "title": "Theft Act 1968",
+          "unwound_url": "https://www.legislation.gov.uk/ukpga/1968/60/section/13",
+          "url": "https://t.co/g4rCEAviEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916150947543498885",
+    "in_reply_to_user_id": "1619328516604198912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916022128878751787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaBingJingDuo 英國法律Theft Act 1968, Section 13\n\"A person who dishonestly uses without due authority, or dishonestly causes to be wasted or diverted, any electricity shall be guilty of an offence.\"\n還要再舉別的國家的例子嗎？\nhttps://t.co/g4rCEAviEc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1916022128878751787",
+        "created_at": "2025-04-26T15:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T16:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916150947543498885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619328516604198912",
+              "start": 0,
+              "username": "DaBingJingDuo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "An Act to revise the law of England and Wales as to theft and similar or associated offences, and in connection therewith to make provision as to criminal proceedings by one party to a marriage against the other, and to make certain amendments extending beyond England and Wales in the Post Office Act 1953 and other enactments; and for other purposes connected therewith.",
+              "display_url": "legislation.gov.uk/ukpga/1968/60/…",
+              "end": 233,
+              "expanded_url": "https://www.legislation.gov.uk/ukpga/1968/60/section/13",
+              "start": 210,
+              "status": 200,
+              "title": "Theft Act 1968",
+              "unwound_url": "https://www.legislation.gov.uk/ukpga/1968/60/section/13",
+              "url": "https://t.co/g4rCEAviEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916150947543498885",
+        "in_reply_to_user_id": "1619328516604198912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916022128878751787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaBingJingDuo 英國法律Theft Act 1968, Section 13\n\"A person who dishonestly uses without due authority, or dishonestly causes to be wasted or diverted, any electricity shall be guilty of an offence.\"\n還要再舉別的國家的例子嗎？\nhttps://t.co/g4rCEAviEc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619328516604198912",
+        "conversation_id": "1916022128878751787",
+        "created_at": "2025-04-26T06:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916022128878751787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hezuruy/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/hezuruy/status/1915694794158071940",
+              "start": 52,
+              "url": "https://t.co/F5AzB8Lddf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916022128878751787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 164215,
+          "like_count": 642,
+          "quote_count": 17,
+          "reply_count": 142,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915694794158071940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全世界仅有的一个有【盗电】罪名的发达国家。人家手机没电了，找个插口，被日本人网暴【盗电】……太魔幻了。 https://t.co/F5AzB8Lddf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3644,
+          "following_count": 628,
+          "like_count": 2954,
+          "listed_count": 6,
+          "media_count": 501,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-28T13:37:45.000Z",
+        "description": "藏人，美国陆军退伍军人，独立时评人，不自由撰稿人，康奈尔大学政治系毕业，美国法律博士(JD)在读，有锋芒的善良",
+        "id": "1619328516604198912",
+        "name": "美国大兵净多",
+        "pinned_tweet_id": "1900826935821037668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707293226019786752/Cv3GPdoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49873,
+          "following_count": 88,
+          "like_count": 3726,
+          "listed_count": 253,
+          "media_count": 397,
+          "tweet_count": 10281
+        },
+        "username": "DaBingJingDuo",
+        "verified": true
+      }
+    ]
+  }
+}

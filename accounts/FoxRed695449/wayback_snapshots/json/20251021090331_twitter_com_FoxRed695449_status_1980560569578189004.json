@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980560563714297856",
+        "3_1980560563408113664",
+        "3_1980560564741877760",
+        "3_1980560564850925568"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1980560569578189004",
+    "created_at": "2025-10-21T09:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980560569578189004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This global web site presents OFFICIAL weather forecasts and climatological information for selected cities supplied by National Meteorological & Hydrological Services worldwide.",
+          "display_url": "worldweather.wmo.int/en/apps.html",
+          "end": 65,
+          "expanded_url": "https://worldweather.wmo.int/en/apps.html",
+          "start": 42,
+          "status": 200,
+          "title": "Apps | World Weather Information Service",
+          "unwound_url": "https://worldweather.wmo.int/en/apps.html",
+          "url": "https://t.co/0si0sWqeok"
+        },
+        {
+          "display_url": "pic.x.com/c2PrxFsAE9",
+          "end": 90,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+          "media_key": "3_1980560563714297856",
+          "start": 67,
+          "url": "https://t.co/c2PrxFsAE9"
+        },
+        {
+          "display_url": "pic.x.com/c2PrxFsAE9",
+          "end": 90,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+          "media_key": "3_1980560563408113664",
+          "start": 67,
+          "url": "https://t.co/c2PrxFsAE9"
+        },
+        {
+          "display_url": "pic.x.com/c2PrxFsAE9",
+          "end": 90,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+          "media_key": "3_1980560564741877760",
+          "start": 67,
+          "url": "https://t.co/c2PrxFsAE9"
+        },
+        {
+          "display_url": "pic.x.com/c2PrxFsAE9",
+          "end": 90,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+          "media_key": "3_1980560564850925568",
+          "start": 67,
+          "url": "https://t.co/c2PrxFsAE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980560569578189004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你只想有一個基本的看天氣App,不想有任何廣告,你或許可以試試看聯合國的App（https://t.co/0si0sWqeok） https://t.co/c2PrxFsAE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_1980560563714297856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xdVthWkAAisOX.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980560563408113664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xdVsYWkAAiXp5.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980560564741877760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xdVxWWMAAjazH.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980560564850925568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xdVxwWIAAi9i1.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980560563714297856",
+            "3_1980560563408113664",
+            "3_1980560564741877760",
+            "3_1980560564850925568"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1980560569578189004",
+        "created_at": "2025-10-21T09:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980560569578189004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This global web site presents OFFICIAL weather forecasts and climatological information for selected cities supplied by National Meteorological & Hydrological Services worldwide.",
+              "display_url": "worldweather.wmo.int/en/apps.html",
+              "end": 65,
+              "expanded_url": "https://worldweather.wmo.int/en/apps.html",
+              "start": 42,
+              "status": 200,
+              "title": "Apps | World Weather Information Service",
+              "unwound_url": "https://worldweather.wmo.int/en/apps.html",
+              "url": "https://t.co/0si0sWqeok"
+            },
+            {
+              "display_url": "pic.x.com/c2PrxFsAE9",
+              "end": 90,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+              "media_key": "3_1980560563714297856",
+              "start": 67,
+              "url": "https://t.co/c2PrxFsAE9"
+            },
+            {
+              "display_url": "pic.x.com/c2PrxFsAE9",
+              "end": 90,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+              "media_key": "3_1980560563408113664",
+              "start": 67,
+              "url": "https://t.co/c2PrxFsAE9"
+            },
+            {
+              "display_url": "pic.x.com/c2PrxFsAE9",
+              "end": 90,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+              "media_key": "3_1980560564741877760",
+              "start": 67,
+              "url": "https://t.co/c2PrxFsAE9"
+            },
+            {
+              "display_url": "pic.x.com/c2PrxFsAE9",
+              "end": 90,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980560569578189004/photo/1",
+              "media_key": "3_1980560564850925568",
+              "start": 67,
+              "url": "https://t.co/c2PrxFsAE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980560569578189004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你只想有一個基本的看天氣App,不想有任何廣告,你或許可以試試看聯合國的App（https://t.co/0si0sWqeok） https://t.co/c2PrxFsAE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 699,
+          "like_count": 4625,
+          "listed_count": 7,
+          "media_count": 849,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

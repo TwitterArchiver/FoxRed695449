@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887896268065959936"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1887801384730587543",
+    "created_at": "2025-02-07T16:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887896270519620080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "shiroko2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ONJX7BK6Q9",
+          "end": 87,
+          "expanded_url": "https://x.com/FoxRed695449/status/1887896270519620080/photo/1",
+          "media_key": "3_1887896268065959936",
+          "start": 64,
+          "url": "https://t.co/ONJX7BK6Q9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887896270519620080",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887801384730587543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko2024 可以搞個香港的Google帳戶喔\n講個冷知識：香港的Google帳戶是可以綁銀聯卡的，內地的也可以喔 https://t.co/ONJX7BK6Q9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1887896268065959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjMnpz7bcAA2T9e.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887896268065959936"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1887801384730587543",
+        "created_at": "2025-02-07T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887896270519620080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "shiroko2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONJX7BK6Q9",
+              "end": 87,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887896270519620080/photo/1",
+              "media_key": "3_1887896268065959936",
+              "start": 64,
+              "url": "https://t.co/ONJX7BK6Q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887896270519620080",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887801384730587543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko2024 可以搞個香港的Google帳戶喔\n講個冷知識：香港的Google帳戶是可以綁銀聯卡的，內地的也可以喔 https://t.co/ONJX7BK6Q9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737053348740603904",
+        "conversation_id": "1887801384730587543",
+        "created_at": "2025-02-07T09:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T10:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887801384730587543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887801384730587543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我谷歌绑的美号但我vpn有问题一直显示在hk，那我应该用哪个区的礼品卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3722,
+          "following_count": 467,
+          "like_count": 1432,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 970
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n妈妈 @kurioshifio | 好朋友 @GlimpseAbyss | 爱你 @squirrelGUW | 老婆 @MeowSakur76073 | 二号机@skeleton8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kurioshifio"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "GlimpseAbyss"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "squirrelGUW"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "MeowSakur76073"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "skeleton8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shirok…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shiroko2024.bsky.social",
+                "start": 0,
+                "url": "https://t.co/ourvdZc0Xc"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "砂狼白子",
+        "pinned_tweet_id": "1887044977001423257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886342341323288576/eEOmGjjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5079,
+          "following_count": 1136,
+          "like_count": 138049,
+          "listed_count": 20,
+          "media_count": 1217,
+          "tweet_count": 10326
+        },
+        "url": "https://t.co/ourvdZc0Xc",
+        "username": "shiroko2024",
+        "verified": false
+      }
+    ]
+  }
+}

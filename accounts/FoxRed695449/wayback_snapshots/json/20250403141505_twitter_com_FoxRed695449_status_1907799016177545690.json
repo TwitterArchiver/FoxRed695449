@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907799013350584322"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1907799016177545690",
+    "created_at": "2025-04-03T14:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907799016177545690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEjxaQbpTj",
+          "end": 65,
+          "expanded_url": "https://x.com/FoxRed695449/status/1907799016177545690/photo/1",
+          "media_key": "3_1907799013350584322",
+          "start": 42,
+          "url": "https://t.co/PEjxaQbpTj"
+        },
+        {
+          "display_url": "x.com/kinglinzhuhui/…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/kinglinzhuhui/status/1907261552241316115",
+          "start": 66,
+          "url": "https://t.co/GmoEkvFM5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907799016177545690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907261552241316115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，這些粉紅是連自己工作都沒有的小學生嗎，連醫保帳戶是自己和單位交的錢都不知道嗎 https://t.co/PEjxaQbpTj https://t.co/GmoEkvFM5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_1907799013350584322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnndGD2aMAI6-z5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1452,
+        "media_key": "3_1907261542891974656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnf0RKXW8AA8gWo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907799013350584322"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1907799016177545690",
+        "created_at": "2025-04-03T14:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907799016177545690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEjxaQbpTj",
+              "end": 65,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907799016177545690/photo/1",
+              "media_key": "3_1907799013350584322",
+              "start": 42,
+              "url": "https://t.co/PEjxaQbpTj"
+            },
+            {
+              "display_url": "x.com/kinglinzhuhui/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/kinglinzhuhui/status/1907261552241316115",
+              "start": 66,
+              "url": "https://t.co/GmoEkvFM5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907799016177545690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907261552241316115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，這些粉紅是連自己工作都沒有的小學生嗎，連醫保帳戶是自己和單位交的錢都不知道嗎 https://t.co/PEjxaQbpTj https://t.co/GmoEkvFM5F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907261542891974656"
+          ]
+        },
+        "author_id": "1221824882582753280",
+        "conversation_id": "1907261552241316115",
+        "created_at": "2025-04-02T02:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T03:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907261552241316115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srbdS5P7wc",
+              "end": 39,
+              "expanded_url": "https://x.com/kinglinzhuhui/status/1907261552241316115/photo/1",
+              "media_key": "3_1907261542891974656",
+              "start": 16,
+              "url": "https://t.co/srbdS5P7wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907261552241316115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 29257,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 96,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "医保帐户支付咋就成自己支付了？ https://t.co/srbdS5P7wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 591,
+          "like_count": 2713,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-27T15:59:01.000Z",
+        "description": "福清哥",
+        "id": "1221824882582753280",
+        "location": "中国",
+        "name": "K.L",
+        "pinned_tweet_id": "1545859803049648128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885574775701143552/ELlxyxOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19816,
+          "following_count": 3259,
+          "like_count": 81505,
+          "listed_count": 109,
+          "media_count": 15304,
+          "tweet_count": 47860
+        },
+        "username": "kinglinzhuhui",
+        "verified": false
+      }
+    ]
+  }
+}

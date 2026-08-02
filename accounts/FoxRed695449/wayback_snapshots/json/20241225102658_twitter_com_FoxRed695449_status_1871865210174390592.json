@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1871863834220326967",
+    "created_at": "2024-12-25T10:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T11:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871865210174390592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871865210174390592",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871864843600572791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 圣诞快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1871863834220326967",
+        "created_at": "2024-12-25T10:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T11:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871865210174390592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871865210174390592",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871864843600572791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 圣诞快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735700650472955904",
+        "conversation_id": "1871863834220326967",
+        "created_at": "2024-12-25T10:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871864843600572791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871864843600572791",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871863834220326967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 圣诞快乐〜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 379,
+          "like_count": 1030,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 514
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "欢迎私信秋儿，秋儿会听你的吐槽呀      \n 无偏向日常，可能o多了会癫，可能难受了会渴望死亡，可能米忽悠，可能爽玩音游，要是都不是就是在飞行/-—-/喹硫平＋艾司西酞普兰 已自停，互fo喵，没被fo的私信一下，会被吞，会fo有内容的推友喵            提问↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu80131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu80131",
+                "start": 0,
+                "url": "https://t.co/rQbp7InDUv"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "0.32km",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）",
+        "pinned_tweet_id": "1868265849423110431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 571,
+          "like_count": 5983,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/rQbp7InDUv",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

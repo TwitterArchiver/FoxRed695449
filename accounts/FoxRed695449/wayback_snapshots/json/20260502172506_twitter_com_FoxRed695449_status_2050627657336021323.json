@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2050175942123790339",
+    "created_at": "2026-05-02T17:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050627657336021323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473608457089851395",
+          "start": 0,
+          "username": "indigenouscurly"
+        },
+        {
+          "end": 28,
+          "id": "1489993799979859969",
+          "start": 17,
+          "username": "ShaoTongle"
+        },
+        {
+          "end": 43,
+          "id": "1337268801453182979",
+          "start": 29,
+          "username": "MrFan76631224"
+        },
+        {
+          "end": 55,
+          "id": "143810986",
+          "start": 44,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050627657336021323",
+    "in_reply_to_user_id": "1473608457089851395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "是的\n现在的技术就是到不了\n因为你做再多的冗余也不能保证不会机械部件全部失效，而在例如失速的情况下就是要向下推杆，现代航空业的绝对标准就是飞行员指令优先级高于飞行电脑\n其实有更新的例子\n2018-2019年波音737max那两起导致其被停飞的空难最终的整改方案也包括来自飞行电脑的MCAS能够给出的最大低头控制力矩，不能超过飞行员手动拉杆能够对抗的力矩\n同时汉莎航空 LH1829在2019年也有空客a321neo的多个迎角传感器因为结冰被冻住导致触发了“攻角保护”，自动控制飞机以极快的速度向下俯冲，最终机组手动关闭了两台大气数据惯性基准单元才解决此问题"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050611894181118337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indigenouscurly @ShaoTongle @MrFan76631224 @dw_chinese 是的\n现在的技术就是到不了\n因为你做再多的冗余也不能保证不会机械部件全部失效，而在例如失速的情况下就是要向下推杆，现代航空业的绝对标准就是飞行员指令优先级高于飞行电脑\n其实有更新的例子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2050175942123790339",
+        "created_at": "2026-05-02T17:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050627657336021323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473608457089851395",
+              "start": 0,
+              "username": "indigenouscurly"
+            },
+            {
+              "end": 28,
+              "id": "1489993799979859969",
+              "start": 17,
+              "username": "ShaoTongle"
+            },
+            {
+              "end": 43,
+              "id": "1337268801453182979",
+              "start": 29,
+              "username": "MrFan76631224"
+            },
+            {
+              "end": 55,
+              "id": "143810986",
+              "start": 44,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050627657336021323",
+        "in_reply_to_user_id": "1473608457089851395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的\n现在的技术就是到不了\n因为你做再多的冗余也不能保证不会机械部件全部失效，而在例如失速的情况下就是要向下推杆，现代航空业的绝对标准就是飞行员指令优先级高于飞行电脑\n其实有更新的例子\n2018-2019年波音737max那两起导致其被停飞的空难最终的整改方案也包括来自飞行电脑的MCAS能够给出的最大低头控制力矩，不能超过飞行员手动拉杆能够对抗的力矩\n同时汉莎航空 LH1829在2019年也有空客a321neo的多个迎角传感器因为结冰被冻住导致触发了“攻角保护”，自动控制飞机以极快的速度向下俯冲，最终机组手动关闭了两台大气数据惯性基准单元才解决此问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050611894181118337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indigenouscurly @ShaoTongle @MrFan76631224 @dw_chinese 是的\n现在的技术就是到不了\n因为你做再多的冗余也不能保证不会机械部件全部失效，而在例如失速的情况下就是要向下推杆，现代航空业的绝对标准就是飞行员指令优先级高于飞行电脑\n其实有更新的例子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473608457089851395",
+        "conversation_id": "2050175942123790339",
+        "created_at": "2026-05-02T16:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050611894181118337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "1489993799979859969",
+              "start": 14,
+              "username": "ShaoTongle"
+            },
+            {
+              "end": 40,
+              "id": "1337268801453182979",
+              "start": 26,
+              "username": "MrFan76631224"
+            },
+            {
+              "end": 52,
+              "id": "143810986",
+              "start": 41,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050611894181118337",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050561374175281282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @ShaoTongle @MrFan76631224 @dw_chinese 这个问题就规划成两点：1，现代航空技术是否可以检测出明显的错误或有意的坠机操作；2，有没有能力改出。你的意思是（1）在现有技术条件下做不到，对吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 823,
+          "like_count": 7873,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 3182
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-22T10:57:33.000Z",
+        "description": "",
+        "id": "1473608457089851395",
+        "name": "Bulbasaur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730637058178510850/xZ65De-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 235,
+          "like_count": 13936,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 6532
+        },
+        "username": "indigenouscurly",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T16:06:42.000Z",
+        "description": "",
+        "id": "1489993799979859969",
+        "name": "sss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489993899804217345/iDN0oa-K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 83,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "ShaoTongle",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T05:31:53.000Z",
+        "description": "在路上",
+        "id": "1337268801453182979",
+        "name": "lover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046162907764080640/KctAM7GL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 76,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 9092
+        },
+        "username": "MrFan76631224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381462,
+          "following_count": 11,
+          "like_count": 388,
+          "listed_count": 5514,
+          "media_count": 15879,
+          "tweet_count": 84611
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

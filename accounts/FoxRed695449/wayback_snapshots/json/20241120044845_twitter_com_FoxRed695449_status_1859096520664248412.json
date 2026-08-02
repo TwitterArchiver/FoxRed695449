@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859096513194192896"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859096520664248412",
+    "created_at": "2024-11-20T04:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T05:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859096520664248412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zVjpAUExXB",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxRed695449/status/1859096520664248412/photo/1",
+          "media_key": "3_1859096513194192896",
+          "start": 18,
+          "url": "https://t.co/zVjpAUExXB"
+        },
+        {
+          "display_url": "x.com/rabbubble550w/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/rabbubble550w/status/1858910845876719813",
+          "start": 42,
+          "url": "https://t.co/WlDhodnxTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859096520664248412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858910845876719813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "球球你们关注我吧，我什么都会做的😭 https://t.co/zVjpAUExXB https://t.co/WlDhodnxTC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_1859096513194192896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GczWbcgbcAA-xCB.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859096513194192896"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859096520664248412",
+        "created_at": "2024-11-20T04:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T05:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859096520664248412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVjpAUExXB",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxRed695449/status/1859096520664248412/photo/1",
+              "media_key": "3_1859096513194192896",
+              "start": 18,
+              "url": "https://t.co/zVjpAUExXB"
+            },
+            {
+              "display_url": "x.com/rabbubble550w/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/rabbubble550w/status/1858910845876719813",
+              "start": 42,
+              "url": "https://t.co/WlDhodnxTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859096520664248412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858910845876719813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "球球你们关注我吧，我什么都会做的😭 https://t.co/zVjpAUExXB https://t.co/WlDhodnxTC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858910839715360768"
+          ]
+        },
+        "author_id": "1429829081684537345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1858910845876719813",
+        "created_at": "2024-11-19T16:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T17:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858910845876719813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVxxNDWxtZ",
+              "end": 41,
+              "expanded_url": "https://x.com/Rabbubble550W/status/1858910845876719813/photo/1",
+              "media_key": "3_1858910839715360768",
+              "start": 18,
+              "url": "https://t.co/tVxxNDWxtZ"
+            },
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kxk1388574/status/1858823210676240676",
+              "start": 42,
+              "url": "https://t.co/69O1C4FwYp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1858910845876719813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3244,
+          "like_count": 28,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858823210676240676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "球球你们关注我吧，我什么都会做的😭 https://t.co/tVxxNDWxtZ https://t.co/69O1C4FwYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 192,
+          "like_count": 156,
+          "listed_count": 0,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻深圳，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "上水",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14943,
+          "following_count": 10849,
+          "like_count": 89118,
+          "listed_count": 45,
+          "tweet_count": 85673
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

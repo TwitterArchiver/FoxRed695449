@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015717206399873024"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      }
+    ],
+    "conversation_id": "2015717217183445463",
+    "created_at": "2026-01-26T09:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015717217183445463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Ef7mqInx0",
+          "end": 96,
+          "expanded_url": "https://x.com/FoxRed695449/status/2015717217183445463/photo/1",
+          "media_key": "3_2015717206399873024",
+          "start": 73,
+          "url": "https://t.co/5Ef7mqInx0"
+        },
+        {
+          "display_url": "x.com/yjpc007/status…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/yjpc007/status/2015403982743883788",
+          "start": 97,
+          "url": "https://t.co/VRBf5CxY19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015717217183445463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015403982743883788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按这个理论8964被坦克碾的\n香港16年和19年社运被抓的都是活该\n毕竟引用时任保安局局长李家超的话（翻译成普通话）“他不在现场出现就没事了啦” https://t.co/5Ef7mqInx0 https://t.co/VRBf5CxY19"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_2015717206399873024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lEHpcbcAAqwHO.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015717206399873024"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "2015717217183445463",
+        "created_at": "2026-01-26T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015717217183445463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ef7mqInx0",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxRed695449/status/2015717217183445463/photo/1",
+              "media_key": "3_2015717206399873024",
+              "start": 73,
+              "url": "https://t.co/5Ef7mqInx0"
+            },
+            {
+              "display_url": "x.com/yjpc007/status…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/yjpc007/status/2015403982743883788",
+              "start": 97,
+              "url": "https://t.co/VRBf5CxY19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015717217183445463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015403982743883788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按这个理论8964被坦克碾的\n香港16年和19年社运被抓的都是活该\n毕竟引用时任保安局局长李家超的话（翻译成普通话）“他不在现场出现就没事了啦” https://t.co/5Ef7mqInx0 https://t.co/VRBf5CxY19"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191088463396753408",
+        "conversation_id": "2015403982743883788",
+        "created_at": "2026-01-25T12:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015403982743883788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015403982743883788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 41187,
+          "like_count": 151,
+          "quote_count": 12,
+          "reply_count": 143,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "明尼苏达ICE当街枪杀公民，确实过分。无论怎么说，男子当时没有对ICE造成致命威胁。这种情况下开枪是不可接受的。但事情为什么走到这一步？该名男子不服从执法人员命令，才是造成他被击毙的最主要原因。而这种对抗执法人员的“勇气”，完全是美国整个左派教育系统误人子弟的结果。根源不除，就谈不上正义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 748,
+          "like_count": 5835,
+          "listed_count": 7,
+          "media_count": 926,
+          "tweet_count": 2883
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-03T20:23:51.000Z",
+        "description": "傻逼总比牛逼多。唯一一部描写8964的长篇小说“天安门情人”作者。曾经是苹果日报专栏作家。美国白手起家的商人，疫情造成生意破产，目前二次创业还债",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC9HjM…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC9HjMSMsCtQ-iwfH7i8pO0w",
+                "start": 0,
+                "url": "https://t.co/JFmv15q6hM"
+              }
+            ]
+          }
+        },
+        "id": "1191088463396753408",
+        "location": "洛杉矶，美国",
+        "name": "一剑飘尘 common sense 007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1197141750969585665/MnG3UoNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88527,
+          "following_count": 372,
+          "like_count": 57861,
+          "listed_count": 286,
+          "media_count": 2953,
+          "tweet_count": 13117
+        },
+        "url": "https://t.co/JFmv15q6hM",
+        "username": "yjpc007",
+        "verified": false
+      }
+    ]
+  }
+}

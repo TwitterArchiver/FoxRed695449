@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T17:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T18:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886462694750085535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1589874350919864321",
+          "start": 0,
+          "username": "Happinessa_029"
+        },
+        {
+          "end": 24,
+          "id": "4919182332",
+          "start": 16,
+          "username": "hopeieo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886432520654205383?t=97oKqxtiisAgV4t1YaTSDg&s=19",
+          "start": 40,
+          "url": "https://t.co/nJMI4JqCnC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886462694750085535",
+    "in_reply_to_user_id": "1589874350919864321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886432520654205383",
+        "type": "quoted"
+      },
+      {
+        "id": "1886461074167488566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Happinessa_029 @hopeieo 然後就一刀切禁止了所有別的交流https://t.co/nJMI4JqCnC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T17:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T18:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886462694750085535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1589874350919864321",
+              "start": 0,
+              "username": "Happinessa_029"
+            },
+            {
+              "end": 24,
+              "id": "4919182332",
+              "start": 16,
+              "username": "hopeieo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886432520654205383?t=97oKqxtiisAgV4t1YaTSDg&s=19",
+              "start": 40,
+              "url": "https://t.co/nJMI4JqCnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886462694750085535",
+        "in_reply_to_user_id": "1589874350919864321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886432520654205383",
+            "type": "quoted"
+          },
+          {
+            "id": "1886461074167488566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Happinessa_029 @hopeieo 然後就一刀切禁止了所有別的交流https://t.co/nJMI4JqCnC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T15:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886432520654205383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1087770357166006272",
+              "start": 0,
+              "username": "AntistarOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886432520654205383",
+        "in_reply_to_user_id": "1087770357166006272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886431651141410882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntistarOF 我小時候也是，大概是因為我抑鬱症自殺以後和他們好好談了一下以後房間才變成這樣\n感覺溝通和個人經歷還是很重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589874350919864321",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T17:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T18:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886461074167488566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 22,
+              "id": "4919182332",
+              "start": 14,
+              "username": "hopeieo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886461074167488566",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886459570979307595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @hopeieo 他确实以偏概全了说的很绝对，但原po的重点是被控制欲极强的父母管制的可怜孩子，非得挑一些无关紧要的点反驳真的…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 454,
+          "like_count": 1343,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 809
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T06:56:36.000Z",
+        "description": "什么假家真家，你认错人了｜有偿转推",
+        "id": "1589874350919864321",
+        "name": "炸鱼片片拌饭",
+        "pinned_tweet_id": "1815101130525069611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839348706266820608/8zNFoI1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29972,
+          "following_count": 450,
+          "like_count": 19042,
+          "listed_count": 83,
+          "media_count": 524,
+          "tweet_count": 8706
+        },
+        "username": "Happinessa_029",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-17T04:04:31.000Z",
+        "description": "Friendly;)",
+        "id": "4919182332",
+        "location": "河北省武昌市彭刘杨路241号",
+        "name": "猫腊肉",
+        "pinned_tweet_id": "1610420710694080513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788183025156763648/jFMbk0BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 94,
+          "like_count": 9301,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2973
+        },
+        "username": "hopeieo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1908008531112153436",
+    "created_at": "2025-04-04T04:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T05:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908008531112153436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1811011225058430982",
+          "start": 3,
+          "username": "Shenyuebanran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908008531112153436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907988618926501911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shenyuebanran: 孩子要吃不起饭了买点凝胶吧😭😭\n自制凝胶，浓度爱斯妥4-5倍，一瓶100cc仅需30r\n进阶版（添加烟酰胺，vcve，可以美白）浓度同上仅需40r\n买三瓶及以上可以包邮\n另如需高浓度凝胶可以私信定制，价格视浓度而定\n球球了买点吧😭😭\n（图一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1907988586294816768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnqJgqGaMAAVSrq.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1907988586001203200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnqJgpAaAAAbu-I.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1907988586009710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnqJgpCb0AAUj5t.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1908008531112153436",
+        "created_at": "2025-04-04T04:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908008531112153436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1811011225058430982",
+              "start": 3,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908008531112153436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907988618926501911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shenyuebanran: 孩子要吃不起饭了买点凝胶吧😭😭\n自制凝胶，浓度爱斯妥4-5倍，一瓶100cc仅需30r\n进阶版（添加烟酰胺，vcve，可以美白）浓度同上仅需40r\n买三瓶及以上可以包邮\n另如需高浓度凝胶可以私信定制，价格视浓度而定\n球球了买点吧😭😭\n（图一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907988586294816768",
+            "3_1907988586001203200",
+            "3_1907988586009710592"
+          ]
+        },
+        "author_id": "1811011225058430982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1907988618926501911",
+        "created_at": "2025-04-04T02:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T03:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907988618926501911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEy8hebqF6",
+              "end": 154,
+              "expanded_url": "https://x.com/Shenyuebanran/status/1907988618926501911/photo/1",
+              "media_key": "3_1907988586294816768",
+              "start": 131,
+              "url": "https://t.co/BEy8hebqF6"
+            },
+            {
+              "display_url": "pic.x.com/BEy8hebqF6",
+              "end": 154,
+              "expanded_url": "https://x.com/Shenyuebanran/status/1907988618926501911/photo/1",
+              "media_key": "3_1907988586001203200",
+              "start": 131,
+              "url": "https://t.co/BEy8hebqF6"
+            },
+            {
+              "display_url": "pic.x.com/BEy8hebqF6",
+              "end": 154,
+              "expanded_url": "https://x.com/Shenyuebanran/status/1907988618926501911/photo/1",
+              "media_key": "3_1907988586009710592",
+              "start": 131,
+              "url": "https://t.co/BEy8hebqF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907988618926501911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 173,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子要吃不起饭了买点凝胶吧😭😭\n自制凝胶，浓度爱斯妥4-5倍，一瓶100cc仅需30r\n进阶版（添加烟酰胺，vcve，可以美白）浓度同上仅需40r\n买三瓶及以上可以包邮\n另如需高浓度凝胶可以私信定制，价格视浓度而定\n球球了买点吧😭😭\n（图一进阶版，图二常规款） https://t.co/BEy8hebqF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 591,
+          "like_count": 2718,
+          "listed_count": 6,
+          "media_count": 479,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "双/疑似家不管了/可以直接叫我然然的！ 历史/文学/友善交流/里推/眼熟会过：@anrbushuijiao好妹妹：@Hongcha_Meow 姐姐～：@altaz_0 七海姐姐～：@nanami5513 主人@nanami_mua。 山河入眼皆萧瑟， 道是人间不安然。 冷露侵衣添夜寂， 孤灯照影梦难安。 购买凝胶请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "anrbushuijiao"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Hongcha_Meow"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "altaz_0"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "nanami5513"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901895301541363712/Wwge1S7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 99,
+          "like_count": 3147,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1435
+        },
+        "username": "Shenyuebanran",
+        "verified": false
+      }
+    ]
+  }
+}

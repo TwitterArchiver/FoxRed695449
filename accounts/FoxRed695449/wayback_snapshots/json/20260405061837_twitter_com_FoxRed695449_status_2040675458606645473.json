@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2040631952206942700",
+    "created_at": "2026-04-05T06:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T07:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040675458606645473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1118865266538979328",
+          "start": 0,
+          "username": "jhhhujhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040675458606645473",
+    "in_reply_to_user_id": "1118865266538979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040672991336701983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhhhujhb 扯东扯西\n不还是改变不了你一开始乱扣帽子🥱\n上来就扣帽子污蔑我是不会好好说话吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2040631952206942700",
+        "created_at": "2026-04-05T06:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040675458606645473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1118865266538979328",
+              "start": 0,
+              "username": "jhhhujhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040675458606645473",
+        "in_reply_to_user_id": "1118865266538979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040672991336701983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhhhujhb 扯东扯西\n不还是改变不了你一开始乱扣帽子🥱\n上来就扣帽子污蔑我是不会好好说话吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118865266538979328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2040631952206942700",
+        "created_at": "2026-04-05T06:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040672991336701983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040672991336701983",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040667676251709717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我的意思是无论是原版游戏还是动画都是典型的肚子里没东西还硬装，不是说沾上精神类药品和未成年这几个题材就成什么反应社会问题的哲学大作了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 817,
+          "like_count": 7343,
+          "listed_count": 7,
+          "media_count": 970,
+          "tweet_count": 3085
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-18T13:14:01.000Z",
+        "description": "英/日/韩语自学中\nINTP\n男的",
+        "id": "1118865266538979328",
+        "location": "私立希望之峰学院",
+        "name": "Chiaki Nanami",
+        "pinned_tweet_id": "1464480831028613124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602459399616094208/LinMyJmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 1492,
+          "like_count": 90849,
+          "listed_count": 6,
+          "media_count": 1006,
+          "tweet_count": 8983
+        },
+        "username": "jhhhujhb",
+        "verified": false
+      }
+    ]
+  }
+}

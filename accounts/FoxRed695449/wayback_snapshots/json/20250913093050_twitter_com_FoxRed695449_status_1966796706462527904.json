@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "1966714535756038249",
+    "created_at": "2025-09-13T09:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966796706462527904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816497308877373440",
+          "start": 0,
+          "username": "mantouhaoya"
+        },
+        {
+          "end": 27,
+          "id": "1915087790913810432",
+          "start": 13,
+          "username": "Jougasaki_Noa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966796706462527904",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966795717252678004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mantouhaoya @Jougasaki_Noa 顺便一提\nNetflix，Disney+和动画疯都没有被墙，内地是可以直接访问只是网站不提供内容罢了\n所以只要配置这3个网站的DNS反代即可，并不需要使用vpn翻墙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1966714535756038249",
+        "created_at": "2025-09-13T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966796706462527904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816497308877373440",
+              "start": 0,
+              "username": "mantouhaoya"
+            },
+            {
+              "end": 27,
+              "id": "1915087790913810432",
+              "start": 13,
+              "username": "Jougasaki_Noa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966796706462527904",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966795717252678004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mantouhaoya @Jougasaki_Noa 顺便一提\nNetflix，Disney+和动画疯都没有被墙，内地是可以直接访问只是网站不提供内容罢了\n所以只要配置这3个网站的DNS反代即可，并不需要使用vpn翻墙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1966714535756038249",
+        "created_at": "2025-09-13T09:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966795717252678004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816497308877373440",
+              "start": 0,
+              "username": "mantouhaoya"
+            },
+            {
+              "end": 27,
+              "id": "1915087790913810432",
+              "start": 13,
+              "username": "Jougasaki_Noa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966795717252678004",
+        "in_reply_to_user_id": "1816497308877373440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966792976056611321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mantouhaoya @Jougasaki_Noa 无弹窗广告是最基本的（（（\n浏览器用的是edge\n老师要播放的本地视频肯定能播\n咳咳，以及班队课当时我们班一般看Netflix、Disney+或者动画疯\n其他的太久了，真忘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 688,
+          "like_count": 4316,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:34:56.000Z",
+        "description": "看长安建安与潘安，都想沾一沾",
+        "id": "1816497308877373440",
+        "name": "馒头好呀",
+        "pinned_tweet_id": "1916878765034029406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821977338503917568/qqJBh7ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 22,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 149
+        },
+        "username": "mantouhaoya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "我是某人的神秘小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/n6P7AgTB",
+                "end": 23,
+                "expanded_url": "https://discord.gg/n6P7AgTB",
+                "start": 0,
+                "url": "https://t.co/PpiHUI3bfo"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957108759588966400/rf1JPhdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 90,
+          "like_count": 5257,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/PpiHUI3bfo",
+        "username": "Jougasaki_Noa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951675245515112448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951675253908021587",
+    "created_at": "2025-08-02T16:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T17:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951675253908021587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/59o0qz9uf7",
+          "end": 160,
+          "expanded_url": "https://x.com/FoxRed695449/status/1951675253908021587/photo/1",
+          "media_key": "3_1951675245515112448",
+          "start": 137,
+          "url": "https://t.co/59o0qz9uf7"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1951602628611264616",
+          "start": 161,
+          "url": "https://t.co/PtO4GaMifF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951675253908021587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951602628611264616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识：ChinaJoy，是由国家新闻出版署和上海市人民政府共同指导举办，主办机构里也有中国音像与数字出版协会，是内地一个官方性质很强的漫展（\n不过我去年的参展体验是挺不错的（？）\n至少玩的很开心\n主要它也是内地最大的游戏展，很多硬件商（去年有amd，高通骁龙什么的）参加 https://t.co/59o0qz9uf7 https://t.co/PtO4GaMifF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_1951675245515112448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxW-S53aAAAsiFd.jpg",
+        "width": 2100
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1951596118350991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxV2VGNXkAALnLM.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951675245515112448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951675253908021587",
+        "created_at": "2025-08-02T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951675253908021587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59o0qz9uf7",
+              "end": 160,
+              "expanded_url": "https://x.com/FoxRed695449/status/1951675253908021587/photo/1",
+              "media_key": "3_1951675245515112448",
+              "start": 137,
+              "url": "https://t.co/59o0qz9uf7"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1951602628611264616",
+              "start": 161,
+              "url": "https://t.co/PtO4GaMifF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951675253908021587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951602628611264616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识：ChinaJoy，是由国家新闻出版署和上海市人民政府共同指导举办，主办机构里也有中国音像与数字出版协会，是内地一个官方性质很强的漫展（\n不过我去年的参展体验是挺不错的（？）\n至少玩的很开心\n主要它也是内地最大的游戏展，很多硬件商（去年有amd，高通骁龙什么的）参加 https://t.co/59o0qz9uf7 https://t.co/PtO4GaMifF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951596118350991360"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1951602628611264616",
+        "created_at": "2025-08-02T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951602628611264616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUK0lrxQtm",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1951602628611264616/photo/1",
+              "media_key": "3_1951596118350991360",
+              "start": 63,
+              "url": "https://t.co/ZUK0lrxQtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951602628611264616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 313692,
+          "like_count": 1999,
+          "quote_count": 79,
+          "reply_count": 373,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "8月1日，上海China Joy 2025动漫节现场公示的“网络动漫产品黑名单”，并严格限制相关作品的COSer出现在现场。 https://t.co/ZUK0lrxQtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 679,
+          "like_count": 3863,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049008,
+          "following_count": 980,
+          "like_count": 7784,
+          "listed_count": 8221,
+          "media_count": 32689,
+          "tweet_count": 39386
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

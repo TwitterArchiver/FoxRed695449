@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919626494042865664"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-06T05:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919626496710435172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513190881540841475",
+          "start": 0,
+          "username": "Gosolo22411"
+        },
+        {
+          "end": 29,
+          "id": "1839168670918127617",
+          "start": 13,
+          "username": "TidVR7NzHA26324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v0jXSRx45H",
+          "end": 88,
+          "expanded_url": "https://x.com/FoxRed695449/status/1919626496710435172/photo/1",
+          "media_key": "3_1919626494042865664",
+          "start": 65,
+          "url": "https://t.co/v0jXSRx45H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919626496710435172",
+    "in_reply_to_user_id": "1513190881540841475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919621963833602067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gosolo22411 @TidVR7NzHA26324 移民潮一年能有10萬+誒\n這些走的人不繳的稅，提取的強积金不是錢嗎？ https://t.co/v0jXSRx45H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 169,
+        "media_key": "3_1919626494042865664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPiIC7agAAqUbl.jpg",
+        "width": 301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919626494042865664"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T05:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919626496710435172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513190881540841475",
+              "start": 0,
+              "username": "Gosolo22411"
+            },
+            {
+              "end": 29,
+              "id": "1839168670918127617",
+              "start": 13,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0jXSRx45H",
+              "end": 88,
+              "expanded_url": "https://x.com/FoxRed695449/status/1919626496710435172/photo/1",
+              "media_key": "3_1919626494042865664",
+              "start": 65,
+              "url": "https://t.co/v0jXSRx45H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919626496710435172",
+        "in_reply_to_user_id": "1513190881540841475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919621963833602067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gosolo22411 @TidVR7NzHA26324 移民潮一年能有10萬+誒\n這些走的人不繳的稅，提取的強积金不是錢嗎？ https://t.co/v0jXSRx45H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513190881540841475",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T05:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919621963833602067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1839168670918127617",
+              "start": 14,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919621963833602067",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919620685099417813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TidVR7NzHA26324 对啊，香港引专才基本大陆人占大成，大陆专才怎么住的惯香港的房子，而且服务业歧视现象依然时有发生，这些都导致人家不愿意来啊。你要提移民潮，移民潮移得了多少，香港现在不还是人口净输入状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 644,
+          "like_count": 3057,
+          "listed_count": 6,
+          "media_count": 539,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T16:23:45.000Z",
+        "description": "日已夕兮予心忧悲，月已驰兮何不渡为？",
+        "id": "1513190881540841475",
+        "location": "Reykjavík",
+        "name": "\"está lloviendo en Macondo.\"",
+        "pinned_tweet_id": "1894724015740363223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685563900451061760/mWzCvba4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 277,
+          "like_count": 17327,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 3018
+        },
+        "username": "Gosolo22411",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 465,
+          "like_count": 12494,
+          "listed_count": 34,
+          "media_count": 763,
+          "tweet_count": 8341
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

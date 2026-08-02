@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952584705037189120"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1952584842186756322",
+    "created_at": "2025-08-05T04:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T05:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952584842186756322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6s4ikYhjT",
+          "end": 36,
+          "expanded_url": "https://x.com/FoxRed695449/status/1952584842186756322/video/1",
+          "media_key": "13_1952584705037189120",
+          "start": 13,
+          "url": "https://t.co/S6s4ikYhjT"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1952555728700682266",
+          "start": 37,
+          "url": "https://t.co/eJImjvmSE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952584842186756322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952555728700682266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "來自香港警察的優秀經驗👍 https://t.co/S6s4ikYhjT https://t.co/eJImjvmSE2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952584842186756322].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952584842186756322",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952584842186756322"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57630,
+        "height": 828,
+        "media_key": "13_1952584705037189120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952584705037189120/img/jXPJY1i4rnKBosOI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952584705037189120/vid/avc1/476x270/3YRXn-V75a1SQKEJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952584705037189120/vid/avc1/636x360/pDWeTtIQuEuKttsm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952584705037189120/vid/avc1/1272x720/-NBfFEeNNHjG0-rl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952584705037189120/pl/ZoJjojfHpTWpdlCm.m3u8?tag=14"
+          }
+        ],
+        "width": 1464
+      },
+      {
+        "duration_ms": 13421,
+        "height": 1280,
+        "media_key": "13_1952555199421464576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952555199421464576/img/Db84uipyD77guQXV.jpg",
+        "public_metrics": {
+          "view_count": 51782
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555199421464576/vid/avc1/320x568/ZgseG5VEKhMgnP10.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555199421464576/vid/avc1/480x852/gD_622L5dkCKz06p.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555199421464576/vid/avc1/720x1280/VffogcR5JQQqRPWB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952555199421464576/pl/8c1xbAu9-xwUYSZl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11865,
+        "height": 1280,
+        "media_key": "13_1952555562690035712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952555562690035712/img/cwh2_eqq62DX055z.jpg",
+        "public_metrics": {
+          "view_count": 20431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555562690035712/vid/avc1/320x568/s0OV1UrUOnPNA7CM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555562690035712/vid/avc1/480x852/I1jKOdaKlen32pi-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952555562690035712/vid/avc1/720x1280/P031-c84puJtUkyd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952555562690035712/pl/jvr9WJ48hBkO3pcQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952555199421464576",
+            "13_1952555562690035712"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1952555728700682266",
+        "created_at": "2025-08-05T02:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952555728700682266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATmtIVviX0",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1952555728700682266/video/1",
+              "media_key": "13_1952555199421464576",
+              "start": 35,
+              "url": "https://t.co/ATmtIVviX0"
+            },
+            {
+              "display_url": "pic.x.com/ATmtIVviX0",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1952555728700682266/video/1",
+              "media_key": "13_1952555562690035712",
+              "start": 35,
+              "url": "https://t.co/ATmtIVviX0"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1952404933925367815",
+              "start": 59,
+              "url": "https://t.co/cmuVYoohe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952555728700682266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 306516,
+          "like_count": 545,
+          "quote_count": 14,
+          "reply_count": 80,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952404933925367815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨夜，四川江油警察和特警暴力踢踹，羞辱式对待已经失去反抗能力的民众。 https://t.co/ATmtIVviX0 https://t.co/cmuVYoohe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 679,
+          "like_count": 3868,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054619,
+          "following_count": 980,
+          "like_count": 7826,
+          "listed_count": 8228,
+          "media_count": 32870,
+          "tweet_count": 39575
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

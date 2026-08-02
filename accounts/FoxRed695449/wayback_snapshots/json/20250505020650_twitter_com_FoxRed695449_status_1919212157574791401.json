@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1919211271377063947",
+    "created_at": "2025-05-05T02:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T03:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919212157574791401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919212157574791401",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919211271377063947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 怎麼啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1919211271377063947",
+        "created_at": "2025-05-05T02:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919212157574791401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919212157574791401",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919211271377063947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 怎麼啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "1919211271377063947",
+        "created_at": "2025-05-05T02:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919211271377063947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919211271377063947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 644,
+          "like_count": 3033,
+          "listed_count": 6,
+          "media_count": 527,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "是七海的猫奴~/infj/05年/ MtX/无证🍥25.1.11/健全?/最最喜欢的/最最爱的/独占的/要一直陪帆的/对象/可爱猫猫 @nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1903412823079993502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 490,
+          "like_count": 54208,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3789
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

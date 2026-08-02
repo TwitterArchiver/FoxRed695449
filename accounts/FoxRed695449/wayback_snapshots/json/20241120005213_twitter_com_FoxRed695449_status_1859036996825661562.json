@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1859035597647855666",
+    "created_at": "2024-11-20T00:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T01:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859036996825661562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609456562443268097",
+          "start": 0,
+          "username": "snowfairy011026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859036996825661562",
+    "in_reply_to_user_id": "1609456562443268097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859035597647855666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snowfairy011026 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1859035597647855666",
+        "created_at": "2024-11-20T00:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859036996825661562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609456562443268097",
+              "start": 0,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859036996825661562",
+        "in_reply_to_user_id": "1609456562443268097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859035597647855666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snowfairy011026 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609456562443268097",
+        "conversation_id": "1859035597647855666",
+        "created_at": "2024-11-20T00:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T01:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859035597647855666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859035597647855666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浑身疼痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 192,
+          "like_count": 153,
+          "listed_count": 0,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "抚琴诗女。\n若问此生何所愿，怀琴仗剑游四方。\n灵魂伴侣 双剑合璧 @wB0E0E6\n旅伴 @Rmoxolly @meowcatherina\n我的家乡 @SSF181026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 33,
+                "username": "wB0E0E6"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Rmoxolly"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "meowcatherina"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "SSF181026"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "location": "NGC 4755 珠宝盒星团中的某双星系统",
+        "name": "雪仙 Snowfairy（挚爱糖喵版）",
+        "pinned_tweet_id": "1859029991050408238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854556750877483008/19Bo-oRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1732,
+          "like_count": 11818,
+          "listed_count": 5,
+          "tweet_count": 8601
+        },
+        "username": "snowfairy011026",
+        "verified": false
+      }
+    ]
+  }
+}

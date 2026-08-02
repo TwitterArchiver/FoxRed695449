@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1917414531510460489",
+    "created_at": "2025-04-30T16:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T17:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917618601072406842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "316376290",
+          "start": 0,
+          "username": "qiaohuanxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917618601072406842",
+    "in_reply_to_user_id": "316376290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917414531510460489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiaohuanxin 搞的好像現在高考能改變命運一樣\n大學生就業率都跌到哪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1917414531510460489",
+        "created_at": "2025-04-30T16:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917618601072406842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "316376290",
+              "start": 0,
+              "username": "qiaohuanxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917618601072406842",
+        "in_reply_to_user_id": "316376290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917414531510460489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaohuanxin 搞的好像現在高考能改變命運一樣\n大學生就業率都跌到哪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "316376290",
+        "conversation_id": "1917414531510460489",
+        "created_at": "2025-04-30T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917414531510460489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917414531510460489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 63636,
+          "like_count": 614,
+          "quote_count": 8,
+          "reply_count": 64,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "协和4+4的丑闻陆续曝光，再次证明，如果中国不是用相对公平的高考制度，而是学西方的狗屁推荐信制度，中下层民众的上升渠道，会很快给完全堵死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 641,
+          "like_count": 3006,
+          "listed_count": 6,
+          "media_count": 508,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-13T10:52:41.000Z",
+        "description": "Watch, and think, independently.",
+        "id": "316376290",
+        "name": "乔华莘",
+        "pinned_tweet_id": "1638177878218280961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664043446041210880/6lyVsnjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11374,
+          "following_count": 164,
+          "like_count": 6907,
+          "listed_count": 112,
+          "media_count": 4847,
+          "tweet_count": 35666
+        },
+        "username": "qiaohuanxin",
+        "verified": false
+      }
+    ]
+  }
+}

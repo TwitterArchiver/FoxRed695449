@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1876114542478127334",
+    "created_at": "2025-01-06T06:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T07:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876160780602847605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1238099134298509312",
+          "start": 0,
+          "username": "tenneidp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876160780602847605",
+    "in_reply_to_user_id": "1238099134298509312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876157006849188163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tenneidp yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1876114542478127334",
+        "created_at": "2025-01-06T06:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876160780602847605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1238099134298509312",
+              "start": 0,
+              "username": "tenneidp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876160780602847605",
+        "in_reply_to_user_id": "1238099134298509312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876157006849188163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenneidp yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238099134298509312",
+        "conversation_id": "1876114542478127334",
+        "created_at": "2025-01-06T06:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876157006849188163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876157006849188163",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876114542478127334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 p2？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 400,
+          "like_count": 1140,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 634
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T13:47:07.000Z",
+        "description": "I can fly!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/c/2156046507/1",
+                "end": 23,
+                "expanded_url": "https://t.me/c/2156046507/1",
+                "start": 0,
+                "url": "https://t.co/lHgPU9byhz"
+              }
+            ]
+          }
+        },
+        "id": "1238099134298509312",
+        "location": "Mars",
+        "name": "A_BedRock",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876147144169836544/OyOwVbti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 369,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/lHgPU9byhz",
+        "username": "tenneidp",
+        "verified": false
+      }
+    ]
+  }
+}

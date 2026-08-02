@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992594021072691200"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "1992594029050220662",
+    "created_at": "2025-11-23T14:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992594029050220662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tyeAJf8FFt",
+          "end": 29,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992594029050220662/photo/1",
+          "media_key": "3_1992594021072691200",
+          "start": 6,
+          "url": "https://t.co/tyeAJf8FFt"
+        },
+        {
+          "display_url": "x.com/nuan776655/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/nuan776655/status/1992507151718441122",
+          "start": 30,
+          "url": "https://t.co/rN3RAcEex8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992594029050220662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992507151718441122",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点简析： https://t.co/tyeAJf8FFt https://t.co/rN3RAcEex8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1992594021072691200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cdtHea4AAHuEx.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992594021072691200"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "1992594029050220662",
+        "created_at": "2025-11-23T14:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992594029050220662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyeAJf8FFt",
+              "end": 29,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992594029050220662/photo/1",
+              "media_key": "3_1992594021072691200",
+              "start": 6,
+              "url": "https://t.co/tyeAJf8FFt"
+            },
+            {
+              "display_url": "x.com/nuan776655/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/nuan776655/status/1992507151718441122",
+              "start": 30,
+              "url": "https://t.co/rN3RAcEex8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992594029050220662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992507151718441122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点简析： https://t.co/tyeAJf8FFt https://t.co/rN3RAcEex8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688373477013688320",
+        "conversation_id": "1992437534270558682",
+        "created_at": "2025-11-23T08:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992507151718441122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992507151718441122",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1721,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992437534270558682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 我可以说放你妈的屁，你这只走狗败类汉奸杂种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 691,
+          "like_count": 4920,
+          "listed_count": 7,
+          "media_count": 894,
+          "tweet_count": 2721
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T02:16:29.000Z",
+        "description": "喜欢旅游 喜欢美景 喜欢美食\n欢迎大家互相关注 互fo100％回关",
+        "id": "1688373477013688320",
+        "name": "暖秋互fo",
+        "pinned_tweet_id": "1989105130390843442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688375102356754432/sjwuu7aD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28368,
+          "following_count": 20364,
+          "like_count": 209744,
+          "listed_count": 47,
+          "media_count": 6282,
+          "tweet_count": 13461
+        },
+        "username": "nuan776655",
+        "verified": false
+      }
+    ]
+  }
+}

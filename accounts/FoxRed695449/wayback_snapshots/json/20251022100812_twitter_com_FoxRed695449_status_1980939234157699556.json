@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980939231250784256"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1980704310230151437",
+    "created_at": "2025-10-22T10:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980939234157699556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "945607507510038528",
+          "start": 0,
+          "username": "Pathusa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bbc.com/news/live/cj6n",
+          "end": 50,
+          "expanded_url": "http://bbc.com/news/live/cj6n",
+          "start": 27,
+          "status": 404,
+          "unwound_url": "https://www.bbc.com/news/live/cj6n",
+          "url": "https://t.co/KxpvfW6LDK"
+        },
+        {
+          "display_url": "pic.x.com/1rngRMT8o3",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1980939234157699556/photo/1",
+          "media_key": "3_1980939231250784256",
+          "start": 52,
+          "url": "https://t.co/1rngRMT8o3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "1980939234157699556",
+    "in_reply_to_user_id": "945607507510038528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980704310230151437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pathusa 原來18號的就算「旧問」了啊哈哈哈哈https://t.co/KxpvfW6LDK… https://t.co/1rngRMT8o3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1980939231250784256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G321vEBWoAA3MdQ.jpg",
+        "width": 1220
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980939231250784256"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1980704310230151437",
+        "created_at": "2025-10-22T10:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980939234157699556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "945607507510038528",
+              "start": 0,
+              "username": "Pathusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bbc.com/news/live/cj6n",
+              "end": 50,
+              "expanded_url": "http://bbc.com/news/live/cj6n",
+              "start": 27,
+              "status": 404,
+              "unwound_url": "https://www.bbc.com/news/live/cj6n",
+              "url": "https://t.co/KxpvfW6LDK"
+            },
+            {
+              "display_url": "pic.x.com/1rngRMT8o3",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1980939234157699556/photo/1",
+              "media_key": "3_1980939231250784256",
+              "start": 52,
+              "url": "https://t.co/1rngRMT8o3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "1980939234157699556",
+        "in_reply_to_user_id": "945607507510038528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980704310230151437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pathusa 原來18號的就算「旧問」了啊哈哈哈哈https://t.co/KxpvfW6LDK… https://t.co/1rngRMT8o3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "945607507510038528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1980704310230151437",
+        "created_at": "2025-10-21T18:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980704310230151437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fromorient2023…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/fromorient2023/status/1980679528084394153",
+              "start": 135,
+              "url": "https://t.co/z1L67AV7kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980704310230151437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 45148,
+          "like_count": 172,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980679528084394153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧，原来我也被骗了！这根本就不是新闻，而是面向特定人群的包装出来的“旧闻”。\n\n怪不得昨天一个哥们儿说这个事儿英文圈根本看不到人说，而中文圈却热的很。\n\n看不见的战争和斗争正在我们身边随时随地上演，不一小心就卷入进去了。\n\n网线的那头，是人是狗是鬼，你真的一无所知。 https://t.co/z1L67AV7kh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 702,
+          "like_count": 4659,
+          "listed_count": 7,
+          "media_count": 859,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-26T10:49:33.000Z",
+        "description": "Crypto投资者、自由派保守主义者。",
+        "id": "945607507510038528",
+        "location": "LA",
+        "name": "Pathfinder",
+        "pinned_tweet_id": "1980470048159592897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638729107113660416/Wyv6IKP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57740,
+          "following_count": 1221,
+          "like_count": 75865,
+          "listed_count": 730,
+          "media_count": 1124,
+          "tweet_count": 43994
+        },
+        "username": "Pathusa",
+        "verified": true
+      }
+    ]
+  }
+}

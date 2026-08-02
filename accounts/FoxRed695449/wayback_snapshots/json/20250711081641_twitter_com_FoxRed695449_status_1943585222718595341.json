@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1943580746645672254",
+    "created_at": "2025-07-11T08:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T09:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943585222718595341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734106580919201792",
+          "start": 0,
+          "username": "MathildeMa73079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943585222718595341",
+    "in_reply_to_user_id": "1734106580919201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943584158720139699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MathildeMa73079 不贴贴（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1943580746645672254",
+        "created_at": "2025-07-11T08:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943585222718595341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734106580919201792",
+              "start": 0,
+              "username": "MathildeMa73079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943585222718595341",
+        "in_reply_to_user_id": "1734106580919201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943584158720139699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MathildeMa73079 不贴贴（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734106580919201792",
+        "conversation_id": "1943580746645672254",
+        "created_at": "2025-07-11T08:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943584158720139699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943584158720139699",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943580746645672254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 蹲你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 670,
+          "like_count": 3684,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-11T07:03:47.000Z",
+        "description": "",
+        "id": "1734106580919201792",
+        "name": "Mathilde Madsen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734106690847649792/4OS9wXep_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 330,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 253
+        },
+        "username": "MathildeMa73079",
+        "verified": false
+      }
+    ]
+  }
+}

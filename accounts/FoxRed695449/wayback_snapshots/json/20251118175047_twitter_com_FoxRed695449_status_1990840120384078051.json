@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1990840120384078051",
+    "created_at": "2025-11-18T17:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T18:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990840120384078051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990840120384078051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我太善良了啊哈哈哈哈哈\n\n好心没好报\n\n真正崩溃了没人真正在意我\n\npo了一堆求助的没有一个人在意我\n\n我以后当个自私的人挺不错的\n\n哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1990840120384078051",
+        "created_at": "2025-11-18T17:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990840120384078051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990840120384078051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我太善良了啊哈哈哈哈哈\n\n好心没好报\n\n真正崩溃了没人真正在意我\n\npo了一堆求助的没有一个人在意我\n\n我以后当个自私的人挺不错的\n\n哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 686,
+          "like_count": 4855,
+          "listed_count": 7,
+          "media_count": 883,
+          "tweet_count": 2688
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

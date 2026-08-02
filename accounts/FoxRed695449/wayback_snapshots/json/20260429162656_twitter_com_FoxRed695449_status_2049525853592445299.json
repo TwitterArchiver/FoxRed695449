@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2049354543599931720",
+    "created_at": "2026-04-29T16:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049525853592445299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049525853592445299",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049525789650227486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 进了，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2049354543599931720",
+        "created_at": "2026-04-29T16:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525853592445299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525853592445299",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049525789650227486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 进了，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2049354543599931720",
+        "created_at": "2026-04-29T16:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525789650227486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525789650227486",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049523925445698037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 进了没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 820,
+          "like_count": 7840,
+          "listed_count": 7,
+          "media_count": 993,
+          "tweet_count": 3175
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4961,
+          "following_count": 1691,
+          "like_count": 48794,
+          "listed_count": 18,
+          "media_count": 486,
+          "tweet_count": 11237
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

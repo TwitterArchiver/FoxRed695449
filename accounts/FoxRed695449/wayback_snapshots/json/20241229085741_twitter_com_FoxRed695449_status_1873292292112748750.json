@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873291479546053044",
+    "created_at": "2024-12-29T08:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T09:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873292292112748750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 37,
+          "expanded_url": "https://x.com/foxred695449/status/1873282256888053953?s=46",
+          "start": 14,
+          "url": "https://t.co/e10yIExHum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873292292112748750",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873282256888053953",
+        "type": "quoted"
+      },
+      {
+        "id": "1873291479546053044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria https://t.co/e10yIExHum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873291479546053044",
+        "created_at": "2024-12-29T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873292292112748750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 37,
+              "expanded_url": "https://x.com/foxred695449/status/1873282256888053953?s=46",
+              "start": 14,
+              "url": "https://t.co/e10yIExHum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873292292112748750",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873282256888053953",
+            "type": "quoted"
+          },
+          {
+            "id": "1873291479546053044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria https://t.co/e10yIExHum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873282256888053953",
+        "created_at": "2024-12-29T08:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873282256888053953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagivictoria/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/nagivictoria/status/1873267402546512087",
+              "start": 80,
+              "url": "https://t.co/x5VVe2Byip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873282256888053953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873267402546512087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掛誰啊，要不是你自己跳出來我從頭到尾都沒說是誰\n不過也沒辦法，畢竟a level只有BCD，學術理解能力也就這樣了\n我誰都沒說，自己帶入進去，是誰急了我不好說 https://t.co/x5VVe2Byip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1873291479546053044",
+        "created_at": "2024-12-29T08:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T09:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873291479546053044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/foxred695449/status/1873291139354444158",
+              "start": 34,
+              "url": "https://t.co/oqTmgAOJrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873291479546053044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873291139354444158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "經典老中思維\n你挂我侵犯了我的的權利，我要是不讓你欺負就代表我想吵 https://t.co/oqTmgAOJrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1075,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 570
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 578,
+          "like_count": 8549,
+          "listed_count": 3,
+          "media_count": 1119,
+          "tweet_count": 8539
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

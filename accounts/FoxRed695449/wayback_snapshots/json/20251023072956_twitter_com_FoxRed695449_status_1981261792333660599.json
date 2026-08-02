@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981261782485278720"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981261792333660599",
+    "created_at": "2025-10-23T07:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981261792333660599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "TrumpBaby"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aseOS2NwvV",
+          "end": 34,
+          "expanded_url": "https://x.com/FoxRed695449/status/1981261792333660599/photo/1",
+          "media_key": "3_1981261782485278720",
+          "start": 11,
+          "url": "https://t.co/aseOS2NwvV"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "013e6a97793d4084"
+    },
+    "id": "1981261792333660599",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#TrumpBaby https://t.co/aseOS2NwvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_1981261782485278720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37bGBAXoAA89qR.jpg",
+        "width": 1220
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Southern District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1100457,
+            22.1930645,
+            114.3103439,
+            22.275622
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "013e6a97793d4084",
+        "name": "Southern District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981261782485278720"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981261792333660599",
+        "created_at": "2025-10-23T07:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981261792333660599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "TrumpBaby"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aseOS2NwvV",
+              "end": 34,
+              "expanded_url": "https://x.com/FoxRed695449/status/1981261792333660599/photo/1",
+              "media_key": "3_1981261782485278720",
+              "start": 11,
+              "url": "https://t.co/aseOS2NwvV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "013e6a97793d4084"
+        },
+        "id": "1981261792333660599",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#TrumpBaby https://t.co/aseOS2NwvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 704,
+          "like_count": 4682,
+          "listed_count": 7,
+          "media_count": 860,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

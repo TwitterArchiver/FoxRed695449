@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956189874345885697",
+        "3_1956189874366898177",
+        "3_1956189874350120962"
+      ],
+      "media_source_tweet_id": [
+        "1956189887268278754",
+        "1956189887268278754",
+        "1956189887268278754"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956193525038768185",
+    "created_at": "2025-08-15T03:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T04:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956193525038768185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1719571122642161664",
+          "start": 3,
+          "username": "AGeSang2008"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7J1o9apxD",
+          "end": 74,
+          "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+          "media_key": "3_1956189874345885697",
+          "start": 51,
+          "url": "https://t.co/j7J1o9apxD"
+        },
+        {
+          "display_url": "pic.x.com/j7J1o9apxD",
+          "end": 74,
+          "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+          "media_key": "3_1956189874366898177",
+          "start": 51,
+          "url": "https://t.co/j7J1o9apxD"
+        },
+        {
+          "display_url": "pic.x.com/j7J1o9apxD",
+          "end": 74,
+          "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+          "media_key": "3_1956189874350120962",
+          "start": 51,
+          "url": "https://t.co/j7J1o9apxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956193525038768185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956189887268278754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGeSang2008: 各位哥哥姐姐弟弟妹妹们，请给我老婆捐点钱买药吃吧，她真的没钱买药了 https://t.co/j7J1o9apxD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1956193525038768185].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1956193525038768185",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1956193525038768185"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1956189874345885697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXIU42aQAEpAy7.jpg",
+        "width": 750
+      },
+      {
+        "height": 1018,
+        "media_key": "3_1956189874366898177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXIU47a4AEIQwW.jpg",
+        "width": 750
+      },
+      {
+        "height": 374,
+        "media_key": "3_1956189874350120962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXIU43a4AIZdo_.jpg",
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956189874345885697",
+            "3_1956189874366898177",
+            "3_1956189874350120962"
+          ]
+        },
+        "author_id": "1719571122642161664",
+        "conversation_id": "1956189887268278754",
+        "created_at": "2025-08-15T03:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956189887268278754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7J1o9apxD",
+              "end": 57,
+              "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+              "media_key": "3_1956189874345885697",
+              "start": 34,
+              "url": "https://t.co/j7J1o9apxD"
+            },
+            {
+              "display_url": "pic.x.com/j7J1o9apxD",
+              "end": 57,
+              "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+              "media_key": "3_1956189874366898177",
+              "start": 34,
+              "url": "https://t.co/j7J1o9apxD"
+            },
+            {
+              "display_url": "pic.x.com/j7J1o9apxD",
+              "end": 57,
+              "expanded_url": "https://x.com/AGeSang2008/status/1956189887268278754/photo/1",
+              "media_key": "3_1956189874350120962",
+              "start": 34,
+              "url": "https://t.co/j7J1o9apxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956189887268278754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位哥哥姐姐弟弟妹妹们，请给我老婆捐点钱买药吃吧，她真的没钱买药了 https://t.co/j7J1o9apxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 684,
+          "like_count": 3937,
+          "listed_count": 7,
+          "media_count": 630,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy1782010｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Anan628769"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "Andy1782010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1926815724040790523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 970,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 4813
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

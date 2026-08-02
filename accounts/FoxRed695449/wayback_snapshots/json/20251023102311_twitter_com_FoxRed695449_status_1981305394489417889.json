@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981290121778577517",
+    "created_at": "2025-10-23T10:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981305394489417889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279355676850970630",
+          "start": 0,
+          "username": "chiikashika"
+        },
+        {
+          "end": 26,
+          "id": "1873706565552979968",
+          "start": 13,
+          "username": "vitasoy_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981305394489417889",
+    "in_reply_to_user_id": "1279355676850970630",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981292021869613285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikashika @vitasoy_1022 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981290121778577517",
+        "created_at": "2025-10-23T10:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981305394489417889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279355676850970630",
+              "start": 0,
+              "username": "chiikashika"
+            },
+            {
+              "end": 26,
+              "id": "1873706565552979968",
+              "start": 13,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981305394489417889",
+        "in_reply_to_user_id": "1279355676850970630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981292021869613285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikashika @vitasoy_1022 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279355676850970630",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1060269025026961409",
+              "name": "Horoyoi (ほろよい)"
+            }
+          }
+        ],
+        "conversation_id": "1981290121778577517",
+        "created_at": "2025-10-23T09:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981292021869613285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 27,
+              "id": "1873706565552979968",
+              "start": 14,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981292021869613285",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981290121778577517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @vitasoy_1022 ほろよい唔錯）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 705,
+          "like_count": 4685,
+          "listed_count": 7,
+          "media_count": 860,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T10:05:43.000Z",
+        "description": "🦋💙💛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chiikashika",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chiikashika",
+                "start": 0,
+                "url": "https://t.co/uo0ZsOAofV"
+              }
+            ]
+          }
+        },
+        "id": "1279355676850970630",
+        "location": "+852",
+        "name": "goma🦝",
+        "pinned_tweet_id": "1847002684978606348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976259115866574848/SICk85R3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 429,
+          "like_count": 140089,
+          "listed_count": 2,
+          "media_count": 505,
+          "tweet_count": 8467
+        },
+        "url": "https://t.co/uo0ZsOAofV",
+        "username": "chiikashika",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "it/its｜❤️ @name_ftx_0411｜モリモリあつし大好き、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "name_ftx_0411"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@vitasoy1022",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@vitasoy1022",
+                "start": 0,
+                "url": "https://t.co/rr4yW08tSr"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "location": "維他奶工廠",
+        "name": "維他奶🦋🥛",
+        "pinned_tweet_id": "1980551190065869298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980550954731651072/3G3XR8Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 2066,
+          "like_count": 35018,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 7519
+        },
+        "url": "https://t.co/rr4yW08tSr",
+        "username": "vitasoy_1022",
+        "verified": false
+      }
+    ]
+  }
+}

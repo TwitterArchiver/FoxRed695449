@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874681154261143552"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1874681162414920164",
+    "created_at": "2025-01-02T04:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T05:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874681162414920164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZgXYY2gXdA",
+          "end": 89,
+          "expanded_url": "https://x.com/FoxRed695449/status/1874681162414920164/photo/1",
+          "media_key": "3_1874681154261143552",
+          "start": 66,
+          "url": "https://t.co/ZgXYY2gXdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874681162414920164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天上课的小趣事\n1是有人上课偷偷吃草莓蛋糕被老师发现了，然后那人分了老师几口\n2是教室空调被人开到了30度，窗户还全开着\n🤣🤣🤣 https://t.co/ZgXYY2gXdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874681154261143552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQ0k8ra0AANcOF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874681154261143552"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1874681162414920164",
+        "created_at": "2025-01-02T04:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874681162414920164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgXYY2gXdA",
+              "end": 89,
+              "expanded_url": "https://x.com/FoxRed695449/status/1874681162414920164/photo/1",
+              "media_key": "3_1874681154261143552",
+              "start": 66,
+              "url": "https://t.co/ZgXYY2gXdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874681162414920164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上课的小趣事\n1是有人上课偷偷吃草莓蛋糕被老师发现了，然后那人分了老师几口\n2是教室空调被人开到了30度，窗户还全开着\n🤣🤣🤣 https://t.co/ZgXYY2gXdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 391,
+          "like_count": 1111,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 600
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

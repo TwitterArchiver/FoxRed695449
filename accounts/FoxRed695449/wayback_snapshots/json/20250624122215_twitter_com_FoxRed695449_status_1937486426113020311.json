@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1937422859980406925",
+    "created_at": "2025-06-24T12:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T13:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937486426113020311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937486426113020311",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937478570659709156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi 反正比提款卡好用就行了😭😭😭\n未成年什麼卡都開不了，能玩的也就預付卡或者家長的副卡\n還是對象給的副卡安心🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1937422859980406925",
+        "created_at": "2025-06-24T12:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937486426113020311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937486426113020311",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937478570659709156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi 反正比提款卡好用就行了😭😭😭\n未成年什麼卡都開不了，能玩的也就預付卡或者家長的副卡\n還是對象給的副卡安心🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "1937422859980406925",
+        "created_at": "2025-06-24T11:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937478570659709156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937478570659709156",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937422859980406925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这个卡挺好用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 665,
+          "like_count": 3606,
+          "listed_count": 6,
+          "media_count": 484,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的Golang开发者｜20 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 1110,
+          "like_count": 39316,
+          "listed_count": 5,
+          "media_count": 935,
+          "tweet_count": 3965
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": false
+      }
+    ]
+  }
+}

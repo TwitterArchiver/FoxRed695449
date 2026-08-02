@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896154560823005449",
+    "created_at": "2025-03-02T11:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T12:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896154966106186089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 20,
+          "id": "1817584080437014528",
+          "start": 13,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896154966106186089",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896154560823005449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 @N552AA 怎么不测测我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1896154556142125057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlB-hcYXAAE-S9h.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896154560823005449",
+        "created_at": "2025-03-02T11:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896154966106186089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 20,
+              "id": "1817584080437014528",
+              "start": 13,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896154966106186089",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896154560823005449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 @N552AA 怎么不测测我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896154556142125057"
+          ]
+        },
+        "author_id": "1719571122642161664",
+        "conversation_id": "1896154560823005449",
+        "created_at": "2025-03-02T11:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896154560823005449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817584080437014528",
+              "start": 3,
+              "username": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 49,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1896052400001036288/AQmdU4R6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896052400001036288/AQmdU4R6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/JscZiFvwlT"
+            },
+            {
+              "display_url": "pic.x.com/2xt58d7IRv",
+              "end": 73,
+              "expanded_url": "https://x.com/AGeSang2008/status/1896154560823005449/photo/1",
+              "media_key": "3_1896154556142125057",
+              "start": 50,
+              "url": "https://t.co/2xt58d7IRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896154560823005449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @N552AA 的爱兼容性为 85%\n\n➡️ https://t.co/JscZiFvwlT https://t.co/2xt58d7IRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3831,
+          "following_count": 525,
+          "like_count": 2097,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/90｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜热爱贴贴｜可以叫咱猫猫/绫音｜姐姐 @Anan628769｜小号 @AGeCAT2008｜笨蛋55 @N552AA｜狐狐@FoxRed695449 ｜妹妹@Aurora71310｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Anan628769"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "AGeCAT2008"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "N552AA"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "FoxRed695449"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "Aurora71310"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1870431775266427210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 535,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/10年级/HRT:2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n主人：@yumekaayumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bolichara0"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "yumekaayumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1874706282789433484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861222486119211008/acVum9Tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 837,
+          "like_count": 2656,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

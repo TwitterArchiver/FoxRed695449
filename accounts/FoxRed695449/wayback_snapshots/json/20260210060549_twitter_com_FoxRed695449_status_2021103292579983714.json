@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2021002335221067884",
+    "created_at": "2026-02-10T06:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021103292579983714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021103292579983714",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021002335221067884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 怎么全世界的精神科都偏向于让mtf不hrt啊（大雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2021002335221067884",
+        "created_at": "2026-02-10T06:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021103292579983714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021103292579983714",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021002335221067884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 怎么全世界的精神科都偏向于让mtf不hrt啊（大雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "2021002335221067884",
+        "created_at": "2026-02-09T23:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021002335221067884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021002335221067884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这医院药师的脑回路太神奇了，\n\n因我我是od 喹+氯硝+酒 紫砂嘛\n\n于是就说体内还有残留，这几天不给我吃别的药。\n\n但却给我吃劳拉？？？不是啊，劳拉和氯硝不都是bzd药吗？？？（给药的护士也很诧异）\n\n最重要的是hrt药也不给我吃，不是荷尔蒙有啥关系😦\n\n没事我偷偷带了糖🫣😋，断了几天糖了得补上（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 760,
+          "like_count": 6165,
+          "listed_count": 7,
+          "media_count": 936,
+          "tweet_count": 2932
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2021065447664423361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11921,
+          "following_count": 1433,
+          "like_count": 160573,
+          "listed_count": 25,
+          "media_count": 5078,
+          "tweet_count": 67842
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

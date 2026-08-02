@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2018453070611718484",
+    "created_at": "2026-02-02T22:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T23:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018453070611718484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2018346328644857889",
+          "start": 79,
+          "url": "https://t.co/32zl5yy3L1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018453070611718484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018346328644857889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就中国大陆现在这环境我觉得我还是环大陆去漫展得了😢\n真怕哪天出个cos就不知道踩了我不知道的红线在线下被“真实”\n虽然天天说香港大陆化，但至少香港还能出我英 https://t.co/32zl5yy3L1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_2018345956815597568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKa9D3W8AAgJb1.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2018453070611718484",
+        "created_at": "2026-02-02T22:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T23:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018453070611718484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2018346328644857889",
+              "start": 79,
+              "url": "https://t.co/32zl5yy3L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018453070611718484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018346328644857889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就中国大陆现在这环境我觉得我还是环大陆去漫展得了😢\n真怕哪天出个cos就不知道踩了我不知道的红线在线下被“真实”\n虽然天天说香港大陆化，但至少香港还能出我英 https://t.co/32zl5yy3L1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018345956815597568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2018346328644857889",
+        "created_at": "2026-02-02T15:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018346328644857889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fN0N238BE",
+              "end": 42,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2018346328644857889/photo/1",
+              "media_key": "3_2018345956815597568",
+              "start": 19,
+              "url": "https://t.co/5fN0N238BE"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2017756482456920199",
+              "start": 43,
+              "url": "https://t.co/FrZdsuOwYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018346328644857889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 165897,
+          "like_count": 844,
+          "quote_count": 5,
+          "reply_count": 58,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017756482456920199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网友投稿：中国式民主：你以为你有得选 https://t.co/5fN0N238BE https://t.co/FrZdsuOwYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 755,
+          "like_count": 6040,
+          "listed_count": 7,
+          "media_count": 930,
+          "tweet_count": 2897
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192186,
+          "following_count": 1013,
+          "like_count": 8901,
+          "listed_count": 8534,
+          "media_count": 40977,
+          "tweet_count": 47958
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

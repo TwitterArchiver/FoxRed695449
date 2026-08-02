@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974030442543390720"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1974030449312678036",
+    "created_at": "2025-10-03T08:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T09:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974030449312678036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TP9FAiO1it",
+          "end": 77,
+          "expanded_url": "https://x.com/FoxRed695449/status/1974030449312678036/photo/1",
+          "media_key": "3_1974030442543390720",
+          "start": 54,
+          "url": "https://t.co/TP9FAiO1it"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1973931011269443625",
+          "start": 78,
+          "url": "https://t.co/tz7wTSuvjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974030449312678036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973931011269443625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英语冷知识：12:00am是午夜12点\n12:00pm才是正午12点\n虽然我不知道为什么，但英语就是这样的 https://t.co/TP9FAiO1it https://t.co/tz7wTSuvjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1974030442543390720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UqOoebIAAdjKV.jpg",
+        "width": 827
+      },
+      {
+        "height": 810,
+        "media_key": "3_1973846777238368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2SDL55XsAAGabc.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974030442543390720"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1974030449312678036",
+        "created_at": "2025-10-03T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974030449312678036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TP9FAiO1it",
+              "end": 77,
+              "expanded_url": "https://x.com/FoxRed695449/status/1974030449312678036/photo/1",
+              "media_key": "3_1974030442543390720",
+              "start": 54,
+              "url": "https://t.co/TP9FAiO1it"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1973931011269443625",
+              "start": 78,
+              "url": "https://t.co/tz7wTSuvjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974030449312678036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973931011269443625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英语冷知识：12:00am是午夜12点\n12:00pm才是正午12点\n虽然我不知道为什么，但英语就是这样的 https://t.co/TP9FAiO1it https://t.co/tz7wTSuvjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973846777238368256"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1973931011269443625",
+        "created_at": "2025-10-03T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973931011269443625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。",
+              "display_url": "611Study.ICU",
+              "end": 23,
+              "expanded_url": "http://611Study.ICU",
+              "start": 0,
+              "status": 200,
+              "title": "611 Study ICU.",
+              "unwound_url": "https://611study.icu/zh-CN",
+              "url": "https://t.co/3p82wc97Sr"
+            },
+            {
+              "display_url": "pic.x.com/WR5rxwPeiq",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1973931011269443625/photo/1",
+              "media_key": "3_1973846777238368256",
+              "start": 144,
+              "url": "https://t.co/WR5rxwPeiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973931011269443625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "611Study.ICU",
+                "end": 23,
+                "expanded_url": "http://611Study.ICU",
+                "start": 0,
+                "url": "https://t.co/nOCeks6y5H"
+              }
+            ]
+          },
+          "text": "https://t.co/nOCeks6y5H \n福建漳州一中学，学生每天早晨6:40上早读，直到晚上10:40自习结束，整日学习整整16小时，每周有5科考试，每周仅有6小时自由支配时间。\n国庆假期，学校用教育局提高教学质量为由，只放假4天，且在放假前最后一小时才下达通知以防学生举报。\n部分任课老师甚至表示举报无用，是学校领导和区教育局领导“顶住压力”来提高教学质量。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 88726,
+          "like_count": 328,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3p82wc97Sr \n福建漳州一中学，学生每天早晨6:40上早读，直到晚上10:40自习结束，整日学习整整16小时，每周有5科考试，每周仅有6小时自由支配时间。\n国庆假期，学校用教育局提高教学质量为由，只放假4天，且在放假前最后一小时才下达通知以防学生举报。 https://t.co/WR5rxwPeiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 698,
+          "like_count": 4394,
+          "listed_count": 8,
+          "media_count": 819,
+          "tweet_count": 2517
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1972250722088473025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114971,
+          "following_count": 989,
+          "like_count": 8222,
+          "listed_count": 8356,
+          "media_count": 35687,
+          "tweet_count": 42500
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

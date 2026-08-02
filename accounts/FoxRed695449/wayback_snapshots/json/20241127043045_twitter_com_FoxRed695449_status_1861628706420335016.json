@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1861599724173959586",
+    "created_at": "2024-11-27T04:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T05:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861628706420335016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        },
+        {
+          "end": 24,
+          "id": "1510522802486448130",
+          "start": 15,
+          "username": "boeritsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861628706420335016",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861628413272068446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi @boeritsa 就是英国的 a level（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1861599724173959586",
+        "created_at": "2024-11-27T04:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861628706420335016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            },
+            {
+              "end": 24,
+              "id": "1510522802486448130",
+              "start": 15,
+              "username": "boeritsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861628706420335016",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861628413272068446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi @boeritsa 就是英国的 a level（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826611872118046720",
+        "conversation_id": "1861599724173959586",
+        "created_at": "2024-11-27T04:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861628413272068446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            },
+            {
+              "end": 23,
+              "id": "1781308864438345728",
+              "start": 10,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861628413272068446",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861612228405055578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa @FoxRed695449 ok（我没听过这个考试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 260,
+          "like_count": 344,
+          "listed_count": 2,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "High School Student/17/China\nUS College Application in progress/CS major\ninterest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk\nBilingual: En/Zh",
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi（求互fo）",
+        "pinned_tweet_id": "1859982370180673980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827373124834488324/it8d7wRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 461,
+          "like_count": 5340,
+          "listed_count": 3,
+          "tweet_count": 1700
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "北京话/粤语/English | BDEGEE@C(ity)UHK? | 在港城大（？）读书的废物少女 | Lesbian | 长毛象：@aliyajadzia@stelpolva.moe | 老婆：@asakaze011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "asakaze011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliyajadzia.github.io/Personal-Bio/",
+                "end": 23,
+                "expanded_url": "https://aliyajadzia.github.io/Personal-Bio/",
+                "start": 0,
+                "url": "https://t.co/WOcHPd8JVI"
+              }
+            ]
+          }
+        },
+        "id": "1510522802486448130",
+        "location": "United Federation of Planets",
+        "name": "林雅仪Aliya Lin（淡推ing）🎗️ 🇹🇼🇺🇦",
+        "pinned_tweet_id": "1830061446354579894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 147,
+          "like_count": 3686,
+          "listed_count": 0,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/WOcHPd8JVI",
+        "username": "boeritsa",
+        "verified": false
+      }
+    ]
+  }
+}

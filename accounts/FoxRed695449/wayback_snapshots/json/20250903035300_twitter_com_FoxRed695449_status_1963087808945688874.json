@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963087800418631680"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1963087808945688874",
+    "created_at": "2025-09-03T03:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963087808945688874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRgDE0cbCd",
+          "end": 171,
+          "expanded_url": "https://x.com/FoxRed695449/status/1963087808945688874/photo/1",
+          "media_key": "3_1963087800418631680",
+          "start": 148,
+          "url": "https://t.co/cRgDE0cbCd"
+        },
+        {
+          "display_url": "x.com/v50toseethis/s…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/v50toseethis/status/1962700894408945822",
+          "start": 172,
+          "url": "https://t.co/weXBoP19mG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963087808945688874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962700894408945822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按照個人感受,提前準備好其實刷銀行卡刷QR碼時間差不多\n刷QR有網路原因加載不出QR的時候\n刷銀行卡也有莫名其妙被拒付的時候\n但是對於某些不會使用手機的「年長人士」使用QR碼對所有人都是地獄\n順便一提,支付寶和微信在使用香港的卡時就是個收單機構\n至於手續費是收單機構出的還是商戶出的我就不知道了 https://t.co/cRgDE0cbCd https://t.co/weXBoP19mG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1963087800418631680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5J9B7bAAAzr6e.jpg",
+        "width": 828
+      },
+      {
+        "height": 520,
+        "media_key": "3_1962700889199697920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzqD1UXYAASKzx.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963087800418631680"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1963087808945688874",
+        "created_at": "2025-09-03T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963087808945688874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRgDE0cbCd",
+              "end": 171,
+              "expanded_url": "https://x.com/FoxRed695449/status/1963087808945688874/photo/1",
+              "media_key": "3_1963087800418631680",
+              "start": 148,
+              "url": "https://t.co/cRgDE0cbCd"
+            },
+            {
+              "display_url": "x.com/v50toseethis/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/v50toseethis/status/1962700894408945822",
+              "start": 172,
+              "url": "https://t.co/weXBoP19mG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963087808945688874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962700894408945822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按照個人感受,提前準備好其實刷銀行卡刷QR碼時間差不多\n刷QR有網路原因加載不出QR的時候\n刷銀行卡也有莫名其妙被拒付的時候\n但是對於某些不會使用手機的「年長人士」使用QR碼對所有人都是地獄\n順便一提,支付寶和微信在使用香港的卡時就是個收單機構\n至於手續費是收單機構出的還是商戶出的我就不知道了 https://t.co/cRgDE0cbCd https://t.co/weXBoP19mG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962700889199697920"
+          ]
+        },
+        "author_id": "1846088255537926146",
+        "conversation_id": "1962700894408945822",
+        "created_at": "2025-09-02T02:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962700894408945822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgnbhxssXX",
+              "end": 40,
+              "expanded_url": "https://x.com/v50toseethis/status/1962700894408945822/photo/1",
+              "media_key": "3_1962700889199697920",
+              "start": 17,
+              "url": "https://t.co/JgnbhxssXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962700894408945822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 852535,
+          "like_count": 1195,
+          "quote_count": 22,
+          "reply_count": 480,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "太远不了解，反正八达通要方便多了 https://t.co/JgnbhxssXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 693,
+          "like_count": 4240,
+          "listed_count": 8,
+          "media_count": 745,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T07:18:46.000Z",
+        "description": "难得来一次，不如过的开心一些😄\n欢迎关注！",
+        "id": "1846088255537926146",
+        "name": "人类多样性调查",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912321798185553921/_l5m2uW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5159,
+          "following_count": 13,
+          "like_count": 218,
+          "listed_count": 6,
+          "media_count": 869,
+          "tweet_count": 1322
+        },
+        "username": "v50toseethis",
+        "verified": false
+      }
+    ]
+  }
+}

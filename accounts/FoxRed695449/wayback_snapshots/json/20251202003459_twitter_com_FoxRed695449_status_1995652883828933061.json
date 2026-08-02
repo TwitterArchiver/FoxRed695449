@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1995652883828933061",
+    "created_at": "2025-12-02T00:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T01:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995652883828933061"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "南丫海難"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "大埔宏福苑大火"
+        },
+        {
+          "end": 86,
+          "start": 78,
+          "tag": "獨立調查委員會"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3232393554",
+          "start": 3,
+          "username": "initiumnews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995652883828933061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995644106622521421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @initiumnews: 香港在 2012 年發生「 #南丫海難 」，造成 39 人罹難。\n\n#大埔宏福苑大火 後，社會呼聲四起，要求成立法定的「 #獨立調查委員會 」徹查真相。回望13年前的「南丫海難」，正正因為成立了「獨立調查委員會」，而有法定權力去傳召證人和查閱文…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1995644103418056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HzvRpWEAA61Rj.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1995652883828933061",
+        "created_at": "2025-12-02T00:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995652883828933061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "南丫海難"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "大埔宏福苑大火"
+            },
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "獨立調查委員會"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3232393554",
+              "start": 3,
+              "username": "initiumnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995652883828933061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995644106622521421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @initiumnews: 香港在 2012 年發生「 #南丫海難 」，造成 39 人罹難。\n\n#大埔宏福苑大火 後，社會呼聲四起，要求成立法定的「 #獨立調查委員會 」徹查真相。回望13年前的「南丫海難」，正正因為成立了「獨立調查委員會」，而有法定權力去傳召證人和查閱文…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995644103418056704"
+          ]
+        },
+        "author_id": "3232393554",
+        "conversation_id": "1995644106622521421",
+        "created_at": "2025-12-02T00:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T01:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995644106622521421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "南丫海難"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "大埔宏福苑大火"
+            },
+            {
+              "end": 69,
+              "start": 61,
+              "tag": "獨立調查委員會"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgZDuZvWvG",
+              "end": 166,
+              "expanded_url": "https://x.com/initiumnews/status/1995644106622521421/photo/1",
+              "media_key": "3_1995644103418056704",
+              "start": 143,
+              "url": "https://t.co/MgZDuZvWvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995644106622521421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "南丫海難"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "大埔宏福苑大火"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "獨立調查委員會"
+              },
+              {
+                "end": 160,
+                "start": 157,
+                "tag": "國慶"
+              },
+              {
+                "end": 196,
+                "start": 191,
+                "tag": "南丫四號"
+              },
+              {
+                "end": 345,
+                "start": 337,
+                "tag": "獨立調查委員會"
+              }
+            ]
+          },
+          "text": "香港在 2012 年發生「 #南丫海難 」，造成 39 人罹難。\n\n#大埔宏福苑大火 後，社會呼聲四起，要求成立法定的「 #獨立調查委員會 」徹查真相。回望13年前的「南丫海難」，正正因為成立了「獨立調查委員會」，而有法定權力去傳召證人和查閱文件，因而揭露政府海事處監管制度長年出錯。\n\n10月1日那一夜，本應是 #國慶 煙花綻放的歡慶時刻，卻因海上兩船相撞釀成悲劇。出事的客船「 #南丫四號 」被發現本身結構不安全，船艙少了一道防水「水密門」，令船尾在撞擊後迅速進水，在短短 118 秒、不到兩分鐘內直插海床，船頭翹起露出海面，如同鐵達尼號海難般。船上乘客在尖叫中滑落，被海水吞沒，幾多家庭就這樣被茫茫大海淹沒。船長危險駕駛肇禍，加上船體結構不安全，導致嚴重傷亡。\n\n「 #獨立調查委員會 」揭露南丫海難不僅是意外，更是一場人禍。家屬根據線索，用了十幾年追尋制度中的「兇手」，他們做惡夢、掉髮、看心理醫生、搬家，仍不放棄地在鏡頭前控訴，然而政府至今不公開涉事官員的不當行為，也不透露紀律行動的詳情。警方亦沒有進一步的刑事檢控。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "香港在 2012 年發生「 #南丫海難 」，造成 39 人罹難。\n\n#大埔宏福苑大火 後，社會呼聲四起，要求成立法定的「 #獨立調查委員會 」徹查真相。回望13年前的「南丫海難」，正正因為成立了「獨立調查委員會」，而有法定權力去傳召證人和查閱文件，因而揭露政府海事處監管制度長年出錯。 https://t.co/MgZDuZvWvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 708,
+          "like_count": 5103,
+          "listed_count": 7,
+          "media_count": 903,
+          "tweet_count": 2772
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com",
+                "end": 23,
+                "expanded_url": "https://theinitium.com",
+                "start": 0,
+                "url": "https://t.co/vudgmQ8aRR"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "pinned_tweet_id": "1985633151146745863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250361,
+          "following_count": 626,
+          "like_count": 386,
+          "listed_count": 1875,
+          "media_count": 14105,
+          "tweet_count": 39309
+        },
+        "url": "https://t.co/vudgmQ8aRR",
+        "username": "initiumnews",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953428995003101184"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1952798458626359783",
+    "created_at": "2025-08-07T12:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953429057229484418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1455610289408274432",
+          "start": 0,
+          "username": "weiobo"
+        },
+        {
+          "end": 22,
+          "id": "1711278732525367296",
+          "start": 8,
+          "username": "Pyongyang_cui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UfKNtajLTr",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953429057229484418/video/1",
+          "media_key": "13_1953428995003101184",
+          "start": 23,
+          "url": "https://t.co/UfKNtajLTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953429057229484418",
+    "in_reply_to_user_id": "1455610289408274432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953004738485862833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiobo @Pyongyang_cui https://t.co/UfKNtajLTr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11566,
+        "height": 480,
+        "media_key": "13_1953428995003101184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953428995003101184/img/P4Btd61NoBcLl_97.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953428995003101184/vid/avc1/356x270/zdU1om0tJvg0nGHQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953428995003101184/vid/avc1/474x360/G-PypLg0xvfmQDva.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953428995003101184/vid/avc1/634x480/uBgBHc7U2rdwFLZx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953428995003101184/pl/VHHVtLM--WHkgkgC.m3u8?tag=14"
+          }
+        ],
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953428995003101184"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1952798458626359783",
+        "created_at": "2025-08-07T12:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953429057229484418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1455610289408274432",
+              "start": 0,
+              "username": "weiobo"
+            },
+            {
+              "end": 22,
+              "id": "1711278732525367296",
+              "start": 8,
+              "username": "Pyongyang_cui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfKNtajLTr",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953429057229484418/video/1",
+              "media_key": "13_1953428995003101184",
+              "start": 23,
+              "url": "https://t.co/UfKNtajLTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953429057229484418",
+        "in_reply_to_user_id": "1455610289408274432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953004738485862833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiobo @Pyongyang_cui https://t.co/UfKNtajLTr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455610289408274432",
+        "conversation_id": "1952798458626359783",
+        "created_at": "2025-08-06T08:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T09:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953004738485862833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711278732525367296",
+              "start": 0,
+              "username": "Pyongyang_cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953004738485862833",
+        "in_reply_to_user_id": "1711278732525367296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8010,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952798458626359783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyongyang_cui 现在更是笑话，去英国能活活饿死，在香港的金融精英去英国只能仓库当力工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 678,
+          "like_count": 3881,
+          "listed_count": 7,
+          "media_count": 597,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-02T18:58:39.000Z",
+        "description": "以下三种生物不是人的几率很高：支持台独的，支持乌克兰的，支持以色列的。\n以下一种生物不是人的概率较高：\n信教的\n以后再补",
+        "id": "1455610289408274432",
+        "location": "北京",
+        "name": "weiobo",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 218,
+          "like_count": 11,
+          "listed_count": 8,
+          "media_count": 8,
+          "tweet_count": 2226
+        },
+        "username": "weiobo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T07:14:27.000Z",
+        "description": "朝鲜宣传鼓动部",
+        "id": "1711278732525367296",
+        "location": "North Korea",
+        "name": "平壤崔纽毕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711311890473943040/tL9D_UtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20868,
+          "following_count": 255,
+          "like_count": 8569,
+          "listed_count": 85,
+          "media_count": 2959,
+          "tweet_count": 5832
+        },
+        "username": "Pyongyang_cui",
+        "verified": true
+      }
+    ]
+  }
+}

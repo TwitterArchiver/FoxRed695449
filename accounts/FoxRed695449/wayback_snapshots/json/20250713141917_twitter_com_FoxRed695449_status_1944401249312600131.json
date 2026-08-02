@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944401238755586048"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1944401249312600131",
+    "created_at": "2025-07-13T14:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T15:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944401249312600131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxdlpROWZB",
+          "end": 39,
+          "expanded_url": "https://x.com/FoxRed695449/status/1944401249312600131/photo/1",
+          "media_key": "3_1944401238755586048",
+          "start": 16,
+          "url": "https://t.co/rxdlpROWZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944401249312600131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邪惡的邪惡多鄰國綠鳥卡😡（大霧 https://t.co/rxdlpROWZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1944401238755586048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvmn_DbMAAoYIr.jpg",
+        "width": 1891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944401238755586048"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1944401249312600131",
+        "created_at": "2025-07-13T14:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944401249312600131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxdlpROWZB",
+              "end": 39,
+              "expanded_url": "https://x.com/FoxRed695449/status/1944401249312600131/photo/1",
+              "media_key": "3_1944401238755586048",
+              "start": 16,
+              "url": "https://t.co/rxdlpROWZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944401249312600131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邪惡的邪惡多鄰國綠鳥卡😡（大霧 https://t.co/rxdlpROWZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 673,
+          "like_count": 3694,
+          "listed_count": 7,
+          "media_count": 535,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

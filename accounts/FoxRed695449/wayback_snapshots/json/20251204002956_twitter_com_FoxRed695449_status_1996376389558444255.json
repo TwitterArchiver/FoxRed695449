@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996376386630823936"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1996145420683366545",
+    "created_at": "2025-12-04T00:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996376389558444255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471191770864435200",
+          "start": 0,
+          "username": "lbtuan25"
+        },
+        {
+          "end": 19,
+          "id": "1271652280438308864",
+          "start": 10,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zXcdq4OQm",
+          "end": 48,
+          "expanded_url": "https://x.com/FoxRed695449/status/1996376389558444255/photo/1",
+          "media_key": "3_1996376386630823936",
+          "start": 25,
+          "url": "https://t.co/9zXcdq4OQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996376389558444255",
+    "in_reply_to_user_id": "1471191770864435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996228141904523504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25 @Jaciezyt 我也想带 https://t.co/9zXcdq4OQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1996376386630823936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7SNvxMbsAA5yV3.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996376386630823936"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1996145420683366545",
+        "created_at": "2025-12-04T00:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996376389558444255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471191770864435200",
+              "start": 0,
+              "username": "lbtuan25"
+            },
+            {
+              "end": 19,
+              "id": "1271652280438308864",
+              "start": 10,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zXcdq4OQm",
+              "end": 48,
+              "expanded_url": "https://x.com/FoxRed695449/status/1996376389558444255/photo/1",
+              "media_key": "3_1996376386630823936",
+              "start": 25,
+              "url": "https://t.co/9zXcdq4OQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996376389558444255",
+        "in_reply_to_user_id": "1471191770864435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996228141904523504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25 @Jaciezyt 我也想带 https://t.co/9zXcdq4OQm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471191770864435200",
+        "conversation_id": "1996145420683366545",
+        "created_at": "2025-12-03T14:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996228141904523504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996228141904523504",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996226970594803835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 我不行了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 711,
+          "like_count": 5202,
+          "listed_count": 7,
+          "media_count": 906,
+          "tweet_count": 2776
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T18:53:55.000Z",
+        "description": "洁身自好brat，绝无可能是pet！",
+        "id": "1471191770864435200",
+        "location": "North-East Region, Singapore",
+        "name": "☆蓝白团子☆（见过星野源真人版",
+        "pinned_tweet_id": "1910039281823015249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841144934709223424/6Ypv12QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1032,
+          "like_count": 6530,
+          "listed_count": 8,
+          "media_count": 340,
+          "tweet_count": 3948
+        },
+        "username": "lbtuan25",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🌸🏳️",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 766,
+          "like_count": 51977,
+          "listed_count": 7,
+          "media_count": 1046,
+          "tweet_count": 12930
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

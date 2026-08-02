@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886275812888129536"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "1886275815509504297",
+    "created_at": "2025-02-03T04:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T05:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886275815509504297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5R7R1JP2g",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886275815509504297/photo/1",
+          "media_key": "3_1886275812888129536",
+          "start": 52,
+          "url": "https://t.co/F5R7R1JP2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886275815509504297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前以為香港的netflix價格已經算平的了，今天發現澳門的竟然平過香港\n太神奇了，下個月就用澳門開吧 https://t.co/F5R7R1JP2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886275812888129536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi1l25-bsAAdIG0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886275812888129536"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1886275815509504297",
+        "created_at": "2025-02-03T04:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886275815509504297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5R7R1JP2g",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886275815509504297/photo/1",
+              "media_key": "3_1886275812888129536",
+              "start": 52,
+              "url": "https://t.co/F5R7R1JP2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886275815509504297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前以為香港的netflix價格已經算平的了，今天發現澳門的竟然平過香港\n太神奇了，下個月就用澳門開吧 https://t.co/F5R7R1JP2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "澳門",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 446,
+          "like_count": 1335,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 765
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

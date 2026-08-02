@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930105711469703174"
+      ],
+      "media_source_tweet_id": [
+        "1930105721959657975"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1930169477855096884",
+    "created_at": "2025-06-04T07:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930169477855096884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "376063629",
+          "start": 3,
+          "username": "UKinHongKong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uLTRlab0bA",
+          "end": 41,
+          "expanded_url": "https://x.com/UKinHongKong/status/1930105721959657975/photo/1",
+          "media_key": "3_1930105711469703174",
+          "start": 18,
+          "url": "https://t.co/uLTRlab0bA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930169477855096884",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930105721959657975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UKinHongKong: https://t.co/uLTRlab0bA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_1930105711469703174",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gskc6x8asAYs3cm.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930105711469703174"
+          ],
+          "media_source_tweet_id": [
+            "1930105721959657975"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1930169477855096884",
+        "created_at": "2025-06-04T07:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930169477855096884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "376063629",
+              "start": 3,
+              "username": "UKinHongKong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLTRlab0bA",
+              "end": 41,
+              "expanded_url": "https://x.com/UKinHongKong/status/1930105721959657975/photo/1",
+              "media_key": "3_1930105711469703174",
+              "start": 18,
+              "url": "https://t.co/uLTRlab0bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930169477855096884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930105721959657975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UKinHongKong: https://t.co/uLTRlab0bA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930105711469703174"
+          ]
+        },
+        "author_id": "376063629",
+        "conversation_id": "1930105721959657975",
+        "created_at": "2025-06-04T03:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930105721959657975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLTRlab0bA",
+              "end": 23,
+              "expanded_url": "https://x.com/UKinHongKong/status/1930105721959657975/photo/1",
+              "media_key": "3_1930105711469703174",
+              "start": 0,
+              "url": "https://t.co/uLTRlab0bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930105721959657975",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 75236,
+          "like_count": 1704,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uLTRlab0bA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 657,
+          "like_count": 3427,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-19T07:29:21.000Z",
+        "description": "Tweeting about the work of British Consulate-General Hong Kong, UK/HK relations \nhttps://t.co/slhEYoEqRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ukinhongkong",
+                "end": 104,
+                "expanded_url": "http://linktr.ee/ukinhongkong",
+                "start": 81,
+                "url": "https://t.co/slhEYoEqRM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.uk/world/hong-kong",
+                "end": 23,
+                "expanded_url": "http://www.gov.uk/world/hong-kong",
+                "start": 0,
+                "url": "https://t.co/baGwdxL5AU"
+              }
+            ]
+          }
+        },
+        "id": "376063629",
+        "location": "Hong Kong",
+        "name": "UK in Hong Kong 🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867099150409666561/fvn0POMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27638,
+          "following_count": 619,
+          "like_count": 5326,
+          "listed_count": 259,
+          "media_count": 2247,
+          "tweet_count": 10718
+        },
+        "url": "https://t.co/baGwdxL5AU",
+        "username": "UKinHongKong",
+        "verified": true
+      }
+    ]
+  }
+}

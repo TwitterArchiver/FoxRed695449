@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905215556057513985"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1905215558431449132",
+    "created_at": "2025-03-27T11:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T12:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905215558431449132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BsLQgRHQOW",
+          "end": 84,
+          "expanded_url": "https://x.com/FoxRed695449/status/1905215558431449132/photo/1",
+          "media_key": "3_1905215556057513985",
+          "start": 61,
+          "url": "https://t.co/BsLQgRHQOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905215558431449132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了\n我的母校校慶正好在復活節假期，想去參加\n結果一看，好傢伙，還在讀中學的校友沒資格參加是吧（最低學歷要求是本科） https://t.co/BsLQgRHQOW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1905215556057513985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnCvdDdbQAEXbKT.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905215556057513985"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1905215558431449132",
+        "created_at": "2025-03-27T11:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T12:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905215558431449132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsLQgRHQOW",
+              "end": 84,
+              "expanded_url": "https://x.com/FoxRed695449/status/1905215558431449132/photo/1",
+              "media_key": "3_1905215556057513985",
+              "start": 61,
+              "url": "https://t.co/BsLQgRHQOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905215558431449132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了\n我的母校校慶正好在復活節假期，想去參加\n結果一看，好傢伙，還在讀中學的校友沒資格參加是吧（最低學歷要求是本科） https://t.co/BsLQgRHQOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 579,
+          "like_count": 2656,
+          "listed_count": 7,
+          "media_count": 450,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

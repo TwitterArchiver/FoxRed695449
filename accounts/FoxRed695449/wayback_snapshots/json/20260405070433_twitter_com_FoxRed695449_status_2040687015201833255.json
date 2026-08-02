@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2040631952206942700",
+    "created_at": "2026-04-05T07:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040687015201833255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20406…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2040686936013344856",
+          "start": 0,
+          "url": "https://t.co/cY7AjsjaSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040687015201833255",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040686936013344856",
+        "type": "quoted"
+      },
+      {
+        "id": "2040631952206942700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/cY7AjsjaSe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2040686927888986113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFH58uqbMAE0V1m.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2189,
+        "media_key": "3_2040628976302080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHFPgLawAAhxwI.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2040631952206942700",
+        "created_at": "2026-04-05T07:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040687015201833255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20406…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2040686936013344856",
+              "start": 0,
+              "url": "https://t.co/cY7AjsjaSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040687015201833255",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040686936013344856",
+            "type": "quoted"
+          },
+          {
+            "id": "2040631952206942700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cY7AjsjaSe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040686927888986113"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2040686936013344856",
+        "created_at": "2026-04-05T07:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:00:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040686075681849843",
+          "2040686936013344856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GC784bP5xn",
+              "end": 178,
+              "expanded_url": "https://x.com/FoxRed695449/status/2040686936013344856/photo/1",
+              "media_key": "3_2040686927888986113",
+              "start": 155,
+              "url": "https://t.co/GC784bP5xn"
+            },
+            {
+              "display_url": "x.com/jhhhujhb/statu…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/jhhhujhb/status/2040678427884495289",
+              "start": 179,
+              "url": "https://t.co/R4sKjgYu7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040686936013344856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040678427884495289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里正好有个逻辑学上的经典案例----Definitional Retreat\n当辩论者的原始观点遭到反驳或质疑时，为了避免承认错误，他们会偷偷改变或缩小某个核心词语的定义，退缩到一个更容易防守的立场上，却假装自己从一开始就是这个意思。\n是人都知道“你们”在此语境中为第二人称复数代词，包括称呼正在交谈的对方 https://t.co/GC784bP5xn https://t.co/R4sKjgYu7H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040628976302080000"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040631952206942700",
+        "created_at": "2026-04-05T03:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:13:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040628979410010256",
+          "2040631952206942700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yXBdnGeKn",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/2040631952206942700/photo/1",
+              "media_key": "3_2040628976302080000",
+              "start": 20,
+              "url": "https://t.co/4yXBdnGeKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040631952206942700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6951,
+          "like_count": 193,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "主播女孩重度依赖第一集\n不只适用于日本 https://t.co/4yXBdnGeKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 817,
+          "like_count": 7344,
+          "listed_count": 7,
+          "media_count": 972,
+          "tweet_count": 3092
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

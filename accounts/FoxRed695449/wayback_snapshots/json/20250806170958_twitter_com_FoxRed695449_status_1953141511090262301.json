@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953141504987545601"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1952918800975970744",
+    "created_at": "2025-08-06T17:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T18:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953141511090262301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3423094444",
+          "start": 0,
+          "username": "MichaelHXHX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfIrqyIcNl",
+          "end": 36,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953141511090262301/photo/1",
+          "media_key": "3_1953141504987545601",
+          "start": 13,
+          "url": "https://t.co/wfIrqyIcNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953141511090262301",
+    "in_reply_to_user_id": "3423094444",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952918800975970744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MichaelHXHX https://t.co/wfIrqyIcNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1953141504987545601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxrz2cDawAEpKZo.jpg",
+        "width": 828
+      },
+      {
+        "height": 900,
+        "media_key": "3_1952918792599953408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxopS3wa4AArYTM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953141504987545601"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1952918800975970744",
+        "created_at": "2025-08-06T17:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953141511090262301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3423094444",
+              "start": 0,
+              "username": "MichaelHXHX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfIrqyIcNl",
+              "end": 36,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953141511090262301/photo/1",
+              "media_key": "3_1953141504987545601",
+              "start": 13,
+              "url": "https://t.co/wfIrqyIcNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953141511090262301",
+        "in_reply_to_user_id": "3423094444",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952918800975970744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MichaelHXHX https://t.co/wfIrqyIcNl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952918792599953408"
+          ]
+        },
+        "author_id": "3423094444",
+        "conversation_id": "1952918800975970744",
+        "created_at": "2025-08-06T02:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952918800975970744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVnTv0tP0g",
+              "end": 58,
+              "expanded_url": "https://x.com/MichaelHXHX/status/1952918800975970744/photo/1",
+              "media_key": "3_1952918792599953408",
+              "start": 35,
+              "url": "https://t.co/iVnTv0tP0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952918800975970744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 51355,
+          "like_count": 391,
+          "quote_count": 4,
+          "reply_count": 54,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "德州选区划分令人发指，这种形状也划分的出来，美共为了独裁脸都不要了！ https://t.co/iVnTv0tP0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 678,
+          "like_count": 3873,
+          "listed_count": 7,
+          "media_count": 588,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-14T22:48:35.000Z",
+        "description": "在美走天下，重新开始键政。曾经IT人、半退休状态、中间偏右人士，但反川普反专制反独裁！",
+        "id": "3423094444",
+        "location": "Freedom",
+        "name": "Michael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846769436814139392/ttPYcAif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 339,
+          "like_count": 17110,
+          "listed_count": 59,
+          "media_count": 1159,
+          "tweet_count": 7973
+        },
+        "username": "MichaelHXHX",
+        "verified": false
+      }
+    ]
+  }
+}

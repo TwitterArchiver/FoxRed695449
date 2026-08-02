@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958809947942395906"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1958809954053394806",
+    "created_at": "2025-08-22T08:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T09:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958809954053394806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3dc9RwqqHR",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/1958809954053394806/photo/1",
+          "media_key": "3_1958809947942395906",
+          "start": 38,
+          "url": "https://t.co/3dc9RwqqHR"
+        },
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1958801342807343306",
+          "start": 62,
+          "url": "https://t.co/OlVJRX8U7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958809954053394806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958801342807343306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一個個都在這歧視「少數群體」\n也活該在國外作為「少數群體」的時候被「歧視」 https://t.co/3dc9RwqqHR https://t.co/OlVJRX8U7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1958809947942395906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8XRPmboAIr0ae.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958809947942395906"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1958809954053394806",
+        "created_at": "2025-08-22T08:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T09:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958809954053394806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3dc9RwqqHR",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1958809954053394806/photo/1",
+              "media_key": "3_1958809947942395906",
+              "start": 38,
+              "url": "https://t.co/3dc9RwqqHR"
+            },
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1958801342807343306",
+              "start": 62,
+              "url": "https://t.co/OlVJRX8U7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958809954053394806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958801342807343306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一個個都在這歧視「少數群體」\n也活該在國外作為「少數群體」的時候被「歧視」 https://t.co/3dc9RwqqHR https://t.co/OlVJRX8U7P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1958801342807343306",
+        "created_at": "2025-08-22T08:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T09:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958801342807343306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "5月31日，郑州公园打人事件震惊中国，这场针对同志群体的暴力行为已持续一年有余。该暴力事件亲历者接受BBC访问表示，希望正义终将到来。有学者表示，同志线下交友空间萎缩影响深远。",
+              "display_url": "bbc.in/47G1hWo",
+              "end": 111,
+              "expanded_url": "https://bbc.in/47G1hWo",
+              "start": 88,
+              "status": 200,
+              "title": "“郑州同志暴力事件”亲历者接受BBC专访：伤势未愈，伙伴被拘 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/c98lmpd7d1zo/simp?at_ptr_name=twitter&at_campaign=Social_Flow&at_link_origin=bbcchinese&at_link_id=BE55E06C-7F0F-11F0-9760-F24B8810CAD0&at_format=link&at_link_type=web_link&at_medium=social&at_bbc_team=editorial&at_campaign_type=owned",
+              "url": "https://t.co/6g8hD4MXjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958801342807343306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7336,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "5月31日，郑州公园打人事件震惊中国，这场针对同志群体的暴力行为已持续一年有余。该暴力事件亲历者接受BBC访问表示，希望正义终将到来。有学者表示，同志线下交友空间萎缩影响深远。https://t.co/6g8hD4MXjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 695,
+          "like_count": 4124,
+          "listed_count": 7,
+          "media_count": 689,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089918,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11808,
+          "media_count": 23751,
+          "tweet_count": 153511
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965427265153744896"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1965427271856259315",
+    "created_at": "2025-09-09T14:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T15:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965427271856259315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vn39srFsy7",
+          "end": 58,
+          "expanded_url": "https://x.com/FoxRed695449/status/1965427271856259315/photo/1",
+          "media_key": "3_1965427265153744896",
+          "start": 35,
+          "url": "https://t.co/Vn39srFsy7"
+        },
+        {
+          "display_url": "x.com/orrcag/status/…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/orrcag/status/1965133772590088217",
+          "start": 59,
+          "url": "https://t.co/lMHasCR05x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965427271856259315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965133772590088217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "iCloud是真的好東西\n我現在還能翻到十幾年前我第一台手機上的照片 https://t.co/Vn39srFsy7 https://t.co/lMHasCR05x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1965427265153744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aZrzNbQAAVlOr.jpg",
+        "width": 828
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1965133764985544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WOv14W4AAmXpX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965427265153744896"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1965427271856259315",
+        "created_at": "2025-09-09T14:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965427271856259315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vn39srFsy7",
+              "end": 58,
+              "expanded_url": "https://x.com/FoxRed695449/status/1965427271856259315/photo/1",
+              "media_key": "3_1965427265153744896",
+              "start": 35,
+              "url": "https://t.co/Vn39srFsy7"
+            },
+            {
+              "display_url": "x.com/orrcag/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/orrcag/status/1965133772590088217",
+              "start": 59,
+              "url": "https://t.co/lMHasCR05x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965427271856259315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965133772590088217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "iCloud是真的好東西\n我現在還能翻到十幾年前我第一台手機上的照片 https://t.co/Vn39srFsy7 https://t.co/lMHasCR05x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965133764985544704"
+          ]
+        },
+        "author_id": "1569665313008136194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1965133772590088217",
+        "created_at": "2025-09-08T19:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T20:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965133772590088217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3t4f9jqEk",
+              "end": 86,
+              "expanded_url": "https://x.com/OrrcaG/status/1965133772590088217/photo/1",
+              "media_key": "3_1965133764985544704",
+              "start": 63,
+              "url": "https://t.co/v3t4f9jqEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965133772590088217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2640,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪伴我5年半的ipad今天暴毙了\n拿到店里说修不好了，让我买个新的\n可怜了里面那个多回忆，哭哭😭\n下次我一定买iCloud（ https://t.co/v3t4f9jqEk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 700,
+          "like_count": 4280,
+          "listed_count": 8,
+          "media_count": 760,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T12:32:59.000Z",
+        "description": "Siren Husky｜Music Technology and AI｜Master’s Student in Music @nyuniversity｜Pop Vocalist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "nyuniversity"
+              }
+            ]
+          }
+        },
+        "id": "1569665313008136194",
+        "name": "Garry Orrca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936271247941201920/54pVVV-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 599,
+          "like_count": 11044,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1104
+        },
+        "username": "OrrcaG",
+        "verified": false
+      }
+    ]
+  }
+}

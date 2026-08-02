@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1957110277486596526",
+    "created_at": "2025-08-17T16:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T17:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957110277486596526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhichicpu/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/zhichicpu/status/1956631318302703708",
+          "start": 11,
+          "url": "https://t.co/CMJSjaUJhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957110277486596526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956631318302703708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "信這種的這輩子有了👍 https://t.co/CMJSjaUJhy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1956631147204501504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GydZqWWW4AA8YVe.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957110277486596526",
+        "created_at": "2025-08-17T16:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T17:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957110277486596526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhichicpu/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/zhichicpu/status/1956631318302703708",
+              "start": 11,
+              "url": "https://t.co/CMJSjaUJhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957110277486596526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956631318302703708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信這種的這輩子有了👍 https://t.co/CMJSjaUJhy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956631147204501504"
+          ]
+        },
+        "author_id": "2860649567",
+        "conversation_id": "1956631318302703708",
+        "created_at": "2025-08-16T08:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T09:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956631318302703708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVZXBpM9L8",
+              "end": 36,
+              "expanded_url": "https://x.com/zhichicpu/status/1956631318302703708/photo/1",
+              "media_key": "3_1956631147204501504",
+              "start": 13,
+              "url": "https://t.co/rVZXBpM9L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956631318302703708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 219035,
+          "like_count": 564,
+          "quote_count": 8,
+          "reply_count": 110,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "以前半信半疑\n现在全信了 https://t.co/rVZXBpM9L8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 694,
+          "like_count": 4015,
+          "listed_count": 7,
+          "media_count": 649,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-04T13:33:20.000Z",
+        "description": "向往光明的人，没有停止前进的脚步！ 而黑暗的陪衬者，他们和黑暗融为一体。",
+        "id": "2860649567",
+        "location": "光明體",
+        "name": "龚新华",
+        "pinned_tweet_id": "1914887769609978187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643256617553776640/ipd14fwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 5148,
+          "like_count": 15333,
+          "listed_count": 24,
+          "media_count": 4363,
+          "tweet_count": 28815
+        },
+        "username": "zhichicpu",
+        "verified": false
+      }
+    ]
+  }
+}

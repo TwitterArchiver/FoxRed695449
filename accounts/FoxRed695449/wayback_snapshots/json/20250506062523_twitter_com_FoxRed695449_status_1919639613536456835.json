@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-06T06:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T07:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919639613536456835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513190881540841475",
+          "start": 0,
+          "username": "Gosolo22411"
+        },
+        {
+          "end": 29,
+          "id": "1839168670918127617",
+          "start": 13,
+          "username": "TidVR7NzHA26324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 87,
+          "expanded_url": "https://x.com/FoxRed695449/status/1919598652835954788?t=HdCUhU_s5amu_S7k_xGnKw&s=19",
+          "start": 64,
+          "url": "https://t.co/vkzZQoXuIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919639613536456835",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919598652835954788",
+        "type": "quoted"
+      },
+      {
+        "id": "1919638966132998425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gosolo22411 @TidVR7NzHA26324 對了，不是喜歡轉移話題嗎\n來給我道道為什麼內地社會福利幾乎為0呢？\nhttps://t.co/vkzZQoXuIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 181,
+        "media_key": "3_1919598650835271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPIzW5bAAAHYgr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T06:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T07:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919639613536456835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513190881540841475",
+              "start": 0,
+              "username": "Gosolo22411"
+            },
+            {
+              "end": 29,
+              "id": "1839168670918127617",
+              "start": 13,
+              "username": "TidVR7NzHA26324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 87,
+              "expanded_url": "https://x.com/FoxRed695449/status/1919598652835954788?t=HdCUhU_s5amu_S7k_xGnKw&s=19",
+              "start": 64,
+              "url": "https://t.co/vkzZQoXuIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919639613536456835",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919598652835954788",
+            "type": "quoted"
+          },
+          {
+            "id": "1919638966132998425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gosolo22411 @TidVR7NzHA26324 對了，不是喜歡轉移話題嗎\n來給我道道為什麼內地社會福利幾乎為0呢？\nhttps://t.co/vkzZQoXuIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919598650835271680"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1919598652835954788",
+        "created_at": "2025-05-06T03:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T04:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919598652835954788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2TbEPkRfp",
+              "end": 48,
+              "expanded_url": "https://x.com/FoxRed695449/status/1919598652835954788/photo/1",
+              "media_key": "3_1919598650835271680",
+              "start": 25,
+              "url": "https://t.co/U2TbEPkRfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919598652835954788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 437,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎各位來香港，因為政府真的給錢xd（傷殘津貼） https://t.co/U2TbEPkRfp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-06T06:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T07:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919638966132998425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513190881540841475",
+              "start": 0,
+              "username": "Gosolo22411"
+            },
+            {
+              "end": 29,
+              "id": "1839168670918127617",
+              "start": 13,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919638966132998425",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919638789443457390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gosolo22411 @TidVR7NzHA26324 你真想拿香港和新加坡對比去看看土地開發歷史圖，看看哪個地方更早更多開發再來這裡bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 644,
+          "like_count": 3065,
+          "listed_count": 6,
+          "media_count": 542,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T16:23:45.000Z",
+        "description": "日已夕兮予心忧悲，月已驰兮何不渡为？",
+        "id": "1513190881540841475",
+        "location": "Reykjavík",
+        "name": "\"está lloviendo en Macondo.\"",
+        "pinned_tweet_id": "1894724015740363223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685563900451061760/mWzCvba4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 277,
+          "like_count": 17327,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 3033
+        },
+        "username": "Gosolo22411",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 465,
+          "like_count": 12500,
+          "listed_count": 34,
+          "media_count": 763,
+          "tweet_count": 8344
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

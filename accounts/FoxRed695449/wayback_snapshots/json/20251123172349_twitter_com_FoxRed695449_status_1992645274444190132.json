@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1991882251416813690",
+    "created_at": "2025-11-23T17:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992645274444190132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994208371040337921",
+          "start": 0,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992645274444190132",
+    "in_reply_to_user_id": "994208371040337921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991882251416813690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litztsong 如果不被虐待的话这样也挺好的（大雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1991882251416813690",
+        "created_at": "2025-11-23T17:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992645274444190132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994208371040337921",
+              "start": 0,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992645274444190132",
+        "in_reply_to_user_id": "994208371040337921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991882251416813690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litztsong 如果不被虐待的话这样也挺好的（大雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "1991882251416813690",
+        "created_at": "2025-11-21T14:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991882251416813690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991882251416813690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前几天做噩梦了\n梦见在麦当劳上班的时候搞错解冻时间了，然后把没完全弄熟的肉卖出去了\n经理很生气，但是中午的时候突然笑着做了个汉堡给我吃，我拿到员工休息室吃了，吃完以后就晕过去了\n醒来的时候自己被拴在了一个牧场里，经理在旁边咧着嘴笑着对我说：麦当劳的新品奶茶是用人奶做的，你在厨房干不好就麻烦你来这里干吧\n你喝的水和吃的食物里都加好利培酮和氨磺必利了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1155,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天做噩梦了\n梦见在麦当劳上班的时候搞错解冻时间了，然后把没完全弄熟的肉卖出去了\n经理很生气，但是中午的时候突然笑着做了个汉堡给我吃，我拿到员工休息室吃了，吃完以后就晕过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 692,
+          "like_count": 4924,
+          "listed_count": 7,
+          "media_count": 895,
+          "tweet_count": 2724
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/约饭者招募中/对象 @misncandy 个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 153,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 130,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "1967508127861112954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 1970,
+          "like_count": 3568,
+          "listed_count": 15,
+          "media_count": 1530,
+          "tweet_count": 13451
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

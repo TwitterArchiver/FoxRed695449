@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1965596712409727133",
+    "created_at": "2025-09-10T13:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T14:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965763973518852491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "188330055",
+          "start": 0,
+          "username": "cherylnatsu"
+        },
+        {
+          "end": 22,
+          "id": "3075116257",
+          "start": 13,
+          "username": "hegosuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965763973518852491",
+    "in_reply_to_user_id": "188330055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965600249126551702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cherylnatsu @hegosuki 老中和欧盟都要求限制解锁\n所以以后越来越难咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1965596712409727133",
+        "created_at": "2025-09-10T13:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965763973518852491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188330055",
+              "start": 0,
+              "username": "cherylnatsu"
+            },
+            {
+              "end": 22,
+              "id": "3075116257",
+              "start": 13,
+              "username": "hegosuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965763973518852491",
+        "in_reply_to_user_id": "188330055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965600249126551702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cherylnatsu @hegosuki 老中和欧盟都要求限制解锁\n所以以后越来越难咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "188330055",
+        "conversation_id": "1965596712409727133",
+        "created_at": "2025-09-10T02:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965600249126551702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3075116257",
+              "start": 0,
+              "username": "hegosuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965600249126551702",
+        "in_reply_to_user_id": "3075116257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2693,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965599884373098919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hegosuki 开放解锁就是最大特色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 699,
+          "like_count": 4284,
+          "listed_count": 8,
+          "media_count": 763,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909990228821250049/60ODW_Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14726,
+          "following_count": 3468,
+          "like_count": 7177,
+          "listed_count": 120,
+          "media_count": 937,
+          "tweet_count": 49385
+        },
+        "username": "cherylnatsu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-12T11:41:57.000Z",
+        "description": "中国出身\nデレステ：917246464 /艦これ:パラオ/\nEVE ONLINE(goons) / .NET programmer /\nISTP/ 对一切形式的身体改造感到不适\nmisskey:asuka_nichijyou@misskey.io",
+        "id": "3075116257",
+        "name": "あすか",
+        "pinned_tweet_id": "1675662857994907648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858356788816752640/Wf9zfx9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 412,
+          "like_count": 653,
+          "listed_count": 8,
+          "media_count": 3240,
+          "tweet_count": 44844
+        },
+        "username": "hegosuki",
+        "verified": false
+      }
+    ]
+  }
+}

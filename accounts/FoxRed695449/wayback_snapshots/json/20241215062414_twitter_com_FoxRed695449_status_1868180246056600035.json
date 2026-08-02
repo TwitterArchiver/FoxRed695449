@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868180239907696640"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1868180246056600035",
+    "created_at": "2024-12-15T06:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T07:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868180246056600035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N48WUsJeba",
+          "end": 64,
+          "expanded_url": "https://x.com/FoxRed695449/status/1868180246056600035/photo/1",
+          "media_key": "3_1868180239907696640",
+          "start": 41,
+          "url": "https://t.co/N48WUsJeba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868180246056600035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汇丰这个真的深得我喜啊\n直呼其名，没有性别代词\n太喜欢了太喜欢了\n就总感觉怪怪的 https://t.co/N48WUsJeba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_1868180239907696640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge0cB7gaMAARXcR.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868180239907696640"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1868180246056600035",
+        "created_at": "2024-12-15T06:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T07:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868180246056600035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N48WUsJeba",
+              "end": 64,
+              "expanded_url": "https://x.com/FoxRed695449/status/1868180246056600035/photo/1",
+              "media_key": "3_1868180239907696640",
+              "start": 41,
+              "url": "https://t.co/N48WUsJeba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868180246056600035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汇丰这个真的深得我喜啊\n直呼其名，没有性别代词\n太喜欢了太喜欢了\n就总感觉怪怪的 https://t.co/N48WUsJeba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 360,
+          "like_count": 878,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 395
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

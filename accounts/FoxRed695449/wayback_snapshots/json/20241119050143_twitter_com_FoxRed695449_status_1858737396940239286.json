@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1858737396940239286",
+    "created_at": "2024-11-19T05:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T06:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858737396940239286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858737396940239286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858712399341383859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: \"为什么全国技校都开始模仿献忠了\"是个令人发笑的伪命题。那为什么全国的技校校长都同时把一个健全的公民买到血汗工厂当奴工呢？这又是谁同意的大规模强迫劳动人口买卖的犯罪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1858737396940239286",
+        "created_at": "2024-11-19T05:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858737396940239286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858737396940239286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858712399341383859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: \"为什么全国技校都开始模仿献忠了\"是个令人发笑的伪命题。那为什么全国的技校校长都同时把一个健全的公民买到血汗工厂当奴工呢？这又是谁同意的大规模强迫劳动人口买卖的犯罪？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1858712399341383859",
+        "created_at": "2024-11-19T03:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858712399341383859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858712399341383859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "\"为什么全国技校都开始模仿献忠了\"是个令人发笑的伪命题。那为什么全国的技校校长都同时把一个健全的公民买到血汗工厂当奴工呢？这又是谁同意的大规模强迫劳动人口买卖的犯罪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 151,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "坏蛋猫咪😎",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12249,
+          "following_count": 178,
+          "like_count": 302,
+          "listed_count": 41,
+          "tweet_count": 11137
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

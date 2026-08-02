@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988828455048552448",
+        "3_1988828454427717632"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "1988828457959047514",
+    "created_at": "2025-11-13T04:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988828457959047514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUncIamrAg",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1988828457959047514/photo/1",
+          "media_key": "3_1988828455048552448",
+          "start": 40,
+          "url": "https://t.co/jUncIamrAg"
+        },
+        {
+          "display_url": "pic.x.com/jUncIamrAg",
+          "end": 63,
+          "expanded_url": "https://x.com/FoxRed695449/status/1988828457959047514/photo/1",
+          "media_key": "3_1988828454427717632",
+          "start": 40,
+          "url": "https://t.co/jUncIamrAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988828457959047514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "往前倒退幾十年visa和MasterCard有在中國發行只能在中國用的人民幣卡 https://t.co/jUncIamrAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_1988828455048552448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m88U5boAA-Ih5.jpg",
+        "width": 500
+      },
+      {
+        "height": 324,
+        "media_key": "3_1988828454427717632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m88SlacAAhnCZ.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988828455048552448",
+            "3_1988828454427717632"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "1988828457959047514",
+        "created_at": "2025-11-13T04:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988828457959047514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUncIamrAg",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1988828457959047514/photo/1",
+              "media_key": "3_1988828455048552448",
+              "start": 40,
+              "url": "https://t.co/jUncIamrAg"
+            },
+            {
+              "display_url": "pic.x.com/jUncIamrAg",
+              "end": 63,
+              "expanded_url": "https://x.com/FoxRed695449/status/1988828457959047514/photo/1",
+              "media_key": "3_1988828454427717632",
+              "start": 40,
+              "url": "https://t.co/jUncIamrAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988828457959047514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "往前倒退幾十年visa和MasterCard有在中國發行只能在中國用的人民幣卡 https://t.co/jUncIamrAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 680,
+          "like_count": 4808,
+          "listed_count": 7,
+          "media_count": 881,
+          "tweet_count": 2650
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

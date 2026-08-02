@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1891882273487585630",
+    "created_at": "2025-02-19T01:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T02:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892021602285432990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1595122483409321984",
+          "start": 0,
+          "username": "sunhouk"
+        },
+        {
+          "end": 20,
+          "id": "1638774981101486081",
+          "start": 9,
+          "username": "lance_0808"
+        },
+        {
+          "end": 36,
+          "id": "1260553941714186241",
+          "start": 21,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892021602285432990",
+    "in_reply_to_user_id": "1595122483409321984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891912359729332686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunhouk @lance_0808 @whyyoutouzhele 我尋思超級馬里奧都沒在內地上映誒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1891882273487585630",
+        "created_at": "2025-02-19T01:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T02:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892021602285432990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1595122483409321984",
+              "start": 0,
+              "username": "sunhouk"
+            },
+            {
+              "end": 20,
+              "id": "1638774981101486081",
+              "start": 9,
+              "username": "lance_0808"
+            },
+            {
+              "end": 36,
+              "id": "1260553941714186241",
+              "start": 21,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892021602285432990",
+        "in_reply_to_user_id": "1595122483409321984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891912359729332686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunhouk @lance_0808 @whyyoutouzhele 我尋思超級馬里奧都沒在內地上映誒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595122483409321984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1891882273487585630",
+        "created_at": "2025-02-18T18:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T19:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891912359729332686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638774981101486081",
+              "start": 0,
+              "username": "lance_0808"
+            },
+            {
+              "end": 27,
+              "id": "1260553941714186241",
+              "start": 12,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891912359729332686",
+        "in_reply_to_user_id": "1638774981101486081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 983,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891889036903538788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lance_0808 @whyyoutouzhele 笑吧！努力的笑吧。反正冲进世界前 8 了。（目前）  你看好莱坞的哪部电影没有大陆充起来的票房？ 傻逼似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 501,
+          "like_count": 1755,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 1093
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T18:30:20.000Z",
+        "description": "抖音关注🩴小妖精⁰⁴⁷。\n一直在，一直爱。爱林总，爱思琪！",
+        "id": "1595122483409321984",
+        "location": "快乐星球",
+        "name": "🩴思琪不吃糖⁰⁴⁷",
+        "pinned_tweet_id": "1633025558480289797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879228587234201600/72rdi60R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 115,
+          "like_count": 109,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 442
+        },
+        "username": "sunhouk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T05:29:58.000Z",
+        "description": "Taiwanese\n日台友好 🇯🇵 🇹🇼",
+        "id": "1638774981101486081",
+        "location": "Taiwan",
+        "name": "Lance Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655158073085001728/9SesKsMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 75,
+          "like_count": 97991,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 566
+        },
+        "username": "lance_0808",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934862,
+          "following_count": 936,
+          "like_count": 5834,
+          "listed_count": 8035,
+          "media_count": 23515,
+          "tweet_count": 29846
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

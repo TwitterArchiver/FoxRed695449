@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2016318187789549802",
+    "created_at": "2026-01-28T02:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016333222347718671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016333222347718671",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016318187789549802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ 换领驾照的即日筹？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2016318158500724738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tmrqebAAIAHAj.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2016318187789549802",
+        "created_at": "2026-01-28T02:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016333222347718671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016333222347718671",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016318187789549802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ 换领驾照的即日筹？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016318158500724738"
+          ]
+        },
+        "author_id": "1144143792",
+        "conversation_id": "2016318187789549802",
+        "created_at": "2026-01-28T01:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016318187789549802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y43Erxa0LV",
+              "end": 39,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2016318187789549802/photo/1",
+              "media_key": "3_2016318158500724738",
+              "start": 16,
+              "url": "https://t.co/Y43Erxa0LV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016318187789549802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群里看到的，香港运输署抢筹现状 https://t.co/Y43Erxa0LV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 749,
+          "like_count": 5893,
+          "listed_count": 7,
+          "media_count": 926,
+          "tweet_count": 2886
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / 打舞萌的 / 全网首台maimaiでらっくす痛四轮车主 / 偶尔看点邦多利 / 不键政，不要影响我打音游和看live / 扩列私信就行 / 欢迎蓝v互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 1129,
+          "like_count": 18200,
+          "listed_count": 31,
+          "media_count": 10213,
+          "tweet_count": 47823
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": true
+      }
+    ]
+  }
+}

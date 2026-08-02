@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914652737335410688"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1914652746147619220",
+    "created_at": "2025-04-22T12:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T13:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914652746147619220"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 8,
+          "normalized_text": "Apple西湖装修",
+          "probability": 0.2167,
+          "start": 0,
+          "type": "Product"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3NwDdEOuC",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/1914652746147619220/photo/1",
+          "media_key": "3_1914652737335410688",
+          "start": 12,
+          "url": "https://t.co/b3NwDdEOuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914652746147619220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Apple西湖装修涂装 https://t.co/b3NwDdEOuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1914652737335410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpI2hTUbQAAxv0m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914652737335410688"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1914652746147619220",
+        "created_at": "2025-04-22T12:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914652746147619220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Apple西湖装修",
+              "probability": 0.2167,
+              "start": 0,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3NwDdEOuC",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1914652746147619220/photo/1",
+              "media_key": "3_1914652737335410688",
+              "start": 12,
+              "url": "https://t.co/b3NwDdEOuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914652746147619220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple西湖装修涂装 https://t.co/b3NwDdEOuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️「唯有法庭在每宗案件中堅守法律原則，以公開、透明且邏輯嚴密的判決回應社會關注，方能真正實現法律所期盼的法治彰顯與社會癒合；否則，其寄望非但難以結果，甚至可能因司法公信力的流失而加劇社會撕裂，適得其反。」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 619,
+          "like_count": 2903,
+          "listed_count": 6,
+          "media_count": 493,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

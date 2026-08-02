@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940425001624088576"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "1940279935308111889",
+    "created_at": "2025-07-02T14:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T15:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940425005147513157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365521689241522176",
+          "start": 0,
+          "username": "chenhj_sakana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vl4ULZ9fjY",
+          "end": 55,
+          "expanded_url": "https://x.com/FoxRed695449/status/1940425005147513157/photo/1",
+          "media_key": "3_1940425001624088576",
+          "start": 32,
+          "url": "https://t.co/Vl4ULZ9fjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940425005147513157",
+    "in_reply_to_user_id": "1365521689241522176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940279935308111889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenhj_sakana 用过HSBC hk的卡坐过（（（ https://t.co/Vl4ULZ9fjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_1940425001624088576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu3GQhcXMAAujAH.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1150,
+        "media_key": "3_1940279915259002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1CTYnWgAAhqY4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1150,
+        "media_key": "3_1940279915464556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1CTZYXAAA9Uno.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940425001624088576"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1940279935308111889",
+        "created_at": "2025-07-02T14:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940425005147513157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365521689241522176",
+              "start": 0,
+              "username": "chenhj_sakana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vl4ULZ9fjY",
+              "end": 55,
+              "expanded_url": "https://x.com/FoxRed695449/status/1940425005147513157/photo/1",
+              "media_key": "3_1940425001624088576",
+              "start": 32,
+              "url": "https://t.co/Vl4ULZ9fjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940425005147513157",
+        "in_reply_to_user_id": "1365521689241522176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940279935308111889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenhj_sakana 用过HSBC hk的卡坐过（（（ https://t.co/Vl4ULZ9fjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940279915259002880",
+            "3_1940279915464556544"
+          ]
+        },
+        "author_id": "1365521689241522176",
+        "conversation_id": "1940279935308111889",
+        "created_at": "2025-07-02T05:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T06:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940279935308111889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lvr9ElPtSq",
+              "end": 30,
+              "expanded_url": "https://x.com/chenhj_sakana/status/1940279935308111889/photo/1",
+              "media_key": "3_1940279915259002880",
+              "start": 7,
+              "url": "https://t.co/Lvr9ElPtSq"
+            },
+            {
+              "display_url": "pic.x.com/Lvr9ElPtSq",
+              "end": 30,
+              "expanded_url": "https://x.com/chenhj_sakana/status/1940279935308111889/photo/1",
+              "media_key": "3_1940279915464556544",
+              "start": 7,
+              "url": "https://t.co/Lvr9ElPtSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940279935308111889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 921,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍银行卡入闸 https://t.co/Lvr9ElPtSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 669,
+          "like_count": 3656,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-27T04:38:47.000Z",
+        "description": "陈叔叔/鲑鱼高中生/是呆唯厨子/星粉/果粉/虹杂/半个飞友/不会打音游的泻谱师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantanstic.top",
+                "end": 23,
+                "expanded_url": "http://fantanstic.top",
+                "start": 0,
+                "url": "https://t.co/WotMAIjBXj"
+              }
+            ]
+          }
+        },
+        "id": "1365521689241522176",
+        "location": "IP属地：理塘",
+        "name": "晨晖",
+        "pinned_tweet_id": "1422935734164459526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888853287866421248/kQ8XeZat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1012,
+          "like_count": 152035,
+          "listed_count": 10,
+          "media_count": 5989,
+          "tweet_count": 15489
+        },
+        "url": "https://t.co/WotMAIjBXj",
+        "username": "chenhj_sakana",
+        "verified": false
+      }
+    ]
+  }
+}

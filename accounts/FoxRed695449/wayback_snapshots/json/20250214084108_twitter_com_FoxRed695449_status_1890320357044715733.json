@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890320354100539393",
+        "3_1890320354167738368"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889919193874833670",
+    "created_at": "2025-02-14T08:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890320357044715733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845981319043428352",
+          "start": 0,
+          "username": "liyongkang98553"
+        },
+        {
+          "end": 30,
+          "id": "1233893730064699394",
+          "start": 17,
+          "username": "frei98029391"
+        },
+        {
+          "end": 46,
+          "id": "912623216899715072",
+          "start": 31,
+          "username": "Xianzhong_1953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWPEsEtfpz",
+          "end": 97,
+          "expanded_url": "https://x.com/FoxRed695449/status/1890320357044715733/photo/1",
+          "media_key": "3_1890320354100539393",
+          "start": 74,
+          "url": "https://t.co/hWPEsEtfpz"
+        },
+        {
+          "display_url": "pic.x.com/hWPEsEtfpz",
+          "end": 97,
+          "expanded_url": "https://x.com/FoxRed695449/status/1890320357044715733/photo/1",
+          "media_key": "3_1890320354167738368",
+          "start": 74,
+          "url": "https://t.co/hWPEsEtfpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890320357044715733",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890319422486900848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyongkang98553 @frei98029391 @Xianzhong_1953 上海580能上的學校，隔壁浙江要702\n教育太公平啦 https://t.co/hWPEsEtfpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1395,
+        "media_key": "3_1890320354100539393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjvEWMHacAEiyO9.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1432,
+        "media_key": "3_1890320354167738368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjvEWMXb0AAxdwp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890320354100539393",
+            "3_1890320354167738368"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889919193874833670",
+        "created_at": "2025-02-14T08:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890320357044715733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845981319043428352",
+              "start": 0,
+              "username": "liyongkang98553"
+            },
+            {
+              "end": 30,
+              "id": "1233893730064699394",
+              "start": 17,
+              "username": "frei98029391"
+            },
+            {
+              "end": 46,
+              "id": "912623216899715072",
+              "start": 31,
+              "username": "Xianzhong_1953"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWPEsEtfpz",
+              "end": 97,
+              "expanded_url": "https://x.com/FoxRed695449/status/1890320357044715733/photo/1",
+              "media_key": "3_1890320354100539393",
+              "start": 74,
+              "url": "https://t.co/hWPEsEtfpz"
+            },
+            {
+              "display_url": "pic.x.com/hWPEsEtfpz",
+              "end": 97,
+              "expanded_url": "https://x.com/FoxRed695449/status/1890320357044715733/photo/1",
+              "media_key": "3_1890320354167738368",
+              "start": 74,
+              "url": "https://t.co/hWPEsEtfpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890320357044715733",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890319422486900848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyongkang98553 @frei98029391 @Xianzhong_1953 上海580能上的學校，隔壁浙江要702\n教育太公平啦 https://t.co/hWPEsEtfpz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889919193874833670",
+        "created_at": "2025-02-14T08:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890319422486900848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845981319043428352",
+              "start": 0,
+              "username": "liyongkang98553"
+            },
+            {
+              "end": 30,
+              "id": "1233893730064699394",
+              "start": 17,
+              "username": "frei98029391"
+            },
+            {
+              "end": 46,
+              "id": "912623216899715072",
+              "start": 31,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890319422486900848",
+        "in_reply_to_user_id": "1845981319043428352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890310069754990641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyongkang98553 @frei98029391 @Xianzhong_1953 中國最大的優勢難道不是教育資源極度不公平+人工低嗎（饒頭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 487,
+          "like_count": 1605,
+          "listed_count": 6,
+          "media_count": 337,
+          "tweet_count": 1040
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T00:13:56.000Z",
+        "description": "风往哪边吹",
+        "id": "1845981319043428352",
+        "name": "chaoxi-",
+        "pinned_tweet_id": "1854709934988153096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889277847916920832/rcSiAOMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 61,
+          "like_count": 856,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1656
+        },
+        "username": "liyongkang98553",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T23:16:17.000Z",
+        "description": "trans, lesbian, Software Architect she (her) / they (them) / 她 / zij (haar) / sie (sie, ihr) English, 中文，Nederlands, Deutsch bluesky: @zephyrinefreiberg.bsky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 134,
+                "username": "zephyrinefreiberg"
+              }
+            ]
+          }
+        },
+        "id": "1233893730064699394",
+        "location": "Wien",
+        "name": "Zephyrine Freiberg🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1879091740323504365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 280,
+          "like_count": 7190,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1860
+        },
+        "username": "frei98029391",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "不是支黑哦，但是不妨碍俺盼献忠\n\n曾经的浙江苗族人\n\n已拉黑9000多万条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "領導幹部",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528597540819841024/vMyTbSY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104182,
+          "following_count": 802,
+          "like_count": 220207,
+          "listed_count": 342,
+          "media_count": 20049,
+          "tweet_count": 39242
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

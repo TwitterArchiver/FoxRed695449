@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886816319292760248",
+    "created_at": "2025-02-04T16:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T17:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886816572943294552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886816572943294552",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886816319292760248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat 草，所以按照你的意思吹水po就不能发了？\n还有您在这里说这么多我损害别人情感的，您帮助那些受害者什么了？我倒是搞笑了，一个平常做自杀干预的随便发了个吹水po能被骂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886816319292760248",
+        "created_at": "2025-02-04T16:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886816572943294552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886816572943294552",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886816319292760248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 草，所以按照你的意思吹水po就不能发了？\n还有您在这里说这么多我损害别人情感的，您帮助那些受害者什么了？我倒是搞笑了，一个平常做自杀干预的随便发了个吹水po能被骂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1886816319292760248",
+        "created_at": "2025-02-04T16:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T17:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886816319292760248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/foxred695449/status/1886815818429948343",
+              "start": 33,
+              "url": "https://t.co/qLhjCSPNfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886816319292760248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886815818429948343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香港自由民主确实先进哈 这个互联网是给香港人和江浙沪富哥单开的👍 https://t.co/qLhjCSPNfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 457,
+          "like_count": 1354,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 841
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "小狗@larva7501",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "larva7501"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/XWEE9pDW0i"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻哈吉卷",
+        "pinned_tweet_id": "1877447124003996121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870757223133245441/DDs_GyIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 1169,
+          "like_count": 121886,
+          "listed_count": 8,
+          "media_count": 1391,
+          "tweet_count": 17333
+        },
+        "url": "https://t.co/XWEE9pDW0i",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

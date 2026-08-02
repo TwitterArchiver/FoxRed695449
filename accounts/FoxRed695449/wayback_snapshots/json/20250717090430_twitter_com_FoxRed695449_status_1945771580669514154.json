@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1945770060296937968",
+    "created_at": "2025-07-17T09:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945771580669514154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945771580669514154",
+    "in_reply_to_user_id": "1719571122642161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945770060296937968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 诈骗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945770048028626944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDDjK9XUAAPzua.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1945770060296937968",
+        "created_at": "2025-07-17T09:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945771580669514154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945771580669514154",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945770060296937968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 诈骗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945770048028626944"
+          ]
+        },
+        "author_id": "1719571122642161664",
+        "conversation_id": "1945770060296937968",
+        "created_at": "2025-07-17T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945770060296937968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtDhad5rTi",
+              "end": 31,
+              "expanded_url": "https://x.com/AGeSang2008/status/1945770060296937968/photo/1",
+              "media_key": "3_1945770048028626944",
+              "start": 8,
+              "url": "https://t.co/AtDhad5rTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945770060296937968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是什么鬼？ https://t.co/AtDhad5rTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 673,
+          "like_count": 3711,
+          "listed_count": 7,
+          "media_count": 546,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy1782010｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Anan628769"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "Andy1782010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1926815724040790523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 870,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      }
+    ]
+  }
+}

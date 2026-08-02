@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064370113802084353",
+        "3_2064370113747595265"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064298072667287611",
+    "created_at": "2026-06-09T15:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064370122178130286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 28,
+          "id": "2000777716132667392",
+          "start": 12,
+          "username": "ArshadHusa72562"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFBrI2TkJI",
+          "end": 86,
+          "expanded_url": "https://x.com/FoxRed695449/status/2064370122178130286/photo/1",
+          "media_key": "3_2064370113802084353",
+          "start": 63,
+          "url": "https://t.co/UFBrI2TkJI"
+        },
+        {
+          "display_url": "pic.x.com/UFBrI2TkJI",
+          "end": 86,
+          "expanded_url": "https://x.com/FoxRed695449/status/2064370122178130286/photo/1",
+          "media_key": "3_2064370113747595265",
+          "start": 63,
+          "url": "https://t.co/UFBrI2TkJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064370122178130286",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064368913258066308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @ArshadHusa72562 可是再少的比例乘以中國的人口都是一個很大的數字（ai數據僅供參考） https://t.co/UFBrI2TkJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2064370113802084353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYdrlYbIAEQivF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2064370113747595265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYdrlLbsAEHbrN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064370113802084353",
+            "3_2064370113747595265"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064370122178130286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 28,
+              "id": "2000777716132667392",
+              "start": 12,
+              "username": "ArshadHusa72562"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFBrI2TkJI",
+              "end": 86,
+              "expanded_url": "https://x.com/FoxRed695449/status/2064370122178130286/photo/1",
+              "media_key": "3_2064370113802084353",
+              "start": 63,
+              "url": "https://t.co/UFBrI2TkJI"
+            },
+            {
+              "display_url": "pic.x.com/UFBrI2TkJI",
+              "end": 86,
+              "expanded_url": "https://x.com/FoxRed695449/status/2064370122178130286/photo/1",
+              "media_key": "3_2064370113747595265",
+              "start": 63,
+              "url": "https://t.co/UFBrI2TkJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064370122178130286",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064368913258066308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @ArshadHusa72562 可是再少的比例乘以中國的人口都是一個很大的數字（ai數據僅供參考） https://t.co/UFBrI2TkJI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064368913258066308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "2000777716132667392",
+              "start": 14,
+              "username": "ArshadHusa72562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064368913258066308",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064367682410152020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @ArshadHusa72562 在當代中國社會，其實絕大部份十六歲至十八歲區間的人，都沒有經濟獨立吧。\n\n又，我認為像日本那種，明文規定年齡差在五年之內即獲豁免入罪的，是最有效亦最省事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 841,
+          "like_count": 8124,
+          "listed_count": 6,
+          "media_count": 1040,
+          "tweet_count": 3324
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 223,
+          "like_count": 9819,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 13296
+        },
+        "username": "billyswong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T03:59:31.000Z",
+        "description": "Biochemist",
+        "id": "2000777716132667392",
+        "name": "Husaib Arshad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060445291556589568/VlZiSfus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 53,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 517
+        },
+        "username": "ArshadHusa72562",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976181637986779138"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1975826691499979210",
+    "created_at": "2025-10-09T07:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976181647776055332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683001058745004033",
+          "start": 0,
+          "username": "Jerry11965195"
+        },
+        {
+          "end": 29,
+          "id": "1316630330019782657",
+          "start": 15,
+          "username": "fanshigui8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S90U26K8BM",
+          "end": 53,
+          "expanded_url": "https://x.com/FoxRed695449/status/1976181647776055332/photo/1",
+          "media_key": "3_1976181637986779138",
+          "start": 30,
+          "url": "https://t.co/S90U26K8BM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976181647776055332",
+    "in_reply_to_user_id": "1683001058745004033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976141424954413324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry11965195 @fanshigui8964 https://t.co/S90U26K8BM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1976181637986779138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zOur_aAAIVM7C.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976141330641240064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yqEfbWwAA_Rma.jpg",
+        "width": 998
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976141330720968705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yqEfuXUAEM_2c.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976141330632908800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yqEfZXoAA6mCf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976181637986779138"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1975826691499979210",
+        "created_at": "2025-10-09T07:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976181647776055332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683001058745004033",
+              "start": 0,
+              "username": "Jerry11965195"
+            },
+            {
+              "end": 29,
+              "id": "1316630330019782657",
+              "start": 15,
+              "username": "fanshigui8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S90U26K8BM",
+              "end": 53,
+              "expanded_url": "https://x.com/FoxRed695449/status/1976181647776055332/photo/1",
+              "media_key": "3_1976181637986779138",
+              "start": 30,
+              "url": "https://t.co/S90U26K8BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976181647776055332",
+        "in_reply_to_user_id": "1683001058745004033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976141424954413324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry11965195 @fanshigui8964 https://t.co/S90U26K8BM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976141330641240064",
+            "3_1976141330720968705",
+            "3_1976141330632908800"
+          ]
+        },
+        "author_id": "1683001058745004033",
+        "conversation_id": "1975826691499979210",
+        "created_at": "2025-10-09T04:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976141424954413324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1316630330019782657",
+              "start": 0,
+              "username": "fanshigui8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik4zMnzi2p",
+              "end": 71,
+              "expanded_url": "https://x.com/Jerry11965195/status/1976141424954413324/photo/1",
+              "media_key": "3_1976141330641240064",
+              "start": 48,
+              "url": "https://t.co/Ik4zMnzi2p"
+            },
+            {
+              "display_url": "pic.x.com/Ik4zMnzi2p",
+              "end": 71,
+              "expanded_url": "https://x.com/Jerry11965195/status/1976141424954413324/photo/1",
+              "media_key": "3_1976141330720968705",
+              "start": 48,
+              "url": "https://t.co/Ik4zMnzi2p"
+            },
+            {
+              "display_url": "pic.x.com/Ik4zMnzi2p",
+              "end": 71,
+              "expanded_url": "https://x.com/Jerry11965195/status/1976141424954413324/photo/1",
+              "media_key": "3_1976141330632908800",
+              "start": 48,
+              "url": "https://t.co/Ik4zMnzi2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976141424954413324",
+        "in_reply_to_user_id": "1316630330019782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975826691499979210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanshigui8964 找到港府的原始條款來證明你說的是真話，找不到你就是在這兒造謠生事 https://t.co/Ik4zMnzi2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 698,
+          "like_count": 4438,
+          "listed_count": 8,
+          "media_count": 830,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:28:48.000Z",
+        "description": "",
+        "id": "1683001058745004033",
+        "name": "Jerry11",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 98
+        },
+        "username": "Jerry11965195",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T06:42:04.000Z",
+        "description": "正在荷兰申请政庇的六四难友、基督徒。A fellow June 4th victim and Christian who is applying for political asylum in the Netherlands.\nPayPal:@fanshigui963,微信支付宝收款码（私信）。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "fanshigui963"
+              }
+            ]
+          }
+        },
+        "id": "1316630330019782657",
+        "location": "Nederland",
+        "name": "范士贵8964荷兰难民",
+        "pinned_tweet_id": "1975496200771281365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931269822840446976/17nSEPJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83821,
+          "following_count": 4724,
+          "like_count": 16088,
+          "listed_count": 259,
+          "media_count": 16101,
+          "tweet_count": 24104
+        },
+        "username": "fanshigui8964",
+        "verified": true
+      }
+    ]
+  }
+}

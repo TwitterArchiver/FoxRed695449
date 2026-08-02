@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073599138361745409"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2073192062048964979",
+    "created_at": "2026-07-05T02:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073599151657664873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523392669556174848",
+          "start": 0,
+          "username": "BieberJ07488504"
+        },
+        {
+          "end": 28,
+          "id": "1426891790641078274",
+          "start": 17,
+          "username": "momomax001"
+        },
+        {
+          "end": 40,
+          "id": "143810986",
+          "start": 29,
+          "username": "dw_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flcVn3CTs1",
+          "end": 86,
+          "expanded_url": "https://x.com/FoxRed695449/status/2073599151657664873/photo/1",
+          "media_key": "3_2073599138361745409",
+          "start": 63,
+          "url": "https://t.co/flcVn3CTs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073599151657664873",
+    "in_reply_to_user_id": "1523392669556174848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073388114031395312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BieberJ07488504 @momomax001 @dw_chinese 醒醒，中国跨性别能改法律性别都超过20年了 https://t.co/flcVn3CTs1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2073599138361745409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbnbhCboAEoTqx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073599138361745409"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2073192062048964979",
+        "created_at": "2026-07-05T02:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073599151657664873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523392669556174848",
+              "start": 0,
+              "username": "BieberJ07488504"
+            },
+            {
+              "end": 28,
+              "id": "1426891790641078274",
+              "start": 17,
+              "username": "momomax001"
+            },
+            {
+              "end": 40,
+              "id": "143810986",
+              "start": 29,
+              "username": "dw_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flcVn3CTs1",
+              "end": 86,
+              "expanded_url": "https://x.com/FoxRed695449/status/2073599151657664873/photo/1",
+              "media_key": "3_2073599138361745409",
+              "start": 63,
+              "url": "https://t.co/flcVn3CTs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073599151657664873",
+        "in_reply_to_user_id": "1523392669556174848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073388114031395312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BieberJ07488504 @momomax001 @dw_chinese 醒醒，中国跨性别能改法律性别都超过20年了 https://t.co/flcVn3CTs1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523392669556174848",
+        "conversation_id": "2073192062048964979",
+        "created_at": "2026-07-04T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073388114031395312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1426891790641078274",
+              "start": 0,
+              "username": "momomax001"
+            },
+            {
+              "end": 23,
+              "id": "143810986",
+              "start": 12,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073388114031395312",
+        "in_reply_to_user_id": "1426891790641078274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073364841465889068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momomax001 @dw_chinese lgbt就是非法的，要搞就移民出去搞，不会你没有能力移民吧🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 843,
+          "like_count": 8191,
+          "listed_count": 6,
+          "media_count": 1058,
+          "tweet_count": 3395
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T20:03:02.000Z",
+        "description": "",
+        "id": "1523392669556174848",
+        "name": "Bieber Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523393055016988673/8g-eVCg__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "BieberJ07488504",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-15T13:01:34.000Z",
+        "description": "",
+        "id": "1426891790641078274",
+        "name": "momo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010752880295440384/bPTk1hl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1343,
+          "like_count": 5477,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "momomax001",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384458,
+          "following_count": 9,
+          "like_count": 442,
+          "listed_count": 5547,
+          "media_count": 16703,
+          "tweet_count": 85496
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

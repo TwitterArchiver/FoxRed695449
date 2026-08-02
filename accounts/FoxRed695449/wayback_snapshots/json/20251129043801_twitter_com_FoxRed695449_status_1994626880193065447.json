@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994509884356718592"
+      ],
+      "media_source_tweet_id": [
+        "1994509905428988112"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prince Charles",
+          "id": "989173596768501761",
+          "name": "King Charles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prince Charles",
+          "id": "989173596768501761",
+          "name": "King Charles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Royal Family",
+          "id": "1098692833333014528",
+          "name": "British Royal Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518658178157735937",
+          "name": "United Kingdom political figures"
+        }
+      }
+    ],
+    "conversation_id": "1994626880193065447",
+    "created_at": "2025-11-29T04:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994626880193065447"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "The King",
+          "probability": 0.4065,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "Hong Kong",
+          "probability": 0.9826,
+          "start": 58,
+          "type": "Place"
+        },
+        {
+          "end": 107,
+          "normalized_text": "Tai Po",
+          "probability": 0.9206,
+          "start": 102,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "36042554",
+          "start": 3,
+          "username": "RoyalFamily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLJSU2VKsE",
+          "end": 133,
+          "expanded_url": "https://x.com/RoyalFamily/status/1994509905428988112/photo/1",
+          "media_key": "3_1994509884356718592",
+          "start": 110,
+          "url": "https://t.co/HLJSU2VKsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994626880193065447",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 586
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994509905428988112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RoyalFamily: A message from The King to the people of Hong Kong following the devastating fire in Tai Po. https://t.co/HLJSU2VKsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1994509884356718592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63sLCYWcAApVT0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994509884356718592"
+          ],
+          "media_source_tweet_id": [
+            "1994509905428988112"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658178157735937",
+              "name": "United Kingdom political figures"
+            }
+          }
+        ],
+        "conversation_id": "1994626880193065447",
+        "created_at": "2025-11-29T04:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994626880193065447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "The King",
+              "probability": 0.4065,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9826,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 107,
+              "normalized_text": "Tai Po",
+              "probability": 0.9206,
+              "start": 102,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "36042554",
+              "start": 3,
+              "username": "RoyalFamily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLJSU2VKsE",
+              "end": 133,
+              "expanded_url": "https://x.com/RoyalFamily/status/1994509905428988112/photo/1",
+              "media_key": "3_1994509884356718592",
+              "start": 110,
+              "url": "https://t.co/HLJSU2VKsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994626880193065447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 586
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994509905428988112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RoyalFamily: A message from The King to the people of Hong Kong following the devastating fire in Tai Po. https://t.co/HLJSU2VKsE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994509884356718592"
+          ]
+        },
+        "author_id": "36042554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prince Charles",
+              "id": "989173596768501761",
+              "name": "King Charles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Royal Family",
+              "id": "1098692833333014528",
+              "name": "British Royal Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658178157735937",
+              "name": "United Kingdom political figures"
+            }
+          }
+        ],
+        "conversation_id": "1994509905428988112",
+        "created_at": "2025-11-28T20:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T21:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994509905428988112"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "The King",
+              "probability": 0.3469,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9798,
+              "start": 41,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Tai Po",
+              "probability": 0.9133,
+              "start": 85,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLJSU2VKsE",
+              "end": 116,
+              "expanded_url": "https://x.com/RoyalFamily/status/1994509905428988112/photo/1",
+              "media_key": "3_1994509884356718592",
+              "start": 93,
+              "url": "https://t.co/HLJSU2VKsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994509905428988112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 91260,
+          "like_count": 3605,
+          "quote_count": 37,
+          "reply_count": 132,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "A message from The King to the people of Hong Kong following the devastating fire in Tai Po. https://t.co/HLJSU2VKsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 705,
+          "like_count": 5019,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2762
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-28T11:31:02.000Z",
+        "description": "The latest news and updates on the work of The King, The Queen and The Royal Family.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "royal.uk",
+                "end": 23,
+                "expanded_url": "http://www.royal.uk",
+                "start": 0,
+                "url": "https://t.co/vi7yfrg3iw"
+              }
+            ]
+          }
+        },
+        "id": "36042554",
+        "location": "United Kingdom",
+        "name": "The Royal Family",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988557699827531776/Get2Z5pX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5488599,
+          "following_count": 460,
+          "like_count": 5027,
+          "listed_count": 10346,
+          "media_count": 15288,
+          "tweet_count": 40358
+        },
+        "url": "https://t.co/vi7yfrg3iw",
+        "username": "RoyalFamily",
+        "verified": true
+      }
+    ]
+  }
+}

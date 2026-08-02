@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T05:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T06:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886292528598811051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343288022926692353",
+          "start": 0,
+          "username": "UlarMononobe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886292528598811051",
+    "in_reply_to_user_id": "1343288022926692353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886287164302049390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UlarMononobe 嘿嘿，要官方的非賣品海報嗎，可以送你一份aww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886292528598811051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343288022926692353",
+              "start": 0,
+              "username": "UlarMononobe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886292528598811051",
+        "in_reply_to_user_id": "1343288022926692353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886287164302049390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UlarMononobe 嘿嘿，要官方的非賣品海報嗎，可以送你一份aww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343288022926692353",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T05:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886287164302049390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886287164302049390",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 找到粥友了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 447,
+          "like_count": 1335,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 766
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T20:10:15.000Z",
+        "description": "是非审之于己，毁誉听之于人，得失安之于数",
+        "id": "1343288022926692353",
+        "location": "Sydney, New South Wales",
+        "name": "PBIC靠麦麦续命🧈🍦",
+        "pinned_tweet_id": "1847491600404078634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514312061802598402/OsvbGOzp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 4048,
+          "like_count": 21236,
+          "listed_count": 10,
+          "media_count": 312,
+          "tweet_count": 10471
+        },
+        "username": "UlarMononobe",
+        "verified": false
+      }
+    ]
+  }
+}

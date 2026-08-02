@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1949411236124442833",
+    "created_at": "2025-07-27T13:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949457761701708272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "35178713",
+          "start": 0,
+          "username": "valentinlulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949457761701708272",
+    "in_reply_to_user_id": "35178713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949447769892294725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@valentinlulu 閣下要是有意見請前往香港金鐘道38號香港高等法院提起司法覆核\n不過我看閣下也就純純口嗨罷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1949411236124442833",
+        "created_at": "2025-07-27T13:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949457761701708272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "35178713",
+              "start": 0,
+              "username": "valentinlulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949457761701708272",
+        "in_reply_to_user_id": "35178713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949447769892294725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@valentinlulu 閣下要是有意見請前往香港金鐘道38號香港高等法院提起司法覆核\n不過我看閣下也就純純口嗨罷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "35178713",
+        "conversation_id": "1949411236124442833",
+        "created_at": "2025-07-27T12:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949447769892294725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949447769892294725",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949411236124442833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 你们干脆宣布操🐷合法算了，要尊重嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 673,
+          "like_count": 3792,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-25T08:45:45.000Z",
+        "description": "Shanghai Lvding Aluminium",
+        "id": "35178713",
+        "location": "Shanghai",
+        "name": "LU Wenjun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/691939816284512256/QC5mnnEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 671,
+          "like_count": 1743,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 992
+        },
+        "username": "valentinlulu",
+        "verified": false
+      }
+    ]
+  }
+}

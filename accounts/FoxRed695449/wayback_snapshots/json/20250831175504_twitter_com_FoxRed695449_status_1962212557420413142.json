@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1962183414171460063",
+    "created_at": "2025-08-31T17:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T18:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962212557420413142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "JDE_Alva"
+        },
+        {
+          "end": 21,
+          "id": "1904873292366036992",
+          "start": 10,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962212557420413142",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962190507502940545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDE_Alva @Chiyuyu520 200以下都減"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1962183414171460063",
+        "created_at": "2025-08-31T17:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T18:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962212557420413142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "JDE_Alva"
+            },
+            {
+              "end": 21,
+              "id": "1904873292366036992",
+              "start": 10,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962212557420413142",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962190507502940545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDE_Alva @Chiyuyu520 200以下都減"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "1962183414171460063",
+        "created_at": "2025-08-31T16:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962190507502940545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962190507502940545",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962183414171460063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 居然手续费做减免了吗🤔\n羡慕\n\n某些香港地区的银行 VISA/银联国际扣账卡是收的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 694,
+          "like_count": 4239,
+          "listed_count": 8,
+          "media_count": 743,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Coach｜MtX🏳️‍⚧️｜Banner Copyright © 2025 @SaiKin_XiJun｜Powered by @LX_Lacie｜Partner @Jimi_yang22770｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "SaiKin_XiJun"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "LX_Lacie"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1961440554384003295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 2042,
+          "like_count": 18234,
+          "listed_count": 9,
+          "media_count": 408,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 1291,
+          "like_count": 4811,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

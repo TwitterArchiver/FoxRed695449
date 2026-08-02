@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1977648775587103051",
+    "created_at": "2025-10-13T17:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T18:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977789507589251543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        },
+        {
+          "end": 23,
+          "id": "1119483543736897536",
+          "start": 12,
+          "username": "tessieboat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977789507589251543",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977785014889926924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 @tessieboat 盒攻击（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1977648775587103051",
+        "created_at": "2025-10-13T17:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977789507589251543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 23,
+              "id": "1119483543736897536",
+              "start": 12,
+              "username": "tessieboat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977789507589251543",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977785014889926924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 @tessieboat 盒攻击（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "1977648775587103051",
+        "created_at": "2025-10-13T17:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977785014889926924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1119483543736897536",
+              "start": 0,
+              "username": "tessieboat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977785014889926924",
+        "in_reply_to_user_id": "1119483543736897536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977648775587103051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tessieboat 感觉推特还好，毕竟和墙内信息基本没有绑定，哪怕发表了什么逆天言论，对现实生活的影响也微乎其微，最多也就是销号跑路\n所以我现在更宁愿在这里说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 700,
+          "like_count": 4462,
+          "listed_count": 8,
+          "media_count": 831,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板爱好者，星粉，半个车迷/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4758,
+          "following_count": 5976,
+          "like_count": 144021,
+          "listed_count": 14,
+          "media_count": 4290,
+          "tweet_count": 41922
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T06:10:50.000Z",
+        "description": "嗨，这里是泰茜～ 很高兴认识你！ 这里会更新一些泰茜的日常和碎碎念，感谢你的关注～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tessieboat.github.io",
+                "end": 23,
+                "expanded_url": "http://tessieboat.github.io",
+                "start": 0,
+                "url": "https://t.co/wYRoVKmSRa"
+              }
+            ]
+          }
+        },
+        "id": "1119483543736897536",
+        "location": "提瓦特大陆",
+        "name": "Tessie_Boat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974005385821573120/GWg506Na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7130,
+          "following_count": 1011,
+          "like_count": 110911,
+          "listed_count": 7,
+          "media_count": 1306,
+          "tweet_count": 5178
+        },
+        "url": "https://t.co/wYRoVKmSRa",
+        "username": "tessieboat",
+        "verified": false
+      }
+    ]
+  }
+}

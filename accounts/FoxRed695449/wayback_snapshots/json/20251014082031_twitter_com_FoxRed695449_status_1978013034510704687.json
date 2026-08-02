@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978013025773973504",
+        "3_1978013025778225152"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1978013034510704687",
+    "created_at": "2025-10-14T08:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978013034510704687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxXau4vfk1",
+          "end": 58,
+          "expanded_url": "https://x.com/FoxRed695449/status/1978013034510704687/photo/1",
+          "media_key": "3_1978013025773973504",
+          "start": 35,
+          "url": "https://t.co/uxXau4vfk1"
+        },
+        {
+          "display_url": "pic.x.com/uxXau4vfk1",
+          "end": 58,
+          "expanded_url": "https://x.com/FoxRed695449/status/1978013034510704687/photo/1",
+          "media_key": "3_1978013025778225152",
+          "start": 35,
+          "url": "https://t.co/uxXau4vfk1"
+        },
+        {
+          "display_url": "x.com/jmssocks/statu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/jmssocks/status/1977655774836068553",
+          "start": 59,
+          "url": "https://t.co/Rc6P8vjzpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978013034510704687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977655774836068553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "給我笑噴了\n要是你說的是真的——去年日航那架A350怕是活不了一個人 https://t.co/uxXau4vfk1 https://t.co/Rc6P8vjzpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_1978013025773973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3NQXfJacAAX5DB.jpg",
+        "width": 828
+      },
+      {
+        "height": 866,
+        "media_key": "3_1978013025778225152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3NQXfKbUAAWDdL.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978013025773973504",
+            "3_1978013025778225152"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1978013034510704687",
+        "created_at": "2025-10-14T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978013034510704687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxXau4vfk1",
+              "end": 58,
+              "expanded_url": "https://x.com/FoxRed695449/status/1978013034510704687/photo/1",
+              "media_key": "3_1978013025773973504",
+              "start": 35,
+              "url": "https://t.co/uxXau4vfk1"
+            },
+            {
+              "display_url": "pic.x.com/uxXau4vfk1",
+              "end": 58,
+              "expanded_url": "https://x.com/FoxRed695449/status/1978013034510704687/photo/1",
+              "media_key": "3_1978013025778225152",
+              "start": 35,
+              "url": "https://t.co/uxXau4vfk1"
+            },
+            {
+              "display_url": "x.com/jmssocks/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/jmssocks/status/1977655774836068553",
+              "start": 59,
+              "url": "https://t.co/Rc6P8vjzpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978013034510704687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977655774836068553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "給我笑噴了\n要是你說的是真的——去年日航那架A350怕是活不了一個人 https://t.co/uxXau4vfk1 https://t.co/Rc6P8vjzpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723671000578207744",
+        "conversation_id": "1977587591458550122",
+        "created_at": "2025-10-13T08:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977655774836068553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "10324092",
+              "start": 0,
+              "username": "ec12edfae2cb221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977655774836068553",
+        "in_reply_to_user_id": "10324092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 93723,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977587591458550122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ec12edfae2cb221 大量采用炭纤维材料，一起火就这样了\n\n汽车应该采用钢材和阻燃材料才对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 700,
+          "like_count": 4477,
+          "listed_count": 8,
+          "media_count": 834,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T11:56:25.000Z",
+        "description": "",
+        "id": "1723671000578207744",
+        "location": "美国",
+        "name": "复兴社",
+        "pinned_tweet_id": "1970715005235667375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861255884728684544/ChdPD71V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 1413,
+          "like_count": 209,
+          "listed_count": 7,
+          "media_count": 428,
+          "tweet_count": 9025
+        },
+        "username": "jmssocks",
+        "verified": true
+      }
+    ]
+  }
+}

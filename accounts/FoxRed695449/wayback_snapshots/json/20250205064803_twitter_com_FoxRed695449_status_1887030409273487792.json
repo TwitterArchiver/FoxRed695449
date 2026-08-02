@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887030400725475328"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1887030409273487792",
+    "created_at": "2025-02-05T06:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T07:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887030409273487792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nFnWig77zF",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/1887030409273487792/photo/1",
+          "media_key": "3_1887030400725475328",
+          "start": 144,
+          "url": "https://t.co/nFnWig77zF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887030409273487792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感覺中文圈（尤其是簡中圈）戾氣好重⋯\n發個吹水調侃po能被一堆人扣帽子，發個有我自己經歷和朋友的新聞報導能被大罵lgbt\nemm⋯不過我帳號主要是用來交友的（之前應該是發cos和繩圖的吧）\n所以回歸原意，最近應該會把庫存cos照都發出來（大部分都是吃糖之前的喔），各位可以期待一下aww https://t.co/nFnWig77zF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1887030400725475328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjAUJsua4AA5b9i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887030400725475328"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887030409273487792",
+        "created_at": "2025-02-05T06:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T07:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887030409273487792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nFnWig77zF",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/1887030409273487792/photo/1",
+              "media_key": "3_1887030400725475328",
+              "start": 144,
+              "url": "https://t.co/nFnWig77zF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887030409273487792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺中文圈（尤其是簡中圈）戾氣好重⋯\n發個吹水調侃po能被一堆人扣帽子，發個有我自己經歷和朋友的新聞報導能被大罵lgbt\nemm⋯不過我帳號主要是用來交友的（之前應該是發cos和繩圖的吧）\n所以回歸原意，最近應該會把庫存cos照都發出來（大部分都是吃糖之前的喔），各位可以期待一下aww https://t.co/nFnWig77zF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 458,
+          "like_count": 1363,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 883
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

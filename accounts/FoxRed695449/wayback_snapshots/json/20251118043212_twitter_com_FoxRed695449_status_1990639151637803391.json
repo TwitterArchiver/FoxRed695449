@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1990424534240079940",
+    "created_at": "2025-11-18T04:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T05:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990639151637803391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990639151637803391",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990453453228028166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 至少hkbn和hkt的搞代理没问题xdxdxd\n新加坡怎么样不太知道抱歉😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-18T04:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990639151637803391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990639151637803391",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990453453228028166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 至少hkbn和hkt的搞代理没问题xdxdxd\n新加坡怎么样不太知道抱歉😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-17T16:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990453453228028166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990453453228028166",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17747,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990439673928528306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 其实我自己也能搞，但我怕StarHub把我拉黑了，，不敢折腾自家的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 685,
+          "like_count": 4848,
+          "listed_count": 7,
+          "media_count": 883,
+          "tweet_count": 2685
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "虾仁芹菜馅猫卷 @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1990369987639525748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987241584170311681/z73T6Iii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 888,
+          "like_count": 1078,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 303
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

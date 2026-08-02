@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1935259511771775222",
+    "created_at": "2025-06-19T06:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T07:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935581131010957723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935581131010957723",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935285456704532967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 不过八达通可以网上消费！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1935259511771775222",
+        "created_at": "2025-06-19T06:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935581131010957723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935581131010957723",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935285456704532967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 不过八达通可以网上消费！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1935259511771775222",
+        "created_at": "2025-06-18T10:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935285456704532967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935285456704532967",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935259511771775222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我把银联看成交通联合还在心里思考了一会交通联合什么时候可以付款商品了还有救吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1932630688412676393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 662,
+          "like_count": 3563,
+          "listed_count": 6,
+          "media_count": 663,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "bugduckteam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1925115627330839030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 3000,
+          "like_count": 2330,
+          "listed_count": 0,
+          "media_count": 754,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

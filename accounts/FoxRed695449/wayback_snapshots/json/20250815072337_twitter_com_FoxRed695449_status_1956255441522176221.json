@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956255433456541697"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1955956364817391947",
+    "created_at": "2025-08-15T07:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956255441522176221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpmZ4Pg7dm",
+          "end": 40,
+          "expanded_url": "https://x.com/FoxRed695449/status/1956255441522176221/photo/1",
+          "media_key": "3_1956255433456541697",
+          "start": 17,
+          "url": "https://t.co/ZpmZ4Pg7dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956255441522176221",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955956364817391947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 🤓👍 https://t.co/ZpmZ4Pg7dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_1956255433456541697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYD87ka4AEmUW_.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956255433456541697"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1955956364817391947",
+        "created_at": "2025-08-15T07:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956255441522176221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpmZ4Pg7dm",
+              "end": 40,
+              "expanded_url": "https://x.com/FoxRed695449/status/1956255441522176221/photo/1",
+              "media_key": "3_1956255433456541697",
+              "start": 17,
+              "url": "https://t.co/ZpmZ4Pg7dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956255441522176221",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955956364817391947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 🤓👍 https://t.co/ZpmZ4Pg7dm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1955956364817391947",
+        "created_at": "2025-08-14T11:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955956364817391947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mattxiv/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/mattxiv/status/1955409427483464030",
+              "start": 36,
+              "url": "https://t.co/M2Llro6KEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955956364817391947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10931,
+          "like_count": 149,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955409427483464030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明尼苏达一名18岁顺性别女性进厕所时被要求露出胸部，证明自己不是跨性别 https://t.co/M2Llro6KEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 684,
+          "like_count": 3942,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / mtf / intp / ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🚪¥128 / 256",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947181057348165686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16193,
+          "following_count": 2285,
+          "like_count": 33131,
+          "listed_count": 51,
+          "media_count": 565,
+          "tweet_count": 15887
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

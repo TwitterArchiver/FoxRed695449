@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1862014581339795614",
+    "created_at": "2024-11-28T09:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T10:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862065445530189912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862065445530189912",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862063232690888926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 ❌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1862014581339795614",
+        "created_at": "2024-11-28T09:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862065445530189912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862065445530189912",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862063232690888926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 ❌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "1862014581339795614",
+        "created_at": "2024-11-28T09:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862063232690888926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862063232690888926",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862014581339795614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 江西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 278,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "一般会很温柔的\n一般会回fo\n所有粉蛆滚",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839166831740719104/-OyctQtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 259,
+          "like_count": 15443,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 2495
+        },
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

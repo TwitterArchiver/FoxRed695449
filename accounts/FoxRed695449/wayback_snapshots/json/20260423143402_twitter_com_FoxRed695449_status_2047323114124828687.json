@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2047318614534189086",
+    "created_at": "2026-04-23T14:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047323114124828687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1543580881540943872",
+          "start": 0,
+          "username": "zaochih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047323114124828687",
+    "in_reply_to_user_id": "1543580881540943872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047318614534189086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaochih 微软还真有简体中文（香港特别行政区）和简体中文（澳门特别行政区）的语言吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2093,
+        "media_key": "3_2047318607068377088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmJbQxbsAAVHd8.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2047318614534189086",
+        "created_at": "2026-04-23T14:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047323114124828687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1543580881540943872",
+              "start": 0,
+              "username": "zaochih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047323114124828687",
+        "in_reply_to_user_id": "1543580881540943872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047318614534189086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaochih 微软还真有简体中文（香港特别行政区）和简体中文（澳门特别行政区）的语言吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047318607068377088"
+          ]
+        },
+        "author_id": "1543580881540943872",
+        "conversation_id": "2047318614534189086",
+        "created_at": "2026-04-23T14:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047318614534189086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1Au3FITQy",
+              "end": 36,
+              "expanded_url": "https://x.com/zaochih/status/2047318614534189086/photo/1",
+              "media_key": "3_2047318607068377088",
+              "start": 13,
+              "url": "https://t.co/l1Au3FITQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047318614534189086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫香港简体和澳门简体 https://t.co/l1Au3FITQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 813,
+          "like_count": 7735,
+          "listed_count": 7,
+          "media_count": 989,
+          "tweet_count": 3160
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T13:02:26.000Z",
+        "description": "不知名乡村师范大专改制双非二本新工科 | 当朋友圈发 | 或许是 18 y.o. | 豫裔渝籍 QTH OL86se | 关注重庆轨道交通谢谢喵 | 很明显是逆天男同啊 | 简/部分繁中 🉑 EN-US OK 其他语言本当下手 | 祝你梦里有嘉陵江的风。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.zaochih.com",
+                "end": 23,
+                "expanded_url": "https://about.zaochih.com",
+                "start": 0,
+                "url": "https://t.co/rGxmbyYZU9"
+              }
+            ]
+          }
+        },
+        "id": "1543580881540943872",
+        "location": "B4/BG8",
+        "name": "草纸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039563814270611458/sQOgvz3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 335,
+          "like_count": 160156,
+          "listed_count": 1,
+          "media_count": 1915,
+          "tweet_count": 10224
+        },
+        "url": "https://t.co/rGxmbyYZU9",
+        "username": "zaochih",
+        "verified": false
+      }
+    ]
+  }
+}

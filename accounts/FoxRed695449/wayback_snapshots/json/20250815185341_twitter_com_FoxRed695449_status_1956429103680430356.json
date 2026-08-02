@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956429096919138304"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1956429103680430356",
+    "created_at": "2025-08-15T18:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T19:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956429103680430356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eq5cQJQrSU",
+          "end": 85,
+          "expanded_url": "https://x.com/FoxRed695449/status/1956429103680430356/photo/1",
+          "media_key": "3_1956429096919138304",
+          "start": 62,
+          "url": "https://t.co/Eq5cQJQrSU"
+        },
+        {
+          "display_url": "x.com/laozhouhengmei…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/laozhouhengmei/status/1955615831196668240",
+          "start": 86,
+          "url": "https://t.co/PD9IpHcqlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956429103680430356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955615831196668240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知識：香港強基金所有資產類別於 2025 年上半年均錄得正回報，其中以香港及中國股票基金，以及歐洲股票基金表現最為突出。 https://t.co/Eq5cQJQrSU https://t.co/PD9IpHcqlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 626,
+        "media_key": "3_1956429096919138304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyah5eYagAAZgIp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955615645535772673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX1bIAEte-c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1955615645535711232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX1aMAArbDJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955615645544136704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX3awAALQar.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956429096919138304"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1956429103680430356",
+        "created_at": "2025-08-15T18:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956429103680430356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eq5cQJQrSU",
+              "end": 85,
+              "expanded_url": "https://x.com/FoxRed695449/status/1956429103680430356/photo/1",
+              "media_key": "3_1956429096919138304",
+              "start": 62,
+              "url": "https://t.co/Eq5cQJQrSU"
+            },
+            {
+              "display_url": "x.com/laozhouhengmei…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/laozhouhengmei/status/1955615831196668240",
+              "start": 86,
+              "url": "https://t.co/PD9IpHcqlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956429103680430356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955615831196668240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知識：香港強基金所有資產類別於 2025 年上半年均錄得正回報，其中以香港及中國股票基金，以及歐洲股票基金表現最為突出。 https://t.co/Eq5cQJQrSU https://t.co/PD9IpHcqlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955615645535772673",
+            "3_1955615645535711232",
+            "3_1955615645544136704"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955615831196668240",
+        "created_at": "2025-08-13T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955615831196668240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645535772673",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            },
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645535711232",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            },
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645544136704",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955615831196668240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了。\n\n在我说到习近平开倒车的时候，他们完全不理解。居然问：“他不是一直在反腐吗？”  如此这样粗浅并且是十几年前的信息。\n\n他们对于中国媒体过去10几年来的越来越封闭（媒体姓党），对于习近平搞个人崇拜等等完全不知情。\n\n能参加这个会议的，都是关心全球经济的高净值人群，但依然是这样。\n\n还是印证了我一直在说的：防火墙是双向的 — 不仅外面的消息进不去，里面的坏消息也出不来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 357,
+          "impression_count": 656897,
+          "like_count": 2039,
+          "quote_count": 15,
+          "reply_count": 403,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了。 https://t.co/jHBrH8ZDco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 685,
+          "like_count": 3950,
+          "listed_count": 7,
+          "media_count": 634,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管9个月破25万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91316,
+          "following_count": 110,
+          "like_count": 9391,
+          "listed_count": 365,
+          "media_count": 657,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

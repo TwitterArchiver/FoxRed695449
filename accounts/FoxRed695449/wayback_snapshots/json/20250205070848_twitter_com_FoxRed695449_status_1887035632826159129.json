@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886747447021449303",
+    "created_at": "2025-02-05T07:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T08:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887035632826159129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1495938375504834563",
+          "start": 0,
+          "username": "pipi16594406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tanyazmx_0702/…",
+          "end": 37,
+          "expanded_url": "https://x.com/tanyazmx_0702/status/1886774901392245201?t=zjBlbxF2K_RFxyGplT2Ttw&s=19",
+          "start": 14,
+          "url": "https://t.co/ZfXJrhE9Cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887035632826159129",
+    "in_reply_to_user_id": "1495938375504834563",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886774901392245201",
+        "type": "quoted"
+      },
+      {
+        "id": "1887035423983112214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipi16594406 https://t.co/ZfXJrhE9Cv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-05T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887035632826159129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1495938375504834563",
+              "start": 0,
+              "username": "pipi16594406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tanyazmx_0702/…",
+              "end": 37,
+              "expanded_url": "https://x.com/tanyazmx_0702/status/1886774901392245201?t=zjBlbxF2K_RFxyGplT2Ttw&s=19",
+              "start": 14,
+              "url": "https://t.co/ZfXJrhE9Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887035632826159129",
+        "in_reply_to_user_id": "1495938375504834563",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886774901392245201",
+            "type": "quoted"
+          },
+          {
+            "id": "1887035423983112214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipi16594406 https://t.co/ZfXJrhE9Cv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-04T13:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886774901392245201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "description": "archived 3 Feb 2025 08:27:35 UTC",
+              "display_url": "archive.is/Wt6KN",
+              "end": 48,
+              "expanded_url": "https://archive.is/Wt6KN",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/1886774904768630784/WY-CoYLT?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1886774904768630784/WY-CoYLT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "B站、推特與跨性別醫療：中國青少年藥娘的生存之旅 | 端傳媒 Initium Media",
+              "unwound_url": "https://archive.is/Wt6KN",
+              "url": "https://t.co/QusiSN42si"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886774901392245201",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886749812378492966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这样也可以阅读全文\n\nhttps://t.co/QusiSN42si"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495938375504834563",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-05T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887035423983112214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887035423983112214",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886764272845521053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 还是看不了诶😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3678,
+          "following_count": 458,
+          "like_count": 1365,
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 885
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-22T01:48:07.000Z",
+        "description": "",
+        "id": "1495938375504834563",
+        "name": "pipi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739249308732444672/10K0sQRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "username": "pipi16594406",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "Mengxin (Tanya)/MtF/RLE 19.12.28/she/her/@Sydney_Uni and @UNSW alumni/HRT 22.10.15 prescribed 24.04.18/SRS 29/1/2? PAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 62,
+                "start": 57,
+                "username": "UNSW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxin.fyi",
+                "end": 23,
+                "expanded_url": "http://mengxin.fyi",
+                "start": 0,
+                "url": "https://t.co/5WDAlDEfD7"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Sydney",
+        "name": "梦欣 (Tanya)🍥",
+        "pinned_tweet_id": "1881979901835968979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881910733593804800/f5pIXB21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 157,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/5WDAlDEfD7",
+        "username": "tanyazmx_0702",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911325222852034560"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1911293988298232177",
+    "created_at": "2025-04-13T07:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T08:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911325226295837074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1392367191371124740",
+          "start": 0,
+          "username": "AoshimaGene"
+        },
+        {
+          "end": 27,
+          "id": "1730923014471180288",
+          "start": 13,
+          "username": "tanyazmx_0702"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4O2SOgqMBO",
+          "end": 70,
+          "expanded_url": "https://x.com/FoxRed695449/status/1911325226295837074/photo/1",
+          "media_key": "3_1911325222852034560",
+          "start": 47,
+          "url": "https://t.co/4O2SOgqMBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911325226295837074",
+    "in_reply_to_user_id": "1392367191371124740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911304748013359454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoshimaGene @tanyazmx_0702 建议先看看Wikipedia\n🤣👆🤡 https://t.co/4O2SOgqMBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1911325222852034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZkKd5XAAAm_h_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911325222852034560"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1911293988298232177",
+        "created_at": "2025-04-13T07:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T08:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911325226295837074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1392367191371124740",
+              "start": 0,
+              "username": "AoshimaGene"
+            },
+            {
+              "end": 27,
+              "id": "1730923014471180288",
+              "start": 13,
+              "username": "tanyazmx_0702"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4O2SOgqMBO",
+              "end": 70,
+              "expanded_url": "https://x.com/FoxRed695449/status/1911325226295837074/photo/1",
+              "media_key": "3_1911325222852034560",
+              "start": 47,
+              "url": "https://t.co/4O2SOgqMBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911325226295837074",
+        "in_reply_to_user_id": "1392367191371124740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911304748013359454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoshimaGene @tanyazmx_0702 建议先看看Wikipedia\n🤣👆🤡 https://t.co/4O2SOgqMBO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392367191371124740",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1911293988298232177",
+        "created_at": "2025-04-13T06:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T07:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911304748013359454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "tanyazmx_0702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911304748013359454",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911293988298232177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanyazmx_0702 知普：“地铁”说法来自北京等平原城市的“中文说法” 一般是指整条铁路线设置于地下，西方国家各大城市像悉尼东京纽约等没有地铁的说法！城市内和和乡村一样都是铁路Railway 或 Rail，普通铁路可以客运也可以货运。而另一种，叫“轻型铁路” 或叫 Metro（Metropolitan）其轨道铺设只能客运，一般仅用市区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3669,
+          "following_count": 600,
+          "like_count": 2777,
+          "listed_count": 6,
+          "media_count": 473,
+          "tweet_count": 1433
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-12T06:33:13.000Z",
+        "description": "Semi Retired. \nNew South Wales First Responder /  \nRFS Advanced Firefighter. Village / Structure & MVO Firefighter.\nAustralian National Emergency Medalist.",
+        "id": "1392367191371124740",
+        "location": "Sydney Australia",
+        "name": "Bushland 🇦🇺🇯🇵🇹🇭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711366746610057216/nxNhd9r__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12158,
+          "following_count": 410,
+          "like_count": 10610,
+          "listed_count": 51,
+          "media_count": 1397,
+          "tweet_count": 22440
+        },
+        "username": "AoshimaGene",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "梦欣/Mengxin (Tanya)/MtF/RLE 19.12.28/she/her/@Sydney_Uni and @UNSW alumni/HRT 22.10.15 prescribed 24.04.18/SRS 29/1/2? PAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "username": "UNSW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxin.fyi",
+                "end": 23,
+                "expanded_url": "http://mengxin.fyi",
+                "start": 0,
+                "url": "https://t.co/5WDAlDEfD7"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Science Museum",
+        "name": "地铁六号线/Metro Line 6🍥",
+        "pinned_tweet_id": "1881979901835968979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881910733593804800/f5pIXB21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 179,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/5WDAlDEfD7",
+        "username": "tanyazmx_0702",
+        "verified": false
+      }
+    ]
+  }
+}

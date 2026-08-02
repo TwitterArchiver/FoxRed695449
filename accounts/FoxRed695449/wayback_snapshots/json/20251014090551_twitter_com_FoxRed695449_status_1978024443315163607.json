@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978024250394247168"
+      ],
+      "media_source_tweet_id": [
+        "1978024258744775047"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1978024443315163607",
+    "created_at": "2025-10-14T09:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T10:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978024443315163607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781308864438345728",
+          "start": 3,
+          "username": "FoxRed695449"
+        },
+        {
+          "end": 30,
+          "id": "1598640474113290240",
+          "start": 18,
+          "username": "LQniupitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Szd7dNYd8y",
+          "end": 74,
+          "expanded_url": "https://x.com/FoxRed695449/status/1978024258744775047/photo/1",
+          "media_key": "3_1978024250394247168",
+          "start": 51,
+          "url": "https://t.co/Szd7dNYd8y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978024443315163607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978024258744775047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxRed695449: @LQniupitang 香港的民主派議員怎麼都不見了？好難猜啊 https://t.co/Szd7dNYd8y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_1978024250394247168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Nak2HbgAAl0vv.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978024250394247168"
+          ],
+          "media_source_tweet_id": [
+            "1978024258744775047"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1978024443315163607",
+        "created_at": "2025-10-14T09:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978024443315163607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781308864438345728",
+              "start": 3,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 30,
+              "id": "1598640474113290240",
+              "start": 18,
+              "username": "LQniupitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Szd7dNYd8y",
+              "end": 74,
+              "expanded_url": "https://x.com/FoxRed695449/status/1978024258744775047/photo/1",
+              "media_key": "3_1978024250394247168",
+              "start": 51,
+              "url": "https://t.co/Szd7dNYd8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978024443315163607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978024258744775047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxRed695449: @LQniupitang 香港的民主派議員怎麼都不見了？好難猜啊 https://t.co/Szd7dNYd8y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978024250394247168"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1977783422266613774",
+        "created_at": "2025-10-14T09:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T10:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978024258744775047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598640474113290240",
+              "start": 0,
+              "username": "LQniupitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Szd7dNYd8y",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1978024258744775047/photo/1",
+              "media_key": "3_1978024250394247168",
+              "start": 33,
+              "url": "https://t.co/Szd7dNYd8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978024258744775047",
+        "in_reply_to_user_id": "1598640474113290240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977783422266613774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQniupitang 香港的民主派議員怎麼都不見了？好難猜啊 https://t.co/Szd7dNYd8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 700,
+          "like_count": 4478,
+          "listed_count": 8,
+          "media_count": 835,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T11:29:42.000Z",
+        "description": "你知道：零敲牛皮糖、537.7是什麼意思嗎？\nChinese Path to Modernization；\nSocialism with Chinese Characteristics；\n人民有信仰，民族有希望，國家有力量。\n原号：@liuguangchui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "liuguangchui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JUixJDUiXs"
+              }
+            ]
+          }
+        },
+        "id": "1598640474113290240",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖537.7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971938090651734019/yKSLL8-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51044,
+          "following_count": 2064,
+          "like_count": 91388,
+          "listed_count": 170,
+          "media_count": 10009,
+          "tweet_count": 37001
+        },
+        "url": "https://t.co/JUixJDUiXs",
+        "username": "LQniupitang",
+        "verified": false
+      }
+    ]
+  }
+}

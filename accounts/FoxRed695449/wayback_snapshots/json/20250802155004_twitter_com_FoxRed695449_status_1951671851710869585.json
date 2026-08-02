@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1951613024592404682",
+    "created_at": "2025-08-02T15:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T16:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951671851710869585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1585829298405244928",
+          "start": 0,
+          "username": "itaru33776"
+        },
+        {
+          "end": 24,
+          "id": "260663159",
+          "start": 12,
+          "username": "fakeChitose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951671851710869585",
+    "in_reply_to_user_id": "1585829298405244928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951635005584908330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itaru33776 @fakeChitose 香港政府也推環保🙁一次性用品要求酒店要付費提供😭\n還好毛巾什麼的至少還有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1951613024592404682",
+        "created_at": "2025-08-02T15:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951671851710869585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1585829298405244928",
+              "start": 0,
+              "username": "itaru33776"
+            },
+            {
+              "end": 24,
+              "id": "260663159",
+              "start": 12,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951671851710869585",
+        "in_reply_to_user_id": "1585829298405244928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951635005584908330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itaru33776 @fakeChitose 香港政府也推環保🙁一次性用品要求酒店要付費提供😭\n還好毛巾什麼的至少還有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585829298405244928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "1951613024592404682",
+        "created_at": "2025-08-02T13:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951635005584908330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "260663159",
+              "start": 0,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951635005584908330",
+        "in_reply_to_user_id": "260663159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951613024592404682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeChitose 我沒住過高價的我不清楚，但平價商旅、膠囊旅館日本絕對是遠大於台灣的，近年來台灣政府推環保政策，旅館不用提供一次性備品，牙刷、刮鬍刀就算了，連毛巾、拖鞋都省掉的也不少，房價還是一樣貴😓我甚至住過一晚快3000台幣的沒毛巾，真的白眼翻到後腦勺去了🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 679,
+          "like_count": 3863,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-28T03:02:42.000Z",
+        "description": "台湾出身。福井大に交換留学を経験し、自認北陸民になった。\n願己能溫柔對待他人，也願能被他人溫柔對待；社会常識という枠組みに囚われないため、自分なりの生きがいを探し、人生の果てまで。",
+        "id": "1585829298405244928",
+        "location": "Taoyuan County, Taiwan",
+        "name": "いたる🌠",
+        "pinned_tweet_id": "1813223051972210955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794618833581551616/ITtskzDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 605,
+          "like_count": 6071,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 5905
+        },
+        "username": "itaru33776",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-04T09:56:32.000Z",
+        "description": "成人井外勢力 混吃等死從業者 東京都在住 / memo AkechiSatori #StandWithUkraine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 41,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/fakeChito…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/fakeChitose",
+                "start": 0,
+                "url": "https://t.co/4hZcOWhL7X"
+              }
+            ]
+          }
+        },
+        "id": "260663159",
+        "location": "IP 屬地：上野動物園",
+        "name": "チトセ　ネコ 💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632373928697151488/2EvE2as9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 1324,
+          "like_count": 5073,
+          "listed_count": 15,
+          "media_count": 1657,
+          "tweet_count": 8858
+        },
+        "url": "https://t.co/4hZcOWhL7X",
+        "username": "fakeChitose",
+        "verified": true
+      }
+    ]
+  }
+}

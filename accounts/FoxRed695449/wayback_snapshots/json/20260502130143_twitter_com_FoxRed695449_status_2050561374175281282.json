@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2050175942123790339",
+    "created_at": "2026-05-02T13:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050561374175281282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473608457089851395",
+          "start": 0,
+          "username": "indigenouscurly"
+        },
+        {
+          "end": 28,
+          "id": "1489993799979859969",
+          "start": 17,
+          "username": "ShaoTongle"
+        },
+        {
+          "end": 43,
+          "id": "1337268801453182979",
+          "start": 29,
+          "username": "MrFan76631224"
+        },
+        {
+          "end": 55,
+          "id": "143810986",
+          "start": 44,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050561374175281282",
+    "in_reply_to_user_id": "1473608457089851395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "很难理解高度计可能发生故障，自动驾驶在获得错误的数据下能直接导致飞机坠毁吗？\n土耳其航空1951号班机空难，秘鲁航空603号班机空难全是因为高度计故障作为主要原因导致的坠毁\n另外空速计故障导致空难的也有诸如伯根航空301号班机空难\n现在至少能保证机械故障情况下飞机有可能如澳洲航空72号班机事故（因为机上的1号大气数据惯性基准系统机械故障，致使飞行电脑自动触发了防失速保护机制——强行压低机头，飞机在巡航状态下突然两次猛烈俯冲，导致客舱内未系安全带的乘客和乘务员被抛向天花板）能救回来，按你这做法飞机机械出问题送死就好\n航空史上机械故障率可是比机组自杀的概率高多了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050542523882594362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indigenouscurly @ShaoTongle @MrFan76631224 @dw_chinese 很难理解高度计可能发生故障，自动驾驶在获得错误的数据下能直接导致飞机坠毁吗？\n土耳其航空1951号班机空难，秘鲁航空603号班机空难全是因为高度计故障作为主要原因导致的坠毁\n另外空速计故障导致空难的也有诸如伯根航空301号班机空难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2050175942123790339",
+        "created_at": "2026-05-02T13:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050561374175281282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473608457089851395",
+              "start": 0,
+              "username": "indigenouscurly"
+            },
+            {
+              "end": 28,
+              "id": "1489993799979859969",
+              "start": 17,
+              "username": "ShaoTongle"
+            },
+            {
+              "end": 43,
+              "id": "1337268801453182979",
+              "start": 29,
+              "username": "MrFan76631224"
+            },
+            {
+              "end": 55,
+              "id": "143810986",
+              "start": 44,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050561374175281282",
+        "in_reply_to_user_id": "1473608457089851395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很难理解高度计可能发生故障，自动驾驶在获得错误的数据下能直接导致飞机坠毁吗？\n土耳其航空1951号班机空难，秘鲁航空603号班机空难全是因为高度计故障作为主要原因导致的坠毁\n另外空速计故障导致空难的也有诸如伯根航空301号班机空难\n现在至少能保证机械故障情况下飞机有可能如澳洲航空72号班机事故（因为机上的1号大气数据惯性基准系统机械故障，致使飞行电脑自动触发了防失速保护机制——强行压低机头，飞机在巡航状态下突然两次猛烈俯冲，导致客舱内未系安全带的乘客和乘务员被抛向天花板）能救回来，按你这做法飞机机械出问题送死就好\n航空史上机械故障率可是比机组自杀的概率高多了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050542523882594362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indigenouscurly @ShaoTongle @MrFan76631224 @dw_chinese 很难理解高度计可能发生故障，自动驾驶在获得错误的数据下能直接导致飞机坠毁吗？\n土耳其航空1951号班机空难，秘鲁航空603号班机空难全是因为高度计故障作为主要原因导致的坠毁\n另外空速计故障导致空难的也有诸如伯根航空301号班机空难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473608457089851395",
+        "conversation_id": "2050175942123790339",
+        "created_at": "2026-05-02T11:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050542523882594362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489993799979859969",
+              "start": 0,
+              "username": "ShaoTongle"
+            },
+            {
+              "end": 26,
+              "id": "1337268801453182979",
+              "start": 12,
+              "username": "MrFan76631224"
+            },
+            {
+              "end": 38,
+              "id": "143810986",
+              "start": 27,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050542523882594362",
+        "in_reply_to_user_id": "1489993799979859969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050447179840655746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaoTongle @MrFan76631224 @dw_chinese 你能理解现代客机都有自动驾驶仪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 824,
+          "like_count": 7871,
+          "listed_count": 7,
+          "media_count": 996,
+          "tweet_count": 3181
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-22T10:57:33.000Z",
+        "description": "",
+        "id": "1473608457089851395",
+        "name": "Bulbasaur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730637058178510850/xZ65De-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 235,
+          "like_count": 13935,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 6530
+        },
+        "username": "indigenouscurly",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T16:06:42.000Z",
+        "description": "",
+        "id": "1489993799979859969",
+        "name": "sss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489993899804217345/iDN0oa-K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 83,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "ShaoTongle",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T05:31:53.000Z",
+        "description": "在路上",
+        "id": "1337268801453182979",
+        "name": "lover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046162907764080640/KctAM7GL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 76,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 9092
+        },
+        "username": "MrFan76631224",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381468,
+          "following_count": 11,
+          "like_count": 388,
+          "listed_count": 5512,
+          "media_count": 15876,
+          "tweet_count": 84606
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

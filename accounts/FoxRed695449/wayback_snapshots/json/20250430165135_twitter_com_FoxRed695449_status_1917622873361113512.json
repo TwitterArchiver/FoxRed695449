@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1916071009553420336",
+    "created_at": "2025-04-30T16:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T17:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917622873361113512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643821456802086912",
+          "start": 0,
+          "username": "mouse0gl"
+        },
+        {
+          "end": 20,
+          "id": "1888452091250950144",
+          "start": 10,
+          "username": "MicChchch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917622873361113512",
+    "in_reply_to_user_id": "1643821456802086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916175917128552765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mouse0gl @MicChchch 我說的這是英國的法律誒，英語差到連uk都不認識了嗎\n小學文化都沒有🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1916071009553420336",
+        "created_at": "2025-04-30T16:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917622873361113512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643821456802086912",
+              "start": 0,
+              "username": "mouse0gl"
+            },
+            {
+              "end": 20,
+              "id": "1888452091250950144",
+              "start": 10,
+              "username": "MicChchch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917622873361113512",
+        "in_reply_to_user_id": "1643821456802086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916175917128552765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mouse0gl @MicChchch 我說的這是英國的法律誒，英語差到連uk都不認識了嗎\n小學文化都沒有🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643821456802086912",
+        "conversation_id": "1916071009553420336",
+        "created_at": "2025-04-26T17:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916175917128552765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 24,
+              "id": "1888452091250950144",
+              "start": 14,
+              "username": "MicChchch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916175917128552765",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916154977325834353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @MicChchch 为何白人可以随便用，地铁随便外放音乐，对中国人就苛刻如此，看中国人好欺负？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 641,
+          "like_count": 3006,
+          "listed_count": 6,
+          "media_count": 509,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T03:43:01.000Z",
+        "description": "",
+        "id": "1643821456802086912",
+        "name": "Dark Soul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909688016622555136/6GUimPpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 209,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "mouse0gl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T04:57:35.000Z",
+        "description": "",
+        "id": "1888452091250950144",
+        "name": "MicC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889277831529525248/QUVF_hXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 157,
+          "like_count": 3110,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 946
+        },
+        "username": "MicChchch",
+        "verified": false
+      }
+    ]
+  }
+}

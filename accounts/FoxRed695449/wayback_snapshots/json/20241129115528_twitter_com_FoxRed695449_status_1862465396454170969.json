@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1862465396454170969",
+    "created_at": "2024-11-29T11:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T12:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862465396454170969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736275998499651584",
+          "start": 3,
+          "username": "ZZuso1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862465396454170969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862445167346950549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZuso1: 果然大家还是想给我锁上啊啊啊\n中午看了一下结果，已经自觉的买好更牢的固定带和方便长期戴和清洁的锁了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა\n初步是，每+1个fo就+60分钟，转帖+30分钟，点赞+20分钟。预计在完成目标后应该是15-30天。孩子第一次长时间戴锁还请大家…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1862465396454170969].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1862465396454170969",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862465396454170969"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862445160124035072",
+            "3_1862445160505761793",
+            "3_1862445159452905473",
+            "3_1862445160078213120"
+          ]
+        },
+        "author_id": "1736275998499651584",
+        "conversation_id": "1862445167346950549",
+        "created_at": "2024-11-29T10:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862445167346950549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "男娘"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "锁娘"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBO2oFcyiE",
+              "end": 180,
+              "expanded_url": "https://x.com/ZZuso1/status/1862445167346950549/photo/1",
+              "media_key": "3_1862445160124035072",
+              "start": 157,
+              "url": "https://t.co/pBO2oFcyiE"
+            },
+            {
+              "display_url": "pic.x.com/pBO2oFcyiE",
+              "end": 180,
+              "expanded_url": "https://x.com/ZZuso1/status/1862445167346950549/photo/1",
+              "media_key": "3_1862445160505761793",
+              "start": 157,
+              "url": "https://t.co/pBO2oFcyiE"
+            },
+            {
+              "display_url": "pic.x.com/pBO2oFcyiE",
+              "end": 180,
+              "expanded_url": "https://x.com/ZZuso1/status/1862445167346950549/photo/1",
+              "media_key": "3_1862445159452905473",
+              "start": 157,
+              "url": "https://t.co/pBO2oFcyiE"
+            },
+            {
+              "display_url": "pic.x.com/pBO2oFcyiE",
+              "end": 180,
+              "expanded_url": "https://x.com/ZZuso1/status/1862445167346950549/photo/1",
+              "media_key": "3_1862445160078213120",
+              "start": 157,
+              "url": "https://t.co/pBO2oFcyiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862445167346950549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "果然大家还是想给我锁上啊啊啊\n中午看了一下结果，已经自觉的买好更牢的固定带和方便长期戴和清洁的锁了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა\n初步是，每+1个fo就+60分钟，转帖+30分钟，点赞+20分钟。预计在完成目标后应该是15-30天。孩子第一次长时间戴锁还请大家手下留情哦，统计时间暂设定为2天。\n#男娘 #锁娘 #伪娘 https://t.co/pBO2oFcyiE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 286,
+          "like_count": 397,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T06:44:24.000Z",
+        "description": "02，170/109，体重目标105，瘦腿中\n| ू•ૅω•́)ᵎᵎᵎ（有其他小可爱可以互相关注吗\n૮ ・ﻌ・ა）",
+        "id": "1736275998499651584",
+        "name": "zo1",
+        "pinned_tweet_id": "1862445167346950549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857024554536730624/SNM3IzNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 685,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 113
+        },
+        "username": "ZZuso1",
+        "verified": false
+      }
+    ]
+  }
+}

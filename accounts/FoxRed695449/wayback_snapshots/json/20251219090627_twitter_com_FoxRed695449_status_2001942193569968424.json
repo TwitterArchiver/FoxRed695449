@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2001942193569968424",
+    "created_at": "2025-12-19T09:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001942193569968424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2001910368751489440",
+          "start": 31,
+          "url": "https://t.co/j1Ay41QFwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001942193569968424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001910368751489440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好消息：学校引进英联邦“先进”考场要求\n坏消息：只引进了一半 https://t.co/j1Ay41QFwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1024,
+        "media_key": "13_2001646969920565248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001646969920565248/img/nUz8K5BkOC7HuvE_.jpg",
+        "public_metrics": {
+          "view_count": 17020
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001646969920565248/vid/avc1/320x426/u-oYfs8qinSFcRbJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001646969920565248/vid/avc1/480x640/l1QoZvteQa9Zbw6v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001646969920565248/pl/h07WSnkmHcC1LGjY.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001646969920565248/vid/avc1/768x1024/uwiWRDNGnPia12zu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001646969920565248/vid/avc1/720x960/-GxxGhumeI0i9CAy.mp4"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2001942193569968424",
+        "created_at": "2025-12-19T09:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001942193569968424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2001910368751489440",
+              "start": 31,
+              "url": "https://t.co/j1Ay41QFwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001942193569968424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001910368751489440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息：学校引进英联邦“先进”考场要求\n坏消息：只引进了一半 https://t.co/j1Ay41QFwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001646969920565248"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2001910368751489440",
+        "created_at": "2025-12-19T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001910368751489440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYSkBqOIAG",
+              "end": 125,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2001910368751489440/video/1",
+              "media_key": "13_2001646969920565248",
+              "start": 102,
+              "url": "https://t.co/oYSkBqOIAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001910368751489440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32208,
+          "like_count": 168,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "12月18日，河南省周口市翰林高中，有老师在组织语文周测时，要求学生在寒风中趴在操场的凳子上答题。相关画面被班主任拍摄并上传至抖音。值得注意的是，此前，教育部刚刚发文，明确要求普通高中严格限制考试次数。 https://t.co/oYSkBqOIAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 716,
+          "like_count": 5394,
+          "listed_count": 7,
+          "media_count": 911,
+          "tweet_count": 2809
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2001620917701501364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162707,
+          "following_count": 987,
+          "like_count": 8491,
+          "listed_count": 8424,
+          "media_count": 38702,
+          "tweet_count": 45611
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051173960629510144"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2051139998146285707",
+    "created_at": "2026-05-04T05:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051174120961024143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "951027219073138688",
+          "start": 0,
+          "username": "Rn3Fl"
+        },
+        {
+          "end": 22,
+          "id": "1721381996960845824",
+          "start": 7,
+          "username": "laozhouhengmei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFeK6UyeMv",
+          "end": 67,
+          "expanded_url": "https://x.com/FoxRed695449/status/2051174120961024143/video/1",
+          "media_key": "13_2051173960629510144",
+          "start": 44,
+          "url": "https://t.co/hFeK6UyeMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051174120961024143",
+    "in_reply_to_user_id": "951027219073138688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051164448187097430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rn3Fl @laozhouhengmei 被罰款了就算是請人清潔，有點強詞奪理啊🤣 https://t.co/hFeK6UyeMv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33581,
+        "height": 646,
+        "media_key": "13_2051173960629510144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051173960629510144/img/UqL3EJe1LP1F0L9_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051173960629510144/vid/avc1/488x270/e2uEIbNf4zDKA8eM.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051173960629510144/vid/avc1/652x360/MSA_0O0lDOvLTVAR.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051173960629510144/vid/avc1/1170x646/mxx_UElrugzliHPK.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051173960629510144/pl/JvHjq6rBlnujUliX.m3u8?tag=27"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051173960629510144"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2051139998146285707",
+        "created_at": "2026-05-04T05:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051174120961024143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "951027219073138688",
+              "start": 0,
+              "username": "Rn3Fl"
+            },
+            {
+              "end": 22,
+              "id": "1721381996960845824",
+              "start": 7,
+              "username": "laozhouhengmei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFeK6UyeMv",
+              "end": 67,
+              "expanded_url": "https://x.com/FoxRed695449/status/2051174120961024143/video/1",
+              "media_key": "13_2051173960629510144",
+              "start": 44,
+              "url": "https://t.co/hFeK6UyeMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051174120961024143",
+        "in_reply_to_user_id": "951027219073138688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051164448187097430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rn3Fl @laozhouhengmei 被罰款了就算是請人清潔，有點強詞奪理啊🤣 https://t.co/hFeK6UyeMv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "951027219073138688",
+        "conversation_id": "2051139998146285707",
+        "created_at": "2026-05-04T04:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051164448187097430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721381996960845824",
+              "start": 0,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051164448187097430",
+        "in_reply_to_user_id": "1721381996960845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139998146285707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhouhengmei 游客都说了，垃圾不用带走，花钱请人打扫，吸烟海警的人说可以吸烟，你们还不依不饶的为什么呀？你们又不是执法机关。简直就是赤裸裸的歧视和偏见！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 826,
+          "like_count": 7889,
+          "listed_count": 7,
+          "media_count": 997,
+          "tweet_count": 3183
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-10T09:45:33.000Z",
+        "description": "",
+        "id": "951027219073138688",
+        "name": "🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376461855158247425/FZCWBD6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 203,
+          "like_count": 3133,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 3919
+        },
+        "username": "Rn3Fl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "CEO转自媒体人 | YouTube 10个月破30万订阅 | 原本是墙内百万粉丝主播，现已被中共全网封杀。斯坦福大学计算机系，前金融企业CEO。美国8年，上海15年，现居新加坡。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133051,
+          "following_count": 134,
+          "like_count": 13731,
+          "listed_count": 539,
+          "media_count": 1427,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

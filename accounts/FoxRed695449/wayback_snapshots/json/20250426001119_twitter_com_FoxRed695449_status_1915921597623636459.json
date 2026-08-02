@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1915921597623636459",
+    "created_at": "2025-04-26T00:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T01:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915921597623636459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xixi_epicene/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/xixi_epicene/status/1915841993751859261",
+          "start": 48,
+          "url": "https://t.co/x9OwgF6MGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915921597623636459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915841993751859261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起这个让我想起之前在hku穿着裙子+长发都被非常有礼貌地叫Mr.的事情\n也算苦笑不得的包容了 https://t.co/x9OwgF6MGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915841988949102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZwI20W0AAKkvE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915841987799855104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZwIyiWsAAvPZ4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2047,
+        "media_key": "3_1915841988768731136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZwI2JWkAABgA8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1915921597623636459",
+        "created_at": "2025-04-26T00:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915921597623636459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xixi_epicene/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/xixi_epicene/status/1915841993751859261",
+              "start": 48,
+              "url": "https://t.co/x9OwgF6MGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915921597623636459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915841993751859261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起这个让我想起之前在hku穿着裙子+长发都被非常有礼貌地叫Mr.的事情\n也算苦笑不得的包容了 https://t.co/x9OwgF6MGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915841988949102592",
+            "3_1915841987799855104",
+            "3_1915841988768731136"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "conversation_id": "1915841993751859261",
+        "created_at": "2025-04-25T18:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:33:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915836564262863082",
+          "1915841993751859261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YPxWwf9GB",
+              "end": 160,
+              "expanded_url": "https://x.com/xixi_epicene/status/1915841993751859261/photo/1",
+              "media_key": "3_1915841988949102592",
+              "start": 137,
+              "url": "https://t.co/4YPxWwf9GB"
+            },
+            {
+              "display_url": "pic.x.com/4YPxWwf9GB",
+              "end": 160,
+              "expanded_url": "https://x.com/xixi_epicene/status/1915841993751859261/photo/1",
+              "media_key": "3_1915841987799855104",
+              "start": 137,
+              "url": "https://t.co/4YPxWwf9GB"
+            },
+            {
+              "display_url": "pic.x.com/4YPxWwf9GB",
+              "end": 160,
+              "expanded_url": "https://x.com/xixi_epicene/status/1915841993751859261/photo/1",
+              "media_key": "3_1915841988768731136",
+              "start": 137,
+              "url": "https://t.co/4YPxWwf9GB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915841993751859261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "聊聊我作为一个生理男性，这几年穿女装+留长发在国内和英国的不同体验。 \n\n篇幅有限，准备分两部分写完\n\n简单来说，不同的国家，和不同的人打交道会有不同的体验。\n\n首先因为我留长发，这点在国内自然而然会导致别人误认我的性别。但是相对的，在英国男性留长发并不是什么罕见的事情。\n\n换言之在国内经常因为发型被别人先入为主地当成女生，特别是是开口说话澄清误会之后往往都会被小小的感叹一下——往往得到别人吐槽\"我还以为你是个女生\"。哪怕当时穿的是男装。\n\n在我看来，这种评价是善意/中性的，至少是不带恶意的。我从不感觉到这有什么冒犯。\n\n但是相对应的，在英国，从未经历过类似的吐槽/感叹，不是说这样不好，而是在我看来无非是几方面的原因\n1.在英国男性留长发很普遍，没人会把发量和性别挂钩\n2.英国人和日本人在某些方面很像，排除掉一些素质低下的人（这个一些其实数量不少hhhh），表面的礼貌功夫还是做的很足的，因此不会像国内这么轻松自然地自来熟和你大大方方地吐槽（这是个要点，后面咱们详细说!）\n3.亚洲脸对他们来说没有太高的辨识度，自然也不会在他们眼里有很强的性别识别效果。\n\n因此，长头发在英国倒是不太容易被人吐槽或者在谈话中和性别等问题挂钩。\n\n好的，接下来要说说穿女装的事情了。\n\n基本上我无论是在国内还是英国，穿女装外出百分之95%以上的场景都是去漫展，玩COS，拍外景，出游等几个目的。并且在完成主线任务后也会穿着女装去做些诸如吃饭/买东西/逛街等支线任务。\n\n但是总体的感觉上来说，在两个国家穿女装的体验差别还是蛮大的。\n\n首先先说说在国内，得益于国内二次元浓度远高于欧洲，加上长期的男娘/女装/伪娘/变装等文化的熏陶，因此基本上在漫展场馆内 穿着女装是相当自然的，没人会感到惊讶——特别是少女前线这种相当多女装coser的IP哈哈哈哈哈。虽然偶尔也会因为集邮需要开口交流，然后把来集邮的老师吓一跳惊叹：\"啊！老师你是男生!?\"但很快就会自然而然地演化成\"兄弟，兄弟……\"\"兄弟你好香\"之类礼貌又不失尴尬的对话哈哈哈哈哈。\n\n至于在漫展之外，还是会有点麻烦的，之前说过有次在漫展结束之后在回酒店的地铁上被一群小朋友搭话说\"姐姐你好漂亮\"，结果得意忘形用男声回了一句\"谢谢，你们也很漂亮\"，结果把小朋友们吓得不轻。\n\n然后就是穿着c服去见高中的兄弟们，结果把兄弟们一个个折磨得如坐针毡hhhh\n\n嘛，当然也有穿着女装逛街/买东西的时候，结果就是每次都会被店员各种惊讶然后笑着吐槽\"我还以为你是个女生啊hhh\"，但总体来说，并不会出现明显的服务上的抗拒和表现出不满的态度。\n\nOK，总得来说就是，国内二次元对于女装的接受度和友善程度非常高，非二次元对于男生穿女装这件事更多的是觉得新奇，惊讶。然后熟人会因为我早年造的孽和他们对我的固有印象导致对我的女装形态尴尬到脚趾扣地哈哈哈哈哈…\n\n然后再说说穿女装在英国的体验——emmm，这点可能比较反常识，但是可以先上结论——体验比国内差……\n\n还是先从漫展说起，总的来说，在漫展穿女装和正常人打交道得到的体验和在国内是非常接近的——友好的氛围和友善的环境——有时候我会察觉到一些上来与我合影的coser和逛展的人存在一些人际沟通方面的障碍，但是漫展的友好氛围给予了良好的支持，这让他们也能很自然地与他人沟通，我也很高兴能和他们交流并予以他们支持（这也是我认为漫展的积极意义之一）\n\n但不同的是，我几乎没有在英国漫展遇上过和当地人开口交流后，他们突然惊叹：bro! You are a Man!? What can I say…(不好意思串台了…)。仅有的几次被人惊叹\"哇，你居然是男生\"都是来自于国人coser。显而易见的，参展的当地人显然都非常非常的礼貌。甚至同为男性，很多时候他们和我合影前都会礼貌询问能否离我站的近些或把手搭在我的肩膀上（我都会同意）。但是，经过了一段时间之后，我也意识到这样的礼貌其实是一把双刃剑…\n\n说它是双刃剑的原因很简单——在和当地的coser，摄影打交道多了之后，我发现了一个很严重的问题，在英国，他们似乎把男生喜欢穿女装出女装cos这件事，和coser的性别认知进行了关联\n\n当然，这只是文化差异，很多和我在tiktok，ins互关的coser们都会在ID和个人页面表明自己的性少数身份和pronounce。加上玩cosplay的群体中不乏性少数人群，因此在他们眼中，对于coser的性别认知和性取向自然需要被重视。\n\n但这样也带来了新的问题——我不止一次在拍团片之前被各位摄影询问pronounce，一些合作的coser也会私底下和我老婆打听我的pronounce并且都给出了相似的理由——怕冒犯到我。尽管我多次表明过我不在意这个，he/him都可以，但是很显然，女装+cosplay让他们和性别性取向等因素挂了勾，并且有些过于在意这个问题，以至于在和我打交道时过于小心翼翼（客气），反而没有国内那种舒服自然的感觉…我想这也是为什么其他和我合影的coser在听到我说话之后依然处变不惊的原因之一——见得多了，同时深谙这套规则，彼此保持礼貌，避免冒犯到对方。保持了客气，但是同时也导致了些许疏远"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3625,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "聊聊我作为一个生理男性，这几年穿女装+留长发在国内和英国的不同体验。 \n\n篇幅有限，准备分两部分写完\n\n简单来说，不同的国家，和不同的人打交道会有不同的体验。\n\n首先因为我留长发，这点在国内自然而然会导致别人误认我的性别。但是相对的，在英国男性留长发并不是什么罕见的事情。 https://t.co/4YPxWwf9GB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 627,
+          "like_count": 2941,
+          "listed_count": 6,
+          "media_count": 497,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915888792809934848/uCTK_8De_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32445,
+          "following_count": 2020,
+          "like_count": 17271,
+          "listed_count": 93,
+          "media_count": 1095,
+          "tweet_count": 6052
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

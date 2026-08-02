@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975256878402994176"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1975209280711303341",
+    "created_at": "2025-10-06T17:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T18:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975256884501487930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 27,
+          "id": "1657175394267848704",
+          "start": 15,
+          "username": "Zh40Le1ZOOB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5YFihWEnX",
+          "end": 119,
+          "expanded_url": "https://x.com/FoxRed695449/status/1975256884501487930/photo/1",
+          "media_key": "3_1975256878402994176",
+          "start": 96,
+          "url": "https://t.co/g5YFihWEnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975256884501487930",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975209280711303341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @Zh40Le1ZOOB 单单回复关于香港的“中国香港”的来源\n香港是个“次主权地区”\n按照《中英联合声明》，香港政府可以以“中国香港”的称呼单独与他国签订协定 https://t.co/g5YFihWEnX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_1975256878402994176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mFqmFbgAAu15p.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975256878402994176"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1975209280711303341",
+        "created_at": "2025-10-06T17:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975256884501487930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 27,
+              "id": "1657175394267848704",
+              "start": 15,
+              "username": "Zh40Le1ZOOB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5YFihWEnX",
+              "end": 119,
+              "expanded_url": "https://x.com/FoxRed695449/status/1975256884501487930/photo/1",
+              "media_key": "3_1975256878402994176",
+              "start": 96,
+              "url": "https://t.co/g5YFihWEnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975256884501487930",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975209280711303341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @Zh40Le1ZOOB 单单回复关于香港的“中国香港”的来源\n香港是个“次主权地区”\n按照《中英联合声明》，香港政府可以以“中国香港”的称呼单独与他国签订协定 https://t.co/g5YFihWEnX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1975209280711303341",
+        "created_at": "2025-10-06T14:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975209280711303341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heiwawomamore/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/heiwawomamore/status/1975208560922632670",
+              "start": 65,
+              "url": "https://t.co/Ubp7cxeNVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975209280711303341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 214,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975208560922632670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这个例子用港澳台更合适，没几个地方说中国北京中国上海中国深圳中国中国西藏中国新疆，但是香港台湾澳门前面一定要加上中国两字，唉 https://t.co/Ubp7cxeNVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244068567326726/dzd5oFFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 698,
+          "like_count": 4420,
+          "listed_count": 8,
+          "media_count": 829,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈 \n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n  \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћın",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971299743856009216/oIQdxFMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 2466,
+          "like_count": 143379,
+          "listed_count": 15,
+          "media_count": 2147,
+          "tweet_count": 78388
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "广州（含佛山）跨性别避难所运营者｜Nix 黑魔法｜Uplifting Trance｜TG：https://t.co/Bcj9BmrTTv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 68,
+                "expanded_url": "http://Zh40Le1ZOOB.t.me",
+                "start": 45,
+                "url": "https://t.co/Bcj9BmrTTv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Zh40Le1ZOOB",
+                "end": 23,
+                "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                "start": 0,
+                "url": "https://t.co/yxR4GeWz6U"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 546,
+          "like_count": 6050,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4673
+        },
+        "url": "https://t.co/yxR4GeWz6U",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

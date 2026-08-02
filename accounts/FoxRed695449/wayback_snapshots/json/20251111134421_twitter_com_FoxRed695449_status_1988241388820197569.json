@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1988222203700408544",
+    "created_at": "2025-11-11T13:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988241388820197569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1391760003216789506",
+          "start": 0,
+          "username": "Elisebas3"
+        },
+        {
+          "end": 25,
+          "id": "1600208165269741570",
+          "start": 11,
+          "username": "MeowCatherina"
+        }
+      ],
+      "urls": [
+        {
+          "description": "生成式AI不帶批評、高度共情的特性，近年成為心理諮詢的首選對象。但在美國出現不少自殺案例，被視為與聊天機器人有關。",
+          "display_url": "bbc.com/zhongwen/artic…",
+          "end": 63,
+          "expanded_url": "https://www.bbc.com/zhongwen/articles/cd045m1lpm0o/trad.amp",
+          "images": [
+            {
+              "height": 576,
+              "url": "https://pbs.twimg.com/news_img/1988241389491195905/Lz-_f6D7?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1988241389491195905/Lz-_f6D7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "AI聊天：ChatGPT出現大量自殺話題，機器人真的會誘導人自殺嗎？ - BBC News 中文",
+          "unwound_url": "https://www.bbc.com/zhongwen/articles/cd045m1lpm0o/trad.amp",
+          "url": "https://t.co/kLwhoXoKfh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988241388820197569",
+    "in_reply_to_user_id": "1391760003216789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988235042641084733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@Elisebas3 @MeowCatherina 关于ai进行心理咨询的问题：https://t.co/kLwhoXoKfh\n另外，她那中外合办的大学不至于那么阴谋论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1988222203700408544",
+        "created_at": "2025-11-11T13:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988241388820197569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1391760003216789506",
+              "start": 0,
+              "username": "Elisebas3"
+            },
+            {
+              "end": 25,
+              "id": "1600208165269741570",
+              "start": 11,
+              "username": "MeowCatherina"
+            }
+          ],
+          "urls": [
+            {
+              "description": "生成式AI不帶批評、高度共情的特性，近年成為心理諮詢的首選對象。但在美國出現不少自殺案例，被視為與聊天機器人有關。",
+              "display_url": "bbc.com/zhongwen/artic…",
+              "end": 63,
+              "expanded_url": "https://www.bbc.com/zhongwen/articles/cd045m1lpm0o/trad.amp",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/1988241389491195905/Lz-_f6D7?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988241389491195905/Lz-_f6D7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "AI聊天：ChatGPT出現大量自殺話題，機器人真的會誘導人自殺嗎？ - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/cd045m1lpm0o/trad.amp",
+              "url": "https://t.co/kLwhoXoKfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988241388820197569",
+        "in_reply_to_user_id": "1391760003216789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988235042641084733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@Elisebas3 @MeowCatherina 关于ai进行心理咨询的问题：https://t.co/kLwhoXoKfh\n另外，她那中外合办的大学不至于那么阴谋论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391760003216789506",
+        "conversation_id": "1988222203700408544",
+        "created_at": "2025-11-11T13:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988235042641084733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988235042641084733",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988232846251884658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@MeowCatherina 其实GPT的心理咨询，比大陆地区的心理医师的治疗方法版本更先进。一般情况下，心理医师的诊疗方案是落后了30年的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 678,
+          "like_count": 4793,
+          "listed_count": 7,
+          "media_count": 877,
+          "tweet_count": 2634
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-10T14:20:27.000Z",
+        "description": "loving magic and loving academic/爱汪人士/MTX",
+        "id": "1391760003216789506",
+        "name": "Eric",
+        "pinned_tweet_id": "1986477432879394965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878707112987279360/iKJE8YSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 137,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 283
+        },
+        "username": "Elisebas3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜做教育学科研的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDlph"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6476,
+          "following_count": 1085,
+          "like_count": 72537,
+          "listed_count": 21,
+          "media_count": 1924,
+          "tweet_count": 22632
+        },
+        "url": "https://t.co/8NIDYwDlph",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

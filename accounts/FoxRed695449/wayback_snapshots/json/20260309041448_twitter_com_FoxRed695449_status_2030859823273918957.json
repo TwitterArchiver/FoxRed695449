@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030859815799709697"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2030805912265666726",
+    "created_at": "2026-03-09T04:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T05:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030859823273918957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1519382545200291840",
+          "start": 0,
+          "username": "hzattach"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qhjwsVhzt",
+          "end": 148,
+          "expanded_url": "https://x.com/FoxRed695449/status/2030859823273918957/photo/1",
+          "media_key": "3_2030859815799709697",
+          "start": 125,
+          "url": "https://t.co/6qhjwsVhzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030859823273918957",
+    "in_reply_to_user_id": "1519382545200291840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030849284766413140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzattach 感觉得看国产ROM对gms的阉割程度（\n不过小米的国际版系统感觉阉割的挺少的甚至会弹这种弹窗（如图）\n另外有个很烦的点就是每次连国内WiFi就会弹受限制的网络要手动确认连接，估计国际版测试WiFi连通性是直接用Google的那套 https://t.co/6qhjwsVhzt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030859815799709697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8QPhVbYAEqwDM.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030859815799709697"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2030805912265666726",
+        "created_at": "2026-03-09T04:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030859823273918957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1519382545200291840",
+              "start": 0,
+              "username": "hzattach"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qhjwsVhzt",
+              "end": 148,
+              "expanded_url": "https://x.com/FoxRed695449/status/2030859823273918957/photo/1",
+              "media_key": "3_2030859815799709697",
+              "start": 125,
+              "url": "https://t.co/6qhjwsVhzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030859823273918957",
+        "in_reply_to_user_id": "1519382545200291840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030849284766413140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzattach 感觉得看国产ROM对gms的阉割程度（\n不过小米的国际版系统感觉阉割的挺少的甚至会弹这种弹窗（如图）\n另外有个很烦的点就是每次连国内WiFi就会弹受限制的网络要手动确认连接，估计国际版测试WiFi连通性是直接用Google的那套 https://t.co/6qhjwsVhzt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519382545200291840",
+        "conversation_id": "2030805912265666726",
+        "created_at": "2026-03-09T03:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030849284766413140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030849284766413140",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030805912265666726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我国内3.0.45可以，好像看到其他人说小米发不了来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 796,
+          "like_count": 6704,
+          "listed_count": 7,
+          "media_count": 943,
+          "tweet_count": 2995
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-27T18:26:53.000Z",
+        "description": "希望变得有意义\n/04年生算老登吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/attachment1145…",
+                "end": 23,
+                "expanded_url": "http://t.me/attachment114514",
+                "start": 0,
+                "url": "https://t.co/zkOERGI5Qx"
+              }
+            ]
+          }
+        },
+        "id": "1519382545200291840",
+        "location": "武汉",
+        "name": "Attachment",
+        "pinned_tweet_id": "2025384304491332076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728663819445284864/XvW_taEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 904,
+          "like_count": 19446,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/zkOERGI5Qx",
+        "username": "hzattach",
+        "verified": false
+      }
+    ]
+  }
+}

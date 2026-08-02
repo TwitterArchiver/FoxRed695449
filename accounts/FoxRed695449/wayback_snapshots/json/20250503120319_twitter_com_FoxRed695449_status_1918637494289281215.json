@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918637487683211264"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918637494289281215",
+    "created_at": "2025-05-03T12:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T13:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918637494289281215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACpgrTIt9f",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/1918637494289281215/photo/1",
+          "media_key": "3_1918637487683211264",
+          "start": 12,
+          "url": "https://t.co/ACpgrTIt9f"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1918636404206424263",
+          "start": 36,
+          "url": "https://t.co/2lM7huHpjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918637494289281215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918636404206424263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "順便一提這匯率真的很棒 https://t.co/ACpgrTIt9f https://t.co/2lM7huHpjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1918637487683211264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBeoTIbEAAoXP6.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1918636396161728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBdow5bAAAyzWl.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918637487683211264"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918637494289281215",
+        "created_at": "2025-05-03T12:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918637494289281215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACpgrTIt9f",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1918637494289281215/photo/1",
+              "media_key": "3_1918637487683211264",
+              "start": 12,
+              "url": "https://t.co/ACpgrTIt9f"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1918636404206424263",
+              "start": 36,
+              "url": "https://t.co/2lM7huHpjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918637494289281215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918636404206424263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "順便一提這匯率真的很棒 https://t.co/ACpgrTIt9f https://t.co/2lM7huHpjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918636396161728512"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918636404206424263",
+        "created_at": "2025-05-03T11:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T12:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918636404206424263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuoyshDEA5",
+              "end": 94,
+              "expanded_url": "https://x.com/FoxRed695449/status/1918636404206424263/photo/1",
+              "media_key": "3_1918636396161728512",
+              "start": 71,
+              "url": "https://t.co/uuoyshDEA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918636404206424263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家長送了台華為\n也不算毫無用處，至少可以添加內地銀行卡和交通卡\n以及最重要的是能用內地銀行卡給虛擬八達通增值了（應該就Apple和華為可以） https://t.co/uuoyshDEA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3718,
+          "following_count": 645,
+          "like_count": 3019,
+          "listed_count": 6,
+          "media_count": 521,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

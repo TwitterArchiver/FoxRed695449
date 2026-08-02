@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904853956117094401"
+      ],
+      "media_source_tweet_id": [
+        "1904853961963954651"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1904895623457104305",
+    "created_at": "2025-03-26T13:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T14:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904895623457104305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1164004665027022849",
+          "start": 3,
+          "username": "hkguy1988"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2BZMgjFBA",
+          "end": 79,
+          "expanded_url": "https://x.com/hkguy1988/status/1904853961963954651/photo/1",
+          "media_key": "3_1904853956117094401",
+          "start": 56,
+          "url": "https://t.co/F2BZMgjFBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904895623457104305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904853961963954651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hkguy1988: 孩子們絕對不是自殺，而兇手卻一直逍遙法外。有問題嘅從來唔係班學生，而係依個社會。 https://t.co/F2BZMgjFBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_1904853956117094401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9mlKtbYAEQIRC.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904853956117094401"
+          ],
+          "media_source_tweet_id": [
+            "1904853961963954651"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1904895623457104305",
+        "created_at": "2025-03-26T13:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T14:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904895623457104305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1164004665027022849",
+              "start": 3,
+              "username": "hkguy1988"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2BZMgjFBA",
+              "end": 79,
+              "expanded_url": "https://x.com/hkguy1988/status/1904853961963954651/photo/1",
+              "media_key": "3_1904853956117094401",
+              "start": 56,
+              "url": "https://t.co/F2BZMgjFBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904895623457104305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904853961963954651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hkguy1988: 孩子們絕對不是自殺，而兇手卻一直逍遙法外。有問題嘅從來唔係班學生，而係依個社會。 https://t.co/F2BZMgjFBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904853956117094401"
+          ]
+        },
+        "author_id": "1164004665027022849",
+        "conversation_id": "1904853961963954651",
+        "created_at": "2025-03-26T11:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T12:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904853961963954651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2BZMgjFBA",
+              "end": 64,
+              "expanded_url": "https://x.com/hkguy1988/status/1904853961963954651/photo/1",
+              "media_key": "3_1904853956117094401",
+              "start": 41,
+              "url": "https://t.co/F2BZMgjFBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904853961963954651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1105,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "孩子們絕對不是自殺，而兇手卻一直逍遙法外。有問題嘅從來唔係班學生，而係依個社會。 https://t.co/F2BZMgjFBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 577,
+          "like_count": 2648,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-21T02:42:05.000Z",
+        "description": "香港網絡漫畫家\n典型買唔到樓嘅廢青，唔甘心就咁樣被社會埋沒，努力於用火柴人發聲！我係2021年開始了全職創作漫畫，目標是讓更多人包括外國關注香港發生緊嘅事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/oneaguy",
+                "end": 23,
+                "expanded_url": "http://patreon.com/oneaguy",
+                "start": 0,
+                "url": "https://t.co/UUTsgmoqvv"
+              }
+            ]
+          }
+        },
+        "id": "1164004665027022849",
+        "location": "Hong Kong",
+        "name": "一個人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405384274056937474/c2HEsXU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15676,
+          "following_count": 461,
+          "like_count": 913,
+          "listed_count": 66,
+          "media_count": 970,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/UUTsgmoqvv",
+        "username": "hkguy1988",
+        "verified": false
+      }
+    ]
+  }
+}

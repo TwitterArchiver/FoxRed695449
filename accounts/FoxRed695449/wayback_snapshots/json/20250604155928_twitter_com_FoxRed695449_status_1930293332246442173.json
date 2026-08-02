@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1930293332246442173",
+    "created_at": "2025-06-04T15:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T16:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930293332246442173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1664948430920359936",
+          "start": 3,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 138,
+          "id": "1664948430920359936",
+          "start": 123,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930293332246442173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930283656918249583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snowcomics9452: [不付費推廣]\n安卓手機卡頓？想要額外性能？想要蘋果手機的流暢度？網絡出現卡頓？但是手機root不了，怎麼辦？\nADB安卓性能增強器能夠為您解決煩惱，只需一台電腦和連接線，性能直接起飛。\n如有疑問，請聯繫 @Snowcomics9452…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1930293332246442173",
+        "created_at": "2025-06-04T15:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930293332246442173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1664948430920359936",
+              "start": 3,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 138,
+              "id": "1664948430920359936",
+              "start": 123,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930293332246442173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930283656918249583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snowcomics9452: [不付費推廣]\n安卓手機卡頓？想要額外性能？想要蘋果手機的流暢度？網絡出現卡頓？但是手機root不了，怎麼辦？\nADB安卓性能增強器能夠為您解決煩惱，只需一台電腦和連接線，性能直接起飛。\n如有疑問，請聯繫 @Snowcomics9452…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1930283656918249583",
+        "created_at": "2025-06-04T15:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930283656918249583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "1664948430920359936",
+              "start": 103,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Rootless (ADB) Android performance optimizer for every condition, from pure performance to power-saving - SchneeSchmitt/ADB-Android-Optimizer",
+              "display_url": "github.com/SchneeSchmitt/…",
+              "end": 149,
+              "expanded_url": "https://github.com/SchneeSchmitt/ADB-Android-Optimizer",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1929947575429541890/ExGDHp0o?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929947575429541890/ExGDHp0o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "GitHub - SchneeSchmitt/ADB-Android-Optimizer: Rootless (ADB) Android performance optimizer for every condition, from pure performance to power-saving",
+              "unwound_url": "https://github.com/SchneeSchmitt/ADB-Android-Optimizer",
+              "url": "https://t.co/XGzkgT05s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930283656918249583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 160,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "[不付費推廣]\n安卓手機卡頓？想要額外性能？想要蘋果手機的流暢度？網絡出現卡頓？但是手機root不了，怎麼辦？\nADB安卓性能增強器能夠為您解決煩惱，只需一台電腦和連接線，性能直接起飛。\n如有疑問，請聯繫 @Snowcomics9452\n載點在此 ⏬\nhttps://t.co/XGzkgT05s1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 656,
+          "like_count": 3444,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929462011202777088/TGDAt7Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 2913,
+          "like_count": 31762,
+          "listed_count": 1,
+          "media_count": 795,
+          "tweet_count": 6034
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

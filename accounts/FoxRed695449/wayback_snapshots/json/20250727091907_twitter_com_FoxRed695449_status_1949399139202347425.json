@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949399132613103616"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1949399139202347425",
+    "created_at": "2025-07-27T09:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949399139202347425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUNcBqeSWd",
+          "end": 38,
+          "expanded_url": "https://x.com/FoxRed695449/status/1949399139202347425/photo/1",
+          "media_key": "3_1949399132613103616",
+          "start": 15,
+          "url": "https://t.co/jUNcBqeSWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949399139202347425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我仍然活著！\n畫師：luna https://t.co/jUNcBqeSWd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1949399132613103616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2oLsjb0AA3W-m.jpg",
+        "width": 1419
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949399132613103616"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949399139202347425",
+        "created_at": "2025-07-27T09:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949399139202347425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUNcBqeSWd",
+              "end": 38,
+              "expanded_url": "https://x.com/FoxRed695449/status/1949399139202347425/photo/1",
+              "media_key": "3_1949399132613103616",
+              "start": 15,
+              "url": "https://t.co/jUNcBqeSWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949399139202347425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我仍然活著！\n畫師：luna https://t.co/jUNcBqeSWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 672,
+          "like_count": 3790,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

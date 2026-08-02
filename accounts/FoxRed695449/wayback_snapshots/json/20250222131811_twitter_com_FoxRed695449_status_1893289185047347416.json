@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1893183048679665958",
+    "created_at": "2025-02-22T13:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893289185047347416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        },
+        {
+          "end": 26,
+          "id": "1808849331904262146",
+          "start": 17,
+          "username": "Loong101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893289185047347416",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893288906176528794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi @Loong101 我现在怀疑是她的那个学校自己涂的了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1893183048679665958",
+        "created_at": "2025-02-22T13:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893289185047347416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            },
+            {
+              "end": 26,
+              "id": "1808849331904262146",
+              "start": 17,
+              "username": "Loong101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893289185047347416",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893288906176528794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi @Loong101 我现在怀疑是她的那个学校自己涂的了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993886755878191104",
+        "conversation_id": "1893183048679665958",
+        "created_at": "2025-02-22T13:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893288906176528794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 23,
+              "id": "1808849331904262146",
+              "start": 14,
+              "username": "Loong101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893288906176528794",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893265327019991164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Loong101 好惨一学校\n\n我们的也没被涂改 乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 510,
+          "like_count": 1902,
+          "listed_count": 6,
+          "media_count": 362,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁 一只买了一堆镜头但是不是太会拍照的娃娃（？ \n还原人设党！女变态！喜欢灵魂级别的还原w！ \nintp/intj 不道啊 \n天天发日常伪装成清水 所以小概率 NSFW \n平时看看番上上学拍拍照（什 \nxp克苏鲁 不仅单身还没主人（小声bb\n想要看涩涩和娃去亮点喵~",
+        "id": "993886755878191104",
+        "location": "USC",
+        "name": "岁",
+        "pinned_tweet_id": "1885502431003619658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20955,
+          "following_count": 11753,
+          "like_count": 644,
+          "listed_count": 50,
+          "media_count": 1970,
+          "tweet_count": 6904
+        },
+        "username": "tokiseki_kurumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T13:04:32.000Z",
+        "description": "平等地看不起所有在中文区沾政治的influencers",
+        "id": "1808849331904262146",
+        "location": "Mainland China",
+        "name": "Corcoran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883773272162181120/N4vyCbKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "Loong101",
+        "verified": false
+      }
+    ]
+  }
+}

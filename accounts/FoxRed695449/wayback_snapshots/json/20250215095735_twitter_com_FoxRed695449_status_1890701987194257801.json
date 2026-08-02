@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890670295414943945",
+    "created_at": "2025-02-15T09:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T10:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890701987194257801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1496399888149528579",
+          "start": 0,
+          "username": "sysROM_"
+        },
+        {
+          "end": 15,
+          "id": "1243945571796295681",
+          "start": 9,
+          "username": "ryq59"
+        },
+        {
+          "end": 31,
+          "id": "1829411930458718208",
+          "start": 16,
+          "username": "XlIOIlXllOIIlV"
+        },
+        {
+          "end": 40,
+          "id": "1835753359015624704",
+          "start": 32,
+          "username": "msmaoi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890701987194257801",
+    "in_reply_to_user_id": "1496399888149528579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890688950123044872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysROM_ @ryq59 @XlIOIlXllOIIlV @msmaoi_ 其實有家長陪同+出生證明是可以辦的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890670295414943945",
+        "created_at": "2025-02-15T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890701987194257801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1496399888149528579",
+              "start": 0,
+              "username": "sysROM_"
+            },
+            {
+              "end": 15,
+              "id": "1243945571796295681",
+              "start": 9,
+              "username": "ryq59"
+            },
+            {
+              "end": 31,
+              "id": "1829411930458718208",
+              "start": 16,
+              "username": "XlIOIlXllOIIlV"
+            },
+            {
+              "end": 40,
+              "id": "1835753359015624704",
+              "start": 32,
+              "username": "msmaoi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890701987194257801",
+        "in_reply_to_user_id": "1496399888149528579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890688950123044872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysROM_ @ryq59 @XlIOIlXllOIIlV @msmaoi_ 其實有家長陪同+出生證明是可以辦的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496399888149528579",
+        "conversation_id": "1890670295414943945",
+        "created_at": "2025-02-15T09:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T10:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890688950123044872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            },
+            {
+              "end": 22,
+              "id": "1829411930458718208",
+              "start": 7,
+              "username": "XlIOIlXllOIIlV"
+            },
+            {
+              "end": 31,
+              "id": "1835753359015624704",
+              "start": 23,
+              "username": "msmaoi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890688950123044872",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890670295414943945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 @XlIOIlXllOIIlV @msmaoi_ 汇丰不是得满18吗 这是怎么做到的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 489,
+          "like_count": 1638,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 1052
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T08:21:50.000Z",
+        "description": "fullstack developer / CN|EN|JP / 173CM42KG / github:sysrom / AS213774 / Telegram: @sysroms",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "sysroms"
+              }
+            ]
+          }
+        },
+        "id": "1496399888149528579",
+        "location": "MmGetSystemRoutineAddress",
+        "name": "sysROM",
+        "pinned_tweet_id": "1683377104363360257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819389625515065344/6n1uZ4F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 988,
+          "like_count": 6782,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1489
+        },
+        "username": "sysROM_",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @xlioilxlloiilv @iranon_lcf @yizhikapaiqaq｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xlj070423"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "xlioilxlloiilv"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "京东星宇",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16611,
+          "following_count": 4442,
+          "like_count": 170561,
+          "listed_count": 68,
+          "media_count": 4609,
+          "tweet_count": 21322
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "ryq59",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "@59ryq说，我是女孩子，于是我大哭。\n99年生。工作，马上被辞退\n。财务状况，崩坏。\n\n本人性别跨女，含糖，做过医美，在努力留头发，\n（已脱单以下请无视：\n取向男。接受我的跨性别问题，粘人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "59ryq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/59ryq",
+                "end": 23,
+                "expanded_url": "https://x.com/59ryq",
+                "start": 0,
+                "url": "https://t.co/8txpJqcBAa"
+              }
+            ]
+          }
+        },
+        "id": "1829411930458718208",
+        "location": "架阁司",
+        "name": "夏希♡✕🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887875533582880768/DdikKc-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 557,
+          "like_count": 3171,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/8txpJqcBAa",
+        "username": "XlIOIlXllOIIlV",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T18:51:28.000Z",
+        "description": "a fading light awaits two in a closed world of forgotten conflict / ❤️🐱 / 🇨🇳人で🇯🇵🇬🇧語を話せる音ゲーマ / FF以外通知OFF / tg个人频道在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/6qqNCfY8WN"
+              }
+            ]
+          }
+        },
+        "id": "1835753359015624704",
+        "location": "Arcaea Land ",
+        "name": "三澄 葵",
+        "pinned_tweet_id": "1889137602579824702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886391653264773121/7ZgSnzbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 440,
+          "like_count": 8947,
+          "listed_count": 4,
+          "media_count": 354,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/6qqNCfY8WN",
+        "username": "msmaoi_",
+        "verified": true
+      }
+    ]
+  }
+}

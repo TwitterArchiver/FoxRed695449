@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953699621341212674",
+        "3_1953699621341212673",
+        "3_1953699621345406979"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1953460646072459298",
+    "created_at": "2025-08-08T06:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953699630333804967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574300405026017280",
+          "start": 0,
+          "username": "yantanzhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IuqTTkqbx",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+          "media_key": "3_1953699621341212674",
+          "start": 20,
+          "url": "https://t.co/7IuqTTkqbx"
+        },
+        {
+          "display_url": "pic.x.com/7IuqTTkqbx",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+          "media_key": "3_1953699621341212673",
+          "start": 20,
+          "url": "https://t.co/7IuqTTkqbx"
+        },
+        {
+          "display_url": "pic.x.com/7IuqTTkqbx",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+          "media_key": "3_1953699621345406979",
+          "start": 20,
+          "url": "https://t.co/7IuqTTkqbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953699630333804967",
+    "in_reply_to_user_id": "1574300405026017280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953460646072459298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yantanzhang 《多家媒体》 https://t.co/7IuqTTkqbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1953699621341212674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzvdFfbsAIQAd9.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1953699621341212673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzvdFfbsAE5n5r.jpg",
+        "width": 828
+      },
+      {
+        "height": 605,
+        "media_key": "3_1953699621345406979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzvdFgbsAMu-7u.jpg",
+        "width": 828
+      },
+      {
+        "height": 1303,
+        "media_key": "3_1953460537800753152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwWAl5bgAAqmI1.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953699621341212674",
+            "3_1953699621341212673",
+            "3_1953699621345406979"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1953460646072459298",
+        "created_at": "2025-08-08T06:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953699630333804967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574300405026017280",
+              "start": 0,
+              "username": "yantanzhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IuqTTkqbx",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+              "media_key": "3_1953699621341212674",
+              "start": 20,
+              "url": "https://t.co/7IuqTTkqbx"
+            },
+            {
+              "display_url": "pic.x.com/7IuqTTkqbx",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+              "media_key": "3_1953699621341212673",
+              "start": 20,
+              "url": "https://t.co/7IuqTTkqbx"
+            },
+            {
+              "display_url": "pic.x.com/7IuqTTkqbx",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953699630333804967/photo/1",
+              "media_key": "3_1953699621345406979",
+              "start": 20,
+              "url": "https://t.co/7IuqTTkqbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953699630333804967",
+        "in_reply_to_user_id": "1574300405026017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953460646072459298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yantanzhang 《多家媒体》 https://t.co/7IuqTTkqbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953460537800753152"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "1953460646072459298",
+        "created_at": "2025-08-07T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953460646072459298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jfSmOSUTT",
+              "end": 151,
+              "expanded_url": "https://x.com/yantanzhang/status/1953460646072459298/photo/1",
+              "media_key": "3_1953460537800753152",
+              "start": 128,
+              "url": "https://t.co/0jfSmOSUTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953460646072459298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据多家媒体爆料，香港浸会大学已于2025年8月6日正式将杨景媛从拟录取博士生名单中移除。\n\n此前某小红薯博主称浸会大学七日内处理杨景媛，否则销号道歉。\n\n熟悉该校规定的人指出，学生手册第 15 章第 3 条明确：诬告同学造成不良影响的，最高可开除学籍。\n\n目前媒体发布的都是通稿，在相关通告正式公布前还是不要急着庆祝，就算浸会大学做出回应，关键武汉大学那边还没有任何动静，这件事最关键的就是武汉大学如何处理杨同学，以及何时撤销肖同学的处分并做出赔偿。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 30820,
+          "like_count": 361,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "根据多家媒体爆料，香港浸会大学已于2025年8月6日正式将杨景媛从拟录取博士生名单中移除。\n\n此前某小红薯博主称浸会大学七日内处理杨景媛，否则销号道歉。\n\n熟悉该校规定的人指出，学生手册第 15 章第 3 条明确：诬告同学造成不良影响的，最高可开除学籍。 https://t.co/0jfSmOSUTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 680,
+          "like_count": 3883,
+          "listed_count": 7,
+          "media_count": 599,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "从事反女权反舔狗运动多年，舔狗经济学作者，文章均为原创，已无偿帮助近千位国男",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29739,
+          "following_count": 29,
+          "like_count": 615,
+          "listed_count": 86,
+          "media_count": 2336,
+          "tweet_count": 2463
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

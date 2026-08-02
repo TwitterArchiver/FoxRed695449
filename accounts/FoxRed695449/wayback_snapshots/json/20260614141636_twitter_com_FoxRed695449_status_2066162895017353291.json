@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066162880953896960"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2066162895017353291",
+    "created_at": "2026-06-14T14:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066162895017353291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q8VlUR4wf9",
+          "end": 114,
+          "expanded_url": "https://x.com/FoxRed695449/status/2066162895017353291/photo/1",
+          "media_key": "3_2066162880953896960",
+          "start": 91,
+          "url": "https://t.co/q8VlUR4wf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066162895017353291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "能在中国大陆的电影荧幕上看见BBC参与的跨度达到10年的纪录片真的挺难得的\n《百里挑一》的中文翻译其实我感觉并不好，因为英语原名是one in a million（百万当中的一个）\n让人感慨的是一方面，来自叙利亚的难民父亲“参与”有女权倡议者，举着彩虹旗的反对极端右翼政党AFD的游行；另一方面又仅仅因为女儿被男孩看着就打她，不允许她去上游泳课，甚至威胁母女要把她们带回叙利亚最终被警察带走，颇为讽刺\n纪录片跟拍的主角从刚进入青春期时极度的抗拒戴上头巾，“追求自由”；到纪录片后期自愿的戴上头巾，甚至有想法回到那母亲拼命逃离的叙利亚（虽然最终决定回到德国），又令人感叹时间…\n又不得不感谢德国当年的难民政策能“拯救”如此众多的难民，如果没有这种政策，纪录片跟拍的一家可能已经死在炮灰之下了，如今这个日益右转排外的世界…令人惋惜…\n\n纪录片当中，叙利亚旧政府倒台，人们在欢呼中，跟拍的父亲当时说的“政府倒台了，那接下来呢”…好不令人深思"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能在中国大陆的电影荧幕上看见BBC参与的跨度达到10年的纪录片真的挺难得的\n《百里挑一》的中文翻译其实我感觉并不好，因为英语原名是one in a million（百万当中的一个） https://t.co/q8VlUR4wf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3328,
+        "media_key": "3_2066162880953896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx8MXda0AAt80X.jpg",
+        "width": 2519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066162880953896960"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2066162895017353291",
+        "created_at": "2026-06-14T14:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066162895017353291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8VlUR4wf9",
+              "end": 114,
+              "expanded_url": "https://x.com/FoxRed695449/status/2066162895017353291/photo/1",
+              "media_key": "3_2066162880953896960",
+              "start": 91,
+              "url": "https://t.co/q8VlUR4wf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066162895017353291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能在中国大陆的电影荧幕上看见BBC参与的跨度达到10年的纪录片真的挺难得的\n《百里挑一》的中文翻译其实我感觉并不好，因为英语原名是one in a million（百万当中的一个）\n让人感慨的是一方面，来自叙利亚的难民父亲“参与”有女权倡议者，举着彩虹旗的反对极端右翼政党AFD的游行；另一方面又仅仅因为女儿被男孩看着就打她，不允许她去上游泳课，甚至威胁母女要把她们带回叙利亚最终被警察带走，颇为讽刺\n纪录片跟拍的主角从刚进入青春期时极度的抗拒戴上头巾，“追求自由”；到纪录片后期自愿的戴上头巾，甚至有想法回到那母亲拼命逃离的叙利亚（虽然最终决定回到德国），又令人感叹时间…\n又不得不感谢德国当年的难民政策能“拯救”如此众多的难民，如果没有这种政策，纪录片跟拍的一家可能已经死在炮灰之下了，如今这个日益右转排外的世界…令人惋惜…\n\n纪录片当中，叙利亚旧政府倒台，人们在欢呼中，跟拍的父亲当时说的“政府倒台了，那接下来呢”…好不令人深思"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能在中国大陆的电影荧幕上看见BBC参与的跨度达到10年的纪录片真的挺难得的\n《百里挑一》的中文翻译其实我感觉并不好，因为英语原名是one in a million（百万当中的一个） https://t.co/q8VlUR4wf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 839,
+          "like_count": 8141,
+          "listed_count": 6,
+          "media_count": 1053,
+          "tweet_count": 3373
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

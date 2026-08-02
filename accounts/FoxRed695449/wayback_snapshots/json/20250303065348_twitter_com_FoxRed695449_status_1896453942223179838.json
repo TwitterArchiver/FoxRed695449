@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896453942223179838",
+    "created_at": "2025-03-03T06:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T07:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896453942223179838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1896439038728626561",
+          "start": 44,
+          "url": "https://t.co/p97CLc86S8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896453942223179838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896439038728626561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和他说我因为ADHD的事情上课有的时候会分心，他竟然说没关系，正常的\n呜呜呜，我哭死 https://t.co/p97CLc86S8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896453942223179838",
+        "created_at": "2025-03-03T06:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T07:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896453942223179838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1896439038728626561",
+              "start": 44,
+              "url": "https://t.co/p97CLc86S8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896453942223179838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896439038728626561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和他说我因为ADHD的事情上课有的时候会分心，他竟然说没关系，正常的\n呜呜呜，我哭死 https://t.co/p97CLc86S8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896439038728626561",
+        "created_at": "2025-03-03T05:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896439038728626561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896439038728626561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好神奇\n下課時間和我物理老師聊天\n然後得知他學士學位是修心理學的，碩士才是修教育\n然後現在正在和他談我的精神疾病ing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3835,
+          "following_count": 526,
+          "like_count": 2128,
+          "listed_count": 5,
+          "media_count": 392,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

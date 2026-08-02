@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893233816405164032"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1893233838857330809",
+    "created_at": "2025-02-22T09:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T10:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893233838857330809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1LhPDSm5Tm",
+          "end": 32,
+          "expanded_url": "https://x.com/FoxRed695449/status/1893233838857330809/photo/1",
+          "media_key": "3_1893233816405164032",
+          "start": 9,
+          "url": "https://t.co/1LhPDSm5Tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893233838857330809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即將落日的hku https://t.co/1LhPDSm5Tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1893233816405164032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkYeIA-WQAA1mfq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893233816405164032"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1893233838857330809",
+        "created_at": "2025-02-22T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893233838857330809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LhPDSm5Tm",
+              "end": 32,
+              "expanded_url": "https://x.com/FoxRed695449/status/1893233838857330809/photo/1",
+              "media_key": "3_1893233816405164032",
+              "start": 9,
+              "url": "https://t.co/1LhPDSm5Tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893233838857330809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即將落日的hku https://t.co/1LhPDSm5Tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 510,
+          "like_count": 1893,
+          "listed_count": 6,
+          "media_count": 357,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

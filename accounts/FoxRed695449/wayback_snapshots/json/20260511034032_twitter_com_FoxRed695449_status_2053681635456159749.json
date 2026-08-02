@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2053517666334515563",
+    "created_at": "2026-05-11T03:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053681635456159749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961333145153974272",
+          "start": 0,
+          "username": "3JLEI4yqdS70554"
+        },
+        {
+          "end": 26,
+          "id": "778276921498931201",
+          "start": 17,
+          "username": "cmaz2016"
+        },
+        {
+          "end": 40,
+          "id": "1538097651249717248",
+          "start": 27,
+          "username": "starofskynxp"
+        },
+        {
+          "end": 54,
+          "id": "1621709543750385664",
+          "start": 41,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053681635456159749",
+    "in_reply_to_user_id": "1961333145153974272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "除开央视就没资格买\n国家广电总局《关于加强体育比赛电视报道和转播管理工作的通知》规定：\n重大的国际体育比赛，包括奥运会、亚运会和世界杯足球赛（包括预选赛），在我国境内的电视转播权统一由中央电视台负责谈判与购买，其他各电视台（包括有线广播电视台）不得直接购买。中央电视台在保证最大观众覆盖面的原则下，应就地方台的需要，通过协商转让转播权。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053669309524947198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3JLEI4yqdS70554 @cmaz2016 @starofskynxp @quarktalksss 除开央视就没资格买\n国家广电总局《关于加强体育比赛电视报道和转播管理工作的通知》规定："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2053517666334515563",
+        "created_at": "2026-05-11T03:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053681635456159749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961333145153974272",
+              "start": 0,
+              "username": "3JLEI4yqdS70554"
+            },
+            {
+              "end": 26,
+              "id": "778276921498931201",
+              "start": 17,
+              "username": "cmaz2016"
+            },
+            {
+              "end": 40,
+              "id": "1538097651249717248",
+              "start": 27,
+              "username": "starofskynxp"
+            },
+            {
+              "end": 54,
+              "id": "1621709543750385664",
+              "start": 41,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053681635456159749",
+        "in_reply_to_user_id": "1961333145153974272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "除开央视就没资格买\n国家广电总局《关于加强体育比赛电视报道和转播管理工作的通知》规定：\n重大的国际体育比赛，包括奥运会、亚运会和世界杯足球赛（包括预选赛），在我国境内的电视转播权统一由中央电视台负责谈判与购买，其他各电视台（包括有线广播电视台）不得直接购买。中央电视台在保证最大观众覆盖面的原则下，应就地方台的需要，通过协商转让转播权。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053669309524947198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3JLEI4yqdS70554 @cmaz2016 @starofskynxp @quarktalksss 除开央视就没资格买\n国家广电总局《关于加强体育比赛电视报道和转播管理工作的通知》规定："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961333145153974272",
+        "conversation_id": "2053517666334515563",
+        "created_at": "2026-05-11T02:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053669309524947198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "778276921498931201",
+              "start": 0,
+              "username": "cmaz2016"
+            },
+            {
+              "end": 23,
+              "id": "1538097651249717248",
+              "start": 10,
+              "username": "starofskynxp"
+            },
+            {
+              "end": 37,
+              "id": "1621709543750385664",
+              "start": 24,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053669309524947198",
+        "in_reply_to_user_id": "778276921498931201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053634406095712394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmaz2016 @starofskynxp @quarktalksss 是没买啊，咋了，别的公司买还需要央视同意？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 834,
+          "like_count": 7930,
+          "listed_count": 6,
+          "media_count": 1016,
+          "tweet_count": 3252
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T07:40:50.000Z",
+        "description": "1s收骚狗瘦狗一条，头像本人，先网调看看适合不",
+        "id": "1961333145153974272",
+        "name": "夼爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048065751333076992/cRgkP2Tz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 209,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 164
+        },
+        "username": "3JLEI4yqdS70554",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-20T16:57:32.000Z",
+        "description": "",
+        "id": "778276921498931201",
+        "name": "cmaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761793493360623616/QS6S8r-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 217,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "cmaz2016",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:54:11.000Z",
+        "description": "@starofskynxp\n\n是个历史爱好者，喜欢探讨历史事件的相似性和影响，特别关注二战时期的日本军国主义行为。 他们对历史的反思让人印象深刻，常常用幽默的方式表达对历史事件的看法。 总之，这是个对历史有独特见解的用户，值得关注！\n\n￼\n\n￼\n\n￼\n\n他们在X上激烈讨论AI技术、政治和文化话题，毫不留情地怼回各种",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "starofskynxp"
+              }
+            ]
+          }
+        },
+        "id": "1538097651249717248",
+        "location": "Hong Kong",
+        "name": "Dennis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541372003541983232/p4Grf3m2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 142,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1392
+        },
+        "username": "starofskynxp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2052917699576304027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33376,
+          "following_count": 38,
+          "like_count": 2254,
+          "listed_count": 185,
+          "media_count": 1249,
+          "tweet_count": 5647
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": true
+      }
+    ]
+  }
+}

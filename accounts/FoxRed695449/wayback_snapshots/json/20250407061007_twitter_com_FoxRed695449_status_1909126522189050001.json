@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1909123764039581857",
+    "created_at": "2025-04-07T06:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T07:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909126522189050001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "A4rHk_3mU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909126522189050001",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909123764039581857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A4rHk_3mU8964 同年的回憶啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909123764039581857].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909123764039581857",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909123764039581857"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1909123764039581857",
+        "created_at": "2025-04-07T06:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T07:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909126522189050001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "A4rHk_3mU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909126522189050001",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909123764039581857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A4rHk_3mU8964 同年的回憶啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 594,
+          "like_count": 2748,
+          "listed_count": 6,
+          "media_count": 479,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Please do not mention this account to anyone who is not a follower",
+        "id": "1540698144429596673",
+        "name": "Only ants yield useful yeast",
+        "pinned_tweet_id": "1891224656608211135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903895361015455744/5Dvxz3O8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 76,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 370
+        },
+        "username": "A4rHk_3mU8964",
+        "verified": false
+      }
+    ]
+  }
+}

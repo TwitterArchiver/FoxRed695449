@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995287033900937216"
+      ],
+      "media_source_tweet_id": [
+        "1995287041391858074"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1995335526141030550",
+    "created_at": "2025-12-01T03:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T04:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995335526141030550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377409120446255112",
+          "start": 3,
+          "username": "small_a_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zh88NbkOq2",
+          "end": 41,
+          "expanded_url": "https://x.com/small_a_c/status/1995287041391858074/photo/1",
+          "media_key": "3_1995287033900937216",
+          "start": 18,
+          "url": "https://t.co/zh88NbkOq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995335526141030550",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995287041391858074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @small_a_c: 🕯️ https://t.co/zh88NbkOq2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_1995287033900937216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Cu_GCbsAAWRzw.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995287033900937216"
+          ],
+          "media_source_tweet_id": [
+            "1995287041391858074"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1995335526141030550",
+        "created_at": "2025-12-01T03:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995335526141030550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1377409120446255112",
+              "start": 3,
+              "username": "small_a_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh88NbkOq2",
+              "end": 41,
+              "expanded_url": "https://x.com/small_a_c/status/1995287041391858074/photo/1",
+              "media_key": "3_1995287033900937216",
+              "start": 18,
+              "url": "https://t.co/zh88NbkOq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995335526141030550",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995287041391858074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @small_a_c: 🕯️ https://t.co/zh88NbkOq2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995287033900937216"
+          ]
+        },
+        "author_id": "1377409120446255112",
+        "conversation_id": "1995287041391858074",
+        "created_at": "2025-12-01T00:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T01:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995287041391858074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh88NbkOq2",
+              "end": 26,
+              "expanded_url": "https://x.com/small_a_c/status/1995287041391858074/photo/1",
+              "media_key": "3_1995287033900937216",
+              "start": 3,
+              "url": "https://t.co/zh88NbkOq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995287041391858074",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1882,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "following",
+        "text": "🕯️ https://t.co/zh88NbkOq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 707,
+          "like_count": 5078,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2767
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-31T23:55:08.000Z",
+        "description": "HongKonger / Twitter: 'What makes you special?' None. / 此帳專門鳩叫放負，不幹正事 / 我只代表我自己 / 窮人生仔正仆街 // icon credit: @ame_hitsuji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "ame_hitsuji"
+              }
+            ]
+          }
+        },
+        "id": "1377409120446255112",
+        "name": "醉噯糧糧🕯️",
+        "pinned_tweet_id": "1791097490609258827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460634147685560321/ujeMJL5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 84,
+          "like_count": 25676,
+          "listed_count": 4,
+          "media_count": 12537,
+          "tweet_count": 47400
+        },
+        "username": "small_a_c",
+        "verified": false
+      }
+    ]
+  }
+}

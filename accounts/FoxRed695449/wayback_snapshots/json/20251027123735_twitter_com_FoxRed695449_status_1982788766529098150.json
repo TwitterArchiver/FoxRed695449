@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982788754243731457"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1982788766529098150",
+    "created_at": "2025-10-27T12:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982788766529098150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8u43wgRhTN",
+          "end": 168,
+          "expanded_url": "https://x.com/FoxRed695449/status/1982788766529098150/photo/1",
+          "media_key": "3_1982788754243731457",
+          "start": 145,
+          "url": "https://t.co/8u43wgRhTN"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "00ae3ed017d9d14b"
+    },
+    "id": "1982788766529098150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "10月產的新鮮的😋\nApple很榮幸能為一眾LGBTQ+倡導團體提供財政支援,協助他們帶來正面的改變\nPride Edition 運動手環靈感源自LGBTQ+社群的力量和共融,以彩虹旗的驕傲和五種新穎顏色為核心,交織出鮮明跳脫的漸變色彩.黑色和棕色象徵被邊緣化的LGBTQ+有色人種社群, 亦代表已經感染HIV病毒/愛滋病,以及因而逝世的人；淺藍色、粉紅色和白色則向跨性別及非常規性別人士致敬"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "10月產的新鮮的😋\nApple很榮幸能為一眾LGBTQ+倡導團體提供財政支援,協助他們帶來正面的改變\nPride Edition 運動手環靈感源自LGBTQ+社群的力量和共融,以彩虹旗的驕傲和五種新穎顏色為核心,交織出鮮明跳脫的漸變色彩.黑色和棕色象徵被邊緣化的LGBTQ+有色人種社群, https://t.co/8u43wgRhTN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982788754243731457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RH3eFWQAE5s6S.jpg",
+        "width": 1644
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Kowloon City District, Hong Kong",
+        "geo": {
+          "bbox": [
+            114.1724319,
+            22.2934292,
+            114.2193345,
+            22.3492137
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "00ae3ed017d9d14b",
+        "name": "Kowloon City District",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982788754243731457"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1982788766529098150",
+        "created_at": "2025-10-27T12:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982788766529098150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8u43wgRhTN",
+              "end": 168,
+              "expanded_url": "https://x.com/FoxRed695449/status/1982788766529098150/photo/1",
+              "media_key": "3_1982788754243731457",
+              "start": 145,
+              "url": "https://t.co/8u43wgRhTN"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00ae3ed017d9d14b"
+        },
+        "id": "1982788766529098150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "10月產的新鮮的😋\nApple很榮幸能為一眾LGBTQ+倡導團體提供財政支援,協助他們帶來正面的改變\nPride Edition 運動手環靈感源自LGBTQ+社群的力量和共融,以彩虹旗的驕傲和五種新穎顏色為核心,交織出鮮明跳脫的漸變色彩.黑色和棕色象徵被邊緣化的LGBTQ+有色人種社群, 亦代表已經感染HIV病毒/愛滋病,以及因而逝世的人；淺藍色、粉紅色和白色則向跨性別及非常規性別人士致敬"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10月產的新鮮的😋\nApple很榮幸能為一眾LGBTQ+倡導團體提供財政支援,協助他們帶來正面的改變\nPride Edition 運動手環靈感源自LGBTQ+社群的力量和共融,以彩虹旗的驕傲和五種新穎顏色為核心,交織出鮮明跳脫的漸變色彩.黑色和棕色象徵被邊緣化的LGBTQ+有色人種社群, https://t.co/8u43wgRhTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 683,
+          "like_count": 4709,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

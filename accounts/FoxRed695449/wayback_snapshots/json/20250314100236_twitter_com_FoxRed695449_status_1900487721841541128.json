@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1900486211434672367",
+    "created_at": "2025-03-14T10:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T11:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900487721841541128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2215812295",
+          "start": 0,
+          "username": "NikolaTesla2010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/PrinzEugenOwO/…",
+          "end": 40,
+          "expanded_url": "https://x.com/PrinzEugenOwO/status/1900111308596613180?t=AtCyhOVYzM7f7jc0jjv7-w&s=19",
+          "start": 17,
+          "url": "https://t.co/NjYYHLCeaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900487721841541128",
+    "in_reply_to_user_id": "2215812295",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900111308596613180",
+        "type": "quoted"
+      },
+      {
+        "id": "1900486211434672367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikolaTesla2010 https://t.co/NjYYHLCeaP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1900486211434672367",
+        "created_at": "2025-03-14T10:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900487721841541128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2215812295",
+              "start": 0,
+              "username": "NikolaTesla2010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/PrinzEugenOwO/…",
+              "end": 40,
+              "expanded_url": "https://x.com/PrinzEugenOwO/status/1900111308596613180?t=AtCyhOVYzM7f7jc0jjv7-w&s=19",
+              "start": 17,
+              "url": "https://t.co/NjYYHLCeaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900487721841541128",
+        "in_reply_to_user_id": "2215812295",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900111308596613180",
+            "type": "quoted"
+          },
+          {
+            "id": "1900486211434672367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikolaTesla2010 https://t.co/NjYYHLCeaP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2180953680",
+        "conversation_id": "1900111308596613180",
+        "created_at": "2025-03-13T09:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900111308596613180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NikolaTesla201…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/NikolaTesla2010/status/1900109718561186020",
+              "start": 34,
+              "url": "https://t.co/obYZv1w3es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900111308596613180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20234,
+          "like_count": 128,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900109718561186020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天下午3：30台北火車站進站口等你10分鐘，人沒出現直接當你唬爛 https://t.co/obYZv1w3es"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2215812295",
+        "conversation_id": "1900486211434672367",
+        "created_at": "2025-03-14T09:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900486211434672367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prinzeugenowo/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/prinzeugenowo/status/1900470771170124076",
+              "start": 37,
+              "url": "https://t.co/l3KFIKdPsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900486211434672367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900470771170124076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推友跟我約101，自己拿個台灣車站的網路視頻....南部人就是不講信用。 https://t.co/l3KFIKdPsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 566,
+          "like_count": 2431,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "",
+        "id": "2215812295",
+        "location": "Sagittarius A*",
+        "name": "Tesla",
+        "pinned_tweet_id": "1840552411183898974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 2254,
+          "like_count": 32109,
+          "listed_count": 34,
+          "media_count": 3929,
+          "tweet_count": 10779
+        },
+        "username": "NikolaTesla2010",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-07T22:21:26.000Z",
+        "description": "大中華主義蛆我一律B加掛最好祈禱我不要找到你/軍盲/百合豚/東方廚\nAnti CCP👎🇨🇳 \nStandWithUkraine🇺🇦\n逃生艙：@Yukikaze_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Yukikaze_UwU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yuk.en…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yuk.enchenia.com",
+                "start": 0,
+                "url": "https://t.co/VSjZYmpD3p"
+              }
+            ]
+          }
+        },
+        "id": "2180953680",
+        "location": "Taipei City, Taiwan",
+        "name": "幼月",
+        "pinned_tweet_id": "1826534110543618351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639809605592313856/45_OEskC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6412,
+          "following_count": 1071,
+          "like_count": 193463,
+          "listed_count": 22,
+          "media_count": 7951,
+          "tweet_count": 21674
+        },
+        "url": "https://t.co/VSjZYmpD3p",
+        "username": "PrinzEugenOwO",
+        "verified": false
+      }
+    ]
+  }
+}

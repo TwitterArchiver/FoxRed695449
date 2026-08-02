@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1918955926092148928",
+    "created_at": "2025-05-05T06:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T07:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919274078331949302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        },
+        {
+          "end": 25,
+          "id": "1573863666000224256",
+          "start": 10,
+          "username": "Futuristic2007"
+        },
+        {
+          "end": 42,
+          "id": "1839168670918127617",
+          "start": 26,
+          "username": "TidVR7NzHA26324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919274078331949302",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919273146118463825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 @Futuristic2007 @TidVR7NzHA26324 医院社工，社会福利署社工，学校社工都是全职的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-05T06:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919274078331949302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            },
+            {
+              "end": 25,
+              "id": "1573863666000224256",
+              "start": 10,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 42,
+              "id": "1839168670918127617",
+              "start": 26,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919274078331949302",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919273146118463825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 @Futuristic2007 @TidVR7NzHA26324 医院社工，社会福利署社工，学校社工都是全职的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799308675158605825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1918955926092148928",
+        "created_at": "2025-05-05T06:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919273146118463825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "1573863666000224256",
+              "start": 14,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 46,
+              "id": "1839168670918127617",
+              "start": 30,
+              "username": "TidVR7NzHA26324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919273146118463825",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919272702545985905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Futuristic2007 @TidVR7NzHA26324 看你怎么定义社工了捏，社区志愿者并不是固定的“职业”，在香港，社工也不完全是全职（之前bbc中文报道的一位泛民议员也是社工，兼职）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 644,
+          "like_count": 3037,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 1540
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘巡回推友企划 此为原建制派bot号，原号乙烷，不会申诉了，本来不考虑建新号，但我左右脑互搏已经搞出新号了：@mikulovermua 期望于岁静和淡键政（但压根没有停止…）本人非粉蛆，但很骄傲做某些人嘴里的粉蛆。ally&非二元性别 不要忘记我们的骄傲🏳️‍🌈支持🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "葱娘巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国PRC🇨🇳",
+        "name": "迷人的葱娘酱miku🇨🇳",
+        "pinned_tweet_id": "1918328391989903830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893849875676291072/2JvelayU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 940,
+          "like_count": 23006,
+          "listed_count": 19,
+          "media_count": 457,
+          "tweet_count": 5520
+        },
+        "username": "CPUP2024",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "你会讨厌我吗？",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1890321283470266672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 585,
+          "like_count": 121714,
+          "listed_count": 2,
+          "media_count": 971,
+          "tweet_count": 22551
+        },
+        "username": "Futuristic2007",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T05:02:47.000Z",
+        "description": "",
+        "id": "1839168670918127617",
+        "name": "羲皇",
+        "pinned_tweet_id": "1866477985735508404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881036268324446208/NkGbmWON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 465,
+          "like_count": 12418,
+          "listed_count": 34,
+          "media_count": 757,
+          "tweet_count": 8255
+        },
+        "username": "TidVR7NzHA26324",
+        "verified": false
+      }
+    ]
+  }
+}

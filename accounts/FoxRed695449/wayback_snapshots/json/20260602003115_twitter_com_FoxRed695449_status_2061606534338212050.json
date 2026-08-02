@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2061528378994528499",
+    "created_at": "2026-06-02T00:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061606534338212050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061606534338212050",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061528378994528499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 17e表示\n只有一个摄像头，根源上解决了此问题🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2061528378994528499",
+        "created_at": "2026-06-02T00:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061606534338212050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061606534338212050",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061528378994528499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 17e表示\n只有一个摄像头，根源上解决了此问题🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2061528378994528499",
+        "created_at": "2026-06-01T19:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061528378994528499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2061455004163248268",
+              "start": 103,
+              "url": "https://t.co/Po8FJmnEYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061528378994528499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2320,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061455004163248268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识，日本入境电子签的网页有一个调用摄像头拍摄护照的步骤， Color OS15 设备在这个网页的时候调用的是后置摄像头，还 TM 是那颗长焦，我当时入境的时候是让朋友帮我把护照拿的老远才扫描上的😭😭😭 https://t.co/Po8FJmnEYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 844,
+          "like_count": 8053,
+          "listed_count": 6,
+          "media_count": 1031,
+          "tweet_count": 3292
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17727,
+          "following_count": 217,
+          "like_count": 582,
+          "listed_count": 43,
+          "media_count": 1118,
+          "tweet_count": 2967
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

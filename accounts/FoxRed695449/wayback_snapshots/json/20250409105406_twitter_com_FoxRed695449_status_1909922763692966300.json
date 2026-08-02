@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1909921344827134159",
+    "created_at": "2025-04-09T10:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T11:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909922763692966300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "CharmSnowflake"
+        }
+      ],
+      "urls": [
+        {
+          "description": "天水圍東華三院一間中學日前發生學生推撞事件，一名中三女學生在校內疑遭一名中一男生用手觸摸及推撞襲擊；事主其後在社交平台發文指控校方不容許報警。據報道，女生將事件告知家人並自行報警求助。",
+          "display_url": "orangenews.hk/hongkong/12635…",
+          "end": 39,
+          "expanded_url": "https://www.orangenews.hk/hongkong/1263520/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E7%96%91%E5%B0%8F%E6%81%AF%E9%81%87%E8%A5%B2%E8%81%B2%E7%A8%B1%E6%A0%A1%E6%96%B9%E9%98%BB%E5%A0%B1%E8%AD%A6-%E6%95%99%E8%82%B2%E5%B1%80%E9%97%9C%E6%B3%A8%E4%BA%8B%E4%BB%B6%E6%8F%90%E9%86%92%E9%A0%88%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86.shtml",
+          "start": 16,
+          "status": 200,
+          "title": "天水圍中學女生疑小息遇襲聲稱校方阻報警　教育局關注事件提醒須嚴肅處理",
+          "unwound_url": "https://www.orangenews.hk/hongkong/1263520/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E7%96%91%E5%B0%8F%E6%81%AF%E9%81%87%E8%A5%B2%E8%81%B2%E7%A8%B1%E6%A0%A1%E6%96%B9%E9%98%BB%E5%A0%B1%E8%AD%A6-%E6%95%99%E8%82%B2%E5%B1%80%E9%97%9C%E6%B3%A8%E4%BA%8B%E4%BB%B6%E6%8F%90%E9%86%92%E9%A0%88%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86.shtml",
+          "url": "https://t.co/XEzm72Rskw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909922763692966300",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909922267309691077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmSnowflake https://t.co/XEzm72Rskw"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909922267309691077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909922267309691077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909922267309691077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1909921344827134159",
+        "created_at": "2025-04-09T10:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T11:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909922763692966300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "CharmSnowflake"
+            }
+          ],
+          "urls": [
+            {
+              "description": "天水圍東華三院一間中學日前發生學生推撞事件，一名中三女學生在校內疑遭一名中一男生用手觸摸及推撞襲擊；事主其後在社交平台發文指控校方不容許報警。據報道，女生將事件告知家人並自行報警求助。",
+              "display_url": "orangenews.hk/hongkong/12635…",
+              "end": 39,
+              "expanded_url": "https://www.orangenews.hk/hongkong/1263520/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E7%96%91%E5%B0%8F%E6%81%AF%E9%81%87%E8%A5%B2%E8%81%B2%E7%A8%B1%E6%A0%A1%E6%96%B9%E9%98%BB%E5%A0%B1%E8%AD%A6-%E6%95%99%E8%82%B2%E5%B1%80%E9%97%9C%E6%B3%A8%E4%BA%8B%E4%BB%B6%E6%8F%90%E9%86%92%E9%A0%88%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86.shtml",
+              "start": 16,
+              "status": 200,
+              "title": "天水圍中學女生疑小息遇襲聲稱校方阻報警　教育局關注事件提醒須嚴肅處理",
+              "unwound_url": "https://www.orangenews.hk/hongkong/1263520/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E4%B8%AD%E5%AD%B8%E5%A5%B3%E7%94%9F%E7%96%91%E5%B0%8F%E6%81%AF%E9%81%87%E8%A5%B2%E8%81%B2%E7%A8%B1%E6%A0%A1%E6%96%B9%E9%98%BB%E5%A0%B1%E8%AD%A6-%E6%95%99%E8%82%B2%E5%B1%80%E9%97%9C%E6%B3%A8%E4%BA%8B%E4%BB%B6%E6%8F%90%E9%86%92%E9%A0%88%E5%9A%B4%E8%82%85%E8%99%95%E7%90%86.shtml",
+              "url": "https://t.co/XEzm72Rskw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909922763692966300",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909922267309691077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmSnowflake https://t.co/XEzm72Rskw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3564,
+          "following_count": 596,
+          "like_count": 2763,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世: @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓貓的小貓窩, 隱藏了深為不知人的事\n僅限熟悉推友(通常被此帳追蹤)可以申請訪問\n推崇平等自由, 粉紅勿擾, 斷續含糖無od小量自殘, 自閉症, 不穩定抑鬱,🩵MtX🩷, 泛性戀, INFP-T, 🍥27/12/2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "SchneeSchmitt"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "Madrid, España | 馬德里, 西班牙",
+        "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908484459663679488/c-u1cUCD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 319,
+          "like_count": 13339,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1199
+        },
+        "username": "CharmSnowflake",
+        "verified": false
+      }
+    ]
+  }
+}

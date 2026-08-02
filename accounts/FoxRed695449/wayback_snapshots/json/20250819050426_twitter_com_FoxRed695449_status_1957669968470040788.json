@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957669961566154753"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956893653814906982",
+    "created_at": "2025-08-19T05:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957669968470040788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736734971979776000",
+          "start": 0,
+          "username": "china4tulipa"
+        },
+        {
+          "end": 27,
+          "id": "1071980496031178752",
+          "start": 14,
+          "username": "hk2019freehk"
+        },
+        {
+          "end": 41,
+          "id": "895966029842702336",
+          "start": 28,
+          "username": "Lost_inChina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sNlW3R6oiQ",
+          "end": 65,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957669968470040788/photo/1",
+          "media_key": "3_1957669961566154753",
+          "start": 42,
+          "url": "https://t.co/sNlW3R6oiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957669968470040788",
+    "in_reply_to_user_id": "1736734971979776000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957435009066729843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china4tulipa @hk2019freehk @Lost_inChina https://t.co/sNlW3R6oiQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_1957669961566154753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GysKdTaacAEuisM.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957669961566154753"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956893653814906982",
+        "created_at": "2025-08-19T05:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957669968470040788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736734971979776000",
+              "start": 0,
+              "username": "china4tulipa"
+            },
+            {
+              "end": 27,
+              "id": "1071980496031178752",
+              "start": 14,
+              "username": "hk2019freehk"
+            },
+            {
+              "end": 41,
+              "id": "895966029842702336",
+              "start": 28,
+              "username": "Lost_inChina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNlW3R6oiQ",
+              "end": 65,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957669968470040788/photo/1",
+              "media_key": "3_1957669961566154753",
+              "start": 42,
+              "url": "https://t.co/sNlW3R6oiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957669968470040788",
+        "in_reply_to_user_id": "1736734971979776000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957435009066729843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china4tulipa @hk2019freehk @Lost_inChina https://t.co/sNlW3R6oiQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736734971979776000",
+        "conversation_id": "1956893653814906982",
+        "created_at": "2025-08-18T13:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957435009066729843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1071980496031178752",
+              "start": 0,
+              "username": "hk2019freehk"
+            },
+            {
+              "end": 27,
+              "id": "895966029842702336",
+              "start": 14,
+              "username": "Lost_inChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957435009066729843",
+        "in_reply_to_user_id": "1071980496031178752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2070,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956916561572417776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hk2019freehk @Lost_inChina 大陆抢香港资源？几年前大陆人去香港买买买而已。\n问一个问题：香港人饮用水来自哪里？来自美国密西西比水库，还是英国的温德米尔湖？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 695,
+          "like_count": 4044,
+          "listed_count": 7,
+          "media_count": 662,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T13:08:07.000Z",
+        "description": "爱大家小家，爱美景美食🇨🇳。\n100%互fo。",
+        "id": "1736734971979776000",
+        "location": "Lansing MI",
+        "name": "上下五千年",
+        "pinned_tweet_id": "1952027994198872223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910604285290930177/q0ZGOMU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5535,
+          "following_count": 5003,
+          "like_count": 54462,
+          "listed_count": 8,
+          "media_count": 1411,
+          "tweet_count": 15287
+        },
+        "username": "china4tulipa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T04:10:41.000Z",
+        "description": "消息或謠言的驗證標準： 1. 股市有沒有上升？ 2. 軍隊有沒有調動？  3. 美國有沒有反應？",
+        "id": "1071980496031178752",
+        "name": "香港/中國新聞（AI論政）-小豬",
+        "pinned_tweet_id": "1921129538681192518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843805597906677761/zx_7dmlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20632,
+          "following_count": 4014,
+          "like_count": 220378,
+          "listed_count": 115,
+          "media_count": 24087,
+          "tweet_count": 77869
+        },
+        "username": "hk2019freehk",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-11T11:12:02.000Z",
+        "description": "这事不能说太细",
+        "id": "895966029842702336",
+        "name": "这事不能说太细",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739414363834851328/X6ewVauk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 177,
+          "like_count": 5790,
+          "listed_count": 5,
+          "media_count": 1097,
+          "tweet_count": 10034
+        },
+        "username": "Lost_inChina",
+        "verified": false
+      }
+    ]
+  }
+}

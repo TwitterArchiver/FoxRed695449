@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076137905660280832"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2076137925134479484",
+    "created_at": "2026-07-12T02:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076137925134479484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FoOyFKYetQ",
+          "end": 34,
+          "expanded_url": "https://x.com/FoxRed695449/status/2076137925134479484/photo/1",
+          "media_key": "3_2076137905660280832",
+          "start": 11,
+          "url": "https://t.co/FoOyFKYetQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076137925134479484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和帕鲁一起被抓了呜呜 https://t.co/FoOyFKYetQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2076137905660280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_sbOOawAA8Kzd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076137905660280832"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2076137925134479484",
+        "created_at": "2026-07-12T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076137925134479484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FoOyFKYetQ",
+              "end": 34,
+              "expanded_url": "https://x.com/FoxRed695449/status/2076137925134479484/photo/1",
+              "media_key": "3_2076137905660280832",
+              "start": 11,
+              "url": "https://t.co/FoOyFKYetQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076137925134479484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和帕鲁一起被抓了呜呜 https://t.co/FoOyFKYetQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 845,
+          "like_count": 8242,
+          "listed_count": 6,
+          "media_count": 1068,
+          "tweet_count": 3408
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

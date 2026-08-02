@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064340126382334426",
+    "created_at": "2026-06-09T14:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064360593596002450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1299977597527273472",
+          "start": 0,
+          "username": "aizai_711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064360593596002450",
+    "in_reply_to_user_id": "1299977597527273472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064340126382334426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizai_711 你好\n我在中国大陆读国际学校能给例外吗\n那些已经工作了的能给例外吗\n提高到18岁是只要有人和任何在中国大陆14-18这个区间的，例如我，做了哪怕我完全同意也算强奸懂吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064340126382334426",
+        "created_at": "2026-06-09T14:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064360593596002450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1299977597527273472",
+              "start": 0,
+              "username": "aizai_711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064360593596002450",
+        "in_reply_to_user_id": "1299977597527273472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064340126382334426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizai_711 你好\n我在中国大陆读国际学校能给例外吗\n那些已经工作了的能给例外吗\n提高到18岁是只要有人和任何在中国大陆14-18这个区间的，例如我，做了哪怕我完全同意也算强奸懂吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299977597527273472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2064340126382334426",
+        "created_at": "2026-06-09T13:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064340126382334426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064340126382334426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "提高性同意年龄到18到底他爸的怎么了，中国人是觉得18岁以下的人，游戏都不能随时随地打，成天被关在学校里从早学到晚，经济来源还要靠母父，却有能力承担起意外怀孕的风险，还能顺便把想侵犯它们（我特地不用她，以防男的不记得男性也会被性侵）的成年人一个过肩摔摔到恋童癖的坟头是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 841,
+          "like_count": 8118,
+          "listed_count": 6,
+          "media_count": 1038,
+          "tweet_count": 3321
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-30T07:50:04.000Z",
+        "description": "",
+        "id": "1299977597527273472",
+        "name": "MAKIMA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940014925121814529/JBIt-ktr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 138,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "aizai_711",
+        "verified": false
+      }
+    ]
+  }
+}

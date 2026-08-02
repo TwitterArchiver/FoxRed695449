@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890219985051820032"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890219987794817135",
+    "created_at": "2025-02-14T02:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T03:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890219987794817135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IeOnRcC722",
+          "end": 165,
+          "expanded_url": "https://x.com/FoxRed695449/status/1890219987794817135/photo/1",
+          "media_key": "3_1890219985051820032",
+          "start": 142,
+          "url": "https://t.co/IeOnRcC722"
+        },
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1890197497949352116",
+          "start": 166,
+          "url": "https://t.co/NErx4JkPr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890219987794817135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890197497949352116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有的時候挺無語的，被這種人搞的我們這種不作弊的人的路也和他們一樣越來越少...（只因為內地籍）\n我現在甚至怕等我讀完中學申請大學的時候香港的大學不認內地籍學生的非高考成績了（之前澳門就因為內地學生大量用假的國際考試成績申請大學而直接不認了）（香港也能看到內地學生用假成績申請的新聞） https://t.co/IeOnRcC722 https://t.co/NErx4JkPr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_1890219985051820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjtpD8RboAAGh7X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890219985051820032"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890219987794817135",
+        "created_at": "2025-02-14T02:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T03:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890219987794817135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeOnRcC722",
+              "end": 165,
+              "expanded_url": "https://x.com/FoxRed695449/status/1890219987794817135/photo/1",
+              "media_key": "3_1890219985051820032",
+              "start": 142,
+              "url": "https://t.co/IeOnRcC722"
+            },
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1890197497949352116",
+              "start": 166,
+              "url": "https://t.co/NErx4JkPr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890219987794817135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890197497949352116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的時候挺無語的，被這種人搞的我們這種不作弊的人的路也和他們一樣越來越少...（只因為內地籍）\n我現在甚至怕等我讀完中學申請大學的時候香港的大學不認內地籍學生的非高考成績了（之前澳門就因為內地學生大量用假的國際考試成績申請大學而直接不認了）（香港也能看到內地學生用假成績申請的新聞） https://t.co/IeOnRcC722 https://t.co/NErx4JkPr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890197495353167872",
+            "3_1890197495722156033"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1890197497949352116",
+        "created_at": "2025-02-14T00:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T01:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890197497949352116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHg5tZWk2X",
+              "end": 58,
+              "expanded_url": "https://x.com/jakobsonradical/status/1890197497949352116/photo/1",
+              "media_key": "3_1890197495353167872",
+              "start": 35,
+              "url": "https://t.co/fHg5tZWk2X"
+            },
+            {
+              "display_url": "pic.x.com/fHg5tZWk2X",
+              "end": 58,
+              "expanded_url": "https://x.com/jakobsonradical/status/1890197497949352116/photo/1",
+              "media_key": "3_1890197495722156033",
+              "start": 35,
+              "url": "https://t.co/fHg5tZWk2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890197497949352116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4634,
+          "like_count": 61,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "中国学生原先在国际英语考试中作弊，现在还开始在日语考试中集体作弊了。 https://t.co/fHg5tZWk2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 487,
+          "like_count": 1599,
+          "listed_count": 6,
+          "media_count": 336,
+          "tweet_count": 1038
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231591,
+          "following_count": 1484,
+          "like_count": 43378,
+          "listed_count": 946,
+          "media_count": 17432,
+          "tweet_count": 24635
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

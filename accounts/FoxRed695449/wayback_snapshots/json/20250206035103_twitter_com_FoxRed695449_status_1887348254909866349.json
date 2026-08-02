@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1887346820734693811",
+    "created_at": "2025-02-06T03:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T04:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887348254909866349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504676358475157504",
+          "start": 0,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887348254909866349",
+    "in_reply_to_user_id": "1504676358475157504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887346820734693811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964TortoiseBlk 姐姐好看呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1887346820734693811",
+        "created_at": "2025-02-06T03:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887348254909866349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887348254909866349",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887346820734693811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 姐姐好看呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887346816527835139",
+            "3_1887346816251019264",
+            "3_1887346816280412160",
+            "3_1887346816498475008"
+          ]
+        },
+        "author_id": "1504676358475157504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887346820734693811",
+        "created_at": "2025-02-06T03:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887346820734693811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lzv6q4BYRx",
+              "end": 62,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/1887346820734693811/photo/1",
+              "media_key": "3_1887346816527835139",
+              "start": 39,
+              "url": "https://t.co/Lzv6q4BYRx"
+            },
+            {
+              "display_url": "pic.x.com/Lzv6q4BYRx",
+              "end": 62,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/1887346820734693811/photo/1",
+              "media_key": "3_1887346816251019264",
+              "start": 39,
+              "url": "https://t.co/Lzv6q4BYRx"
+            },
+            {
+              "display_url": "pic.x.com/Lzv6q4BYRx",
+              "end": 62,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/1887346820734693811/photo/1",
+              "media_key": "3_1887346816280412160",
+              "start": 39,
+              "url": "https://t.co/Lzv6q4BYRx"
+            },
+            {
+              "display_url": "pic.x.com/Lzv6q4BYRx",
+              "end": 62,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/1887346820734693811/photo/1",
+              "media_key": "3_1887346816498475008",
+              "start": 39,
+              "url": "https://t.co/Lzv6q4BYRx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1887346820734693811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港机场天际酒廊，坐着吃东西看飞机☺️，就是没有自助餐兑换的券只包含一个早餐 https://t.co/Lzv6q4BYRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 463,
+          "like_count": 1387,
+          "listed_count": 6,
+          "media_count": 293,
+          "tweet_count": 930
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武🍥（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8552,
+          "following_count": 377,
+          "like_count": 225761,
+          "listed_count": 21,
+          "media_count": 2580,
+          "tweet_count": 57187
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

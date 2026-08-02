@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873284216345264211",
+    "created_at": "2024-12-29T09:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T10:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873301813187031183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1556640645447827461",
+          "start": 0,
+          "username": "Bq88UorZLiFvyMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873301813187031183",
+    "in_reply_to_user_id": "1556640645447827461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873301165729067077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bq88UorZLiFvyMN 抱抱\n你畢業考加油喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873284216345264211",
+        "created_at": "2024-12-29T09:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873301813187031183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556640645447827461",
+              "start": 0,
+              "username": "Bq88UorZLiFvyMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873301813187031183",
+        "in_reply_to_user_id": "1556640645447827461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873301165729067077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bq88UorZLiFvyMN 抱抱\n你畢業考加油喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1873284216345264211",
+        "created_at": "2024-12-29T09:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T10:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873301165729067077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873301165729067077",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873284216345264211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 在上學🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 386,
+          "like_count": 1075,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 582
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，有時候精神狀態低下(大多數時候正常)，會python(基礎)，活的，有問題私信(正常的會回)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1820666880765686115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818199395399290880/-Z0GVcm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 1505,
+          "like_count": 23972,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 7203
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      }
+    ]
+  }
+}

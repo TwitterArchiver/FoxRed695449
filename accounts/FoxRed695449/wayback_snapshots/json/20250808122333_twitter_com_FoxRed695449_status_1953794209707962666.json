@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953794199721324547"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1953756986597945522",
+    "created_at": "2025-08-08T12:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T13:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953794209707962666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWVkxjpHxA",
+          "end": 54,
+          "expanded_url": "https://x.com/FoxRed695449/status/1953794209707962666/photo/1",
+          "media_key": "3_1953794199721324547",
+          "start": 31,
+          "url": "https://t.co/NWVkxjpHxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953794209707962666",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953756986597945522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 图片怎么不用刚刚直播采访的画面（不是 https://t.co/NWVkxjpHxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2308,
+        "media_key": "3_1953794199721324547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1FeRabsAMevLu.jpg",
+        "width": 3986
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1953756944818491392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0jlwFb0AATV1X.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953794199721324547"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1953756986597945522",
+        "created_at": "2025-08-08T12:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953794209707962666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWVkxjpHxA",
+              "end": 54,
+              "expanded_url": "https://x.com/FoxRed695449/status/1953794209707962666/photo/1",
+              "media_key": "3_1953794199721324547",
+              "start": 31,
+              "url": "https://t.co/NWVkxjpHxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953794209707962666",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953756986597945522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 图片怎么不用刚刚直播采访的画面（不是 https://t.co/NWVkxjpHxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953756944818491392"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1953756986597945522",
+        "created_at": "2025-08-08T09:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953756986597945522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tx8fRTgId",
+              "end": 139,
+              "expanded_url": "https://x.com/bbcchinese/status/1953756986597945522/photo/1",
+              "media_key": "3_1953756944818491392",
+              "start": 116,
+              "url": "https://t.co/5tx8fRTgId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953756986597945522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 668,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 645,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          },
+          "text": "以色列总理内塔尼亚胡（Benjamin Netanyahu）的办公室表示，以色列安全内阁已批准一项计划，准备全面控制位于加沙地带北部的加沙城。\n\n该决定标志着这场持续近两年的战争的升级。加沙城是加沙地带的最大城市，有数十万人居住。\n\n以色列总理办公室的声明称，安全内阁以多数票通过了该计划，并采纳了“结束战争的五项原则”。\n\n声明称，这些原则包括：解除哈马斯武装；归还所有人质；加沙地带实现非军事化；维持以色列对加沙地带的安全控制；建立一个既不属于哈马斯也不是巴勒斯坦权力机构的替代文职政府。\n\n接管加沙城的计划在以色列国内引发抗议，尤其是遭到仍被关押在该地区的人质家属的强烈谴责。据信目前还有20多名人质生还。\n\n以色列反对派领袖亚伊尔·拉皮德（Yair Lapid）表示，安全内阁决定接管加沙城是“一场灾难”。他指出，接管加沙市将导致剩余人质死亡，以及大量以色列士兵阵亡。\n\n联合国警告称，以色列扩大军事行动可能会给巴勒斯坦平民和以色列人质带来“灾难性后果”。英国首相施纪贤（斯塔默；Keir Starmer）也表示，以色列在加沙的军事行动升级是“错误的”，只会“带来更多流血”。\n\nBBC驻中东记者胡戈·巴切加（Hugo Bachega）指出，控制加沙城很可能是全面接管加沙的第一阶段。内塔尼亚胡早前曾表示，他打算接管整个加沙地带。\n\n内塔尼亚胡的全面军事占领计划遭到军方领导层的强烈反对，以色列军队总参谋长埃亚勒·扎米尔（Eyal Zamir）警告他这是一个“陷阱”。\n\n更多新闻：https://t.co/xPNsBSpeEC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17466,
+          "like_count": 33,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "以色列总理内塔尼亚胡（Benjamin Netanyahu）的办公室表示，以色列安全内阁已批准一项计划，准备全面控制位于加沙地带北部的加沙城。\n\n该决定标志着这场持续近两年的战争的升级。加沙城是加沙地带的最大城市，有数十万人居住。 https://t.co/5tx8fRTgId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 681,
+          "like_count": 3885,
+          "listed_count": 7,
+          "media_count": 601,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5060347,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11809,
+          "media_count": 23692,
+          "tweet_count": 153381
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

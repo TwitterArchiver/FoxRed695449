@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2062134830155071626",
+    "created_at": "2026-06-03T11:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062134830155071626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2044047208857718785",
+          "start": 3,
+          "username": "minsohouhetapen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062134830155071626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062089408652963979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minsohouhetapen: 「同学们我来晚了，你们还年轻，来日方长」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2062134830155071626",
+        "created_at": "2026-06-03T11:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062134830155071626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2044047208857718785",
+              "start": 3,
+              "username": "minsohouhetapen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062134830155071626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062089408652963979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minsohouhetapen: 「同学们我来晚了，你们还年轻，来日方长」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044047208857718785",
+        "conversation_id": "2062089408652963979",
+        "created_at": "2026-06-03T08:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062089408652963979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smile_kun422/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/smile_kun422/status/2062005104505663667",
+              "start": 21,
+              "url": "https://t.co/hsyE6f6zU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062089408652963979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2548,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062005104505663667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「同学们我来晚了，你们还年轻，来日方长」 https://t.co/hsyE6f6zU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 841,
+          "like_count": 8078,
+          "listed_count": 6,
+          "media_count": 1034,
+          "tweet_count": 3300
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T13:37:02.000Z",
+        "description": "于是漫长的季节结束了，故事在樱花飘落后得以续写",
+        "id": "2044047208857718785",
+        "location": "春日小径庭院",
+        "name": "ちとせ",
+        "pinned_tweet_id": "2056508951647375516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044047507643346945/jf-LsDvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 287,
+          "like_count": 1991,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 530
+        },
+        "username": "minsohouhetapen",
+        "verified": false
+      }
+    ]
+  }
+}

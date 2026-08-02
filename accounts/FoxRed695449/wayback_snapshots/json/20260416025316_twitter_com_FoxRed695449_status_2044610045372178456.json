@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2044006809204339176",
+    "created_at": "2026-04-16T02:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044610045372178456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1564597831888826369",
+          "start": 0,
+          "username": "littienight1"
+        },
+        {
+          "end": 29,
+          "id": "2000553467484704769",
+          "start": 14,
+          "username": "chnjnghn441707"
+        },
+        {
+          "end": 41,
+          "id": "1585458726193967104",
+          "start": 30,
+          "username": "210501224l"
+        },
+        {
+          "end": 51,
+          "id": "1911628907842818049",
+          "start": 42,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044610045372178456",
+    "in_reply_to_user_id": "1564597831888826369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044608990861238717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littienight1 @chnjnghn441707 @210501224l @codyhunk 感觉看网点工作人员以及当地反诈的严不严，像云南某些地方的确就是开卡难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2044006809204339176",
+        "created_at": "2026-04-16T02:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044610045372178456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1564597831888826369",
+              "start": 0,
+              "username": "littienight1"
+            },
+            {
+              "end": 29,
+              "id": "2000553467484704769",
+              "start": 14,
+              "username": "chnjnghn441707"
+            },
+            {
+              "end": 41,
+              "id": "1585458726193967104",
+              "start": 30,
+              "username": "210501224l"
+            },
+            {
+              "end": 51,
+              "id": "1911628907842818049",
+              "start": 42,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044610045372178456",
+        "in_reply_to_user_id": "1564597831888826369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044608990861238717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littienight1 @chnjnghn441707 @210501224l @codyhunk 感觉看网点工作人员以及当地反诈的严不严，像云南某些地方的确就是开卡难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564597831888826369",
+        "conversation_id": "2044006809204339176",
+        "created_at": "2026-04-16T02:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044608990861238717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "2000553467484704769",
+              "start": 14,
+              "username": "chnjnghn441707"
+            },
+            {
+              "end": 41,
+              "id": "1585458726193967104",
+              "start": 30,
+              "username": "210501224l"
+            },
+            {
+              "end": 51,
+              "id": "1911628907842818049",
+              "start": 42,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044608990861238717",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044608482264154591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @chnjnghn441707 @210501224l @codyhunk 你这么说也是有道理的，我觉得可能银行也是对人下菜的，有的客户需要抄有的客户不用抄签字就行了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 810,
+          "like_count": 7491,
+          "listed_count": 7,
+          "media_count": 987,
+          "tweet_count": 3137
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-30T12:56:20.000Z",
+        "description": "人在三亚进行长期的田野工作。苦逼学位双修者，本科主修社会学，辅修英语文学；硕士主修社会学，辅修金融。没有什么特殊爱好，喜欢瞎逛。中文🇨🇳👌🏻，英文English🇺🇸👌🏻，日语日本語📖ing。 🪡@LiiTakaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "LiiTakaa"
+              }
+            ]
+          }
+        },
+        "id": "1564597831888826369",
+        "name": "夜风VW_Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022307248966610944/xha6FKMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 679,
+          "like_count": 2692,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "littienight1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T13:08:20.000Z",
+        "description": "",
+        "id": "2000553467484704769",
+        "name": "石塔桥南因扎吉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000553537332510720/wFOD7Lk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "chnjnghn441707",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T02:30:18.000Z",
+        "description": "",
+        "id": "1585458726193967104",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "faiz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585458839813431296/KeaCssG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 108,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "210501224l",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12692,
+          "following_count": 1277,
+          "like_count": 23551,
+          "listed_count": 31,
+          "media_count": 5772,
+          "tweet_count": 8780
+        },
+        "username": "codyhunk",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-30T12:56:20.000Z",
+        "description": "人在三亚进行长期的田野工作。苦逼学位双修者，本科主修社会学，辅修英语文学；硕士主修社会学，辅修金融。没有什么特殊爱好，喜欢瞎逛。中文🇨🇳👌🏻，英文English🇺🇸👌🏻，日语日本語📖ing。 🪡@LiiTakaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "LiiTakaa"
+              }
+            ]
+          }
+        },
+        "id": "1564597831888826369",
+        "name": "夜风VW_Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022307248966610944/xha6FKMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 679,
+          "like_count": 2692,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1412
+        },
+        "username": "littienight1",
+        "verified": false
+      }
+    ]
+  }
+}

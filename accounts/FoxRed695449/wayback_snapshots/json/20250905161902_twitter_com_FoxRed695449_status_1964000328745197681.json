@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1963831917901693133",
+    "created_at": "2025-09-05T16:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964000328745197681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3346170279",
+          "start": 0,
+          "username": "Amosolon0624"
+        },
+        {
+          "end": 26,
+          "id": "1468163720195239938",
+          "start": 14,
+          "username": "wonyoung_ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964000328745197681",
+    "in_reply_to_user_id": "3346170279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963998110549422336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amosolon0624 @wonyoung_ou 我的母親是中國🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1963831917901693133",
+        "created_at": "2025-09-05T16:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964000328745197681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3346170279",
+              "start": 0,
+              "username": "Amosolon0624"
+            },
+            {
+              "end": 26,
+              "id": "1468163720195239938",
+              "start": 14,
+              "username": "wonyoung_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964000328745197681",
+        "in_reply_to_user_id": "3346170279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963998110549422336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amosolon0624 @wonyoung_ou 我的母親是中國🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3346170279",
+        "conversation_id": "1963831917901693133",
+        "created_at": "2025-09-05T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963998110549422336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468163720195239938",
+              "start": 0,
+              "username": "wonyoung_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963998110549422336",
+        "in_reply_to_user_id": "1468163720195239938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963831917901693133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonyoung_ou 这你都知道 那你知道草拟麻痹可以延年益寿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 696,
+          "like_count": 4254,
+          "listed_count": 8,
+          "media_count": 749,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-26T02:59:18.000Z",
+        "description": "family,game and love",
+        "id": "3346170279",
+        "location": "Alabama, USA",
+        "name": "GreadL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072662811078201344/HdVoestk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 110,
+          "like_count": 9308,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 4151
+        },
+        "username": "Amosolon0624",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T10:22:07.000Z",
+        "description": "格安留学/不動産専門/就労支援/両替屋/君子居必择乡、遊必就士、所以防邪僻而近中正也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpK6b…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpK6b7YCSlU4aN_tPdP4Daw",
+                "start": 0,
+                "url": "https://t.co/vvlVA1CzKz"
+              }
+            ]
+          }
+        },
+        "id": "1468163720195239938",
+        "location": "神奈 横浜市 神奈川区",
+        "name": "王　員英（追星版）",
+        "pinned_tweet_id": "1813064868666483068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957026312767623168/tJFL2nX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83803,
+          "following_count": 764,
+          "like_count": 38528,
+          "listed_count": 345,
+          "media_count": 4962,
+          "tweet_count": 11101
+        },
+        "url": "https://t.co/vvlVA1CzKz",
+        "username": "wonyoung_ou",
+        "verified": true
+      }
+    ]
+  }
+}

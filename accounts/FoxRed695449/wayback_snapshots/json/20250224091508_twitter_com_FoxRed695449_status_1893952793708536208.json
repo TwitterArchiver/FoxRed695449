@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1893588011943702827",
+    "created_at": "2025-02-24T09:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T10:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893952793708536208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1223823326881243136",
+          "start": 0,
+          "username": "wangbei2020"
+        },
+        {
+          "end": 27,
+          "id": "3460383084",
+          "start": 13,
+          "username": "TruthMedia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893952793708536208",
+    "in_reply_to_user_id": "1223823326881243136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893900540397879686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangbei2020 @TruthMedia123 因为你那个时候有人抑郁了\n“你听说了吗，有个人跳河死了”\n“你听说了吗，村口有个疯子”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1893588011943702827",
+        "created_at": "2025-02-24T09:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T10:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893952793708536208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1223823326881243136",
+              "start": 0,
+              "username": "wangbei2020"
+            },
+            {
+              "end": 27,
+              "id": "3460383084",
+              "start": 13,
+              "username": "TruthMedia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893952793708536208",
+        "in_reply_to_user_id": "1223823326881243136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893900540397879686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangbei2020 @TruthMedia123 因为你那个时候有人抑郁了\n“你听说了吗，有个人跳河死了”\n“你听说了吗，村口有个疯子”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223823326881243136",
+        "conversation_id": "1893588011943702827",
+        "created_at": "2025-02-24T05:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T06:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893900540397879686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3460383084",
+              "start": 0,
+              "username": "TruthMedia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893900540397879686",
+        "in_reply_to_user_id": "3460383084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893588011943702827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TruthMedia123 有啥可抑郁的，我们上学时候七点半的早自习，九点半的晚自习，老师留作业跟批发似的。高中开始我就没睡过6个小时以上的觉，我们班50多人，都这样过来的，累成狗的同时还早恋呢，写完作业写情书，啃着凉包子迎着风骑车，晚上还得自慰一下，照样考大学，真没听说过谁抑郁的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3727,
+          "following_count": 513,
+          "like_count": 1935,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T04:20:11.000Z",
+        "description": "资深行骗专家，历史臭名昭著。财富再分配课题研究领军人物，欢迎同行交流，为实现一个虚伪嘈杂哀鸿遍野的商业世界而奋斗。",
+        "id": "1223823326881243136",
+        "location": "Dubai ",
+        "name": "反骨突出",
+        "pinned_tweet_id": "1456767149062561792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817625978908061696/UY_PF2VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 271,
+          "like_count": 431,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 5069
+        },
+        "username": "wangbei2020",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T15:04:03.000Z",
+        "description": "傳播真相，匡扶正義良知，回歸中華傳統。 世間總有公道。歡迎投稿爆料！如果推文有錯誤歡迎指正。通過本號私信發送即可。",
+        "id": "3460383084",
+        "name": "真相傳媒",
+        "pinned_tweet_id": "1892828132488728579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618727520500850692/SdW0o-cV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242578,
+          "following_count": 5155,
+          "like_count": 7003,
+          "listed_count": 615,
+          "media_count": 69093,
+          "tweet_count": 103551
+        },
+        "username": "TruthMedia123",
+        "verified": true
+      }
+    ]
+  }
+}

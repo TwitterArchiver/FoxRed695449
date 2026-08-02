@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1935259511771775222",
+    "created_at": "2025-06-18T09:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935263200293044487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "613074635",
+          "start": 0,
+          "username": "iTZQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935263200293044487",
+    "in_reply_to_user_id": "613074635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935261339859173601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iTZQing 经过测试bochk的可以，其他银行的不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1935259511771775222",
+        "created_at": "2025-06-18T09:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935263200293044487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "613074635",
+              "start": 0,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935263200293044487",
+        "in_reply_to_user_id": "613074635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935261339859173601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTZQing 经过测试bochk的可以，其他银行的不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "613074635",
+        "conversation_id": "1935259511771775222",
+        "created_at": "2025-06-18T09:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935261339859173601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935261339859173601",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935259511771775222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 👀atm卡可以绑么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1932630688412676393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 663,
+          "like_count": 3543,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 64in/114lb, 🚪67CNY. 是個笨蛋請多包容。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 比我还笨@LeQing123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "LeQing123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850535613432528896/Vt79Kpzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 985,
+          "like_count": 23691,
+          "listed_count": 10,
+          "media_count": 1686,
+          "tweet_count": 27167
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

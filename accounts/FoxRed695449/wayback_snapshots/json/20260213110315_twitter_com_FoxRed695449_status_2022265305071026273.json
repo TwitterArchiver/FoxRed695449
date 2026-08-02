@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2022250242985627962",
+    "created_at": "2026-02-13T11:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022265305071026273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022265305071026273",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022250242985627962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 隔壁就是阿里中心🤓👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1817,
+        "media_key": "3_2022250238992617472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB54MYakAA9iHN.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2022250242985627962",
+        "created_at": "2026-02-13T11:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022265305071026273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022265305071026273",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022250242985627962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 隔壁就是阿里中心🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022250238992617472"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2022250242985627962",
+        "created_at": "2026-02-13T10:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022250242985627962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZPtr9kxPr",
+              "end": 39,
+              "expanded_url": "https://x.com/qqqqqf5/status/2022250242985627962/photo/1",
+              "media_key": "3_2022250238992617472",
+              "start": 16,
+              "url": "https://t.co/hZPtr9kxPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022250242985627962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2331,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浙江大学附属医院精神卫生中心。 https://t.co/hZPtr9kxPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 765,
+          "like_count": 6208,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 2948
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清凤\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!\n生活/开发/发疯向账号: @qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2021217168906444882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8667,
+          "following_count": 1998,
+          "like_count": 14043,
+          "listed_count": 19,
+          "media_count": 2141,
+          "tweet_count": 4903
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

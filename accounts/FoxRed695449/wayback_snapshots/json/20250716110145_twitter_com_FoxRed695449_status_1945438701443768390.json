@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1945432140738338925",
+    "created_at": "2025-07-16T11:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T12:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945438701443768390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945438701443768390",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945432140738338925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 士多啤梨奶昔（香港）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1945432140738338925",
+        "created_at": "2025-07-16T11:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945438701443768390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945438701443768390",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945432140738338925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 士多啤梨奶昔（香港）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "1945432140738338925",
+        "created_at": "2025-07-16T10:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945432140738338925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945432140738338925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提问一下大家，大家最喜欢麦当劳的什么汉堡/小食/饮品呢？\n任何国家的产品都可以作答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 672,
+          "like_count": 3705,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "我人其实很好的，快来跟我交朋友吧|友一切善良的小可爱|什么都讲| @bayer04fussball\n文游bot试验中\n感谢所有每天看到我和跟我互动的每个人\nfo和互fo大欢迎，多评论更爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "bayer04fussball"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "星系-NGC 6523",
+        "name": "Tuệ Quều (امبر لونا)⚜️",
+        "pinned_tweet_id": "1929004849028366398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 848,
+          "like_count": 34445,
+          "listed_count": 6,
+          "media_count": 220,
+          "tweet_count": 14905
+        },
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

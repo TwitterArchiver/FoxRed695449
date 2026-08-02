@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1910345319076032981",
+    "created_at": "2025-04-10T14:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T15:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910345319076032981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678055759198953472",
+          "start": 3,
+          "username": "Nekonesiagov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910345319076032981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910344665502474649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nekonesiagov: 貓方對美方近日宣佈向全球徵收關稅之回應\nStatement of Nekonesia In Response to the Imposition of Tariffs to Countries Around the Globe by the…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_1910344628764893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoLoUYQbYAAPUxm.png",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1910345319076032981",
+        "created_at": "2025-04-10T14:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910345319076032981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678055759198953472",
+              "start": 3,
+              "username": "Nekonesiagov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910345319076032981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910344665502474649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nekonesiagov: 貓方對美方近日宣佈向全球徵收關稅之回應\nStatement of Nekonesia In Response to the Imposition of Tariffs to Countries Around the Globe by the…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910344628764893184"
+          ]
+        },
+        "author_id": "1678055759198953472",
+        "conversation_id": "1910344665502474649",
+        "created_at": "2025-04-10T14:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910344665502474649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLmkz3HhWB",
+              "end": 158,
+              "expanded_url": "https://x.com/Nekonesiagov/status/1910344665502474649/photo/1",
+              "media_key": "3_1910344628764893184",
+              "start": 135,
+              "url": "https://t.co/nLmkz3HhWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910344665502474649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "貓方對美方近日宣佈向全球徵收關稅之回應\nStatement of Nekonesia In Response to the Imposition of Tariffs to Countries Around the Globe by the United States https://t.co/nLmkz3HhWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 595,
+          "like_count": 2767,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T14:57:30.000Z",
+        "description": "貓貓尼西亞聯邦委員會官方推特帳號；為世界宣傳展示以貓貓為本的微國家。\nOfficial Twitter of the Federal Council of Nekonesia; \nShowcasing the world - a micronation based on cats.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.nekonesia.org",
+                "end": 23,
+                "expanded_url": "https://gov.nekonesia.org/",
+                "start": 0,
+                "url": "https://t.co/Lr960l1MI9"
+              }
+            ]
+          }
+        },
+        "id": "1678055759198953472",
+        "name": "貓貓尼西亞 Nekonesia",
+        "pinned_tweet_id": "1908210960860622907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907121103916748801/77n4PktC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 167,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/Lr960l1MI9",
+        "username": "Nekonesiagov",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993750750930063569",
+    "created_at": "2025-11-26T18:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993750750930063569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcworld/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bbcworld/status/1993738234279461087",
+          "start": 5,
+          "url": "https://t.co/UG9MTX72XA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993750750930063569",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993738234279461087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RIP… https://t.co/UG9MTX72XA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993750750930063569",
+        "created_at": "2025-11-26T18:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993750750930063569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcworld/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bbcworld/status/1993738234279461087",
+              "start": 5,
+              "url": "https://t.co/UG9MTX72XA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993750750930063569",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993738234279461087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RIP… https://t.co/UG9MTX72XA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742143",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1993738234279461087",
+        "created_at": "2025-11-26T17:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993738234279461087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9819,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The death toll continues to rise and hundreds are missing, as firefighters struggle to put out the fire.",
+              "display_url": "bbc.in/49CQn4T",
+              "end": 72,
+              "expanded_url": "https://bbc.in/49CQn4T",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/1993738236041052162/gsIz3ig_?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993738236041052162/gsIz3ig_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "What we know about the Hong Kong apartment fires",
+              "unwound_url": "https://www.bbc.com/news/articles/cdxe9r7wjgro?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_link_type=web_link&at_medium=social&at_format=link&at_link_id=E0884202-CAEF-11F0-9D8F-CBBE29D53E44&at_bbc_team=editorial&at_link_origin=BBCWorld&at_campaign_type=owned&at_campaign=Social_Flow",
+              "url": "https://t.co/M58Ho52cAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993738234279461087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 25869,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "What we know about the Hong Kong apartment fires https://t.co/M58Ho52cAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 702,
+          "like_count": 4983,
+          "listed_count": 7,
+          "media_count": 899,
+          "tweet_count": 2757
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-01T07:44:29.000Z",
+        "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "BBCBreaking"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "BBCNews"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "BBCSport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/news",
+                "end": 23,
+                "expanded_url": "http://www.bbc.com/news",
+                "start": 0,
+                "url": "https://t.co/4zUWrLAYqP"
+              }
+            ]
+          }
+        },
+        "id": "742143",
+        "location": "London, UK",
+        "name": "BBC News (World)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41545032,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 133097,
+          "media_count": 27235,
+          "tweet_count": 403262
+        },
+        "url": "https://t.co/4zUWrLAYqP",
+        "username": "BBCWorld",
+        "verified": true
+      }
+    ]
+  }
+}

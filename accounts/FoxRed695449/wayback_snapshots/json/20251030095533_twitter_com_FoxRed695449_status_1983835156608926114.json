@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1983730020561645993",
+    "created_at": "2025-10-30T09:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T10:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983835156608926114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "50683",
+          "start": 0,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983835156608926114",
+    "in_reply_to_user_id": "50683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983730020561645993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingyi 拿數據說話：\n比亞迪去年一年在日本售出2223辆車\n今年7月單月售出227辆車"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983730013813010433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ef7_Oa8AE4pm5.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1983730020561645993",
+        "created_at": "2025-10-30T09:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983835156608926114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "50683",
+              "start": 0,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983835156608926114",
+        "in_reply_to_user_id": "50683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983730020561645993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingyi 拿數據說話：\n比亞迪去年一年在日本售出2223辆車\n今年7月單月售出227辆車"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983730013813010433"
+          ]
+        },
+        "author_id": "50683",
+        "conversation_id": "1983730020561645993",
+        "created_at": "2025-10-30T02:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983730020561645993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS0Wb4YCxe",
+              "end": 97,
+              "expanded_url": "https://x.com/dingyi/status/1983730020561645993/photo/1",
+              "media_key": "3_1983730013813010433",
+              "start": 74,
+              "url": "https://t.co/tS0Wb4YCxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983730020561645993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10455,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么多人都说在日华人精神状态有问题，一开始我还觉得是刻板偏见，现在看还真不是。。。看看这位的回复，跟神经病一样，然后就把我拉黑了，笑死我了哈哈哈哈 https://t.co/tS0Wb4YCxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 668,
+          "like_count": 4736,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "Prev: Bewater, Mask, OPPO, 36Kr...\nDesign Newsletter ‣ https://t.co/q1JG1yCzdb\nDesign Engineer News ‣ https://t.co/uHtq1Z3Kus\nPromote your product: dingyi@me.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 78,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 55,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 125,
+                "expanded_url": "http://news.dex.group",
+                "start": 102,
+                "url": "https://t.co/uHtq1Z3Kus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": " Remote",
+        "name": "ding.one",
+        "pinned_tweet_id": "1981275335657476164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961774857223630848/YOjEFAE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164860,
+          "following_count": 4731,
+          "like_count": 4123,
+          "listed_count": 551,
+          "media_count": 2265,
+          "tweet_count": 55690
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

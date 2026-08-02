@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041692306592710656"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2041142883768783066",
+    "created_at": "2026-04-08T01:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041692309360988306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1731156622943367168",
+          "start": 0,
+          "username": "aa773314671984"
+        },
+        {
+          "end": 28,
+          "id": "4677053179",
+          "start": 16,
+          "username": "Nohomework0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qf0BQCq5HN",
+          "end": 112,
+          "expanded_url": "https://x.com/FoxRed695449/status/2041692309360988306/photo/1",
+          "media_key": "3_2041692306592710656",
+          "start": 89,
+          "url": "https://t.co/qf0BQCq5HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041692309360988306",
+    "in_reply_to_user_id": "1731156622943367168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041562190805610627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa773314671984 @Nohomework0 一年一次可以一年内可以在自助机上无限次开，团队旅游你觉得还有多次？难崩\n但凡打个12367问问都不至于说出这么离谱的话 https://t.co/qf0BQCq5HN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2041692306592710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWMVeMbQAAtYbZ.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041692306592710656"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2041142883768783066",
+        "created_at": "2026-04-08T01:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041692309360988306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1731156622943367168",
+              "start": 0,
+              "username": "aa773314671984"
+            },
+            {
+              "end": 28,
+              "id": "4677053179",
+              "start": 16,
+              "username": "Nohomework0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qf0BQCq5HN",
+              "end": 112,
+              "expanded_url": "https://x.com/FoxRed695449/status/2041692309360988306/photo/1",
+              "media_key": "3_2041692306592710656",
+              "start": 89,
+              "url": "https://t.co/qf0BQCq5HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041692309360988306",
+        "in_reply_to_user_id": "1731156622943367168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041562190805610627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa773314671984 @Nohomework0 一年一次可以一年内可以在自助机上无限次开，团队旅游你觉得还有多次？难崩\n但凡打个12367问问都不至于说出这么离谱的话 https://t.co/qf0BQCq5HN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731156622943367168",
+        "conversation_id": "2041142883768783066",
+        "created_at": "2026-04-07T17:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041562190805610627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 26,
+              "id": "4677053179",
+              "start": 14,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041562190805610627",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041486811877486926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Nohomework0 手里的这张卡只能申请。一年一次或者一年两次，对应的钱还不一样。你要是拿深圳比，那没话说，深圳无限的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 812,
+          "like_count": 7383,
+          "listed_count": 7,
+          "media_count": 980,
+          "tweet_count": 3104
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-03T03:41:30.000Z",
+        "description": "",
+        "id": "1731156622943367168",
+        "name": "aa",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 18,
+          "like_count": 15,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 15639
+        },
+        "username": "aa773314671984",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 3225,
+          "like_count": 10901,
+          "listed_count": 26,
+          "media_count": 1686,
+          "tweet_count": 23268
+        },
+        "username": "Nohomework0",
+        "verified": false
+      }
+    ]
+  }
+}

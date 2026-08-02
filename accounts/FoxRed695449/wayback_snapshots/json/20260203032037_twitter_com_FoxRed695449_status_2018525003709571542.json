@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2018525003709571542",
+    "created_at": "2026-02-03T03:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018525003709571542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dicky02168/sta…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/dicky02168/status/2018502522693108110",
+          "start": 133,
+          "url": "https://t.co/s66SVccJpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018525003709571542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018502522693108110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "香港作为《世界人权宣言》、《公民权利与政治权利国际公约》的缔约地区，一名“教育工作者”表达出如此支持“践踏”人权的言论实属对教育的亵渎\n《香港人权法案》第五条：人人有权享有身体自由及人身安全。任何人不得无理予以逮捕或拘禁。非依法定理由及程序，不得剥夺任何人之自由。 https://t.co/s66SVccJpP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2018525003709571542",
+        "created_at": "2026-02-03T03:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018525003709571542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dicky02168/sta…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/dicky02168/status/2018502522693108110",
+              "start": 133,
+              "url": "https://t.co/s66SVccJpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018525003709571542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018502522693108110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香港作为《世界人权宣言》、《公民权利与政治权利国际公约》的缔约地区，一名“教育工作者”表达出如此支持“践踏”人权的言论实属对教育的亵渎\n《香港人权法案》第五条：人人有权享有身体自由及人身安全。任何人不得无理予以逮捕或拘禁。非依法定理由及程序，不得剥夺任何人之自由。 https://t.co/s66SVccJpP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2510247865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2018497163437736033",
+        "created_at": "2026-02-03T01:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018502522693108110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018502522693108110",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是在香港做教育相关工作的，工作多年发现大部分小孩都是机不离手，上学途中边走边看电话，上到公交车上不停在吵闹要玩电话，有些更离谱的是家课不做，回到家中不断玩电话，所以我认为这种戒网的瘾学校出发点是很好的\n为何出现这种现象通常是基于家长管教的问题，家中管教得好的通常没有这个问题，出现这个问题到是家长/长辈纵容男孩子造成的，很少见女的有网瘾问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018497163437736033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我是在香港做教育相关工作的，工作多年发现大部分小孩都是机不离手，上学途中边走边看电话，上到公交车上不停在吵闹要玩电话，有些更离谱的是家课不做，回到家中不断玩电话，所以我认为这种戒网的瘾学校出发点是很好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 754,
+          "like_count": 6043,
+          "listed_count": 7,
+          "media_count": 930,
+          "tweet_count": 2897
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-20T12:17:47.000Z",
+        "description": "8y+ system engineer | Web3 game player | 3D printing lover\nドラゴンクエストのスライムが大好きです\n中文OK  English OK 日本語まあまあ",
+        "id": "2510247865",
+        "location": "Earth",
+        "name": "數字人先生 • Mr.numberman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007424861971603456/s2LeoOeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 2152,
+          "like_count": 8581,
+          "listed_count": 2,
+          "media_count": 1186,
+          "tweet_count": 13838
+        },
+        "username": "dicky02168",
+        "verified": true
+      }
+    ]
+  }
+}

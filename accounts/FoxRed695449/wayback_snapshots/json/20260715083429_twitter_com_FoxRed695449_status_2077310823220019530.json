@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077310814693036032"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272636957504356352",
+          "name": "Business professions"
+        }
+      }
+    ],
+    "conversation_id": "2076940173921706220",
+    "created_at": "2026-07-15T08:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077310823220019530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805486373186793472",
+          "start": 0,
+          "username": "reizisokk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/117ahlnnNf",
+          "end": 80,
+          "expanded_url": "https://x.com/FoxRed695449/status/2077310823220019530/photo/1",
+          "media_key": "3_2077310814693036032",
+          "start": 57,
+          "url": "https://t.co/117ahlnnNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077310823220019530",
+    "in_reply_to_user_id": "1805486373186793472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076940173921706220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reizisokk しかし、日本政府は依然として中国のソーシャルメディア上で日本旅行に関する広告を掲載している https://t.co/117ahlnnNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2077310814693036032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQXLg3bEAAv3YH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077310814693036032"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          }
+        ],
+        "conversation_id": "2076940173921706220",
+        "created_at": "2026-07-15T08:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077310823220019530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805486373186793472",
+              "start": 0,
+              "username": "reizisokk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/117ahlnnNf",
+              "end": 80,
+              "expanded_url": "https://x.com/FoxRed695449/status/2077310823220019530/photo/1",
+              "media_key": "3_2077310814693036032",
+              "start": 57,
+              "url": "https://t.co/117ahlnnNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077310823220019530",
+        "in_reply_to_user_id": "1805486373186793472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076940173921706220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reizisokk しかし、日本政府は依然として中国のソーシャルメディア上で日本旅行に関する広告を掲載している https://t.co/117ahlnnNf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805486373186793472",
+        "conversation_id": "2076940173921706220",
+        "created_at": "2026-07-14T08:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076940173921706220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076940173921706220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 1605456,
+          "like_count": 40450,
+          "quote_count": 151,
+          "reply_count": 802,
+          "retweet_count": 2933
+        },
+        "reply_settings": "everyone",
+        "text": "中国人に一番嫌いな国はどこ？って聞いたら、\n全員が「日本」と答えるらしい。\n日本も中国が嫌いでWin-Winなのに\nなんでわざわざ来るんだろう？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 845,
+          "like_count": 8262,
+          "listed_count": 6,
+          "media_count": 1070,
+          "tweet_count": 3415
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:21:14.000Z",
+        "description": "#日本が大好き です。支持政党は特にありません。先人が守ってきた平和で美しい日本を維持したい。そんな気持ちでポストしてるのでよろしくお願いします！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "日本が大好き"
+              }
+            ]
+          }
+        },
+        "id": "1805486373186793472",
+        "name": "令和ちゃん🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807477813475528704/Vsct4eLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27500,
+          "following_count": 1047,
+          "like_count": 334,
+          "listed_count": 67,
+          "media_count": 1,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "reizisokk",
+        "verified": true
+      }
+    ]
+  }
+}

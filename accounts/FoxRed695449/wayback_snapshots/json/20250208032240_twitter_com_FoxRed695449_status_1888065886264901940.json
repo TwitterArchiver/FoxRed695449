@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888065877616246785"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1888065886264901940",
+    "created_at": "2025-02-08T03:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T04:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888065886264901940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BujKkvidgl",
+          "end": 48,
+          "expanded_url": "https://x.com/FoxRed695449/status/1888065886264901940/photo/1",
+          "media_key": "3_1888065877616246785",
+          "start": 25,
+          "url": "https://t.co/BujKkvidgl"
+        },
+        {
+          "display_url": "x.com/Allenium114/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Allenium114/status/1887902810160914810",
+          "start": 49,
+          "url": "https://t.co/kcYYQSwNwB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888065886264901940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887902810160914810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還是刷家長的信用卡副卡好\n自己都沒花多少錢（逃） https://t.co/BujKkvidgl https://t.co/kcYYQSwNwB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888065877616246785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPB6YvaQAEZWT3.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888065877616246785"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1888065886264901940",
+        "created_at": "2025-02-08T03:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T04:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888065886264901940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BujKkvidgl",
+              "end": 48,
+              "expanded_url": "https://x.com/FoxRed695449/status/1888065886264901940/photo/1",
+              "media_key": "3_1888065877616246785",
+              "start": 25,
+              "url": "https://t.co/BujKkvidgl"
+            },
+            {
+              "display_url": "x.com/Allenium114/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Allenium114/status/1887902810160914810",
+              "start": 49,
+              "url": "https://t.co/kcYYQSwNwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888065886264901940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887902810160914810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還是刷家長的信用卡副卡好\n自己都沒花多少錢（逃） https://t.co/BujKkvidgl https://t.co/kcYYQSwNwB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887902801218658304"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1887902810160914810",
+        "created_at": "2025-02-07T16:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887902810160914810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWRnzKomu5",
+              "end": 30,
+              "expanded_url": "https://x.com/Allenium114/status/1887902810160914810/photo/1",
+              "media_key": "3_1887902801218658304",
+              "start": 7,
+              "url": "https://t.co/PWRnzKomu5"
+            },
+            {
+              "display_url": "x.com/shiroko2024/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/shiroko2024/status/1887901314463752485",
+              "start": 31,
+              "url": "https://t.co/GqTTCwQdmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887902810160914810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2338,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887901314463752485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是嗚嗚嗚 https://t.co/PWRnzKomu5 https://t.co/GqTTCwQdmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 467,
+          "like_count": 1440,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 971
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD&ASD/常驻川渝/小证持有butHrt 深柜⁉️/178cm56kg/A-Level🇭🇰/🔞08 年 16 岁♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "Minokakay"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "封号斗罗牢翎🍥(前世 5kfo 大号被封)",
+        "pinned_tweet_id": "1842819783219376461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660585905119234/rTIIEgUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 303,
+          "like_count": 3938,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

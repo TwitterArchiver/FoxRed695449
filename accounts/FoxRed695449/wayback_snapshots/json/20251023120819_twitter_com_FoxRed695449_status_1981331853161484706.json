@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981331845317885952"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981005185012101403",
+    "created_at": "2025-10-23T12:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T13:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981331853161484706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "888465715266809856",
+          "start": 0,
+          "username": "rxliuli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qog8IaSvke",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1981331853161484706/photo/1",
+          "media_key": "3_1981331845317885952",
+          "start": 20,
+          "url": "https://t.co/Qog8IaSvke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981331853161484706",
+    "in_reply_to_user_id": "888465715266809856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981005185012101403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rxliuli 直接用第三方api咯 https://t.co/Qog8IaSvke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1981331845317885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38a0NZXgAAXZqn.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981331845317885952"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981005185012101403",
+        "created_at": "2025-10-23T12:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981331853161484706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "888465715266809856",
+              "start": 0,
+              "username": "rxliuli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qog8IaSvke",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1981331853161484706/photo/1",
+              "media_key": "3_1981331845317885952",
+              "start": 20,
+              "url": "https://t.co/Qog8IaSvke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981331853161484706",
+        "in_reply_to_user_id": "888465715266809856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981005185012101403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rxliuli 直接用第三方api咯 https://t.co/Qog8IaSvke"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888465715266809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1981005185012101403",
+        "created_at": "2025-10-22T14:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981005185012101403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981005185012101403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 96311,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来香港网络还是比较痛苦的，连 WiFi 时代理用不了，然后一些网站（Claude/DigtalOcean）就无法使用了，好奇香港人怎么用 ChatGPT 这类屏蔽香港的应用？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 682,
+          "like_count": 4691,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-21T18:28:28.000Z",
+        "description": "有志者事竟成 #browserextension",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 7,
+                "tag": "browserextension"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rxliuli.com",
+                "end": 23,
+                "expanded_url": "https://rxliuli.com",
+                "start": 0,
+                "url": "https://t.co/Y5wC0UUzJ0"
+              }
+            ]
+          }
+        },
+        "id": "888465715266809856",
+        "location": "Hangzhou",
+        "name": "琉璃",
+        "pinned_tweet_id": "1916087526361862181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/896290684298174464/Yk3siS2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 413,
+          "like_count": 2353,
+          "listed_count": 20,
+          "media_count": 3333,
+          "tweet_count": 13528
+        },
+        "url": "https://t.co/Y5wC0UUzJ0",
+        "username": "rxliuli",
+        "verified": false
+      }
+    ]
+  }
+}

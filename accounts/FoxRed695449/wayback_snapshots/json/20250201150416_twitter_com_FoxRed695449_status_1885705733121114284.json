@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885705730000666624"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1885705733121114284",
+    "created_at": "2025-02-01T15:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T16:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885705733121114284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1837092704045649920",
+          "start": 13,
+          "username": "xiaoyuqeq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6GNUItwVHF",
+          "end": 47,
+          "expanded_url": "https://x.com/FoxRed695449/status/1885705733121114284/photo/1",
+          "media_key": "3_1885705730000666624",
+          "start": 24,
+          "url": "https://t.co/6GNUItwVHF"
+        },
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/FoxRed695449/status/1884237711743320394",
+          "start": 48,
+          "url": "https://t.co/CCxewALiWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885705733121114284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884237711743320394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天的中奖者是第2位转发者@xiaoyuqeq https://t.co/6GNUItwVHF https://t.co/CCxewALiWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885705730000666624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GitfXtubwAAYvLm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885705730000666624"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1885705733121114284",
+        "created_at": "2025-02-01T15:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T16:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885705733121114284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1837092704045649920",
+              "start": 13,
+              "username": "xiaoyuqeq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GNUItwVHF",
+              "end": 47,
+              "expanded_url": "https://x.com/FoxRed695449/status/1885705733121114284/photo/1",
+              "media_key": "3_1885705730000666624",
+              "start": 24,
+              "url": "https://t.co/6GNUItwVHF"
+            },
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/FoxRed695449/status/1884237711743320394",
+              "start": 48,
+              "url": "https://t.co/CCxewALiWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885705733121114284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884237711743320394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天的中奖者是第2位转发者@xiaoyuqeq https://t.co/6GNUItwVHF https://t.co/CCxewALiWz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884233164891275265"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1884237711743320394",
+        "created_at": "2025-01-28T13:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T14:32:49.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884233168410271909",
+          "1884233353442058417",
+          "1884237711743320394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QSqPrTGLM",
+              "end": 152,
+              "expanded_url": "https://x.com/FoxRed695449/status/1884237711743320394/photo/1",
+              "media_key": "3_1884233164891275265",
+              "start": 129,
+              "url": "https://t.co/1QSqPrTGLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884237711743320394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14887,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "okk，各位除夕快乐来抽个奖\n接下来10天，每天会抽取一位送出奖品，奖品为以下内容自选，也可以选择10元口令红包\n出邮费（明信片为平邮，邮费绝对高于物品价值）（邮寄范围为中国大陆）\n关注+转发+点赞即可参与抽奖\n（要是大家觉得东西不够可以和我说，我可以补） https://t.co/1QSqPrTGLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 444,
+          "like_count": 1327,
+          "listed_count": 6,
+          "media_count": 256,
+          "tweet_count": 760
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T11:33:43.000Z",
+        "description": "花朵终将会绽放 命运是枯萎/03大龄mtf/163cm/45±5kg/精神疾病/抑郁/焦虑/备用/聊天来tg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyuqeq",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoyuqeq",
+                "start": 0,
+                "url": "https://t.co/oUXjz85omg"
+              }
+            ]
+          }
+        },
+        "id": "1837092704045649920",
+        "location": "PAI",
+        "name": "xiaoyu🍥🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1876129154774741001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885502250552045568/DXtv2Cbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 254,
+          "like_count": 6116,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/oUXjz85omg",
+        "username": "xiaoyuqeq",
+        "verified": false
+      }
+    ]
+  }
+}

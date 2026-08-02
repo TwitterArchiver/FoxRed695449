@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1964272477988864322",
+    "created_at": "2025-09-06T14:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964330485657850058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916223001953243139",
+          "start": 0,
+          "username": "7honbara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964330485657850058",
+    "in_reply_to_user_id": "1916223001953243139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964329515758604538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7honbara 大型超市宜家星巴克麦当劳价格稍微高点的餐厅（如海底捞）地铁\n当然前提是你时间充裕不嫌麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1964272477988864322",
+        "created_at": "2025-09-06T14:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964330485657850058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916223001953243139",
+              "start": 0,
+              "username": "7honbara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964330485657850058",
+        "in_reply_to_user_id": "1916223001953243139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964329515758604538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7honbara 大型超市宜家星巴克麦当劳价格稍微高点的餐厅（如海底捞）地铁\n当然前提是你时间充裕不嫌麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916223001953243139",
+        "conversation_id": "1964272477988864322",
+        "created_at": "2025-09-06T14:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964329515758604538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964329515758604538",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964272477988864322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 最近尝试了几次才知道深圳想找个有pos机的店都好困难😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 696,
+          "like_count": 4258,
+          "listed_count": 8,
+          "media_count": 751,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T20:09:07.000Z",
+        "description": "Nobody. Probably enby（？）",
+        "id": "1916223001953243139",
+        "name": "7本のバラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916223105460277249/OCRaBa2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 58,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 78
+        },
+        "username": "7honbara",
+        "verified": false
+      }
+    ]
+  }
+}

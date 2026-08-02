@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1982701695613477184",
+    "created_at": "2025-10-27T07:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982705090294391116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873706565552979968",
+          "start": 0,
+          "username": "vitasoy_1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982705090294391116",
+    "in_reply_to_user_id": "1873706565552979968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982701695613477184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vitasoy_1022 我也是啊啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1982701695613477184",
+        "created_at": "2025-10-27T07:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982705090294391116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "vitasoy_1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982705090294391116",
+        "in_reply_to_user_id": "1873706565552979968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982701695613477184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitasoy_1022 我也是啊啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873706565552979968",
+        "conversation_id": "1982701695613477184",
+        "created_at": "2025-10-27T06:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982701695613477184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982701695613477184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要放學啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 683,
+          "like_count": 4707,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "🇭🇰｜it/its｜❤️ @name_ftx_0411｜モリモリあつし(と🥀)大好き、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "name_ftx_0411"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@vitasoy1022",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@vitasoy1022",
+                "start": 0,
+                "url": "https://t.co/rr4yW08tSr"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "location": "維他奶工廠",
+        "name": "維他奶🦋🥛",
+        "pinned_tweet_id": "1980551190065869298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980550954731651072/3G3XR8Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 2085,
+          "like_count": 35655,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 7712
+        },
+        "url": "https://t.co/rr4yW08tSr",
+        "username": "vitasoy_1022",
+        "verified": false
+      }
+    ]
+  }
+}

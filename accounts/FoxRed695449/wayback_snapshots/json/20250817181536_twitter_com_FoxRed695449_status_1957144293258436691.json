@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1957144271544619008"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1957144293258436691",
+    "created_at": "2025-08-17T18:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T19:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957144293258436691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "1,271 likes, 1 comments - anime.lonee on August 5, 2025: \"唔係動漫但都偷偷地post一個 . 支持本土小帳號~ 了解更多次文化資訊或迷因！ . 目前目標: [500 followers]！ . #動漫 #anime #meme #動漫窿 #廢片 #香港\".",
+          "display_url": "instagram.com/reel/DM_pofYSh…",
+          "end": 23,
+          "expanded_url": "https://www.instagram.com/reel/DM_pofYShpz/?igsh=MTZ6Y3Fncm11ZnFt",
+          "start": 0,
+          "status": 200,
+          "title": "動漫窿 (@anime.lonee) • Instagram reel",
+          "unwound_url": "https://www.instagram.com/reel/DM_pofYShpz/",
+          "url": "https://t.co/jKSq8rTiJi"
+        },
+        {
+          "display_url": "pic.x.com/oukbkUFCvN",
+          "end": 47,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957144293258436691/video/1",
+          "media_key": "7_1957144271544619008",
+          "start": 24,
+          "url": "https://t.co/oukbkUFCvN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957144293258436691",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jKSq8rTiJi https://t.co/oukbkUFCvN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15800,
+        "height": 1280,
+        "media_key": "7_1957144271544619008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957144271544619008/pu/img/F4jE3vbDSHqi_ETD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957144271544619008/pu/vid/avc1/320x568/c8McZPcCU62xE99l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957144271544619008/pu/vid/avc1/480x852/ZAEnlo6uGwqwy-wk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957144271544619008/pu/vid/avc1/720x1280/OBYum9ROD1RENZbu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957144271544619008/pu/pl/FKXRhKvIXs0z-qd6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957144271544619008"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957144293258436691",
+        "created_at": "2025-08-17T18:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T19:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957144293258436691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1,271 likes, 1 comments - anime.lonee on August 5, 2025: \"唔係動漫但都偷偷地post一個 . 支持本土小帳號~ 了解更多次文化資訊或迷因！ . 目前目標: [500 followers]！ . #動漫 #anime #meme #動漫窿 #廢片 #香港\".",
+              "display_url": "instagram.com/reel/DM_pofYSh…",
+              "end": 23,
+              "expanded_url": "https://www.instagram.com/reel/DM_pofYShpz/?igsh=MTZ6Y3Fncm11ZnFt",
+              "start": 0,
+              "status": 200,
+              "title": "動漫窿 (@anime.lonee) • Instagram reel",
+              "unwound_url": "https://www.instagram.com/reel/DM_pofYShpz/",
+              "url": "https://t.co/jKSq8rTiJi"
+            },
+            {
+              "display_url": "pic.x.com/oukbkUFCvN",
+              "end": 47,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957144293258436691/video/1",
+              "media_key": "7_1957144271544619008",
+              "start": 24,
+              "url": "https://t.co/oukbkUFCvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957144293258436691",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jKSq8rTiJi https://t.co/oukbkUFCvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 694,
+          "like_count": 4020,
+          "listed_count": 7,
+          "media_count": 652,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

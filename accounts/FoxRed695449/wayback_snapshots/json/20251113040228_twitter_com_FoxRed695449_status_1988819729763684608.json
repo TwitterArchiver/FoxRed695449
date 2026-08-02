@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1988804261216711134",
+    "created_at": "2025-11-13T04:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988819729763684608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988819729763684608",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988805896642916387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "14的时候就开始打青春期阻断剂了（xd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1988804261216711134",
+        "created_at": "2025-11-13T04:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988819729763684608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988819729763684608",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988805896642916387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14的时候就开始打青春期阻断剂了（xd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1988804261216711134",
+        "created_at": "2025-11-13T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988805896642916387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988805896642916387",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988805657886359585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过和家长吵架直接离家出境4天的经历"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 679,
+          "like_count": 4807,
+          "listed_count": 7,
+          "media_count": 880,
+          "tweet_count": 2648
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

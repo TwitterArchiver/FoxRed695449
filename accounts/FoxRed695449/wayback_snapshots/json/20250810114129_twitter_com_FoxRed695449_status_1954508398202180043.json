@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1954477673893216376",
+    "created_at": "2025-08-10T11:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T12:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954508398202180043"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "香港",
+          "probability": 0.7364,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954508398202180043",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954477673893216376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 香港強基金2024年全年人均賺21,500 港元（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1954477671418613760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-zFj5W0AAzJ96.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1954477673893216376",
+        "created_at": "2025-08-10T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954508398202180043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "香港",
+              "probability": 0.7364,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954508398202180043",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954477673893216376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 香港強基金2024年全年人均賺21,500 港元（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954477671418613760"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954477673893216376",
+        "created_at": "2025-08-10T09:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T10:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954477673893216376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGxZEeKz5Z",
+              "end": 72,
+              "expanded_url": "https://x.com/torontobigface/status/1954477673893216376/photo/1",
+              "media_key": "3_1954477671418613760",
+              "start": 49,
+              "url": "https://t.co/LGxZEeKz5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954477673893216376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 42209,
+          "like_count": 341,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "你别说中国的社保基金\n还是个投资“天才”\n\n3万亿的社保基金，2023年单年年化收益才0.96% https://t.co/LGxZEeKz5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 682,
+          "like_count": 3900,
+          "listed_count": 7,
+          "media_count": 608,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1953758097299714247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722560,
+          "following_count": 231,
+          "like_count": 4175,
+          "listed_count": 2197,
+          "media_count": 5672,
+          "tweet_count": 17539
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

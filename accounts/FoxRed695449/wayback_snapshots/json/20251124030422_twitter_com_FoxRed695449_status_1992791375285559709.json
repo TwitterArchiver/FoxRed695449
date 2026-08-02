@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992791368847278080"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1992791375285559709",
+    "created_at": "2025-11-24T03:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T04:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992791375285559709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/41e3Q8POpC",
+          "end": 26,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992791375285559709/photo/1",
+          "media_key": "3_1992791368847278080",
+          "start": 3,
+          "url": "https://t.co/41e3Q8POpC"
+        },
+        {
+          "display_url": "x.com/xue_zhi2008/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/xue_zhi2008/status/1992202389118693850",
+          "start": 27,
+          "url": "https://t.co/qiG7M2dEpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992791375285559709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992202389118693850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想听 https://t.co/41e3Q8POpC https://t.co/qiG7M2dEpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1992791368847278080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fRMRObQAAAhGD.jpg",
+        "width": 792
+      },
+      {
+        "height": 640,
+        "media_key": "3_1992202386673430530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6W5g_pa8AIn5BI.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992791368847278080"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1992791375285559709",
+        "created_at": "2025-11-24T03:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992791375285559709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41e3Q8POpC",
+              "end": 26,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992791375285559709/photo/1",
+              "media_key": "3_1992791368847278080",
+              "start": 3,
+              "url": "https://t.co/41e3Q8POpC"
+            },
+            {
+              "display_url": "x.com/xue_zhi2008/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/1992202389118693850",
+              "start": 27,
+              "url": "https://t.co/qiG7M2dEpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992791375285559709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992202389118693850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想听 https://t.co/41e3Q8POpC https://t.co/qiG7M2dEpn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992202386673430530"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1992202389118693850",
+        "created_at": "2025-11-22T12:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992202389118693850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6VTQ3a3kx",
+              "end": 26,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1992202389118693850/photo/1",
+              "media_key": "3_1992202386673430530",
+              "start": 3,
+              "url": "https://t.co/f6VTQ3a3kx"
+            },
+            {
+              "display_url": "x.com/MikuLoverr_/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/MikuLoverr_/status/1992192875208303079",
+              "start": 27,
+              "url": "https://t.co/wOMLHJdyqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992202389118693850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1933,
+          "like_count": 9,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992192875208303079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想听 https://t.co/f6VTQ3a3kx https://t.co/wOMLHJdyqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 693,
+          "like_count": 4931,
+          "listed_count": 0,
+          "media_count": 896,
+          "tweet_count": 2728
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n高三牲/退役CChOer🧪||药理学💊，有机化学🧬，声乐🎙️，明日方舟，maimaiDX||想到什么发什么||我还想和你一起多看看这个世界\n☆🤗期待与你相逢ヾ(◍°∇°◍)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977381470164656128/k468voe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 538,
+          "like_count": 7815,
+          "listed_count": 6,
+          "media_count": 743,
+          "tweet_count": 2731
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

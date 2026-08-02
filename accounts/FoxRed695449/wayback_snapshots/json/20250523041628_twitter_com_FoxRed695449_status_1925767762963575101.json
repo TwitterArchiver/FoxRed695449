@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925767760283357184"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1925459375000592542",
+    "created_at": "2025-05-23T04:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T05:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925767762963575101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843534538473123840",
+          "start": 0,
+          "username": "GetsuOkiwai"
+        },
+        {
+          "end": 25,
+          "id": "1877035470615638016",
+          "start": 13,
+          "username": "LMegurine03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiQNSwSw1h",
+          "end": 90,
+          "expanded_url": "https://x.com/FoxRed695449/status/1925767762963575101/photo/1",
+          "media_key": "3_1925767760283357184",
+          "start": 67,
+          "url": "https://t.co/hiQNSwSw1h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925767762963575101",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925765041006989444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GetsuOkiwai @LMegurine03 至于湖的问题\n按照国标gb/t 30240.3-2017，它就应该翻译成lake https://t.co/hiQNSwSw1h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1925767760283357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrmzkyeW0AAm4Og.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925767760283357184"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1925459375000592542",
+        "created_at": "2025-05-23T04:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925767762963575101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843534538473123840",
+              "start": 0,
+              "username": "GetsuOkiwai"
+            },
+            {
+              "end": 25,
+              "id": "1877035470615638016",
+              "start": 13,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiQNSwSw1h",
+              "end": 90,
+              "expanded_url": "https://x.com/FoxRed695449/status/1925767762963575101/photo/1",
+              "media_key": "3_1925767760283357184",
+              "start": 67,
+              "url": "https://t.co/hiQNSwSw1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925767762963575101",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925765041006989444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GetsuOkiwai @LMegurine03 至于湖的问题\n按照国标gb/t 30240.3-2017，它就应该翻译成lake https://t.co/hiQNSwSw1h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1925459375000592542",
+        "created_at": "2025-05-23T04:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925765041006989444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843534538473123840",
+              "start": 0,
+              "username": "GetsuOkiwai"
+            },
+            {
+              "end": 25,
+              "id": "1877035470615638016",
+              "start": 13,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925765041006989444",
+        "in_reply_to_user_id": "1843534538473123840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925764403263107072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GetsuOkiwai @LMegurine03 我引用资料而你空口无凭\n在我询问你的论点佐证的时候你甚至不愿意引用哪怕是Wikipedia，而是在那里说因为我读了很多书，所以我说的就是对的\n哪怕教授都不能这样保证吧\n你见得有哪篇论文是不引用资料的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 651,
+          "like_count": 3287,
+          "listed_count": 6,
+          "media_count": 593,
+          "tweet_count": 1800
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T06:11:07.000Z",
+        "description": "自業自得｜⑨也算是垢吧",
+        "id": "1843534538473123840",
+        "location": "グリの街",
+        "name": "枫糖沢",
+        "pinned_tweet_id": "1849677672617738256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924513009571115008/YtQ2-P9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 341,
+          "like_count": 4681,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 389
+        },
+        "username": "GetsuOkiwai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 7500,
+          "like_count": 2550,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

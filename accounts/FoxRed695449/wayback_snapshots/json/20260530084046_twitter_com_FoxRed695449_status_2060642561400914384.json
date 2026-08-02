@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2060583908568453213",
+    "created_at": "2026-05-30T08:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060642561400914384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013553953041235968",
+          "start": 0,
+          "username": "lxgy1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060642561400914384",
+    "in_reply_to_user_id": "2013553953041235968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060583908568453213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxgy1024 哪个医生👀👀\n我也浙2看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060583905800175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiqJRcbQAAt348.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2060583908568453213",
+        "created_at": "2026-05-30T08:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060642561400914384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013553953041235968",
+              "start": 0,
+              "username": "lxgy1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060642561400914384",
+        "in_reply_to_user_id": "2013553953041235968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583908568453213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxgy1024 哪个医生👀👀\n我也浙2看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060583905800175616"
+          ]
+        },
+        "author_id": "2013553953041235968",
+        "conversation_id": "2060583908568453213",
+        "created_at": "2026-05-30T04:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060583908568453213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmbSV5C6MR",
+              "end": 58,
+              "expanded_url": "https://x.com/lxgy1024/status/2060583908568453213/photo/1",
+              "media_key": "3_2060583905800175616",
+              "start": 35,
+              "url": "https://t.co/rmbSV5C6MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060583908568453213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1619,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家长党的最高境界是家长需要心理咨询（）\n而我被医生赶出门外等着awa https://t.co/rmbSV5C6MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 841,
+          "like_count": 8022,
+          "listed_count": 6,
+          "media_count": 1031,
+          "tweet_count": 3289
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T10:07:46.000Z",
+        "description": "より良い物語、私たちの最高のもの、全世界が出会うのを待っています。\nMTF ( maybe )，持证含糖，欢迎互fo \nOIer ( was )，坐标杭州，欢迎来面",
+        "id": "2013553953041235968",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "赶月めいり🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013554037824856064/8Iz-L7K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 131,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 193
+        },
+        "username": "lxgy1024",
+        "verified": false
+      }
+    ]
+  }
+}

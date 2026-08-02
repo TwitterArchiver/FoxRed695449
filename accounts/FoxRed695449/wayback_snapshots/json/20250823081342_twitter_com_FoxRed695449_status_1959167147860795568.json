@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1959158980267450835",
+    "created_at": "2025-08-23T08:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T09:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959167147860795568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "894527973839192064",
+          "start": 0,
+          "username": "SarkazWisadel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959167147860795568",
+    "in_reply_to_user_id": "894527973839192064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959158980267450835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SarkazWisadel 其实可以用跨境支付通转账"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1959158980267450835",
+        "created_at": "2025-08-23T08:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959167147860795568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "SarkazWisadel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959167147860795568",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959158980267450835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarkazWisadel 其实可以用跨境支付通转账"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894527973839192064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1959158980267450835",
+        "created_at": "2025-08-23T07:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T08:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959158980267450835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SarkazWisadel/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/SarkazWisadel/status/1958840423662674312",
+              "start": 22,
+              "url": "https://t.co/SjC84E2GmK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1959158980267450835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958840423662674312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可不可以给人付一百块让他帮我去香港存钱（ https://t.co/SjC84E2GmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 697,
+          "like_count": 4158,
+          "listed_count": 7,
+          "media_count": 701,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergrad at UofT(St George)\n旅行者。死打游戏的。清水+日常推。\n最爱的笨蛋老婆@sutanghentian；超喜欢的魅魔姐姐@yawarakai421   \n📧mail@kokodayo.us",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "yawarakai421"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "https://www.kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/9v78GoBNYc"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "University of Toronto",
+        "name": "Kokodayo",
+        "pinned_tweet_id": "1924847655534080159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888882607334760448/fFskye87_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 308,
+          "like_count": 41653,
+          "listed_count": 12,
+          "media_count": 3788,
+          "tweet_count": 21943
+        },
+        "url": "https://t.co/9v78GoBNYc",
+        "username": "SarkazWisadel",
+        "verified": true
+      }
+    ]
+  }
+}

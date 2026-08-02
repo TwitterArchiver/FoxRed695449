@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889592746521833924",
+    "created_at": "2025-02-12T09:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T10:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889603308421079323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889603308421079323",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889592746521833924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian 抱抱\n辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889592746521833924",
+        "created_at": "2025-02-12T09:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889603308421079323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889603308421079323",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889592746521833924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian 抱抱\n辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457925329939361797",
+        "conversation_id": "1889592746521833924",
+        "created_at": "2025-02-12T08:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T09:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889592746521833924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889592746521833924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 117,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，到底什么时候可以逃离父母的控制😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 486,
+          "like_count": 1559,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1025
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "07年的女孩子，家暴党，（hrt：2023.6.24）目前断糖中，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_uwu，@bghtnya，妹妹@sorasukiovo，经常emo…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "eureka222323"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "plantie_uwu"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "username": "bghtnya"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "sorasukiovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmayouXK"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695389239528353792/rhleJFI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 1603,
+          "like_count": 24375,
+          "listed_count": 6,
+          "media_count": 439,
+          "tweet_count": 14244
+        },
+        "url": "https://t.co/kPZmayouXK",
+        "username": "sutanghentian",
+        "verified": false
+      }
+    ]
+  }
+}

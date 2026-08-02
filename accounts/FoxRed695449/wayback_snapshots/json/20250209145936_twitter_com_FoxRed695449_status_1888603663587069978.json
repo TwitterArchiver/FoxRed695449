@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1888487719644570009",
+    "created_at": "2025-02-09T14:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888603663587069978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1556640645447827461",
+          "start": 0,
+          "username": "Bq88UorZLiFvyMN"
+        },
+        {
+          "end": 26,
+          "id": "1271652280438308864",
+          "start": 17,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888603663587069978",
+    "in_reply_to_user_id": "1556640645447827461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888603567893975506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bq88UorZLiFvyMN @Jasonzyt 嗚嗚\n你也是明天開學"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1888487719644570009",
+        "created_at": "2025-02-09T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888603663587069978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556640645447827461",
+              "start": 0,
+              "username": "Bq88UorZLiFvyMN"
+            },
+            {
+              "end": 26,
+              "id": "1271652280438308864",
+              "start": 17,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888603663587069978",
+        "in_reply_to_user_id": "1556640645447827461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888603567893975506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bq88UorZLiFvyMN @Jasonzyt 嗚嗚\n你也是明天開學"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1888487719644570009",
+        "created_at": "2025-02-09T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888603567893975506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 23,
+              "id": "1271652280438308864",
+              "start": 14,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888603567893975506",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888603413115748386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Jasonzyt 🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 470,
+          "like_count": 1477,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 985
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，有時候精神狀態低下(大多數時候正常)，會python(基礎)，活的，有問題私信(正常的會回)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1820666880765686115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818199395399290880/-Z0GVcm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1623,
+          "like_count": 29043,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 8209
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17 y.o. Student | Otaku | Coder | OIer | Photographer | Member of @LiteLDev | Ham | ACGN/✈/🚅/🚢 lover | 🌈Crossdresser\nFriendly to EVERYONE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "LiteLDev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt",
+                "start": 0,
+                "url": "https://t.co/X1bXbnErNQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878308194407313408/MJZNf2sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 339,
+          "like_count": 21073,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 5777
+        },
+        "url": "https://t.co/X1bXbnErNQ",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

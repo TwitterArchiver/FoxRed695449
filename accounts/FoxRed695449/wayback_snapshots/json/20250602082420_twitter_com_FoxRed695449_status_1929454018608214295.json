@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929454015479414784"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1928547966479909099",
+    "created_at": "2025-06-02T08:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929454018608214295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634980560199208961",
+          "start": 0,
+          "username": "mabaoguo800"
+        },
+        {
+          "end": 22,
+          "id": "1574491477543206912",
+          "start": 13,
+          "username": "AomameYe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQ9OiLsNqq",
+          "end": 149,
+          "expanded_url": "https://x.com/FoxRed695449/status/1929454018608214295/photo/1",
+          "media_key": "3_1929454015479414784",
+          "start": 126,
+          "url": "https://t.co/AQ9OiLsNqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929454018608214295",
+    "in_reply_to_user_id": "1634980560199208961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928679698860560752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mabaoguo800 @AomameYe 要怪就怪那些人把男的名声搞臭了，导致一看见男=暴力。我觉得有必要清理下群体内部了，那帮混蛋在消耗的其实是其他男的名誉和利益，但是大家居然不为所动，任由事态发展，等到一个面包500000马克的时候就来不及了 https://t.co/AQ9OiLsNqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929454015479414784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbMNFMaAAAOpGG.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929454015479414784"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1928547966479909099",
+        "created_at": "2025-06-02T08:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929454018608214295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634980560199208961",
+              "start": 0,
+              "username": "mabaoguo800"
+            },
+            {
+              "end": 22,
+              "id": "1574491477543206912",
+              "start": 13,
+              "username": "AomameYe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ9OiLsNqq",
+              "end": 149,
+              "expanded_url": "https://x.com/FoxRed695449/status/1929454018608214295/photo/1",
+              "media_key": "3_1929454015479414784",
+              "start": 126,
+              "url": "https://t.co/AQ9OiLsNqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929454018608214295",
+        "in_reply_to_user_id": "1634980560199208961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928679698860560752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mabaoguo800 @AomameYe 要怪就怪那些人把男的名声搞臭了，导致一看见男=暴力。我觉得有必要清理下群体内部了，那帮混蛋在消耗的其实是其他男的名誉和利益，但是大家居然不为所动，任由事态发展，等到一个面包500000马克的时候就来不及了 https://t.co/AQ9OiLsNqq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634980560199208961",
+        "conversation_id": "1928547966479909099",
+        "created_at": "2025-05-31T05:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928679698860560752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574491477543206912",
+              "start": 0,
+              "username": "AomameYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928679698860560752",
+        "in_reply_to_user_id": "1574491477543206912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8571,
+          "like_count": 11,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928547966479909099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AomameYe 要怪就怪那些人把跨的名声搞臭了，导致男生一看见跨=懒惰，恶心，无下限，滥交，精神病，甚至恐怖的存在。我觉得有必要清理下群体内部了，那帮混蛋在消耗的其实是同类其他人的名誉和利益，但是大家居然不为所动，任由事态发展，等到一个面包500000马克的时候就来不及了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 657,
+          "like_count": 3405,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T18:12:04.000Z",
+        "description": "收想srs的药娘，我出钱供手术，我做你的主人，想白朴的祝你全家艾滋谢谢!",
+        "id": "1634980560199208961",
+        "location": "泰国 北揽 挽披 是拉提",
+        "name": "阿柿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928676172126150657/QUp5BXbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "mabaoguo800",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T20:10:07.000Z",
+        "description": "🧘‍♀️🪷📿🦭🏳️‍🌈🏳️‍⚧️",
+        "id": "1574491477543206912",
+        "location": "Montreal, Quebec",
+        "name": "☁︎青豆☁︎（non-op trans girl🏳️‍⚧️）",
+        "pinned_tweet_id": "1879977041464029250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887486740765585408/4g6Y1NGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 259,
+          "like_count": 33027,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 3505
+        },
+        "username": "AomameYe",
+        "verified": false
+      }
+    ]
+  }
+}

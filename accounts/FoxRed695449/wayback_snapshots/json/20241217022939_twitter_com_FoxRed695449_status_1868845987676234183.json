@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1868845987676234183",
+    "created_at": "2024-12-17T02:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T03:28:59.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868845819820154977",
+      "1868845987676234183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 73,
+          "id": "868831876315848705",
+          "start": 64,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性别角色测试",
+          "display_url": "idrlabs.com/cn/gender/resu…",
+          "end": 60,
+          "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "我是典型女性化。我的分数是36%男性化，89%女性化。",
+          "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+          "url": "https://t.co/e9QHpNo3mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868845987676234183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這數字怎麼怪怪的\n我是典型女性化。我的分数是36%男性化，89%女性化。 https://t.co/e9QHpNo3mb 來自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1868845819820154977",
+        "created_at": "2024-12-17T02:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T03:28:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868845819820154977",
+          "1868845987676234183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "868831876315848705",
+              "start": 55,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性别角色测试",
+              "display_url": "idrlabs.com/cn/gender/resu…",
+              "end": 51,
+              "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "我是典型女性化。我的分数是36%男性化，89%女性化。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+              "url": "https://t.co/e9QHpNo3mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868845819820154977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是典型女性化。我的分数是36%男性化，89%女性化。 https://t.co/e9QHpNo3mb 來自 @idr_labs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1868845987676234183",
+        "created_at": "2024-12-17T02:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T03:28:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868845819820154977",
+          "1868845987676234183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "868831876315848705",
+              "start": 64,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性别角色测试",
+              "display_url": "idrlabs.com/cn/gender/resu…",
+              "end": 60,
+              "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1868845825000194051/YEZV0jR9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "我是典型女性化。我的分数是36%男性化，89%女性化。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=36&feminine=89",
+              "url": "https://t.co/e9QHpNo3mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868845987676234183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這數字怎麼怪怪的\n我是典型女性化。我的分数是36%男性化，89%女性化。 https://t.co/e9QHpNo3mb 來自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250,
+          "following_count": 367,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 426
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "id": "868831876315848705",
+        "name": "IDR Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9927,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 46,
+          "media_count": 19,
+          "tweet_count": 758
+        },
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

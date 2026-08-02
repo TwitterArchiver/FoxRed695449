@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990431013504503809"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1990218762952569261",
+    "created_at": "2025-11-17T14:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990431024619421766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840220702328401922",
+          "start": 0,
+          "username": "DuoHong44622"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJoOI3Up8V",
+          "end": 53,
+          "expanded_url": "https://x.com/FoxRed695449/status/1990431024619421766/photo/1",
+          "media_key": "3_1990431013504503809",
+          "start": 30,
+          "url": "https://t.co/KJoOI3Up8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990431024619421766",
+    "in_reply_to_user_id": "1840220702328401922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990218762952569261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuoHong44622 案例不夠新\n有個9月剛被起訴的 https://t.co/KJoOI3Up8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_1990431013504503809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59udgXbUAE_UlU.jpg",
+        "width": 828
+      },
+      {
+        "duration_ms": 124666,
+        "height": 1920,
+        "media_key": "13_1990218524200161280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990218524200161280/img/UvvpRg7QcI1qwfbN.jpg",
+        "public_metrics": {
+          "view_count": 32946
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990218524200161280/vid/avc1/320x568/U0irpEyAmWI33-p-.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990218524200161280/vid/avc1/1080x1920/eRPnDPvHPy7OdPqV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990218524200161280/vid/avc1/720x1280/TJo51lO3qncrLVEm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990218524200161280/vid/avc1/480x852/Zvccw5V_omaTbD7_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990218524200161280/pl/CWHF671QBP0xxMQm.m3u8?v=bc5"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990431013504503809"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1990218762952569261",
+        "created_at": "2025-11-17T14:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990431024619421766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840220702328401922",
+              "start": 0,
+              "username": "DuoHong44622"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJoOI3Up8V",
+              "end": 53,
+              "expanded_url": "https://x.com/FoxRed695449/status/1990431024619421766/photo/1",
+              "media_key": "3_1990431013504503809",
+              "start": 30,
+              "url": "https://t.co/KJoOI3Up8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990431024619421766",
+        "in_reply_to_user_id": "1840220702328401922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990218762952569261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuoHong44622 案例不夠新\n有個9月剛被起訴的 https://t.co/KJoOI3Up8V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990218524200161280"
+          ]
+        },
+        "author_id": "1840220702328401922",
+        "conversation_id": "1990218762952569261",
+        "created_at": "2025-11-17T00:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990218762952569261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OH1NJXaTnk",
+              "end": 65,
+              "expanded_url": "https://x.com/DuoHong44622/status/1990218762952569261/video/1",
+              "media_key": "13_1990218524200161280",
+              "start": 42,
+              "url": "https://t.co/OH1NJXaTnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990218762952569261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 41868,
+          "like_count": 241,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "中共国内地赴港移民，为给孩子择校，给校长包了两万块红包，被校长报警，关了四个多月。 https://t.co/OH1NJXaTnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 685,
+          "like_count": 4857,
+          "listed_count": 7,
+          "media_count": 883,
+          "tweet_count": 2682
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-29T02:43:20.000Z",
+        "description": "莫攀我，攀我太心偏。我是曲江临池柳，者人折了那人攀，恩爱一时间。\n投稿邮箱：duohongfang@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Eyes010",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Eyes010",
+                "start": 0,
+                "url": "https://t.co/N5CORw68N2"
+              }
+            ]
+          }
+        },
+        "id": "1840220702328401922",
+        "name": "所谓伊人 在水一方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892096852637646851/ZFlxxhMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21445,
+          "following_count": 7270,
+          "like_count": 31318,
+          "listed_count": 74,
+          "media_count": 5544,
+          "tweet_count": 22201
+        },
+        "url": "https://t.co/N5CORw68N2",
+        "username": "DuoHong44622",
+        "verified": true
+      }
+    ]
+  }
+}

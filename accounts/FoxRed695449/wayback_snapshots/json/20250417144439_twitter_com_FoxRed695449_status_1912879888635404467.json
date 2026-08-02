@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1912879888635404467",
+    "created_at": "2025-04-17T14:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T15:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912879888635404467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789586690400800769",
+          "start": 3,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912879888635404467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912701465141080425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ameear8964: 我活着的状态本身就是对国家、社会和家庭的报复，所以我绝不会自杀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1912879888635404467",
+        "created_at": "2025-04-17T14:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912879888635404467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789586690400800769",
+              "start": 3,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912879888635404467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912701465141080425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ameear8964: 我活着的状态本身就是对国家、社会和家庭的报复，所以我绝不会自杀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789586690400800769",
+        "conversation_id": "1912701465141080425",
+        "created_at": "2025-04-17T02:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T03:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912701465141080425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912701465141080425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10671,
+          "like_count": 247,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我活着的状态本身就是对国家、社会和家庭的报复，所以我绝不会自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3660,
+          "following_count": 607,
+          "like_count": 2806,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN, Wingmate : @inoueerii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "inoueerii"
+              }
+            ]
+          }
+        },
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 1342,
+          "like_count": 31596,
+          "listed_count": 14,
+          "media_count": 704,
+          "tweet_count": 8358
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

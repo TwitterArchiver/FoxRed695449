@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1876449362454401157",
+    "created_at": "2025-01-07T14:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T15:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876636524990918869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756922914291474432",
+          "start": 0,
+          "username": "HuangJ38887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876636524990918869",
+    "in_reply_to_user_id": "1756922914291474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876636134950002824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangJ38887 诶诶诶\n还是不要吧\n呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1876449362454401157",
+        "created_at": "2025-01-07T14:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876636524990918869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756922914291474432",
+              "start": 0,
+              "username": "HuangJ38887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876636524990918869",
+        "in_reply_to_user_id": "1756922914291474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876636134950002824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangJ38887 诶诶诶\n还是不要吧\n呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756922914291474432",
+        "conversation_id": "1876449362454401157",
+        "created_at": "2025-01-07T14:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876636134950002824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876636134950002824",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876449362454401157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 問一下這張圖可以作為表情包嗎…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 402,
+          "like_count": 1147,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 646
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T06:07:43.000Z",
+        "description": "盡量回fo喵，台灣回歸派！！！",
+        "id": "1756922914291474432",
+        "location": "千年科技學院珠廈分校",
+        "name": "Shadow_114514🇨🇳❤️🇹🇼❤️🇵🇸",
+        "pinned_tweet_id": "1860635228764864660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871510699232673792/HKDsUe4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 387,
+          "like_count": 8404,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 750
+        },
+        "username": "HuangJ38887",
+        "verified": false
+      }
+    ]
+  }
+}

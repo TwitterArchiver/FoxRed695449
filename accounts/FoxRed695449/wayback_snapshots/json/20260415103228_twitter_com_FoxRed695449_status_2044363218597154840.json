@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044363205099831296"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2044006809204339176",
+    "created_at": "2026-04-15T10:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044363218597154840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1412061848900280321",
+          "start": 0,
+          "username": "IwashitaBRU"
+        },
+        {
+          "end": 22,
+          "id": "1911628907842818049",
+          "start": 13,
+          "username": "codyhunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NNNZEHLnCo",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/2044363218597154840/photo/1",
+          "media_key": "3_2044363205099831296",
+          "start": 33,
+          "url": "https://t.co/NNNZEHLnCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044363218597154840",
+    "in_reply_to_user_id": "1412061848900280321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044260172814791002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IwashitaBRU @codyhunk 现在你不就看见了： https://t.co/NNNZEHLnCo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_2044363205099831296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8JgOfawAAWgwu.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044363205099831296"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2044006809204339176",
+        "created_at": "2026-04-15T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044363218597154840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1412061848900280321",
+              "start": 0,
+              "username": "IwashitaBRU"
+            },
+            {
+              "end": 22,
+              "id": "1911628907842818049",
+              "start": 13,
+              "username": "codyhunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNNZEHLnCo",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/2044363218597154840/photo/1",
+              "media_key": "3_2044363205099831296",
+              "start": 33,
+              "url": "https://t.co/NNNZEHLnCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044363218597154840",
+        "in_reply_to_user_id": "1412061848900280321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044260172814791002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IwashitaBRU @codyhunk 现在你不就看见了： https://t.co/NNNZEHLnCo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412061848900280321",
+        "conversation_id": "2044006809204339176",
+        "created_at": "2026-04-15T03:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044260172814791002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044260172814791002",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5172,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006809204339176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 我从来没听过去办卡还要要抄东西的，毛泽东时期去国营商店买东西讲一句毛语录就可以了，比如我要买肉，就说“毛主席说，革命不是请客吃饭，我要买一斤肉”。没听过要抄一遍语录才让买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 809,
+          "like_count": 7492,
+          "listed_count": 7,
+          "media_count": 985,
+          "tweet_count": 3129
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-05T14:52:43.000Z",
+        "description": "",
+        "id": "1412061848900280321",
+        "name": "Bruce Chuanyu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 115,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1207
+        },
+        "username": "IwashitaBRU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12678,
+          "following_count": 1276,
+          "like_count": 23549,
+          "listed_count": 31,
+          "media_count": 5765,
+          "tweet_count": 8774
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

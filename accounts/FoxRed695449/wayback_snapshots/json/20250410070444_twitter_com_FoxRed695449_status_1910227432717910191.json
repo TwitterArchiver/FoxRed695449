@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1910227432717910191",
+    "created_at": "2025-04-10T07:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T08:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910227432717910191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910227432717910191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感覺陷入了惡性循環\n因為精神疾病導致學習能力下降\n因為學習能力下降導致題目寫不出\n因為題目寫不出導致自己給自己壓力\n因為自己給自己壓力導致精神狀態更差\n而且這是已經在學校和家長都包容的環境下，已經有足夠的時間休息\n感覺問題就是無解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1910227432717910191",
+        "created_at": "2025-04-10T07:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T08:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910227432717910191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910227432717910191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感覺陷入了惡性循環\n因為精神疾病導致學習能力下降\n因為學習能力下降導致題目寫不出\n因為題目寫不出導致自己給自己壓力\n因為自己給自己壓力導致精神狀態更差\n而且這是已經在學校和家長都包容的環境下，已經有足夠的時間休息\n感覺問題就是無解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 596,
+          "like_count": 2764,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

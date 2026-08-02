@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1949019942256607395",
+    "created_at": "2025-07-26T08:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T09:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949019942256607395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/foxred695449/status/1948010227565293693",
+          "start": 22,
+          "url": "https://t.co/M3oMoahwoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949019942256607395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948010227565293693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她的狀況良好，只是身體尚未有力氣，有待休養 https://t.co/M3oMoahwoI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1949019942256607395",
+        "created_at": "2025-07-26T08:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949019942256607395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/foxred695449/status/1948010227565293693",
+              "start": 22,
+              "url": "https://t.co/M3oMoahwoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949019942256607395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948010227565293693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她的狀況良好，只是身體尚未有力氣，有待休養 https://t.co/M3oMoahwoI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1948010227565293693",
+        "created_at": "2025-07-23T13:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T14:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948010227565293693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1749569248371023872",
+              "start": 22,
+              "username": "Eureka222323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948010227565293693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2902,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是萊卡\n大家請放心\n狐狸在住院了\n目前我@Eureka222323會代替她回覆 \n謝謝關心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 673,
+          "like_count": 3779,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

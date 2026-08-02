@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957776313286291457",
+        "3_1957776313315651586"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1957708182102454374",
+    "created_at": "2025-08-19T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957776331195728088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        },
+        {
+          "end": 26,
+          "id": "1688385343580680192",
+          "start": 12,
+          "username": "heiwawomamore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7Tg3mLtIc",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957776331195728088/photo/1",
+          "media_key": "3_1957776313286291457",
+          "start": 52,
+          "url": "https://t.co/x7Tg3mLtIc"
+        },
+        {
+          "display_url": "pic.x.com/x7Tg3mLtIc",
+          "end": 75,
+          "expanded_url": "https://x.com/FoxRed695449/status/1957776331195728088/photo/1",
+          "media_key": "3_1957776313315651586",
+          "start": 52,
+          "url": "https://t.co/x7Tg3mLtIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957776331195728088",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957771625493066156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 @heiwawomamore 來香港的跨旗彩虹旗亂塗亂畫了一晚上還不准報復了？ https://t.co/x7Tg3mLtIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1957776313286291457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytrLycacAEdf2t.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1957776313315651586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytrLyjacAIFuWf.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957776313286291457",
+            "3_1957776313315651586"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957708182102454374",
+        "created_at": "2025-08-19T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957776331195728088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            },
+            {
+              "end": 26,
+              "id": "1688385343580680192",
+              "start": 12,
+              "username": "heiwawomamore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7Tg3mLtIc",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957776331195728088/photo/1",
+              "media_key": "3_1957776313286291457",
+              "start": 52,
+              "url": "https://t.co/x7Tg3mLtIc"
+            },
+            {
+              "display_url": "pic.x.com/x7Tg3mLtIc",
+              "end": 75,
+              "expanded_url": "https://x.com/FoxRed695449/status/1957776331195728088/photo/1",
+              "media_key": "3_1957776313315651586",
+              "start": 52,
+              "url": "https://t.co/x7Tg3mLtIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957776331195728088",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957771625493066156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 @heiwawomamore 來香港的跨旗彩虹旗亂塗亂畫了一晚上還不准報復了？ https://t.co/x7Tg3mLtIc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1957708182102454374",
+        "created_at": "2025-08-19T11:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957771625493066156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957771625493066156",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957708182102454374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore 杭州那邊的把我的和那個人的公交繪畫給瞎塗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 695,
+          "like_count": 4052,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "404（因為未知）\n@Alice14_88\n@ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Alice14_88"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州交通局",
+        "name": "ANXの真中あお^",
+        "pinned_tweet_id": "1948952012768641039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949041436797845504/I_GPFd1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 4955,
+          "like_count": 29150,
+          "listed_count": 13,
+          "media_count": 2379,
+          "tweet_count": 38443
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或許）MtX🍥  🐈 \n\n發發生活和一些奇怪的想\n \n主要喜歡胃弱久石讓坂本龍一的音樂 常聽朮曲 歷史政治相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n  \n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћın",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946642579417702400/6GP9lJ4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 2351,
+          "like_count": 136044,
+          "listed_count": 15,
+          "media_count": 1940,
+          "tweet_count": 73243
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

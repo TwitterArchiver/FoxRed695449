@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1912862275024658559",
+    "created_at": "2025-04-17T13:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T14:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912862275024658559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1401916221214236674",
+          "start": 3,
+          "username": "XiJiangFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912862275024658559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912503493056950404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiJiangFo: 某些支黑们嘴上嚷嚷着“图纸”、“🕷没有一个是无辜的”，结果看到和自己同性的你国人被蝈蝻/织女整了，就哈气应激了。这种时刻你们难道不应该大力支持吗？最有意思的是看到这两种支黑开始互扣滞纳的帽子，本质你们还是如自己所言太“爱支”了\n\n要我说，人类这种劣…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1912862275024658559",
+        "created_at": "2025-04-17T13:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912862275024658559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401916221214236674",
+              "start": 3,
+              "username": "XiJiangFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912862275024658559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912503493056950404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiJiangFo: 某些支黑们嘴上嚷嚷着“图纸”、“🕷没有一个是无辜的”，结果看到和自己同性的你国人被蝈蝻/织女整了，就哈气应激了。这种时刻你们难道不应该大力支持吗？最有意思的是看到这两种支黑开始互扣滞纳的帽子，本质你们还是如自己所言太“爱支”了\n\n要我说，人类这种劣…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401916221214236674",
+        "conversation_id": "1912503493056950404",
+        "created_at": "2025-04-16T13:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912503493056950404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912503493056950404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14758,
+          "like_count": 260,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "某些支黑们嘴上嚷嚷着“图纸”、“🕷没有一个是无辜的”，结果看到和自己同性的你国人被蝈蝻/织女整了，就哈气应激了。这种时刻你们难道不应该大力支持吗？最有意思的是看到这两种支黑开始互扣滞纳的帽子，本质你们还是如自己所言太“爱支”了\n\n要我说，人类这种劣质生物分个高低贵贱真闹麻了，都该图👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 607,
+          "like_count": 2802,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-07T14:57:47.000Z",
+        "description": "♂｜INFJ-T｜🚫不键政｜🏴‍☠️ACG原教旨主义｜CS2养老玩家（主队：@FaZeEsports #FaZeUp 副队：@TeamVitalityCS｜小号：@XiJiangKurisu｜欢迎互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "FaZeUp"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "FaZeEsports"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "TeamVitalityCS"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "XiJiangKurisu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+TRJVjF6gdXVjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+TRJVjF6gdXVjMjI1",
+                "start": 0,
+                "url": "https://t.co/dprzM8uoK5"
+              }
+            ]
+          }
+        },
+        "id": "1401916221214236674",
+        "location": "↓超自然研究部（telegram群组）",
+        "name": "夕酱🏴‍☠️",
+        "pinned_tweet_id": "1908187845845758335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863853821648310272/xI_--uch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 4004,
+          "like_count": 32006,
+          "listed_count": 7,
+          "media_count": 1878,
+          "tweet_count": 14029
+        },
+        "url": "https://t.co/dprzM8uoK5",
+        "username": "XiJiangFo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970913026468626432"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1970913032399356236",
+    "created_at": "2025-09-24T18:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T19:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970913032399356236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pJ9qIDua8",
+          "end": 23,
+          "expanded_url": "https://x.com/FoxRed695449/status/1970913032399356236/photo/1",
+          "media_key": "3_1970913026468626432",
+          "start": 0,
+          "url": "https://t.co/2pJ9qIDua8"
+        },
+        {
+          "display_url": "x.com/brucekahun7963…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/brucekahun7963/status/1970840302077534212",
+          "start": 24,
+          "url": "https://t.co/LAMc7qjqjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970913032399356236",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970840302077534212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2pJ9qIDua8 https://t.co/LAMc7qjqjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1970913026468626432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1oW9InaQAA-81N.jpg",
+        "width": 1701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970913026468626432"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1970913032399356236",
+        "created_at": "2025-09-24T18:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970913032399356236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pJ9qIDua8",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1970913032399356236/photo/1",
+              "media_key": "3_1970913026468626432",
+              "start": 0,
+              "url": "https://t.co/2pJ9qIDua8"
+            },
+            {
+              "display_url": "x.com/brucekahun7963…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/brucekahun7963/status/1970840302077534212",
+              "start": 24,
+              "url": "https://t.co/LAMc7qjqjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970913032399356236",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970840302077534212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2pJ9qIDua8 https://t.co/LAMc7qjqjc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960341032891191296",
+        "conversation_id": "1970573481957073045",
+        "created_at": "2025-09-24T13:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970840302077534212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919991573141729280",
+              "start": 0,
+              "username": "catmaid_mdfk"
+            },
+            {
+              "end": 22,
+              "id": "1481567970266869764",
+              "start": 14,
+              "username": "sisYuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970840302077534212",
+        "in_reply_to_user_id": "1919991573141729280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1326,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970839756721574256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catmaid_mdfk @sisYuri 哇，香港變成新亞特蘭提斯了🙈\n我猜香港粵🐒現在是這樣叫「咕嚕咕嚕咕嚕………」🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 697,
+          "like_count": 4374,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 2505
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T13:58:29.000Z",
+        "description": "北角共和國第一美男子\n臨時大統領府地址：福摩薩聯邦Papora國Gomat州神岡市圳岸路8號",
+        "id": "1960341032891191296",
+        "location": "Zó̤ią̂",
+        "name": "北角共和國副大統領暘汁甘露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968356435382910976/6mF3sgqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 52,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 356
+        },
+        "username": "brucekahun7963",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889242304231383099",
+    "created_at": "2025-02-11T12:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T13:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889293874272649457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081884310829813761",
+          "start": 0,
+          "username": "NomoreTsukum0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889293874272649457",
+    "in_reply_to_user_id": "1081884310829813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889242304231383099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomoreTsukum0 不是的喔\n揉揉姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889242304231383099",
+        "created_at": "2025-02-11T12:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T13:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889293874272649457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081884310829813761",
+              "start": 0,
+              "username": "NomoreTsukum0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889293874272649457",
+        "in_reply_to_user_id": "1081884310829813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889242304231383099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomoreTsukum0 不是的喔\n揉揉姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081884310829813761",
+        "conversation_id": "1889242304231383099",
+        "created_at": "2025-02-11T09:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889242304231383099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889242304231383099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是廢物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 481,
+          "like_count": 1526,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 1015
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-06T12:04:54.000Z",
+        "description": "水手服配百褶裙",
+        "id": "1081884310829813761",
+        "location": "距離你5m",
+        "name": "九九",
+        "pinned_tweet_id": "1654452448004812800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762452022421528576/Rb5NeJGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1926,
+          "like_count": 543519,
+          "listed_count": 22,
+          "media_count": 380,
+          "tweet_count": 50125
+        },
+        "username": "NomoreTsukum0",
+        "verified": false
+      }
+    ]
+  }
+}

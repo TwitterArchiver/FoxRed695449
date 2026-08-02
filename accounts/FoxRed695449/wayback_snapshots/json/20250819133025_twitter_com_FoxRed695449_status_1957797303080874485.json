@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1957605086630469823",
+    "created_at": "2025-08-19T13:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T14:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957797303080874485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719571122642161664",
+          "start": 0,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 25,
+          "id": "1353322529964756995",
+          "start": 13,
+          "username": "Minamikimon"
+        },
+        {
+          "end": 38,
+          "id": "1892925147373522944",
+          "start": 26,
+          "username": "mobius11451"
+        },
+        {
+          "end": 47,
+          "id": "1296431459989778433",
+          "start": 39,
+          "username": "angth18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957797303080874485",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957796856257282095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGeSang2008 @Minamikimon @mobius11451 @angth18 例如大型演唱会、漫展结束后\n有时地铁甚至会不安检\n但这种人员极度密集的情况才是袭击者最喜欢的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957605086630469823",
+        "created_at": "2025-08-19T13:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957797303080874485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 25,
+              "id": "1353322529964756995",
+              "start": 13,
+              "username": "Minamikimon"
+            },
+            {
+              "end": 38,
+              "id": "1892925147373522944",
+              "start": 26,
+              "username": "mobius11451"
+            },
+            {
+              "end": 47,
+              "id": "1296431459989778433",
+              "start": 39,
+              "username": "angth18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957797303080874485",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957796856257282095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 @Minamikimon @mobius11451 @angth18 例如大型演唱会、漫展结束后\n有时地铁甚至会不安检\n但这种人员极度密集的情况才是袭击者最喜欢的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957605086630469823",
+        "created_at": "2025-08-19T13:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957796856257282095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719571122642161664",
+              "start": 0,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 25,
+              "id": "1353322529964756995",
+              "start": 13,
+              "username": "Minamikimon"
+            },
+            {
+              "end": 38,
+              "id": "1892925147373522944",
+              "start": 26,
+              "username": "mobius11451"
+            },
+            {
+              "end": 47,
+              "id": "1296431459989778433",
+              "start": 39,
+              "username": "angth18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957796856257282095",
+        "in_reply_to_user_id": "1719571122642161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957796277397168159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGeSang2008 @Minamikimon @mobius11451 @angth18 呃…\n内地地铁的安检人越多越水\n但袭击就是人越多越好\n再说一群月薪几千的安检、保安会拼命？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 695,
+          "like_count": 4056,
+          "listed_count": 7,
+          "media_count": 669,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "08.8.8｜mtf｜180/100｜HRT23.9.4｜infp｜是一只可爱小猫咪｜坐标上海｜有小证｜天残｜BPD｜ADHD｜ASD｜可以叫咱猫猫/绫音｜小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy1782010｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Anan628769"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "Andy1782010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1926815724040790523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 992,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 4870
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T12:43:40.000Z",
+        "description": "滇國酒瘋子，二潤準備中，不專業AI畫師 中文/日本語/English 南條愛乃一番推し! 井口裕香が推し，單推七海麻美❤️❤️❤️",
+        "id": "1353322529964756995",
+        "location": "Ulster",
+        "name": "希子が負けない🇬🇧🇮🇪",
+        "pinned_tweet_id": "1829145407836110873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944260760290357248/f6kn7neX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5362,
+          "following_count": 1569,
+          "like_count": 145508,
+          "listed_count": 20,
+          "media_count": 778,
+          "tweet_count": 3701
+        },
+        "username": "Minamikimon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T13:11:49.000Z",
+        "description": "",
+        "id": "1892925147373522944",
+        "name": "mobius1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893922261033259008/bOtg0N0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "mobius11451",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-20T12:58:52.000Z",
+        "description": "",
+        "id": "1296431459989778433",
+        "name": "TH95",
+        "pinned_tweet_id": "1909776826291175931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910114646599839745/pr4RqZAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 802,
+          "like_count": 58814,
+          "listed_count": 1,
+          "media_count": 683,
+          "tweet_count": 14653
+        },
+        "username": "angth18",
+        "verified": false
+      }
+    ]
+  }
+}

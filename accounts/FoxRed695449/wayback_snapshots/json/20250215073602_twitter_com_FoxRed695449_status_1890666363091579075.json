@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890666353151168512"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890666363091579075",
+    "created_at": "2025-02-15T07:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T08:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890666363091579075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1575113381886861313",
+          "start": 20,
+          "username": "scandal_sin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7UylehLap",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/1890666363091579075/photo/1",
+          "media_key": "3_1890666353151168512",
+          "start": 33,
+          "url": "https://t.co/O7UylehLap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890666363091579075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊吧啊吧\n好久沒發繩圖了\n來張aww\n🧵@SCANDAL_sin https://t.co/O7UylehLap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1890666353151168512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjz_B_Bb0AAi5Us.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890666353151168512"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890666363091579075",
+        "created_at": "2025-02-15T07:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890666363091579075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1575113381886861313",
+              "start": 20,
+              "username": "scandal_sin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7UylehLap",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1890666363091579075/photo/1",
+              "media_key": "3_1890666353151168512",
+              "start": 33,
+              "url": "https://t.co/O7UylehLap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890666363091579075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊吧啊吧\n好久沒發繩圖了\n來張aww\n🧵@SCANDAL_sin https://t.co/O7UylehLap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 489,
+          "like_count": 1629,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 1045
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-28T13:21:16.000Z",
+        "description": "杭州赛绳木烛主理人，不学无术流捆工&摄影。约绳，约拍，场地租用，参加活动，联系WX：sinhbm",
+        "id": "1575113381886861313",
+        "name": "SCANDAL_SIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575113802160345088/FMA9o8to_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 245,
+          "like_count": 41,
+          "listed_count": 17,
+          "media_count": 53,
+          "tweet_count": 77
+        },
+        "username": "scandal_sin",
+        "verified": false
+      }
+    ]
+  }
+}

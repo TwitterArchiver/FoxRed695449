@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060319620444340224",
+        "3_2060319620435988481"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2060319329011507495",
+    "created_at": "2026-05-29T11:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060319636013678765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOCIUtgyZV",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2060319636013678765/photo/1",
+          "media_key": "3_2060319620444340224",
+          "start": 28,
+          "url": "https://t.co/AOCIUtgyZV"
+        },
+        {
+          "display_url": "pic.x.com/AOCIUtgyZV",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2060319636013678765/photo/1",
+          "media_key": "3_2060319620435988481",
+          "start": 28,
+          "url": "https://t.co/AOCIUtgyZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060319636013678765",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060319329011507495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单核性能还是不如A18Pro的，GPU倒是打的上上下下 https://t.co/AOCIUtgyZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2060319620444340224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe5x1xaQAACCad.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2060319620435988481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe5x1va0AEGgFI.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2060319321394642944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe5gbuaAAA1toq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060319620444340224",
+            "3_2060319620435988481"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2060319329011507495",
+        "created_at": "2026-05-29T11:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060319636013678765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOCIUtgyZV",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2060319636013678765/photo/1",
+              "media_key": "3_2060319620444340224",
+              "start": 28,
+              "url": "https://t.co/AOCIUtgyZV"
+            },
+            {
+              "display_url": "pic.x.com/AOCIUtgyZV",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2060319636013678765/photo/1",
+              "media_key": "3_2060319620435988481",
+              "start": 28,
+              "url": "https://t.co/AOCIUtgyZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060319636013678765",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060319329011507495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单核性能还是不如A18Pro的，GPU倒是打的上上下下 https://t.co/AOCIUtgyZV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060319321394642944"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2060319329011507495",
+        "created_at": "2026-05-29T11:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060319329011507495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6ZZ8dV27M",
+              "end": 71,
+              "expanded_url": "https://x.com/FoxRed695449/status/2060319329011507495/photo/1",
+              "media_key": "3_2060319321394642944",
+              "start": 48,
+              "url": "https://t.co/m6ZZ8dV27M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060319329011507495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone17e上的那A19多核分数竟然比16Pro上的那A18Pro还高，也算是一些震撼了 https://t.co/m6ZZ8dV27M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 833,
+          "like_count": 8006,
+          "listed_count": 6,
+          "media_count": 1033,
+          "tweet_count": 3284
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

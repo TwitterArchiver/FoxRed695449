@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1957662826908270725",
+    "created_at": "2025-08-19T06:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T07:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957695813003477061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "822715997081583618",
+          "start": 0,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957695813003477061",
+    "in_reply_to_user_id": "822715997081583618",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957695677766733824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinchao_qaq yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1957662826908270725",
+        "created_at": "2025-08-19T06:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957695813003477061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957695813003477061",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957695677766733824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822715997081583618",
+        "conversation_id": "1957662826908270725",
+        "created_at": "2025-08-19T06:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957695677766733824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957695677766733824",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957689007179247768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 也就是说 他先来点像素点 然后你才去给他电车擦了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 695,
+          "like_count": 4048,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "杭州/不要键政/she/her/残忍变性女巫｜🦋@yinchao-qaq.com｜一个人也要好好地活着｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "yinchao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍🌈",
+        "pinned_tweet_id": "1761674699715862697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776790104377602048/jQ2yJmrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5118,
+          "following_count": 1146,
+          "like_count": 9864,
+          "listed_count": 10,
+          "media_count": 1046,
+          "tweet_count": 7230
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1959075497243246848",
+    "created_at": "2025-08-23T04:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959114083325636636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646905533386100738",
+          "start": 0,
+          "username": "du_allen45136"
+        }
+      ],
+      "urls": [
+        {
+          "description": "脫美役的重點在於脱「役」。",
+          "display_url": "theinitium.com/article/202306…",
+          "end": 38,
+          "expanded_url": "https://theinitium.com/article/20230629-mainland-escape-the-corset",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1959114089105420288/dvRLE_t2?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1959114089105420288/dvRLE_t2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "她們剃了寸頭：「我有不美的自由」 | 端傳媒 Initium Media",
+          "unwound_url": "https://theinitium.com/article/20230629-mainland-escape-the-corset",
+          "url": "https://t.co/IVtaP76PRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959114083325636636",
+    "in_reply_to_user_id": "1646905533386100738",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959075497243246848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du_allen45136 https://t.co/IVtaP76PRE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1959075497243246848",
+        "created_at": "2025-08-23T04:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959114083325636636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646905533386100738",
+              "start": 0,
+              "username": "du_allen45136"
+            }
+          ],
+          "urls": [
+            {
+              "description": "脫美役的重點在於脱「役」。",
+              "display_url": "theinitium.com/article/202306…",
+              "end": 38,
+              "expanded_url": "https://theinitium.com/article/20230629-mainland-escape-the-corset",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1959114089105420288/dvRLE_t2?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959114089105420288/dvRLE_t2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "她們剃了寸頭：「我有不美的自由」 | 端傳媒 Initium Media",
+              "unwound_url": "https://theinitium.com/article/20230629-mainland-escape-the-corset",
+              "url": "https://t.co/IVtaP76PRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959114083325636636",
+        "in_reply_to_user_id": "1646905533386100738",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959075497243246848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du_allen45136 https://t.co/IVtaP76PRE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646905533386100738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1959075497243246848",
+        "created_at": "2025-08-23T02:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T03:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959075497243246848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959075497243246848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 381,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天跟一个高中的女同学去看电影，发现她剃了寸头，加上女孩子跟我出门一般都懒得化妆，这形象让我一度怀疑她是不是ftx或者ftm了，但是问了又矢口否认。\n啧啧啧，到底是我犯了将外貌和性别标签绑定的错误，还是对方依然不信任我对我深柜，就不得而知了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 697,
+          "like_count": 4151,
+          "listed_count": 7,
+          "media_count": 700,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T15:58:06.000Z",
+        "description": "波士顿大学丨哲学专业大一 丨生活推和一些随想 丨喜欢单机主机游戏丨如果你经常点赞或者给出了有价值的回复，我就会回fo",
+        "id": "1646905533386100738",
+        "location": "Massachusetts, USA",
+        "name": "Duber",
+        "pinned_tweet_id": "1672938437538885637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950224135340064770/UQm44Rlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 73,
+          "like_count": 2424,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1069
+        },
+        "username": "du_allen45136",
+        "verified": true
+      }
+    ]
+  }
+}

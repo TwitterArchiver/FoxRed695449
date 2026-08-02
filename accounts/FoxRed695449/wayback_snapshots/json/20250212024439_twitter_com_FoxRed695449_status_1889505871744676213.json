@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889505862882119680"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889131445261877543",
+    "created_at": "2025-02-12T02:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T03:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889505871744676213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1195900004893908993",
+          "start": 0,
+          "username": "SapphireRapids_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDmUiRgJlG",
+          "end": 47,
+          "expanded_url": "https://x.com/FoxRed695449/status/1889505871744676213/photo/1",
+          "media_key": "3_1889505862882119680",
+          "start": 24,
+          "url": "https://t.co/FDmUiRgJlG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889505871744676213",
+    "in_reply_to_user_id": "1195900004893908993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889496811137536440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SapphireRapids_ 是這本aww https://t.co/FDmUiRgJlG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1889505862882119680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjjfkj4bUAAx-5n.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889505862882119680"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889131445261877543",
+        "created_at": "2025-02-12T02:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T03:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889505871744676213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1195900004893908993",
+              "start": 0,
+              "username": "SapphireRapids_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDmUiRgJlG",
+              "end": 47,
+              "expanded_url": "https://x.com/FoxRed695449/status/1889505871744676213/photo/1",
+              "media_key": "3_1889505862882119680",
+              "start": 24,
+              "url": "https://t.co/FDmUiRgJlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889505871744676213",
+        "in_reply_to_user_id": "1195900004893908993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889496811137536440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SapphireRapids_ 是這本aww https://t.co/FDmUiRgJlG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195900004893908993",
+        "conversation_id": "1889131445261877543",
+        "created_at": "2025-02-12T02:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T03:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889496811137536440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889496811137536440",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889496612688503013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 看着像ocr的书（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 485,
+          "like_count": 1548,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 1018
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-17T03:02:42.000Z",
+        "description": "EE/CS｜OCD｜死肥宅爆改美少女绝赞进行中｜PC发烧友｜固定翼FPV｜云沪国人｜老鼠@LibraryUnoffic1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "LibraryUnoffic1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "brightspace.nyu.edu",
+                "end": 23,
+                "expanded_url": "https://brightspace.nyu.edu",
+                "start": 0,
+                "url": "https://t.co/t5blu2xXxk"
+              }
+            ]
+          }
+        },
+        "id": "1195900004893908993",
+        "location": "6 Metrotech Center",
+        "name": "Sapphire Rapids🧨🧧",
+        "pinned_tweet_id": "1883687569034232266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889114767484125188/jnfxqsVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 3420,
+          "like_count": 136121,
+          "listed_count": 8,
+          "media_count": 5374,
+          "tweet_count": 23722
+        },
+        "url": "https://t.co/t5blu2xXxk",
+        "username": "SapphireRapids_",
+        "verified": false
+      }
+    ]
+  }
+}

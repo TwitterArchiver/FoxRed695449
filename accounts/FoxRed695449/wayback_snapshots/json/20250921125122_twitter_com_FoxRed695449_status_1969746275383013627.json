@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1969674964212293737",
+    "created_at": "2025-09-21T12:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T13:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969746275383013627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969746275383013627",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969745813094949265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 香港的儲值卡總是有些活動\n例如3在7、8月的時候買新卡（33hkd）屈臣氏自提送100gb\n用完就扔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1969674964212293737",
+        "created_at": "2025-09-21T12:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969746275383013627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969746275383013627",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969745813094949265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 香港的儲值卡總是有些活動\n例如3在7、8月的時候買新卡（33hkd）屈臣氏自提送100gb\n用完就扔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1969674964212293737",
+        "created_at": "2025-09-21T12:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969745813094949265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969745813094949265",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969674964212293737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 这么多干用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 695,
+          "like_count": 4370,
+          "listed_count": 8,
+          "media_count": 805,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQW4ny"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966898166998953984/PqrvBn8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10910,
+          "following_count": 2535,
+          "like_count": 93210,
+          "listed_count": 49,
+          "media_count": 549,
+          "tweet_count": 5344
+        },
+        "url": "https://t.co/Xo0VOQW4ny",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

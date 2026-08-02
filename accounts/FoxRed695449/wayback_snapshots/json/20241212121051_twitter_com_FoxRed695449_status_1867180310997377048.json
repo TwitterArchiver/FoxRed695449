@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867180301367341056"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1866874745440047285",
+    "created_at": "2024-12-12T12:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T13:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867180310997377048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        },
+        {
+          "end": 28,
+          "id": "1507566077554819074",
+          "start": 14,
+          "username": "Distance11623"
+        },
+        {
+          "end": 44,
+          "id": "1260553941714186241",
+          "start": 29,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMbTYWqUGv",
+          "end": 170,
+          "expanded_url": "https://x.com/FoxRed695449/status/1867180310997377048/photo/1",
+          "media_key": "3_1867180301367341056",
+          "start": 147,
+          "url": "https://t.co/tMbTYWqUGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867180310997377048",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867177644082745407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 @Distance11623 @whyyoutouzhele 话说回来为什么人这么看重性别呢…机票通知这种事情和性别半毛钱都没有，直接说尊敬的XXX不就好了（摊）\n上次国泰航空的会员协议更新的时候发给我妈妈的邮件就全文没有任何性别代词（不用性别代词分明能正常沟通） https://t.co/tMbTYWqUGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867180301367341056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GemOl2KbcAAXKx_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867180301367341056"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1866874745440047285",
+        "created_at": "2024-12-12T12:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T13:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867180310997377048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            },
+            {
+              "end": 28,
+              "id": "1507566077554819074",
+              "start": 14,
+              "username": "Distance11623"
+            },
+            {
+              "end": 44,
+              "id": "1260553941714186241",
+              "start": 29,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMbTYWqUGv",
+              "end": 170,
+              "expanded_url": "https://x.com/FoxRed695449/status/1867180310997377048/photo/1",
+              "media_key": "3_1867180301367341056",
+              "start": 147,
+              "url": "https://t.co/tMbTYWqUGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867180310997377048",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867177644082745407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 @Distance11623 @whyyoutouzhele 话说回来为什么人这么看重性别呢…机票通知这种事情和性别半毛钱都没有，直接说尊敬的XXX不就好了（摊）\n上次国泰航空的会员协议更新的时候发给我妈妈的邮件就全文没有任何性别代词（不用性别代词分明能正常沟通） https://t.co/tMbTYWqUGv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1866874745440047285",
+        "created_at": "2024-12-12T12:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T13:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867177644082745407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            },
+            {
+              "end": 28,
+              "id": "1507566077554819074",
+              "start": 14,
+              "username": "Distance11623"
+            },
+            {
+              "end": 44,
+              "id": "1260553941714186241",
+              "start": 29,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867177644082745407",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867177419943330275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 @Distance11623 @whyyoutouzhele 我其实还是更喜欢用Dr.这种不指定性别的称呼…但只有在航空公司官网上定的时候能选Dr."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3237,
+          "following_count": 353,
+          "like_count": 802,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 385
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "こんにちは，私は白州です，大学生。\nそして私は中国から来ました，日本語を使うのは単に日本語が好きだから|拍车佬（大概|休学了|05后|精神状态差|以后要和小梓过一辈子|二次元|175cm|55kg|想发疯|穷逼一个|准备打工|自宅警备队|无证含糖ing～|",
+        "id": "1856186701280075776",
+        "location": "东经114度，北纬51.4度",
+        "name": "渴望成为真寻的白洲酱（在家休学ing）（能不能讨个fo啊）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866681094873157633/fWyMHiqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 169,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 283
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T03:52:46.000Z",
+        "description": "",
+        "id": "1507566077554819074",
+        "name": "UITL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518903734398504960/hj2hB5jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 71,
+          "like_count": 12169,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 3666
+        },
+        "username": "Distance11623",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866222,
+          "following_count": 932,
+          "like_count": 5515,
+          "listed_count": 8022,
+          "media_count": 20184,
+          "tweet_count": 26407
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

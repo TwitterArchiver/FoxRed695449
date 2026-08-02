@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1863703906049507609",
+    "created_at": "2024-12-03T04:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T05:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863806213118697633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863806213118697633",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863703906049507609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 怎么说呢…还真是吞药…mtf吞药…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1863703906049507609",
+        "created_at": "2024-12-03T04:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T05:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863806213118697633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863806213118697633",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863703906049507609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 怎么说呢…还真是吞药…mtf吞药…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863702816314773504",
+            "3_1863703064496021505",
+            "3_1863703146670735361",
+            "3_1863703582257651712"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863703906049507609",
+        "created_at": "2024-12-02T21:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T22:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863703906049507609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7QUyBMZNj",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863703906049507609/photo/1",
+              "media_key": "3_1863702816314773504",
+              "start": 90,
+              "url": "https://t.co/N7QUyBMZNj"
+            },
+            {
+              "display_url": "pic.x.com/N7QUyBMZNj",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863703906049507609/photo/1",
+              "media_key": "3_1863703064496021505",
+              "start": 90,
+              "url": "https://t.co/N7QUyBMZNj"
+            },
+            {
+              "display_url": "pic.x.com/N7QUyBMZNj",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863703906049507609/photo/1",
+              "media_key": "3_1863703146670735361",
+              "start": 90,
+              "url": "https://t.co/N7QUyBMZNj"
+            },
+            {
+              "display_url": "pic.x.com/N7QUyBMZNj",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1863703906049507609/photo/1",
+              "media_key": "3_1863703582257651712",
+              "start": 90,
+              "url": "https://t.co/N7QUyBMZNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863703906049507609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 198595,
+          "like_count": 645,
+          "quote_count": 8,
+          "reply_count": 121,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "12月2日，网传华中农业大学学生宿舍发生砍人事件。有学生称是有人被捅，也有学生称是两人持刀互殴。\n随后当晚学校辟谣称是学生因情绪问题服药报警，没有学生冲突，要求学生不信谣不传谣。 https://t.co/N7QUyBMZNj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 307,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853668,
+          "following_count": 928,
+          "like_count": 5519,
+          "listed_count": 8009,
+          "media_count": 19617,
+          "tweet_count": 25828
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

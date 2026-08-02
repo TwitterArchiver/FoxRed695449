@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917444087885750273",
+        "3_1917444087902527489"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1917425342874280160",
+    "created_at": "2025-04-30T05:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T06:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917444108467200386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/woosZSoLUY",
+          "end": 79,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917444108467200386/photo/1",
+          "media_key": "3_1917444087885750273",
+          "start": 56,
+          "url": "https://t.co/woosZSoLUY"
+        },
+        {
+          "display_url": "pic.x.com/woosZSoLUY",
+          "end": 79,
+          "expanded_url": "https://x.com/FoxRed695449/status/1917444108467200386/photo/1",
+          "media_key": "3_1917444087902527489",
+          "start": 56,
+          "url": "https://t.co/woosZSoLUY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917444108467200386",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917425342874280160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 雖然但是這功能都不知道存在多少年了\nApple也有\n感覺就是個騙經費的升級罷了 https://t.co/woosZSoLUY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1917444087885750273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpwhPScaYAEPi8j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917444087902527489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpwhPSgaYAENKiv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1288,
+        "media_key": "3_1917425216164356099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpwQEzzaYAMe6xA.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917444087885750273",
+            "3_1917444087902527489"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917425342874280160",
+        "created_at": "2025-04-30T05:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917444108467200386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/woosZSoLUY",
+              "end": 79,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917444108467200386/photo/1",
+              "media_key": "3_1917444087885750273",
+              "start": 56,
+              "url": "https://t.co/woosZSoLUY"
+            },
+            {
+              "display_url": "pic.x.com/woosZSoLUY",
+              "end": 79,
+              "expanded_url": "https://x.com/FoxRed695449/status/1917444108467200386/photo/1",
+              "media_key": "3_1917444087902527489",
+              "start": 56,
+              "url": "https://t.co/woosZSoLUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917444108467200386",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917425342874280160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 雖然但是這功能都不知道存在多少年了\nApple也有\n感覺就是個騙經費的升級罷了 https://t.co/woosZSoLUY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917425216164356099"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1917425342874280160",
+        "created_at": "2025-04-30T03:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917425342874280160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQGf2Tl5Zy",
+              "end": 156,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1917425342874280160/photo/1",
+              "media_key": "3_1917425216164356099",
+              "start": 133,
+              "url": "https://t.co/aQGf2Tl5Zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917425342874280160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月29日 网信办牵头发布了手机“未成年人模式”，涵盖包括各大手机厂商和热门软件应用，家长将可以控制和监视孩子的应用使用情况，每日上网总时长等。\n网信办称“该模式将更好满足未成年人的精神文化需求。”\n各个应用商店将建立未成年人专区，相应热门应用也会提供该模式切换。\n华为、OPPO和中兴将在手机系统更新后提供未成年人模式，小米、荣耀和vivo则在发布的新机上搭载未成年人模式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 35132,
+          "like_count": 148,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "4月29日 网信办牵头发布了手机“未成年人模式”，涵盖包括各大手机厂商和热门软件应用，家长将可以控制和监视孩子的应用使用情况，每日上网总时长等。\n网信办称“该模式将更好满足未成年人的精神文化需求。”\n各个应用商店将建立未成年人专区，相应热门应用也会提供该模式切换。 https://t.co/aQGf2Tl5Zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 641,
+          "like_count": 2993,
+          "listed_count": 6,
+          "media_count": 506,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1917183619799613928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985783,
+          "following_count": 950,
+          "like_count": 6257,
+          "listed_count": 8123,
+          "media_count": 27245,
+          "tweet_count": 33683
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

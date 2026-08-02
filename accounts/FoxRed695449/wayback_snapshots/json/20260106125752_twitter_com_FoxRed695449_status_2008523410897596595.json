@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2008523410897596595",
+    "created_at": "2026-01-06T12:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008523410897596595"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Cathay",
+          "probability": 0.7166,
+          "start": 38,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "16898427",
+          "start": 3,
+          "username": "cathaypacific"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008523410897596595",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008381077056901186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cathaypacific: For eight decades, Cathay has connected people, places, and possibilities, enabling meaningful journeys across the globe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25193,
+        "height": 3840,
+        "media_key": "13_2008380620649762816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008380620649762816/img/L0rMEv66vxpwqEIT.jpg",
+        "public_metrics": {
+          "view_count": 4830
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008380620649762816/vid/avc1/1080x1920/szNtoudYCcsxjydW.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008380620649762816/pl/T0X-YP_A9fU6Xsa8.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008380620649762816/vid/avc1/480x852/Y-qcrUB7DurfilSE.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008380620649762816/vid/avc1/320x568/-XhenMhzPqPuyzOS.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008380620649762816/vid/avc1/720x1280/OzYkSflTMXZV67WF.mp4?tag=16"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2008523410897596595",
+        "created_at": "2026-01-06T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008523410897596595"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Cathay",
+              "probability": 0.7166,
+              "start": 38,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "16898427",
+              "start": 3,
+              "username": "cathaypacific"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008523410897596595",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008381077056901186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cathaypacific: For eight decades, Cathay has connected people, places, and possibilities, enabling meaningful journeys across the globe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008380620649762816"
+          ]
+        },
+        "author_id": "16898427",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2008381077056901186",
+        "created_at": "2026-01-06T03:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008381077056901186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Cathay",
+              "probability": 0.5594,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2e2gefzWx",
+              "end": 223,
+              "expanded_url": "https://x.com/cathaypacific/status/2008381077056901186/video/1",
+              "media_key": "13_2008380620649762816",
+              "start": 200,
+              "url": "https://t.co/r2e2gefzWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008381077056901186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 17469,
+          "like_count": 497,
+          "quote_count": 15,
+          "reply_count": 11,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "For eight decades, Cathay has connected people, places, and possibilities, enabling meaningful journeys across the globe.\n\nNow, as we turn the page to a new chapter, we are reviving a beloved memory. https://t.co/r2e2gefzWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 729,
+          "like_count": 5552,
+          "listed_count": 7,
+          "media_count": 921,
+          "tweet_count": 2860
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-22T02:00:56.000Z",
+        "description": "The official page of Cathay Pacific. For other feedback or a formal response, please fill out the form at https://t.co/T3Mrpp3EnL.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3N7e3BM",
+                "end": 129,
+                "expanded_url": "https://bit.ly/3N7e3BM",
+                "start": 106,
+                "url": "https://t.co/T3Mrpp3EnL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cathaypacific.com",
+                "end": 23,
+                "expanded_url": "http://www.cathaypacific.com",
+                "start": 0,
+                "url": "https://t.co/aJ7r8a9tjV"
+              }
+            ]
+          }
+        },
+        "id": "16898427",
+        "name": "Cathay Pacific",
+        "pinned_tweet_id": "1849788342046687497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008405372072284160/dmGP9boI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505728,
+          "following_count": 2522,
+          "like_count": 4076,
+          "listed_count": 2365,
+          "media_count": 1904,
+          "tweet_count": 41597
+        },
+        "url": "https://t.co/aJ7r8a9tjV",
+        "username": "cathaypacific",
+        "verified": true
+      }
+    ]
+  }
+}

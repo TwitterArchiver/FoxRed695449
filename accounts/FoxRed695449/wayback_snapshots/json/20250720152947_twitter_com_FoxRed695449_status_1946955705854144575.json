@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946955692012703744"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946827878961983491",
+    "created_at": "2025-07-20T15:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T16:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946955705854144575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807078941087391745",
+          "start": 0,
+          "username": "random__string"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqB6FPMvfP",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1946955705854144575/photo/1",
+          "media_key": "3_1946955692012703744",
+          "start": 27,
+          "url": "https://t.co/DqB6FPMvfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946955705854144575",
+    "in_reply_to_user_id": "1807078941087391745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946955408977142081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@random__string 阿里云的还是稳定的（ https://t.co/DqB6FPMvfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2681,
+        "media_key": "3_1946955692012703744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwT54u_XkAAZgL8.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946955692012703744"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946827878961983491",
+        "created_at": "2025-07-20T15:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946955705854144575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807078941087391745",
+              "start": 0,
+              "username": "random__string"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqB6FPMvfP",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1946955705854144575/photo/1",
+              "media_key": "3_1946955692012703744",
+              "start": 27,
+              "url": "https://t.co/DqB6FPMvfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946955705854144575",
+        "in_reply_to_user_id": "1807078941087391745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946955408977142081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random__string 阿里云的还是稳定的（ https://t.co/DqB6FPMvfP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807078941087391745",
+        "conversation_id": "1946827878961983491",
+        "created_at": "2025-07-20T15:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946955408977142081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946955408977142081",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946827878961983491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 是的，香港节点变得很不稳定，所以我用新加坡节点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 674,
+          "like_count": 3732,
+          "listed_count": 7,
+          "media_count": 556,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T15:49:37.000Z",
+        "description": "https://t.co/9jWDnm457j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.alexma.top",
+                "end": 23,
+                "expanded_url": "https://blog.alexma.top",
+                "start": 0,
+                "url": "https://t.co/9jWDnm457j"
+              }
+            ]
+          }
+        },
+        "id": "1807078941087391745",
+        "name": "alexma2333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942370336600915968/_89dmysu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 114,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 317
+        },
+        "username": "random__string",
+        "verified": false
+      }
+    ]
+  }
+}

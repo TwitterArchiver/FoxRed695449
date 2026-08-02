@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1993206544952181232",
+    "created_at": "2025-11-25T10:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993269401991422397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2262723812",
+          "start": 0,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993269401991422397",
+    "in_reply_to_user_id": "2262723812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993206544952181232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abskoop 精确不到\n至少按照目前中国家宽公网IPV4的稀有程度是实现不了的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_1993206527625510912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lKxsMbwAAZwhF.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1993206544952181232",
+        "created_at": "2025-11-25T10:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993269401991422397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993269401991422397",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993206544952181232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop 精确不到\n至少按照目前中国家宽公网IPV4的稀有程度是实现不了的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993206527625510912"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "1993206544952181232",
+        "created_at": "2025-11-25T06:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993206544952181232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRXJm5RNQ0",
+              "end": 40,
+              "expanded_url": "https://x.com/abskoop/status/1993206544952181232/photo/1",
+              "media_key": "3_1993206527625510912",
+              "start": 17,
+              "url": "https://t.co/hRXJm5RNQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993206544952181232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 109058,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候IP归属精确到具体小区🥲 https://t.co/hRXJm5RNQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 699,
+          "like_count": 4955,
+          "listed_count": 7,
+          "media_count": 895,
+          "tweet_count": 2734
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️虚假推友🫶🫰😘💕 收集分享各种互联网垃圾｜投稿侵权请私信｜谢谢不接推｜TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs l🔔重复刷无相关评论会被拉黑｜链接打不开用Chrome浏览器，不要用国产浏览器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 69,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 46,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731140,
+          "following_count": 1203,
+          "like_count": 26143,
+          "listed_count": 2623,
+          "media_count": 22919,
+          "tweet_count": 59085
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

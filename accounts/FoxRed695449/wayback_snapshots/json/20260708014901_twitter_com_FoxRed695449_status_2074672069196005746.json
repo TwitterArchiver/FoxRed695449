@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074671985284853760",
+        "3_2074672003001528320",
+        "3_2074672022966431744",
+        "3_2074672042943959040"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2074515205724483713",
+    "created_at": "2026-07-08T01:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074672069196005746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931593942145064961",
+          "start": 0,
+          "username": "detroitlongface"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hB04wEyacn",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+          "media_key": "3_2074671985284853760",
+          "start": 144,
+          "url": "https://t.co/hB04wEyacn"
+        },
+        {
+          "display_url": "pic.x.com/hB04wEyacn",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+          "media_key": "3_2074672003001528320",
+          "start": 144,
+          "url": "https://t.co/hB04wEyacn"
+        },
+        {
+          "display_url": "pic.x.com/hB04wEyacn",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+          "media_key": "3_2074672022966431744",
+          "start": 144,
+          "url": "https://t.co/hB04wEyacn"
+        },
+        {
+          "display_url": "pic.x.com/hB04wEyacn",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+          "media_key": "3_2074672042943959040",
+          "start": 144,
+          "url": "https://t.co/hB04wEyacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074672069196005746",
+    "in_reply_to_user_id": "1931593942145064961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074649535029338218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@detroitlongface 有中文网页文档和支持，是Firefox里VPN的供应商，有免费节点能先使用下看，代码在GitHub上公开，消委会测评里的结果好，公司立场也不亲中 至于住宅IP有朋友家里的真家宽，对VPN的要求就是保护下连接能解锁可以无脑用就行 用几天真不行反正也能退款 https://t.co/hB04wEyacn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2074671985284853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq3LbRbsAAKUgg.jpg",
+        "width": 1102
+      },
+      {
+        "height": 851,
+        "media_key": "3_2074672003001528320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq3MdRasAA5IMB.jpg",
+        "width": 1689
+      },
+      {
+        "height": 607,
+        "media_key": "3_2074672022966431744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq3Nnpa8AA3x1b.png",
+        "width": 863
+      },
+      {
+        "height": 874,
+        "media_key": "3_2074672042943959040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq3OyEb0AAUsrh.jpg",
+        "width": 1695
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074671985284853760",
+            "3_2074672003001528320",
+            "3_2074672022966431744",
+            "3_2074672042943959040"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2074515205724483713",
+        "created_at": "2026-07-08T01:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074672069196005746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931593942145064961",
+              "start": 0,
+              "username": "detroitlongface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hB04wEyacn",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+              "media_key": "3_2074671985284853760",
+              "start": 144,
+              "url": "https://t.co/hB04wEyacn"
+            },
+            {
+              "display_url": "pic.x.com/hB04wEyacn",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+              "media_key": "3_2074672003001528320",
+              "start": 144,
+              "url": "https://t.co/hB04wEyacn"
+            },
+            {
+              "display_url": "pic.x.com/hB04wEyacn",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+              "media_key": "3_2074672022966431744",
+              "start": 144,
+              "url": "https://t.co/hB04wEyacn"
+            },
+            {
+              "display_url": "pic.x.com/hB04wEyacn",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074672069196005746/photo/1",
+              "media_key": "3_2074672042943959040",
+              "start": 144,
+              "url": "https://t.co/hB04wEyacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074672069196005746",
+        "in_reply_to_user_id": "1931593942145064961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074649535029338218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@detroitlongface 有中文网页文档和支持，是Firefox里VPN的供应商，有免费节点能先使用下看，代码在GitHub上公开，消委会测评里的结果好，公司立场也不亲中 至于住宅IP有朋友家里的真家宽，对VPN的要求就是保护下连接能解锁可以无脑用就行 用几天真不行反正也能退款 https://t.co/hB04wEyacn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931593942145064961",
+        "conversation_id": "2074515205724483713",
+        "created_at": "2026-07-08T00:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074649535029338218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074649535029338218",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074515205724483713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 那你怎么不用socks/http代理大厂，还有有真住宅ip的mysterium vpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 843,
+          "like_count": 8209,
+          "listed_count": 6,
+          "media_count": 1060,
+          "tweet_count": 3398
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T06:07:51.000Z",
+        "description": "Connected & Encrypted.",
+        "id": "1931593942145064961",
+        "name": "fakewatt ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050508505090822144/Frkw5qvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 108,
+          "like_count": 7199,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "detroitlongface",
+        "verified": true
+      }
+    ]
+  }
+}

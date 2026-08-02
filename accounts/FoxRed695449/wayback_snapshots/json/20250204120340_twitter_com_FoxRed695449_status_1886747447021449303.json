@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886747444505141251"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886747447021449303",
+    "created_at": "2025-02-04T12:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886747447021449303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEFxC74tsc",
+          "end": 56,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886747447021449303/photo/1",
+          "media_key": "3_1886747444505141251",
+          "start": 33,
+          "url": "https://t.co/wEFxC74tsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886747447021449303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你的经历和身边的朋友登上报道，真的有一种...奇幻的感觉... https://t.co/wEFxC74tsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886747444505141251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi8Szeqa4AMgR_O.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886747444505141251"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-04T12:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886747447021449303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEFxC74tsc",
+              "end": 56,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886747447021449303/photo/1",
+              "media_key": "3_1886747444505141251",
+              "start": 33,
+              "url": "https://t.co/wEFxC74tsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886747447021449303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你的经历和身边的朋友登上报道，真的有一种...奇幻的感觉... https://t.co/wEFxC74tsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 455,
+          "like_count": 1349,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 814
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

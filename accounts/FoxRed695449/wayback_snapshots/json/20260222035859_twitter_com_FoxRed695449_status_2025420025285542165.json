@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2025242271294292127",
+    "created_at": "2026-02-22T03:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025420025285542165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707911374377213952",
+          "start": 0,
+          "username": "Rainyufanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025420025285542165",
+    "in_reply_to_user_id": "1707911374377213952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025242271294292127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyufanf 建议把中国国籍注销了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025242265439141888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsbHDebgAA6oEw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025242266756071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsbHIYaQAATUdJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025242267569848328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsbHLabgAg5q1S.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025242267674660864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsbHLza0AA0hua.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2025242271294292127",
+        "created_at": "2026-02-22T03:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025420025285542165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707911374377213952",
+              "start": 0,
+              "username": "Rainyufanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025420025285542165",
+        "in_reply_to_user_id": "1707911374377213952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025242271294292127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyufanf 建议把中国国籍注销了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025242265439141888",
+            "3_2025242266756071424",
+            "3_2025242267569848328",
+            "3_2025242267674660864"
+          ]
+        },
+        "author_id": "1707911374377213952",
+        "conversation_id": "2025242271294292127",
+        "created_at": "2026-02-21T16:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025242271294292127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11wq3B7gD4",
+              "end": 64,
+              "expanded_url": "https://x.com/Rainyufanf/status/2025242271294292127/photo/1",
+              "media_key": "3_2025242265439141888",
+              "start": 41,
+              "url": "https://t.co/11wq3B7gD4"
+            },
+            {
+              "display_url": "pic.x.com/11wq3B7gD4",
+              "end": 64,
+              "expanded_url": "https://x.com/Rainyufanf/status/2025242271294292127/photo/1",
+              "media_key": "3_2025242266756071424",
+              "start": 41,
+              "url": "https://t.co/11wq3B7gD4"
+            },
+            {
+              "display_url": "pic.x.com/11wq3B7gD4",
+              "end": 64,
+              "expanded_url": "https://x.com/Rainyufanf/status/2025242271294292127/photo/1",
+              "media_key": "3_2025242267569848328",
+              "start": 41,
+              "url": "https://t.co/11wq3B7gD4"
+            },
+            {
+              "display_url": "pic.x.com/11wq3B7gD4",
+              "end": 64,
+              "expanded_url": "https://x.com/Rainyufanf/status/2025242271294292127/photo/1",
+              "media_key": "3_2025242267674660864",
+              "start": 41,
+              "url": "https://t.co/11wq3B7gD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025242271294292127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1075,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我遭遇了迫害，我不知道改怎么办。去加拿大？我已经到了加拿大也不需要监护人的年龄了 https://t.co/11wq3B7gD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 779,
+          "like_count": 6372,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 2962
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "雪下的那么深~下的那么认真~",
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雪下的那么深~下的那么认真~",
+        "pinned_tweet_id": "2022502024429137922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 263,
+          "like_count": 5884,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1379
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      }
+    ]
+  }
+}

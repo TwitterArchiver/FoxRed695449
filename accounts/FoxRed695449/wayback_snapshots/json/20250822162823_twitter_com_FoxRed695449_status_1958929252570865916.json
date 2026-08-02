@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1958923853914415478",
+    "created_at": "2025-08-22T16:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T17:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958929252570865916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2486372011",
+          "start": 0,
+          "username": "Meowneko_Mio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958929252570865916",
+    "in_reply_to_user_id": "2486372011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 20,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958929134706708854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meowneko_Mio 水上樂園白卡要150（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1958923853914415478",
+        "created_at": "2025-08-22T16:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T17:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958929252570865916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2486372011",
+              "start": 0,
+              "username": "Meowneko_Mio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958929252570865916",
+        "in_reply_to_user_id": "2486372011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958929134706708854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowneko_Mio 水上樂園白卡要150（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2486372011",
+        "conversation_id": "1958923853914415478",
+        "created_at": "2025-08-22T16:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T17:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958929134706708854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958929134706708854",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958923853914415478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 白卡免費（霧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 697,
+          "like_count": 4148,
+          "listed_count": 7,
+          "media_count": 701,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "Moonlight @RedteaCattleya ｜📷 | 🚃 | 🇲🇴 | 🇭🇰 | 85.60x53.98 ｜Best Linux @debian | https://t.co/hCUoYx0hAa in Computer Science ｜💫@McXiaowei @RenkoUsagi1155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "RedteaCattleya"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "username": "debian"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "RenkoUsagi1155"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "B.Sc",
+                "end": 102,
+                "expanded_url": "http://B.Sc",
+                "start": 79,
+                "url": "https://t.co/hCUoYx0hAa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "win7.win",
+                "end": 23,
+                "expanded_url": "https://win7.win",
+                "start": 0,
+                "url": "https://t.co/ds9KOmXi36"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "name": "Mio",
+        "pinned_tweet_id": "1911442925419975127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943117504965996544/enlc2d8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 849,
+          "like_count": 66731,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 4043
+        },
+        "url": "https://t.co/ds9KOmXi36",
+        "username": "Meowneko_Mio",
+        "verified": false
+      }
+    ]
+  }
+}

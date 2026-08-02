@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2064298072667287611",
+    "created_at": "2026-06-09T15:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064372625649140203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601193359715942401",
+          "start": 0,
+          "username": "ruguowoshidjni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064372625649140203",
+    "in_reply_to_user_id": "1601193359715942401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064365357851402625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruguowoshidjni 我建议抬高到60岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064372625649140203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601193359715942401",
+              "start": 0,
+              "username": "ruguowoshidjni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064372625649140203",
+        "in_reply_to_user_id": "1601193359715942401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064365357851402625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruguowoshidjni 我建议抬高到60岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601193359715942401",
+        "conversation_id": "2064298072667287611",
+        "created_at": "2026-06-09T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064365357851402625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064365357851402625",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298072667287611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我建议抬高到23岁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 841,
+          "like_count": 8124,
+          "listed_count": 6,
+          "media_count": 1041,
+          "tweet_count": 3326
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-09T12:33:46.000Z",
+        "description": "yigiuwowo",
+        "id": "1601193359715942401",
+        "name": "yigiuwoligiao",
+        "pinned_tweet_id": "1966427724131754394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680714620825370624/QoCzQX14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 658,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 570
+        },
+        "username": "ruguowoshidjni",
+        "verified": false
+      }
+    ]
+  }
+}

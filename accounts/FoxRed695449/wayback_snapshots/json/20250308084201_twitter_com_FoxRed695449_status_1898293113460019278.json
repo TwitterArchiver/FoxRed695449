@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1898284389143920985",
+    "created_at": "2025-03-08T08:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T09:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898293113460019278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898293113460019278",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898290420771148064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 動漫（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1898284389143920985",
+        "created_at": "2025-03-08T08:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898293113460019278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898293113460019278",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898290420771148064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 動漫（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824428396258234368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1174344555111469057",
+              "name": "Samsung Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045298641",
+              "name": "Samsung USA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "1898284389143920985",
+        "created_at": "2025-03-08T08:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898290420771148064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898290420771148064",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898284389143920985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 你都用Samsung電視？睇乜嘢啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 548,
+          "like_count": 2275,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{TAKAO}(E486) 🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897641760463175680/GJVWm4lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 515,
+          "like_count": 43131,
+          "listed_count": 3,
+          "media_count": 1601,
+          "tweet_count": 5369
+        },
+        "username": "wingsing355236",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981900215440535641",
+    "created_at": "2025-10-25T12:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T13:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982065247776321614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "969490189256081408",
+          "start": 0,
+          "username": "_Sakiel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "doj.gov.hk/tc/notable_jud…",
+          "end": 33,
+          "expanded_url": "https://www.doj.gov.hk/tc/notable_judgments/pdf/FACV_8_9_2022c.pdf",
+          "start": 10,
+          "status": 200,
+          "unwound_url": "https://www.doj.gov.hk/tc/notable_judgments/pdf/FACV_8_9_2022c.pdf",
+          "url": "https://t.co/dpZkHWMiTv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982065247776321614",
+    "in_reply_to_user_id": "969490189256081408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981900215440535641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Sakiel_ https://t.co/dpZkHWMiTv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981900215440535641",
+        "created_at": "2025-10-25T12:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982065247776321614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "969490189256081408",
+              "start": 0,
+              "username": "_Sakiel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "doj.gov.hk/tc/notable_jud…",
+              "end": 33,
+              "expanded_url": "https://www.doj.gov.hk/tc/notable_judgments/pdf/FACV_8_9_2022c.pdf",
+              "start": 10,
+              "status": 200,
+              "unwound_url": "https://www.doj.gov.hk/tc/notable_judgments/pdf/FACV_8_9_2022c.pdf",
+              "url": "https://t.co/dpZkHWMiTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982065247776321614",
+        "in_reply_to_user_id": "969490189256081408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981900215440535641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Sakiel_ https://t.co/dpZkHWMiTv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "969490189256081408",
+        "conversation_id": "1981900215440535641",
+        "created_at": "2025-10-25T01:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981900215440535641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1981888890609803362",
+              "start": 125,
+              "url": "https://t.co/HQ3mJc3nSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981900215440535641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5341,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981888890609803362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁告诉他们性别认同是基本人权的？？？连国籍这种彻底的社会构建身份都不能self id，你敢跟美国移民局说国籍认同是基本人权吗？性别这种完全由生理来划分的东西你倒是敢self id，说到底还是因为女人软柿子好捏吧，连看人下碟的态度都充满了男味。 https://t.co/HQ3mJc3nSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 684,
+          "like_count": 4680,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-02T08:30:48.000Z",
+        "description": "",
+        "id": "969490189256081408",
+        "name": "Sakiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612428252630642688/kOuQY0bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7004,
+          "following_count": 2955,
+          "like_count": 42085,
+          "listed_count": 38,
+          "media_count": 354,
+          "tweet_count": 33039
+        },
+        "username": "_Sakiel_",
+        "verified": false
+      }
+    ]
+  }
+}

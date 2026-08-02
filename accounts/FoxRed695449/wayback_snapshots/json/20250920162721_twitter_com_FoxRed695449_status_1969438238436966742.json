@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1969033362724749437",
+    "created_at": "2025-09-20T16:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T17:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969438238436966742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933225223416864768",
+          "start": 0,
+          "username": "Araya_Touka_222"
+        },
+        {
+          "end": 26,
+          "id": "1945757692834033664",
+          "start": 17,
+          "username": "Nyarsalt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969438238436966742",
+    "in_reply_to_user_id": "1933225223416864768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969037000381477268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Araya_Touka_222 @Nyarsalt 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1969033362724749437",
+        "created_at": "2025-09-20T16:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T17:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969438238436966742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933225223416864768",
+              "start": 0,
+              "username": "Araya_Touka_222"
+            },
+            {
+              "end": 26,
+              "id": "1945757692834033664",
+              "start": 17,
+              "username": "Nyarsalt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969438238436966742",
+        "in_reply_to_user_id": "1933225223416864768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969037000381477268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Araya_Touka_222 @Nyarsalt 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933225223416864768",
+        "conversation_id": "1969033362724749437",
+        "created_at": "2025-09-19T13:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969037000381477268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945757692834033664",
+              "start": 0,
+              "username": "Nyarsalt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969037000381477268",
+        "in_reply_to_user_id": "1945757692834033664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969033362724749437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyarsalt 香港以前可以合法拿双重国籍，现在不知道行不行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 695,
+          "like_count": 4365,
+          "listed_count": 8,
+          "media_count": 806,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川反绿右🐶。\n逃生仓：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1933225223416864768",
+        "location": "Québec",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1967171868399407510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 5530,
+          "like_count": 15975,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 2332
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T08:09:52.000Z",
+        "description": "萧瑟秋风今又是，换了人间。 (社自，里推@Yogsalt)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "Yogsalt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyarsalt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyarsalt",
+                "start": 0,
+                "url": "https://t.co/VCzPJo8k0T"
+              }
+            ]
+          }
+        },
+        "id": "1945757692834033664",
+        "location": "Hongkong ",
+        "name": "N.🇺🇳",
+        "pinned_tweet_id": "1969411523568419321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966819555432599552/fkr1d8Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 84,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/VCzPJo8k0T",
+        "username": "Nyarsalt",
+        "verified": false
+      }
+    ]
+  }
+}

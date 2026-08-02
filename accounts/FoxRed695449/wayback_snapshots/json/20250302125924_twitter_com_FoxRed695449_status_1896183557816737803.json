@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896183554716913664"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1896183557816737803",
+    "created_at": "2025-03-02T12:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T13:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896183557816737803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfSDRTGJ9v",
+          "end": 94,
+          "expanded_url": "https://x.com/FoxRed695449/status/1896183557816737803/photo/1",
+          "media_key": "3_1896183554716913664",
+          "start": 71,
+          "url": "https://t.co/HfSDRTGJ9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896183557816737803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么会去内地交流的时候上吊自杀啊？！\n​是香港太难死了还是内地太容易死了...\n​RIP\n​唉...感觉还是学校的社会工作服务太差了... https://t.co/HfSDRTGJ9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_1896183554716913664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCY5YfW0AAQ3iT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896183554716913664"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1896183557816737803",
+        "created_at": "2025-03-02T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896183557816737803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfSDRTGJ9v",
+              "end": 94,
+              "expanded_url": "https://x.com/FoxRed695449/status/1896183557816737803/photo/1",
+              "media_key": "3_1896183554716913664",
+              "start": 71,
+              "url": "https://t.co/HfSDRTGJ9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896183557816737803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会去内地交流的时候上吊自杀啊？！\n​是香港太难死了还是内地太容易死了...\n​RIP\n​唉...感觉还是学校的社会工作服务太差了... https://t.co/HfSDRTGJ9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3825,
+          "following_count": 525,
+          "like_count": 2108,
+          "listed_count": 6,
+          "media_count": 389,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T09:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T10:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886349736355250233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886349736355250233",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886345612943319375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 嘿嘿，包多的\n還有一大堆限定非賣品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886349736355250233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886349736355250233",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886345612943319375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 嘿嘿，包多的\n還有一大堆限定非賣品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886345612943319375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886345612943319375",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 窩的會放櫃子裡就不會很亂（\n但妳的收藏品是真的好多qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 450,
+          "like_count": 1341,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 800
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🐱貓貓需要關心，貼貼抱抱和愛 | HRT 15 July 2023 | 抱著貼貼❤️ @makaochanqwq 鍵垢 @mizu_notfound 空想世界 @mizuchan_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "makaochanqwq"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "mizu_notfound"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "mizuchan_desu"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "Nekonesia / Hong Kong",
+        "name": "若水醬𖦹 ̫ × 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1886049953619071031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876221960797253632/-I0Qa5-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 2219,
+          "like_count": 81241,
+          "listed_count": 10,
+          "media_count": 1682,
+          "tweet_count": 8691
+        },
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886805311933362176",
+        "3_1886805313648779265"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886805444540375092",
+    "created_at": "2025-02-04T15:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:53:37.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886805317301989576",
+      "1886805444540375092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "990739283546865664",
+          "start": 0,
+          "username": "1nsomneux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfhoGEhnxy",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886805444540375092/photo/1",
+          "media_key": "3_1886805311933362176",
+          "start": 12,
+          "url": "https://t.co/CfhoGEhnxy"
+        },
+        {
+          "display_url": "pic.x.com/CfhoGEhnxy",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886805444540375092/photo/1",
+          "media_key": "3_1886805313648779265",
+          "start": 12,
+          "url": "https://t.co/CfhoGEhnxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886805444540375092",
+    "in_reply_to_user_id": "990739283546865664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "990739283546865664",
+            "start": 0,
+            "username": "1nsomneux"
+          }
+        ]
+      },
+      "text": "@1nsomneux 我在讀高中之前可以算一個普通的再普通不過的中國學生了吧…在一個縣級市的初中的普通班上課，因為頭髮的事情和老師吵了一年半，然後被校園霸凌，搞到差點在學校跳樓，每周都和家長吵架，自殺未遂過2次，進過icu，重度抑鬱重度焦慮躁鬱症，要是要比悽慘我覺得我也那個時候算慘的了吧？我也沒天天把我的悲慘經歷掛嘴上啊。怎麼，你上個網是比誰更慘的啊？我承認我現在沒在中國內地普高讀了，但有沒有一種可能這是我和家長從小學5年級一直吵架的結果？我相信大部分中國內地的家庭吵5年家長也能有點退步吧（不一定要什麼不獨內地普高了，有個門總可以吧？）...房間是我在初一的時候就開始這樣佈置了，我的同學（縣級市夠普通了吧？）也有這樣佈置的，只看壞不能看好是吧？雖然我也不喜歡內地的教育，但總不能這樣一刀切說所以人都沒有這樣的personal space吧。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@1nsomneux… https://t.co/CfhoGEhnxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1886805311933362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi9HbzobsAAdKcB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1886805313648779265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi9Hb6Ba4AE0bS2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886805311442571264",
+            "3_1886805311933362176",
+            "3_1886805313648779265"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886805317301989576",
+        "created_at": "2025-02-04T15:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:53:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886805317301989576",
+          "1886805444540375092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "990739283546865664",
+              "start": 0,
+              "username": "1nsomneux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k94BCB1sqE",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886805317301989576/photo/1",
+              "media_key": "3_1886805311442571264",
+              "start": 12,
+              "url": "https://t.co/k94BCB1sqE"
+            },
+            {
+              "display_url": "pic.x.com/k94BCB1sqE",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886805317301989576/photo/1",
+              "media_key": "3_1886805311933362176",
+              "start": 12,
+              "url": "https://t.co/k94BCB1sqE"
+            },
+            {
+              "display_url": "pic.x.com/k94BCB1sqE",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886805317301989576/photo/1",
+              "media_key": "3_1886805313648779265",
+              "start": 12,
+              "url": "https://t.co/k94BCB1sqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886805317301989576",
+        "in_reply_to_user_id": "990739283546865664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "990739283546865664",
+                "start": 0,
+                "username": "1nsomneux"
+              }
+            ]
+          },
+          "text": "@1nsomneux 我在讀高中之前可以算一個普通的再普通不過的中國學生了吧…在一個縣級市的初中的普通班上課，因為頭髮的事情和老師吵了一年半，然後被校園霸凌，搞到差點在學校跳樓，每周都和家長吵架，自殺未遂過2次，進過icu，重度抑鬱重度焦慮躁鬱症，要是要比悽慘我覺得我也那個時候算慘的了吧？我也沒天天把我的悲慘經歷掛嘴上啊。怎麼，你上個網是比誰更慘的啊？我承認我現在沒在中國內地普高讀了，但有沒有一種可能這是我和家長從小學5年級一直吵架的結果？我相信大部分中國內地的家庭吵5年家長也能有點退步吧（不一定要什麼不獨內地普高了，有個門總可以吧？）...房間是我在初一的時候就開始這樣佈置了，我的同學（縣級市夠普通了吧？）也有這樣佈置的，只看壞不能看好是吧？雖然我也不喜歡內地的教育，但總不能這樣一刀切說所以人都沒有這樣的personal space吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@1nsomneux… https://t.co/k94BCB1sqE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886805311933362176",
+            "3_1886805313648779265"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886805444540375092",
+        "created_at": "2025-02-04T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:53:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886805317301989576",
+          "1886805444540375092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "990739283546865664",
+              "start": 0,
+              "username": "1nsomneux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfhoGEhnxy",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886805444540375092/photo/1",
+              "media_key": "3_1886805311933362176",
+              "start": 12,
+              "url": "https://t.co/CfhoGEhnxy"
+            },
+            {
+              "display_url": "pic.x.com/CfhoGEhnxy",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886805444540375092/photo/1",
+              "media_key": "3_1886805313648779265",
+              "start": 12,
+              "url": "https://t.co/CfhoGEhnxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886805444540375092",
+        "in_reply_to_user_id": "990739283546865664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "990739283546865664",
+                "start": 0,
+                "username": "1nsomneux"
+              }
+            ]
+          },
+          "text": "@1nsomneux 我在讀高中之前可以算一個普通的再普通不過的中國學生了吧…在一個縣級市的初中的普通班上課，因為頭髮的事情和老師吵了一年半，然後被校園霸凌，搞到差點在學校跳樓，每周都和家長吵架，自殺未遂過2次，進過icu，重度抑鬱重度焦慮躁鬱症，要是要比悽慘我覺得我也那個時候算慘的了吧？我也沒天天把我的悲慘經歷掛嘴上啊。怎麼，你上個網是比誰更慘的啊？我承認我現在沒在中國內地普高讀了，但有沒有一種可能這是我和家長從小學5年級一直吵架的結果？我相信大部分中國內地的家庭吵5年家長也能有點退步吧（不一定要什麼不獨內地普高了，有個門總可以吧？）...房間是我在初一的時候就開始這樣佈置了，我的同學（縣級市夠普通了吧？）也有這樣佈置的，只看壞不能看好是吧？雖然我也不喜歡內地的教育，但總不能這樣一刀切說所以人都沒有這樣的personal space吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@1nsomneux… https://t.co/CfhoGEhnxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 456,
+          "like_count": 1354,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 822
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-29T23:47:07.000Z",
+        "description": "那如果憎恶停得住的话 文娱汇演集体活动到此为止吗                                                                        \n裏垢：@Melalchoholyk  |  彼氏：@Sanp1ryouron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "Melalchoholyk"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Sanp1ryouron"
+              }
+            ]
+          }
+        },
+        "id": "990739283546865664",
+        "name": "お幸せにbot🏳️‍🌈 (Parody)",
+        "pinned_tweet_id": "1742960196501266933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880900068833918976/5ldXd3cc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 593,
+          "like_count": 6505,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 3229
+        },
+        "username": "1nsomneux",
+        "verified": false
+      }
+    ]
+  }
+}

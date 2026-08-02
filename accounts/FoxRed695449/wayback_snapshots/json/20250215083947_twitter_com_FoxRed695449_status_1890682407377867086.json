@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1890682407377867086",
+    "created_at": "2025-02-15T08:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890682407377867086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890682407377867086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890609266639454208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 伊登·奈特（Eden Knight）是沙特的一名知名跨性别博主。但她在突然自杀前发布的遗言引起了数百万人的关注。\n\n遗言称，她曾试图在美国申请庇护，但美国一名律师劝说她回到沙特。而沙特以及她的家人都对跨性别者嗤之以鼻。… https://t.co…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1890682407377867086",
+        "created_at": "2025-02-15T08:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890682407377867086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890682407377867086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890609266639454208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 伊登·奈特（Eden Knight）是沙特的一名知名跨性别博主。但她在突然自杀前发布的遗言引起了数百万人的关注。\n\n遗言称，她曾试图在美国申请庇护，但美国一名律师劝说她回到沙特。而沙特以及她的家人都对跨性别者嗤之以鼻。… https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890609070148841472"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1890609266639454208",
+        "created_at": "2025-02-15T03:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T04:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890609266639454208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yINOs5iTHQ",
+              "end": 134,
+              "expanded_url": "https://x.com/bbcchinese/status/1890609266639454208/video/1",
+              "media_key": "7_1890609070148841472",
+              "start": 111,
+              "url": "https://t.co/yINOs5iTHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890609266639454208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "伊登·奈特（Eden Knight）是沙特的一名知名跨性别博主。但她在突然自杀前发布的遗言引起了数百万人的关注。\n\n遗言称，她曾试图在美国申请庇护，但美国一名律师劝说她回到沙特。而沙特以及她的家人都对跨性别者嗤之以鼻。\n\nBBC的调查揭开了伊登在生命最后几个月发生的事情。有证据显示，这名律师名为巴德·奥迈尔的律师（Bader Alomair）曾在华盛顿的沙特大使馆工作。他并未回应BBC提出的指控。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 75936,
+          "like_count": 174,
+          "quote_count": 10,
+          "reply_count": 85,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "伊登·奈特（Eden Knight）是沙特的一名知名跨性别博主。但她在突然自杀前发布的遗言引起了数百万人的关注。\n\n遗言称，她曾试图在美国申请庇护，但美国一名律师劝说她回到沙特。而沙特以及她的家人都对跨性别者嗤之以鼻。… https://t.co/yINOs5iTHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 489,
+          "like_count": 1637,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 1049
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4758577,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11577,
+          "media_count": 23006,
+          "tweet_count": 152001
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889583622845350377",
+    "created_at": "2025-02-12T09:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T10:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889601927849054509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1138408165014364162",
+          "start": 0,
+          "username": "shiratsuyudachi"
+        },
+        {
+          "end": 29,
+          "id": "1176535991454064640",
+          "start": 17,
+          "username": "nekomakiuwu"
+        },
+        {
+          "end": 43,
+          "id": "1794154221194932224",
+          "start": 30,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 59,
+          "id": "1841847755691745280",
+          "start": 44,
+          "username": "jimi_yang22770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889601927849054509",
+    "in_reply_to_user_id": "1138408165014364162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889600521192845707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiratsuyudachi @nekomakiuwu @NagiVictoria @jimi_yang22770 我去找老師要要課案（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889583622845350377",
+        "created_at": "2025-02-12T09:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889601927849054509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138408165014364162",
+              "start": 0,
+              "username": "shiratsuyudachi"
+            },
+            {
+              "end": 29,
+              "id": "1176535991454064640",
+              "start": 17,
+              "username": "nekomakiuwu"
+            },
+            {
+              "end": 43,
+              "id": "1794154221194932224",
+              "start": 30,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 59,
+              "id": "1841847755691745280",
+              "start": 44,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889601927849054509",
+        "in_reply_to_user_id": "1138408165014364162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889600521192845707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiratsuyudachi @nekomakiuwu @NagiVictoria @jimi_yang22770 我去找老師要要課案（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138408165014364162",
+        "conversation_id": "1889583622845350377",
+        "created_at": "2025-02-12T09:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T10:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889600521192845707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "nekomakiuwu"
+            },
+            {
+              "end": 26,
+              "id": "1794154221194932224",
+              "start": 13,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 40,
+              "id": "1781308864438345728",
+              "start": 27,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 56,
+              "id": "1841847755691745280",
+              "start": 41,
+              "username": "jimi_yang22770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889600521192845707",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889597843133906955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekomakiuwu @NagiVictoria @FoxRed695449 @jimi_yang22770 都有关系，不如看gpt精简版x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 486,
+          "like_count": 1558,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1024
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T11:30:31.000Z",
+        "description": "Trans-Magica｜拥有使用大语言模型程度的能力。更多信息请参阅置顶推文｜里号@shiratsuyukata｜单推 @Cyan_0731 ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 42,
+                "username": "shiratsuyukata"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Cyan_0731"
+              }
+            ]
+          }
+        },
+        "id": "1138408165014364162",
+        "location": "Sol III",
+        "name": "白露型四番艦の枝",
+        "pinned_tweet_id": "1853466452797608080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815937634252038144/a9IzEm89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 1617,
+          "like_count": 48018,
+          "listed_count": 11,
+          "media_count": 1075,
+          "tweet_count": 11870
+        },
+        "username": "shiratsuyudachi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "💖 @HobartR6 | 日雌/药物/HRT 私信 或 https://t.co/JUhINmLI1v | 最好的姐姐 @Yan_Xing_Xing | 可爱妹妹 @altaz_0 @RanXi_MtF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "HobartR6"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "Yan_Xing_Xing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "altaz_0"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "RanXi_MtF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 52,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 29,
+                "url": "https://t.co/JUhINmLI1v"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Brisbane, Queensland",
+        "name": "猫卷 (日雌380包邮喵)",
+        "pinned_tweet_id": "1887110458236404101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888297936192434177/vfICcUiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 789,
+          "like_count": 25034,
+          "listed_count": 9,
+          "media_count": 843,
+          "tweet_count": 9562
+        },
+        "username": "nekomakiuwu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "银趴大王冲晕了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1885877612117106704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 806,
+          "like_count": 13499,
+          "listed_count": 5,
+          "media_count": 1605,
+          "tweet_count": 12583
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "友跨顺男\n 我不搞基（）\n  ENTJ  \n間歇性極端\n  喜歡運動（现已成宅男）\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "永远在你们身边哦（我就在你身后看着你(｡･ω･｡)ﾉ♡）",
+        "name": "YYY 一个见人就 fo 的笨蛋（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888556222405828608/-hqP8VRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1055,
+          "like_count": 35852,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 6392
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      }
+    ]
+  }
+}

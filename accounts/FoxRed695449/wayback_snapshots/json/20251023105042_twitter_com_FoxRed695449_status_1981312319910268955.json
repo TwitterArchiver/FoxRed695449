@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1981002808372658227",
+    "created_at": "2025-10-23T10:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981312319910268955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 38,
+          "expanded_url": "https://x.com/foxred695449/status/1981311064899018850?s=46&t=kqULhfyVycFB-dQcHjDieg",
+          "start": 15,
+          "url": "https://t.co/Alha4C4Cb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981312319910268955",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981311064899018850",
+        "type": "quoted"
+      },
+      {
+        "id": "1981002808372658227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger https://t.co/Alha4C4Cb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_1981310458825949184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38HXWgWQAACKfT.jpg",
+        "width": 1000
+      },
+      {
+        "height": 778,
+        "media_key": "3_1981002805008547840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33vjiuWQAAu87Q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981002808372658227",
+        "created_at": "2025-10-23T10:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981312319910268955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 38,
+              "expanded_url": "https://x.com/foxred695449/status/1981311064899018850?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 15,
+              "url": "https://t.co/Alha4C4Cb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981312319910268955",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981311064899018850",
+            "type": "quoted"
+          },
+          {
+            "id": "1981002808372658227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger https://t.co/Alha4C4Cb6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981310458825949184"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1981311064899018850",
+        "created_at": "2025-10-23T10:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981311064899018850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/we1I95UUxb",
+              "end": 59,
+              "expanded_url": "https://x.com/FoxRed695449/status/1981311064899018850/photo/1",
+              "media_key": "3_1981310458825949184",
+              "start": 36,
+              "url": "https://t.co/we1I95UUxb"
+            },
+            {
+              "display_url": "x.com/nonsweetsuger/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/nonsweetsuger/status/1981002808372658227",
+              "start": 60,
+              "url": "https://t.co/zvQQtsXlGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981311064899018850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981002808372658227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快進到變成英屬香港立法局（下圖）\n這是打算回歸主子的懷抱了——英屬美國 https://t.co/we1I95UUxb https://t.co/zvQQtsXlGJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981002805008547840"
+          ]
+        },
+        "author_id": "1789184782825615360",
+        "conversation_id": "1981002808372658227",
+        "created_at": "2025-10-22T14:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981002808372658227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMX3TSPIg1",
+              "end": 60,
+              "expanded_url": "https://x.com/nonsweetsuger/status/1981002808372658227/photo/1",
+              "media_key": "3_1981002805008547840",
+              "start": 37,
+              "url": "https://t.co/UMX3TSPIg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981002808372658227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3473,
+          "like_count": 53,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "作为建筑系专业学生，看到特朗普打算建的这坨宴会厅的效果图，只能说无力吐槽 https://t.co/UMX3TSPIg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1975175734831587554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976746142718418944/NWiaEj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 705,
+          "like_count": 4686,
+          "listed_count": 7,
+          "media_count": 861,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "非二元生理男/叫姐姐加好感（喂）/随时跑路准建筑师/设计 艺术 性（是dom）/泛性恋/开放式关系，有男友兼小狗/ cptsd疗愈中/比较喜欢照顾人/不要对我使诈我不是新手/会做一些自己喜欢的设计/擦边看心情（?/寻找朋友中",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 647,
+          "like_count": 21392,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 9396
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962709480585699328"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1631721404969230349",
+          "name": "GooglePay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041437724",
+          "name": "Apple - Apple Pay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237094778463858688",
+          "name": "Fintech"
+        }
+      }
+    ],
+    "conversation_id": "1962700894408945822",
+    "created_at": "2025-09-02T02:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T03:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962709486898143580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683858801986879494",
+          "start": 0,
+          "username": "ZHybol88329"
+        },
+        {
+          "end": 26,
+          "id": "1846088255537926146",
+          "start": 13,
+          "username": "v50toseethis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJ6s9jJZYs",
+          "end": 87,
+          "expanded_url": "https://x.com/FoxRed695449/status/1962709486898143580/photo/1",
+          "media_key": "3_1962709480585699328",
+          "start": 64,
+          "url": "https://t.co/RJ6s9jJZYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962709486898143580",
+    "in_reply_to_user_id": "1683858801986879494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962706755030335979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHybol88329 @v50toseethis 这是真弱智\n有个东西加Apple Pay，还有个东西叫GooglePay https://t.co/RJ6s9jJZYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1962709480585699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzzx36uaIAA7v3N.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962709480585699328"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "1962700894408945822",
+        "created_at": "2025-09-02T02:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962709486898143580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683858801986879494",
+              "start": 0,
+              "username": "ZHybol88329"
+            },
+            {
+              "end": 26,
+              "id": "1846088255537926146",
+              "start": 13,
+              "username": "v50toseethis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ6s9jJZYs",
+              "end": 87,
+              "expanded_url": "https://x.com/FoxRed695449/status/1962709486898143580/photo/1",
+              "media_key": "3_1962709480585699328",
+              "start": 64,
+              "url": "https://t.co/RJ6s9jJZYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962709486898143580",
+        "in_reply_to_user_id": "1683858801986879494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962706755030335979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHybol88329 @v50toseethis 这是真弱智\n有个东西加Apple Pay，还有个东西叫GooglePay https://t.co/RJ6s9jJZYs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683858801986879494",
+        "conversation_id": "1962700894408945822",
+        "created_at": "2025-09-02T02:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962706755030335979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846088255537926146",
+              "start": 0,
+              "username": "v50toseethis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962706755030335979",
+        "in_reply_to_user_id": "1846088255537926146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962700894408945822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v50toseethis 为什么手机要掏，信用卡就不用，难道焊在手上了？还是进化成植入皮下的芯片了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 694,
+          "like_count": 4240,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 2334
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T15:16:50.000Z",
+        "description": "English learner, interested in geopolitics , east Asia, Middle East, Indian culture.",
+        "id": "1683858801986879494",
+        "name": "ZanHybol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683859773186351106/2yjndS--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 129,
+          "like_count": 4399,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 6144
+        },
+        "username": "ZHybol88329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T07:18:46.000Z",
+        "description": "难得来一次，不如过的开心一些😄\n欢迎关注！",
+        "id": "1846088255537926146",
+        "name": "人类多样性调查",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912321798185553921/_l5m2uW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 13,
+          "like_count": 211,
+          "listed_count": 6,
+          "media_count": 869,
+          "tweet_count": 1310
+        },
+        "username": "v50toseethis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065076455973994496"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2065076463272083850",
+    "created_at": "2026-06-11T14:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065076463272083850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xR7hae1gEm",
+          "end": 95,
+          "expanded_url": "https://x.com/FoxRed695449/status/2065076463272083850/photo/1",
+          "media_key": "3_2065076455973994496",
+          "start": 72,
+          "url": "https://t.co/xR7hae1gEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065076463272083850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看雅思这协议我笑死了\n到底有哪个天才会考好雅思去申请争议消费🤣\n还是真会有人报名雅思的时候到盗刷别人的卡实名犯罪\n\n考试不满意直接不付钱是吧（ https://t.co/xR7hae1gEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2065076455973994496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKigGHBaQAA0uaI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065076455973994496"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2065076463272083850",
+        "created_at": "2026-06-11T14:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065076463272083850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xR7hae1gEm",
+              "end": 95,
+              "expanded_url": "https://x.com/FoxRed695449/status/2065076463272083850/photo/1",
+              "media_key": "3_2065076455973994496",
+              "start": 72,
+              "url": "https://t.co/xR7hae1gEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065076463272083850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看雅思这协议我笑死了\n到底有哪个天才会考好雅思去申请争议消费🤣\n还是真会有人报名雅思的时候到盗刷别人的卡实名犯罪\n\n考试不满意直接不付钱是吧（ https://t.co/xR7hae1gEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 841,
+          "like_count": 8127,
+          "listed_count": 6,
+          "media_count": 1052,
+          "tweet_count": 3371
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

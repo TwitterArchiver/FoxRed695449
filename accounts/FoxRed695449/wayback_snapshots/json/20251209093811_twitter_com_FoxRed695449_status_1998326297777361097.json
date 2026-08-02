@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1998139491421147347",
+    "created_at": "2025-12-09T09:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998326297777361097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "1chbineine1inke"
+        },
+        {
+          "end": 26,
+          "id": "708541868842356736",
+          "start": 17,
+          "username": "SFish235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998326297777361097",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998146452774699080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1chbineine1inke @SFish235 笑死我了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1998146452774699080].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1998146452774699080",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1998146452774699080"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1998139491421147347",
+        "created_at": "2025-12-09T09:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998326297777361097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "1chbineine1inke"
+            },
+            {
+              "end": 26,
+              "id": "708541868842356736",
+              "start": 17,
+              "username": "SFish235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998326297777361097",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998146452774699080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1chbineine1inke @SFish235 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 721,
+          "like_count": 5325,
+          "listed_count": 7,
+          "media_count": 907,
+          "tweet_count": 2784
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "广告位招商",
+        "id": "1540698144429596673",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993765142568292352/g2_H0jb0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 311,
+          "like_count": 1938,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 2457
+        },
+        "username": "1chbineine1inke",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T06:35:20.000Z",
+        "description": "把鱼鱼做成鱼排或者鱼板都是可以的———🚎🚎🚎🚈🚋/无能的赛博面点师/鸟厨/IGBTQLA+(学EE学的)/一所G5大学/🦋：https://t.co/RYQutiRY2u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fish-s…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/fish-sakana.bsky.social",
+                "start": 62,
+                "url": "https://t.co/RYQutiRY2u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4VNwm3ZnlCI4Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4VNwm3ZnlCI4ZWM1",
+                "start": 0,
+                "url": "https://t.co/XuRKFIY7VI"
+              }
+            ]
+          }
+        },
+        "id": "708541868842356736",
+        "location": "旧纽约",
+        "name": "雜魚薯條",
+        "pinned_tweet_id": "1852689758939455829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943365713630052352/LBdlYEDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 585,
+          "like_count": 81954,
+          "listed_count": 3,
+          "media_count": 826,
+          "tweet_count": 12424
+        },
+        "url": "https://t.co/XuRKFIY7VI",
+        "username": "SFish235",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053167984513081345"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2053167996315816149",
+    "created_at": "2026-05-09T17:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053167996315816149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hp4pOwSomU",
+          "end": 89,
+          "expanded_url": "https://x.com/FoxRed695449/status/2053167996315816149/photo/1",
+          "media_key": "3_2053167984513081345",
+          "start": 66,
+          "url": "https://t.co/Hp4pOwSomU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053167996315816149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "哎哟我靠原来不止我一个人想说这个\n不得不考虑要不要重新选没中国特供卷的心理学了\n照中国特供卷这样出下去真tm得说英国高考名副其实了 https://t.co/Hp4pOwSomU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2053167984513081345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5RZ10bYAEMEXl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053167984513081345"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2053167996315816149",
+        "created_at": "2026-05-09T17:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053167996315816149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hp4pOwSomU",
+              "end": 89,
+              "expanded_url": "https://x.com/FoxRed695449/status/2053167996315816149/photo/1",
+              "media_key": "3_2053167984513081345",
+              "start": 66,
+              "url": "https://t.co/Hp4pOwSomU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053167996315816149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "哎哟我靠原来不止我一个人想说这个\n不得不考虑要不要重新选没中国特供卷的心理学了\n照中国特供卷这样出下去真tm得说英国高考名副其实了 https://t.co/Hp4pOwSomU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 830,
+          "like_count": 7921,
+          "listed_count": 6,
+          "media_count": 1015,
+          "tweet_count": 3240
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

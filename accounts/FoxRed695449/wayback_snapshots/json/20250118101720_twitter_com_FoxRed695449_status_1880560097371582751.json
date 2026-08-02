@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880560075200421888"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1880560097371582751",
+    "created_at": "2025-01-18T10:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T11:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880560097371582751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3378804434",
+          "start": 5,
+          "username": "McXiaowei"
+        },
+        {
+          "end": 32,
+          "id": "1774357995792777216",
+          "start": 16,
+          "username": "hanabishirosaki"
+        },
+        {
+          "end": 48,
+          "id": "1841847755691745280",
+          "start": 33,
+          "username": "jimi_yang22770"
+        },
+        {
+          "end": 57,
+          "id": "1842085513341370368",
+          "start": 49,
+          "username": "yyl0706"
+        },
+        {
+          "end": 72,
+          "id": "2486372011",
+          "start": 59,
+          "username": "Meowneko_Mio"
+        },
+        {
+          "end": 86,
+          "id": "1781308864438345728",
+          "start": 73,
+          "username": "FoxRed695449"
+        },
+        {
+          "end": 99,
+          "id": "824261310552514560",
+          "start": 87,
+          "username": "hsiu_suwako"
+        },
+        {
+          "end": 113,
+          "id": "1745710712016764928",
+          "start": 101,
+          "username": "ForteYuriHK"
+        },
+        {
+          "end": 127,
+          "id": "1484871809589968907",
+          "start": 114,
+          "username": "TimeIsGone12"
+        },
+        {
+          "end": 143,
+          "id": "1664948430920359936",
+          "start": 128,
+          "username": "Snowcomics9452"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QKDP1wo2UY",
+          "end": 167,
+          "expanded_url": "https://x.com/FoxRed695449/status/1880560097371582751/photo/1",
+          "media_key": "3_1880560075200421888",
+          "start": 144,
+          "url": "https://t.co/QKDP1wo2UY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880560097371582751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "超级大贴贴@McXiaowei @hanabishirosaki @jimi_yang22770 @yyl0706 \n@Meowneko_Mio @FoxRed695449 @hsiu_suwako \n@ForteYuriHK @TimeIsGone12\n@Snowcomics9452 https://t.co/QKDP1wo2UY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1880560075200421888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhkXbL0aYAAjevx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880560075200421888"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880560097371582751",
+        "created_at": "2025-01-18T10:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T11:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880560097371582751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3378804434",
+              "start": 5,
+              "username": "McXiaowei"
+            },
+            {
+              "end": 32,
+              "id": "1774357995792777216",
+              "start": 16,
+              "username": "hanabishirosaki"
+            },
+            {
+              "end": 48,
+              "id": "1841847755691745280",
+              "start": 33,
+              "username": "jimi_yang22770"
+            },
+            {
+              "end": 57,
+              "id": "1842085513341370368",
+              "start": 49,
+              "username": "yyl0706"
+            },
+            {
+              "end": 72,
+              "id": "2486372011",
+              "start": 59,
+              "username": "Meowneko_Mio"
+            },
+            {
+              "end": 86,
+              "id": "1781308864438345728",
+              "start": 73,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 99,
+              "id": "824261310552514560",
+              "start": 87,
+              "username": "hsiu_suwako"
+            },
+            {
+              "end": 113,
+              "id": "1745710712016764928",
+              "start": 101,
+              "username": "ForteYuriHK"
+            },
+            {
+              "end": 127,
+              "id": "1484871809589968907",
+              "start": 114,
+              "username": "TimeIsGone12"
+            },
+            {
+              "end": 143,
+              "id": "1664948430920359936",
+              "start": 128,
+              "username": "Snowcomics9452"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QKDP1wo2UY",
+              "end": 167,
+              "expanded_url": "https://x.com/FoxRed695449/status/1880560097371582751/photo/1",
+              "media_key": "3_1880560075200421888",
+              "start": 144,
+              "url": "https://t.co/QKDP1wo2UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880560097371582751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级大贴贴@McXiaowei @hanabishirosaki @jimi_yang22770 @yyl0706 \n@Meowneko_Mio @FoxRed695449 @hsiu_suwako \n@ForteYuriHK @TimeIsGone12\n@Snowcomics9452 https://t.co/QKDP1wo2UY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3366,
+          "following_count": 415,
+          "like_count": 1235,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 678
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-29T06:35:50.000Z",
+        "description": "aka. 小魏 / 美食、旅行与日常 / 音游 / ACG / 交通运输 / 川渝大湾区常驻 / 政治禁止｜恋人 @Meowneko_Mio / 兔兔 @renkousagi1155 / 咬人猫 @Hongcha_Meow / 灰喜鹊 @ice06382670 / 感谢你的关注～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Meowneko_Mio"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "renkousagi1155"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "Hongcha_Meow"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "ice06382670"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5X0GuEv-a3JmY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5X0GuEv-a3JmYTE9",
+                "start": 0,
+                "url": "https://t.co/X2YiZhgaa6"
+              }
+            ]
+          }
+        },
+        "id": "3378804434",
+        "location": "KIC 8462852",
+        "name": "Mcxiaowei🐱💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746831718320095232/IU_EWAnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 837,
+          "like_count": 118666,
+          "listed_count": 10,
+          "media_count": 488,
+          "tweet_count": 6580
+        },
+        "url": "https://t.co/X2YiZhgaa6",
+        "username": "McXiaowei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "可以叫我百咲醬或咲咲/2024.12.23 Hrt🍥香港mtf 🏳️‍⚧️深櫃無證/中文English/其实，比起我是家中的長子，我更想成为的是“家长党”。 如果能有爸爸妈妈的支持，我肯定早就变成了女孩子了。最愛的姐姐💗(⸝⸝⸝ᵒ̴̶̷ωᵒ̴̶̷(⸝⸝ᵒ̴̶̷ωᵒ̴̶̷⸝⸝⸝)💗 @ForteYuriHK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 141,
+                "username": "ForteYuriHK"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "糖糖王國🍥！",
+        "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
+        "pinned_tweet_id": "1871153733859672148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 472,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 201
+        },
+        "username": "hanabishirosaki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T14:28:28.000Z",
+        "description": "可以直接叫我姓氏\n🇭🇰\n政治左傾（社會民主主義）\n友跨 男\n 我不搞基（）\n  ENTJ  \n間歇性極端\n  喜歡運動（现已成宅男）\n\n怎么你们都那么变态，我跟不上节奏啊",
+        "id": "1841847755691745280",
+        "location": "永远在你们身边哦（我就在你身后看着你(｡･ω･｡)ﾉ♡）",
+        "name": "楊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879717151269122048/XRMSx7d4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 867,
+          "like_count": 25076,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 4737
+        },
+        "username": "jimi_yang22770",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:14:04.000Z",
+        "description": "世界というのは、大きな宝石箱だ。キラキラと輝くもので満ちた宝石箱だ。                        -- 星シロ",
+        "id": "1842085513341370368",
+        "location": "虚拟世界",
+        "name": "晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866521984898863104/qFJINmcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 714,
+          "like_count": 6680,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1518
+        },
+        "username": "yyl0706",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T01:56:58.000Z",
+        "description": "📷 | 🚃 | 🇲🇴 | 🇭🇰 | 85.60x53.98 ｜Best Linux @Debian | https://t.co/hCUoYx0hAa in Computer Science ｜ 💫@McXiaowei | 💫 @RenkoUsagi1155｜Moonlight @Hongcha_Meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "Debian"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "McXiaowei"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "RenkoUsagi1155"
+              },
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Hongcha_Meow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "B.Sc",
+                "end": 75,
+                "expanded_url": "http://B.Sc",
+                "start": 52,
+                "url": "https://t.co/hCUoYx0hAa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiya.eu.org",
+                "end": 23,
+                "expanded_url": "https://amiya.eu.org",
+                "start": 0,
+                "url": "https://t.co/CGRr5ZrJmw"
+              }
+            ]
+          }
+        },
+        "id": "2486372011",
+        "location": "Nether",
+        "name": "Mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718374429770776576/Yn6W1pM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 744,
+          "like_count": 51011,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/CGRr5ZrJmw",
+        "username": "Meowneko_Mio",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-25T14:23:05.000Z",
+        "description": "刚来推小透明",
+        "id": "824261310552514560",
+        "location": "Matsue-shi, Shimane",
+        "name": "双秀諏訪子",
+        "pinned_tweet_id": "1834939041957192113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768825176417087488/e85-ZcE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 767,
+          "like_count": 9259,
+          "listed_count": 5,
+          "media_count": 1360,
+          "tweet_count": 4052
+        },
+        "username": "hsiu_suwako",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T07:34:22.000Z",
+        "description": "infp-T/香港人🇭🇰🏳️‍⚧️/低智力\n無證含糖🏳️‍⚧️🍥\n黑暗料理大師\nmaimai 真好玩\n每週六、日機率刷新在隨機一間機廳！\n (找到我會有小禮物喔！）\n最最最可愛的妹妹： @hanabishirosaki  !!!!!!\n🏳️‍⚧️最最最愛的姐姐：@Yukiho_910  !!!!!!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "hanabishirosaki"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "Yukiho_910"
+              }
+            ]
+          }
+        },
+        "id": "1745710712016764928",
+        "location": "姐姐的心里！！！",
+        "name": "Forte Yuri🇭🇰🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870035727612030977/W2Xmg0tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 531,
+          "like_count": 6842,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 529
+        },
+        "username": "ForteYuriHK",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T12:53:36.000Z",
+        "description": "18/170/60.2kg/C2S19 PUBG Conqueror/农药Q区玩家 2020分/Cos/HKDSE 選手/害怕光明是美丽的陷阱",
+        "id": "1484871809589968907",
+        "location": "Gun Gale Online",
+        "name": "2月30号🇭🇰 rrrrrr",
+        "pinned_tweet_id": "1818198966451966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864662353192931328/jWCk4U-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1883,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 443
+        },
+        "username": "TimeIsGone12",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️🍥含糖MtX/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\nEN version @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "Snowcomics"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1864699017470595470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874491914344673280/JLEFcqLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 2353,
+          "like_count": 26744,
+          "listed_count": 1,
+          "media_count": 611,
+          "tweet_count": 3744
+        },
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

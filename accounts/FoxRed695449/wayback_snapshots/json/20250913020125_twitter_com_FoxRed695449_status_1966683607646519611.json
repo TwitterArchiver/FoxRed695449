@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1966500199632642406",
+    "created_at": "2025-09-13T02:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T03:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966683607646519611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966683607646519611",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966500199632642406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 至少我之前去Apple Store維修從頭到尾沒要過我ID🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_1966500184114053120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ppf5zbwAAdAyo.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1966500199632642406",
+        "created_at": "2025-09-13T02:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T03:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966683607646519611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966683607646519611",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966500199632642406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 至少我之前去Apple Store維修從頭到尾沒要過我ID🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966500184114053120"
+          ]
+        },
+        "author_id": "3032768018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1966500199632642406",
+        "created_at": "2025-09-12T13:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966500199632642406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6rBrAlgVy",
+              "end": 93,
+              "expanded_url": "https://x.com/Chiyorin8964/status/1966500199632642406/photo/1",
+              "media_key": "3_1966500184114053120",
+              "start": 70,
+              "url": "https://t.co/K6rBrAlgVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966500199632642406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃了，怎么港区的Apple Store取货人直接默认是我的苹果ID名字，我还在想怎么没让我填取货人，我想让香港同学帮我去取，这该如何是好 https://t.co/K6rBrAlgVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 688,
+          "like_count": 4302,
+          "listed_count": 8,
+          "media_count": 778,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海/02/男/铁道/航空/Airsoft/摄影/ACG\n早稲田大学 - 人間科学研究科 (M0)\nWe live for love, not for hate",
+        "id": "3032768018",
+        "location": "Shanghai",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "1943989027641995779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949283762661150720/O5CIwmBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 417,
+          "like_count": 468,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 191
+        },
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

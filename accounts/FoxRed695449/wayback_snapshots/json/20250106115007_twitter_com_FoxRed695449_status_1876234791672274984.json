@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1876205845626958204",
+    "created_at": "2025-01-06T11:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T12:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876234791672274984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774357995792777216",
+          "start": 0,
+          "username": "hanabishirosaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876234791672274984",
+    "in_reply_to_user_id": "1774357995792777216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876232393897722273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanabishirosaki 没有的啦\n抱抱妹妹抱抱妹妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1876205845626958204",
+        "created_at": "2025-01-06T11:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T12:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876234791672274984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774357995792777216",
+              "start": 0,
+              "username": "hanabishirosaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876234791672274984",
+        "in_reply_to_user_id": "1774357995792777216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876232393897722273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanabishirosaki 没有的啦\n抱抱妹妹抱抱妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774357995792777216",
+        "conversation_id": "1876205845626958204",
+        "created_at": "2025-01-06T11:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T12:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876232393897722273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876232393897722273",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876205845626958204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我感覺我一文不值…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 399,
+          "like_count": 1141,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 636
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "可以叫我百咲醬或咲咲/2024.12.23 Hrt🍥香港mtf 🏳️‍⚧️深櫃無證/中文English/其实，比起我是家中的長子，我更想成为的是“家长党”。 如果能有爸爸妈妈的支持，我肯定早就变成了女孩子了。最愛的姐姐💗(⸝⸝⸝ᵒ̴̶̷ωᵒ̴̶̷(⸝⸝ᵒ̴̶̷ωᵒ̴̶̷⸝⸝⸝)💗 @ForteYuriHK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 141,
+                "username": "ForteYuriHK"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "糖糖王國🍥！",
+        "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
+        "pinned_tweet_id": "1871153733859672148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 399,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 162
+        },
+        "username": "hanabishirosaki",
+        "verified": false
+      }
+    ]
+  }
+}

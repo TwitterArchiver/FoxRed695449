@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910790825921175554"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1910790828626436451",
+    "created_at": "2025-04-11T20:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T21:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910790828626436451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1qH1jAEzR",
+          "end": 47,
+          "expanded_url": "https://x.com/FoxRed695449/status/1910790828626436451/photo/1",
+          "media_key": "3_1910790825921175554",
+          "start": 24,
+          "url": "https://t.co/u1qH1jAEzR"
+        },
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1910464217204896183",
+          "start": 48,
+          "url": "https://t.co/WyquzDMWaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910790828626436451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910464217204896183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說起這個我真的得表揚下alevel，它不寫性別 https://t.co/u1qH1jAEzR https://t.co/WyquzDMWaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1910790825921175554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoR-IeMbYAIWWAL.jpg",
+        "width": 4320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910790825921175554"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1910790828626436451",
+        "created_at": "2025-04-11T20:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T21:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910790828626436451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1qH1jAEzR",
+              "end": 47,
+              "expanded_url": "https://x.com/FoxRed695449/status/1910790828626436451/photo/1",
+              "media_key": "3_1910790825921175554",
+              "start": 24,
+              "url": "https://t.co/u1qH1jAEzR"
+            },
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1910464217204896183",
+              "start": 48,
+              "url": "https://t.co/WyquzDMWaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910790828626436451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910464217204896183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說起這個我真的得表揚下alevel，它不寫性別 https://t.co/u1qH1jAEzR https://t.co/WyquzDMWaU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1910464217204896183",
+        "created_at": "2025-04-10T22:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T23:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910464217204896183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910464217204896183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 28302,
+          "like_count": 251,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看到王安黛的推特，她在大学毕业后手术改证。\n\n而因为国内的毕业证与身份证号绑定，所以她拿到新身份证（性别、身份证号都会变）后，原学历变相作废。所以她既难以找工作，也难以考研。\n\n理论上，存在“毕业后手术，学历也能更改”的可能。但现实里，几乎总是高校和教育部相互踢皮球，实际上几乎不能改。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  跨性別女性🏳️‍⚧️Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 596,
+          "like_count": 2772,
+          "listed_count": 6,
+          "media_count": 472,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27788,
+          "following_count": 3470,
+          "like_count": 142294,
+          "listed_count": 95,
+          "media_count": 3251,
+          "tweet_count": 52065
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

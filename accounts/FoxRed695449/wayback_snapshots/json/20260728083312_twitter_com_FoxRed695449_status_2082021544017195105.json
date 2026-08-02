@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082021273853718528"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2082021544017195105",
+    "created_at": "2026-07-28T08:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082021544017195105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UfFea9w1v9",
+          "end": 35,
+          "expanded_url": "https://x.com/FoxRed695449/status/2082021544017195105/video/1",
+          "media_key": "13_2082021273853718528",
+          "start": 12,
+          "url": "https://t.co/UfFea9w1v9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082021544017195105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从未如此靠近舞台😭😭😭 https://t.co/UfFea9w1v9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44696,
+        "height": 720,
+        "media_key": "13_2082021273853718528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082021273853718528/img/8PHgNxG8FEqvlTjH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082021273853718528/vid/avc1/480x270/HQFYK_wtuZPeOT75.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082021273853718528/vid/avc1/640x360/Ys9iBOtY41N-wcZS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082021273853718528/vid/avc1/1280x720/pxSELQeXErTQwc2z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082021273853718528/pl/nRVvwRuWNnhOC7Sv.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082021273853718528"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2082021544017195105",
+        "created_at": "2026-07-28T08:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082021544017195105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UfFea9w1v9",
+              "end": 35,
+              "expanded_url": "https://x.com/FoxRed695449/status/2082021544017195105/video/1",
+              "media_key": "13_2082021273853718528",
+              "start": 12,
+              "url": "https://t.co/UfFea9w1v9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082021544017195105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从未如此靠近舞台😭😭😭 https://t.co/UfFea9w1v9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser｜關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 849,
+          "like_count": 8307,
+          "listed_count": 6,
+          "media_count": 1080,
+          "tweet_count": 3424
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

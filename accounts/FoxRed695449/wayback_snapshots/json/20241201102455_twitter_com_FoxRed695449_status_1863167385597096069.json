@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1863130498895421582",
+    "created_at": "2024-12-01T10:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863167385597096069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863167385597096069",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863165497954771111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 禁止学校里抽烟可以给在学校里抽烟的人处罚，而不是把学生的烟给收了，1.烟是学生的私人财产，学校没有法律条款支持处置，2.在学校里不抽烟不代表学生离开学校以后不能抽烟，而宿舍最为学生居住的地方，存放个人物品无可厚非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1863130498895421582",
+        "created_at": "2024-12-01T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863167385597096069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863167385597096069",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863165497954771111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 禁止学校里抽烟可以给在学校里抽烟的人处罚，而不是把学生的烟给收了，1.烟是学生的私人财产，学校没有法律条款支持处置，2.在学校里不抽烟不代表学生离开学校以后不能抽烟，而宿舍最为学生居住的地方，存放个人物品无可厚非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "conversation_id": "1863130498895421582",
+        "created_at": "2024-12-01T10:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863165497954771111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863165497954771111",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863130498895421582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 支持学校场所禁烟！特别是宿舍里绝对禁止吸烟！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 291,
+          "like_count": 481,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已术MtF女，宝妈，一级建造师，中级工程师，古典吉他，咖啡拉花。 HRT20220715，SRS20230423WIH。不线下，会回关干净的Timeline。最爱的亲妹妹@linxinran401。自用梯子https://t.co/amQZxiFDts",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "linxinran401"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "doumao.top/index.php#/reg…",
+                "end": 126,
+                "expanded_url": "https://www.doumao.top/index.php#/register?code=bo5Qmt30",
+                "start": 103,
+                "url": "https://t.co/amQZxiFDts"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hexiao…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/hexiaoqi77.bsky.social",
+                "start": 0,
+                "url": "https://t.co/AfGRWmrbE8"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "location": "0.7km",
+        "name": "小柒~Rain☕️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7128,
+          "following_count": 180,
+          "like_count": 5148,
+          "listed_count": 27,
+          "media_count": 75,
+          "tweet_count": 4115
+        },
+        "url": "https://t.co/AfGRWmrbE8",
+        "username": "HeXiaoQi77",
+        "verified": false
+      }
+    ]
+  }
+}

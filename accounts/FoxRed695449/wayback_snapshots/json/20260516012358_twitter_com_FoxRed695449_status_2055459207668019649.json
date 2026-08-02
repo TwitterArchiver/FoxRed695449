@@ -1,0 +1,582 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055459198285320192"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2055422982617694223",
+    "created_at": "2026-05-16T01:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055459207668019649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035018652970622977",
+          "start": 0,
+          "username": "JamesIrvineCA"
+        },
+        {
+          "end": 30,
+          "id": "1296834395584827395",
+          "start": 15,
+          "username": "james17_Canada"
+        },
+        {
+          "end": 46,
+          "id": "1260553941714186241",
+          "start": 31,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 61,
+          "id": "584438956",
+          "start": 47,
+          "username": "DictatorOfPRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFcV7gXywS",
+          "end": 110,
+          "expanded_url": "https://x.com/FoxRed695449/status/2055459207668019649/photo/1",
+          "media_key": "3_2055459198285320192",
+          "start": 87,
+          "url": "https://t.co/wFcV7gXywS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055459207668019649",
+    "in_reply_to_user_id": "2035018652970622977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055455730598281575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesIrvineCA @james17_Canada @whyyoutouzhele @DictatorOfPRC 其实你问我的很多问题有Google搜一下都能搜到 https://t.co/wFcV7gXywS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2055459198285320192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ1QCQbEAAjCmc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055459198285320192"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2055422982617694223",
+        "created_at": "2026-05-16T01:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055459207668019649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035018652970622977",
+              "start": 0,
+              "username": "JamesIrvineCA"
+            },
+            {
+              "end": 30,
+              "id": "1296834395584827395",
+              "start": 15,
+              "username": "james17_Canada"
+            },
+            {
+              "end": 46,
+              "id": "1260553941714186241",
+              "start": 31,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 61,
+              "id": "584438956",
+              "start": 47,
+              "username": "DictatorOfPRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFcV7gXywS",
+              "end": 110,
+              "expanded_url": "https://x.com/FoxRed695449/status/2055459207668019649/photo/1",
+              "media_key": "3_2055459198285320192",
+              "start": 87,
+              "url": "https://t.co/wFcV7gXywS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055459207668019649",
+        "in_reply_to_user_id": "2035018652970622977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055455730598281575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesIrvineCA @james17_Canada @whyyoutouzhele @DictatorOfPRC 其实你问我的很多问题有Google搜一下都能搜到 https://t.co/wFcV7gXywS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035018652970622977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251586",
+              "name": "Online - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390708238690095106",
+              "name": "UberEats"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597251964928",
+              "name": "Car Rental/Sharing - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046018833",
+              "name": "UberEATS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          }
+        ],
+        "conversation_id": "2055422982617694223",
+        "created_at": "2026-05-16T01:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055455730598281575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "1296834395584827395",
+              "start": 14,
+              "username": "james17_Canada"
+            },
+            {
+              "end": 45,
+              "id": "1260553941714186241",
+              "start": 30,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 60,
+              "id": "584438956",
+              "start": 46,
+              "username": "DictatorOfPRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055455730598281575",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055455227474837521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @james17_Canada @whyyoutouzhele @DictatorOfPRC Uber Eats 也用panda字样和熊猫头像吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 832,
+          "like_count": 7922,
+          "listed_count": 6,
+          "media_count": 1022,
+          "tweet_count": 3265
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T15:43:50.000Z",
+        "description": "",
+        "id": "2035018652970622977",
+        "name": "JS",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 76,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1098
+        },
+        "username": "JamesIrvineCA",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T15:40:32.000Z",
+        "description": "来是偶然，去是必然；尽其当然，得之坦然；失之淡然，争取必然；忙时井然，顺其自然；悟通八然，此生悠然.",
+        "id": "1296834395584827395",
+        "location": "Montreal,Canada",
+        "name": "James 江南晓渡🇨🇦🇺🇦🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354509635546476551/wGYQ6k4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 1102,
+          "like_count": 31687,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 18266
+        },
+        "username": "james17_Canada",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226616,
+          "following_count": 1056,
+          "like_count": 9541,
+          "listed_count": 8750,
+          "media_count": 46903,
+          "tweet_count": 54020
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-19T04:37:06.000Z",
+        "description": "😜嘿！朕是你帝啊！👑",
+        "id": "584438956",
+        "name": "華☭帝",
+        "pinned_tweet_id": "1969653943799103850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637387629128986625/m9zlZGYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 2143,
+          "like_count": 71305,
+          "listed_count": 7,
+          "media_count": 1697,
+          "tweet_count": 30018
+        },
+        "username": "DictatorOfPRC",
+        "verified": false
+      }
+    ]
+  }
+}

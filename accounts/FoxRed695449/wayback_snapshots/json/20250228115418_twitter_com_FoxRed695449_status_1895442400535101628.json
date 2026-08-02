@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1895442400535101628",
+    "created_at": "2025-02-28T11:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T12:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895442400535101628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanabishirosak…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hanabishirosaki/status/1895408722111029627",
+          "start": 37,
+          "url": "https://t.co/l9b8lSGJ3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895442400535101628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895408722111029627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前此人有自殺風險，急需有人能提供她的姓名，在香港的住址等信息\n萬分感謝 https://t.co/l9b8lSGJ3s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1895442400535101628",
+        "created_at": "2025-02-28T11:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895442400535101628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanabishirosak…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hanabishirosaki/status/1895408722111029627",
+              "start": 37,
+              "url": "https://t.co/l9b8lSGJ3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895442400535101628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895408722111029627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前此人有自殺風險，急需有人能提供她的姓名，在香港的住址等信息\n萬分感謝 https://t.co/l9b8lSGJ3s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774357995792777216",
+        "conversation_id": "1895408722111029627",
+        "created_at": "2025-02-28T09:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895408722111029627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895408722111029627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港誰有亞硝酸鹽，出1000以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 518,
+          "like_count": 2030,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "最愛的姐姐💗 @ForteYuriHK死期將至",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "ForteYuriHK"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "死",
+        "name": "⁺ ｡ ᜊ花火百咲⁺ ｡ ᜊ🍥",
+        "pinned_tweet_id": "1871153733859672148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774358056362754048/kTq4OolK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 727,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 348
+        },
+        "username": "hanabishirosaki",
+        "verified": false
+      }
+    ]
+  }
+}

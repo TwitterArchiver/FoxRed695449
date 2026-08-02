@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882358731381653504",
+        "3_1882358731381624832",
+        "3_1882358731389956097"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1882358742139982203",
+    "created_at": "2025-01-23T09:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T10:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882358742139982203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPWa4k6BiK",
+          "end": 29,
+          "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+          "media_key": "3_1882358731381653504",
+          "start": 6,
+          "url": "https://t.co/xPWa4k6BiK"
+        },
+        {
+          "display_url": "pic.x.com/xPWa4k6BiK",
+          "end": 29,
+          "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+          "media_key": "3_1882358731381624832",
+          "start": 6,
+          "url": "https://t.co/xPWa4k6BiK"
+        },
+        {
+          "display_url": "pic.x.com/xPWa4k6BiK",
+          "end": 29,
+          "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+          "media_key": "3_1882358731389956097",
+          "start": 6,
+          "url": "https://t.co/xPWa4k6BiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882358742139982203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽卡大成功 https://t.co/xPWa4k6BiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1882358731381653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh97SwPbwAAA_to.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1882358731381624832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh97SwPbUAAYobn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1882358731389956097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh97SwRacAEDymJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882358731381653504",
+            "3_1882358731381624832",
+            "3_1882358731389956097"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882358742139982203",
+        "created_at": "2025-01-23T09:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T10:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882358742139982203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPWa4k6BiK",
+              "end": 29,
+              "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+              "media_key": "3_1882358731381653504",
+              "start": 6,
+              "url": "https://t.co/xPWa4k6BiK"
+            },
+            {
+              "display_url": "pic.x.com/xPWa4k6BiK",
+              "end": 29,
+              "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+              "media_key": "3_1882358731381624832",
+              "start": 6,
+              "url": "https://t.co/xPWa4k6BiK"
+            },
+            {
+              "display_url": "pic.x.com/xPWa4k6BiK",
+              "end": 29,
+              "expanded_url": "https://x.com/FoxRed695449/status/1882358742139982203/photo/1",
+              "media_key": "3_1882358731389956097",
+              "start": 6,
+              "url": "https://t.co/xPWa4k6BiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882358742139982203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽卡大成功 https://t.co/xPWa4k6BiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3516,
+          "following_count": 423,
+          "like_count": 1273,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 720
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

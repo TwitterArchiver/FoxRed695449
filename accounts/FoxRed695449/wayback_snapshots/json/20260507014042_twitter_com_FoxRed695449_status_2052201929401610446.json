@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052201920862015488",
+        "3_2052201920866156544"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2052113621228847118",
+    "created_at": "2026-05-07T01:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052201929401610446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1481221271858065413",
+          "start": 0,
+          "username": "sz990"
+        },
+        {
+          "end": 18,
+          "id": "1223330088",
+          "start": 7,
+          "username": "yaozhang02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YRSoemwqcj",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2052201929401610446/photo/1",
+          "media_key": "3_2052201920862015488",
+          "start": 28,
+          "url": "https://t.co/YRSoemwqcj"
+        },
+        {
+          "display_url": "pic.x.com/YRSoemwqcj",
+          "end": 51,
+          "expanded_url": "https://x.com/FoxRed695449/status/2052201929401610446/photo/1",
+          "media_key": "3_2052201920866156544",
+          "start": 28,
+          "url": "https://t.co/YRSoemwqcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052201929401610446",
+    "in_reply_to_user_id": "1481221271858065413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052188586368516193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sz990 @yaozhang02 中国政府自己会挂 https://t.co/YRSoemwqcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2052201920862015488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrixiRa0AA6zC0.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2052201920866156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrixiSaAAAhnyy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052201920862015488",
+            "3_2052201920866156544"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2052113621228847118",
+        "created_at": "2026-05-07T01:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052201929401610446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1481221271858065413",
+              "start": 0,
+              "username": "sz990"
+            },
+            {
+              "end": 18,
+              "id": "1223330088",
+              "start": 7,
+              "username": "yaozhang02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRSoemwqcj",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2052201929401610446/photo/1",
+              "media_key": "3_2052201920862015488",
+              "start": 28,
+              "url": "https://t.co/YRSoemwqcj"
+            },
+            {
+              "display_url": "pic.x.com/YRSoemwqcj",
+              "end": 51,
+              "expanded_url": "https://x.com/FoxRed695449/status/2052201929401610446/photo/1",
+              "media_key": "3_2052201920866156544",
+              "start": 28,
+              "url": "https://t.co/YRSoemwqcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052201929401610446",
+        "in_reply_to_user_id": "1481221271858065413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052188586368516193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sz990 @yaozhang02 中国政府自己会挂 https://t.co/YRSoemwqcj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481221271858065413",
+        "conversation_id": "2052113621228847118",
+        "created_at": "2026-05-07T00:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052188586368516193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223330088",
+              "start": 0,
+              "username": "yaozhang02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052188586368516193",
+        "in_reply_to_user_id": "1223330088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1250,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052113621228847118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaozhang02 在富士山举日本国旗不牛逼，有本事过来个美国人或者日本人，去天安门举下日本国旗或者美国国旗，那才叫牛逼，大陆去美国日本举了不知道多少面红旗了，美国日本再牛逼，他们敢去大陆举自己国家的国旗吗，很简单的道理！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 829,
+          "like_count": 7919,
+          "listed_count": 7,
+          "media_count": 1012,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T11:07:50.000Z",
+        "description": "\"Insider insights on China & the world. Promoting free speech, critical thinking, and mutual respect. Support the truth—join the conversation.\" TEL：https://t.co/2Hr7Bl3Z2p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/cc388",
+                "end": 171,
+                "expanded_url": "http://t.me/cc388",
+                "start": 148,
+                "url": "https://t.co/2Hr7Bl3Z2p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/se988",
+                "end": 23,
+                "expanded_url": "http://t.me/se988",
+                "start": 0,
+                "url": "https://t.co/PHTWQaRHZi"
+              }
+            ]
+          }
+        },
+        "id": "1481221271858065413",
+        "name": "Selling dreams 刘博🐬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016858680931864577/M1yoZFCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 410,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/PHTWQaRHZi",
+        "username": "sz990",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-27T01:18:35.000Z",
+        "description": "出生在中國，定居加拿大，前加拿大註冊會計師，現在認真經營反共頻道，努力支持台灣❤️ Youtube：https://t.co/UM25OEfIRz\nEmail: yaozhang2020@protonmail\n我媽媽的頻道：https://t.co/bXa0xyon4N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yaozhang3512",
+                "end": 73,
+                "expanded_url": "https://www.youtube.com/@yaozhang3512",
+                "start": 50,
+                "url": "https://t.co/UM25OEfIRz"
+              },
+              {
+                "display_url": "youtube.com/@over60926",
+                "end": 135,
+                "expanded_url": "https://www.youtube.com/@over60926",
+                "start": 112,
+                "url": "https://t.co/bXa0xyon4N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCSL7f…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCSL7fa2GLhniFzw1_4EwQLw",
+                "start": 0,
+                "url": "https://t.co/OtOfnMyIrn"
+              }
+            ]
+          }
+        },
+        "id": "1223330088",
+        "location": "Canada",
+        "name": "Yao Zhang 張堯 🇨🇦",
+        "pinned_tweet_id": "2045228138200752349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040170057746333696/aFHQWQfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39000,
+          "following_count": 2148,
+          "like_count": 208955,
+          "listed_count": 146,
+          "media_count": 3834,
+          "tweet_count": 181827
+        },
+        "url": "https://t.co/OtOfnMyIrn",
+        "username": "yaozhang02",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2027368345629311035",
+    "created_at": "2026-02-27T16:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027415478927503842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027415478927503842",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027381832623509531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 感觉就只有Twitter会有这个问题\n繁体中文更严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2027368345629311035",
+        "created_at": "2026-02-27T16:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027415478927503842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027415478927503842",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027381832623509531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 感觉就只有Twitter会有这个问题\n繁体中文更严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2027368345629311035",
+        "created_at": "2026-02-27T13:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027381832623509531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027381832623509531",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027368345629311035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 你输入的文字被识别成日语调用了日语字体，但是部分中文的字日语字体没有，又fallback到了中文字体就这样大小不一致"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 786,
+          "like_count": 6480,
+          "listed_count": 7,
+          "media_count": 941,
+          "tweet_count": 2980
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 351,
+          "like_count": 24973,
+          "listed_count": 6,
+          "media_count": 1560,
+          "tweet_count": 10907
+        },
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

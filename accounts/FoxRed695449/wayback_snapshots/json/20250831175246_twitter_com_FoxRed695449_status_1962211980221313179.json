@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962211973808168962"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1631721404969230349",
+          "name": "GooglePay"
+        }
+      }
+    ],
+    "conversation_id": "1962182295064027486",
+    "created_at": "2025-08-31T17:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T18:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962211980221313179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Td4EihCQYJ",
+          "end": 159,
+          "expanded_url": "https://x.com/FoxRed695449/status/1962211980221313179/photo/1",
+          "media_key": "3_1962211973808168962",
+          "start": 136,
+          "url": "https://t.co/Td4EihCQYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962211980221313179",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962182295064027486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 給我看笑了\nAlipay和weixinPay走的是無卡支付，和Google一點關係都沒有\nGooglePay在內地可以用的場景只有Pos機授權\n網上交易只有如下圖有GooglePay的選項才是真正走Google\n別了解一點點知識就開始胡亂攻擊別人 https://t.co/Td4EihCQYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1962211973808168962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzstZNjaoAIZbpv.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962211973808168962"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "1962182295064027486",
+        "created_at": "2025-08-31T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962211980221313179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td4EihCQYJ",
+              "end": 159,
+              "expanded_url": "https://x.com/FoxRed695449/status/1962211980221313179/photo/1",
+              "media_key": "3_1962211973808168962",
+              "start": 136,
+              "url": "https://t.co/Td4EihCQYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962211980221313179",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962182295064027486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 給我看笑了\nAlipay和weixinPay走的是無卡支付，和Google一點關係都沒有\nGooglePay在內地可以用的場景只有Pos機授權\n網上交易只有如下圖有GooglePay的選項才是真正走Google\n別了解一點點知識就開始胡亂攻擊別人 https://t.co/Td4EihCQYJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          }
+        ],
+        "conversation_id": "1962182295064027486",
+        "created_at": "2025-08-31T15:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962182295064027486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miao9miao9/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/miao9miao9/status/1962181375601279472",
+              "start": 29,
+              "url": "https://t.co/CzRqMNzQZ5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1962182295064027486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962181375601279472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谷歌支付国内可以用，可以看我视频帖，不要造谣说用不了。。 https://t.co/CzRqMNzQZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 694,
+          "like_count": 4239,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁MtF | 含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 不介意私聊不玩抽象 | 🥰电影/网站/域名兴趣 | 平等地爱所有人 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "我好想你 在每个夜里 孤单自叙 纷飞的回忆。",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961642055735939285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 1291,
+          "like_count": 4811,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

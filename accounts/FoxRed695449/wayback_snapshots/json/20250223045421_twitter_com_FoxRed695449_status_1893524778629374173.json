@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893524775961571328"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Recruitment",
+          "id": "961961812492148736",
+          "name": "Recruitment"
+        }
+      }
+    ],
+    "conversation_id": "1892924285108289557",
+    "created_at": "2025-02-23T04:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T05:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893524778629374173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754880482871742465",
+          "start": 0,
+          "username": "kiwiwwzzi"
+        },
+        {
+          "end": 26,
+          "id": "1207193197794906112",
+          "start": 11,
+          "username": "huihui71388030"
+        },
+        {
+          "end": 43,
+          "id": "1635476041438461952",
+          "start": 27,
+          "username": "JiaweiShen96969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aorEIUMnGA",
+          "end": 125,
+          "expanded_url": "https://x.com/FoxRed695449/status/1893524778629374173/photo/1",
+          "media_key": "3_1893524775961571328",
+          "start": 102,
+          "url": "https://t.co/aorEIUMnGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893524778629374173",
+    "in_reply_to_user_id": "1754880482871742465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893329828633366934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwiwwzzi @huihui71388030 @JiaweiShen96969 你说的对，但我1月份的考试季考了3个a\n以及我发我银行账户也没求人投喂啊，单纯发着玩玩\n有家长的信用卡副卡又不缺钱 https://t.co/aorEIUMnGA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1893524775961571328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkcmwFyXMAAU8s1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893524775961571328"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          }
+        ],
+        "conversation_id": "1892924285108289557",
+        "created_at": "2025-02-23T04:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T05:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893524778629374173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754880482871742465",
+              "start": 0,
+              "username": "kiwiwwzzi"
+            },
+            {
+              "end": 26,
+              "id": "1207193197794906112",
+              "start": 11,
+              "username": "huihui71388030"
+            },
+            {
+              "end": 43,
+              "id": "1635476041438461952",
+              "start": 27,
+              "username": "JiaweiShen96969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aorEIUMnGA",
+              "end": 125,
+              "expanded_url": "https://x.com/FoxRed695449/status/1893524778629374173/photo/1",
+              "media_key": "3_1893524775961571328",
+              "start": 102,
+              "url": "https://t.co/aorEIUMnGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893524778629374173",
+        "in_reply_to_user_id": "1754880482871742465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893329828633366934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwiwwzzi @huihui71388030 @JiaweiShen96969 你说的对，但我1月份的考试季考了3个a\n以及我发我银行账户也没求人投喂啊，单纯发着玩玩\n有家长的信用卡副卡又不缺钱 https://t.co/aorEIUMnGA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754880482871742465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          }
+        ],
+        "conversation_id": "1892924285108289557",
+        "created_at": "2025-02-22T15:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T16:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893329828633366934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1207193197794906112",
+              "start": 0,
+              "username": "huihui71388030"
+            },
+            {
+              "end": 29,
+              "id": "1781308864438345728",
+              "start": 16,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 46,
+              "id": "1635476041438461952",
+              "start": 30,
+              "username": "JiaweiShen96969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893329828633366934",
+        "in_reply_to_user_id": "1207193197794906112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893324613121384500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui71388030 @FoxRed695449 @JiaweiShen96969 看了他主页很久得知他是性别男，药娘跨性别（？不敢完全肯定很大概率是）有精神病史，公开自己银行账号支付宝微信收款码想求人转账投喂，这么多buff叠加 很难评 无非就是在港读书的中二小屁孩罢了 跟他同学比大概就是视频里职高生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 509,
+          "like_count": 1896,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-06T14:51:39.000Z",
+        "description": "",
+        "id": "1754880482871742465",
+        "name": "ki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754880631165558784/Ck_q65Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "kiwiwwzzi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-18T07:02:46.000Z",
+        "description": "",
+        "id": "1207193197794906112",
+        "name": "ok100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207196100106416128/U9ymmaZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 106,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2389
+        },
+        "username": "huihui71388030",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1803083567788179468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5741,
+          "following_count": 1046,
+          "like_count": 13301,
+          "listed_count": 37,
+          "media_count": 2136,
+          "tweet_count": 19680
+        },
+        "username": "JiaweiShen96969",
+        "verified": false
+      }
+    ]
+  }
+}

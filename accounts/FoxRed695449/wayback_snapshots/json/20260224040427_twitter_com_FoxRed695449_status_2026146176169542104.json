@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2025806861484937429",
+    "created_at": "2026-02-24T04:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026146176169542104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873256634002427904",
+          "start": 0,
+          "username": "BlueJam_8123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026146176169542104",
+    "in_reply_to_user_id": "1873256634002427904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026143553727164433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueJam_8123 我也差不多吧就读a level了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2025806861484937429",
+        "created_at": "2026-02-24T04:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026146176169542104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873256634002427904",
+              "start": 0,
+              "username": "BlueJam_8123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026146176169542104",
+        "in_reply_to_user_id": "1873256634002427904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026143553727164433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueJam_8123 我也差不多吧就读a level了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873256634002427904",
+        "conversation_id": "2025806861484937429",
+        "created_at": "2026-02-24T03:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026143553727164433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026143553727164433",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025806861484937429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我也是在复旦儿科打阻断的，22年出柜因为留长发和高中掰了两年，休学了两年也没掰过学校。。。跑去读国际学校现在家里人还会念叨可惜我没上市重点高中走国内😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 783,
+          "like_count": 6404,
+          "listed_count": 7,
+          "media_count": 940,
+          "tweet_count": 2969
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-29T06:36:31.000Z",
+        "description": "MTF 🏳️‍⚧|高P原皮|直男恋|2⃣️号线驾驶员|晚睡晚起者 😴|恋爱如来佛 ✋🏻|101只玩vex|冷暴力吉他者|晕针|vup|医美破产第一人 🙇🏻‍♀️|健全b|星礈神威无敌大将军 🎇🎆🌠|瓦罗兰特五子棋选手 🤹🏻‍♀️|  不抽烟喝酒不od割手不二次元不小众不亚",
+        "id": "1873256634002427904",
+        "location": "在你脑子里面。。。",
+        "name": "伊洛娜Bard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920700711240617984/ikV6CDoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 153,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 19
+        },
+        "username": "BlueJam_8123",
+        "verified": false
+      }
+    ]
+  }
+}

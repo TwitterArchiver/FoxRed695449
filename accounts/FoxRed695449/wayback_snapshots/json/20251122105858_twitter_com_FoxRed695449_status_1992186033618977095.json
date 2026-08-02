@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992186018888572928",
+        "3_1992186018880180224"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992027345017045462",
+    "created_at": "2025-11-22T10:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992186033618977095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762372511894056960",
+          "start": 0,
+          "username": "hakis26"
+        },
+        {
+          "end": 22,
+          "id": "1811888010088316932",
+          "start": 9,
+          "username": "cuichenghao7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8x9meaaTxu",
+          "end": 188,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992186033618977095/photo/1",
+          "media_key": "3_1992186018888572928",
+          "start": 165,
+          "url": "https://t.co/8x9meaaTxu"
+        },
+        {
+          "display_url": "pic.x.com/8x9meaaTxu",
+          "end": 188,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992186033618977095/photo/1",
+          "media_key": "3_1992186018880180224",
+          "start": 165,
+          "url": "https://t.co/8x9meaaTxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992186033618977095",
+    "in_reply_to_user_id": "1762372511894056960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992178532319985974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakis26 @cuichenghao7 当美军做到多跑道同时起降时\n你（不代表PLA）：要注意安全所以不能同时满负荷起降\n这属于完全不懂航母纯纯脱裤子放屁\n保证安全是靠优秀的调度能力而不是靠限制投放能力\n现代航母缺乏投放能力那就是海上漂浮的死鱼啊\nPLA和国家官方宣传机构都知道要训练投放能力\n而你在这里喊卡？多少有些好笑 https://t.co/8x9meaaTxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1992186018888572928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WqoQ5aYAAM0RN.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1992186018880180224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WqoQ3aUAARZ6h.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992186018888572928",
+            "3_1992186018880180224"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T10:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992186033618977095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762372511894056960",
+              "start": 0,
+              "username": "hakis26"
+            },
+            {
+              "end": 22,
+              "id": "1811888010088316932",
+              "start": 9,
+              "username": "cuichenghao7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8x9meaaTxu",
+              "end": 188,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992186033618977095/photo/1",
+              "media_key": "3_1992186018888572928",
+              "start": 165,
+              "url": "https://t.co/8x9meaaTxu"
+            },
+            {
+              "display_url": "pic.x.com/8x9meaaTxu",
+              "end": 188,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992186033618977095/photo/1",
+              "media_key": "3_1992186018880180224",
+              "start": 165,
+              "url": "https://t.co/8x9meaaTxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992186033618977095",
+        "in_reply_to_user_id": "1762372511894056960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992178532319985974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakis26 @cuichenghao7 当美军做到多跑道同时起降时\n你（不代表PLA）：要注意安全所以不能同时满负荷起降\n这属于完全不懂航母纯纯脱裤子放屁\n保证安全是靠优秀的调度能力而不是靠限制投放能力\n现代航母缺乏投放能力那就是海上漂浮的死鱼啊\nPLA和国家官方宣传机构都知道要训练投放能力\n而你在这里喊卡？多少有些好笑 https://t.co/8x9meaaTxu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762372511894056960",
+        "conversation_id": "1992027345017045462",
+        "created_at": "2025-11-22T10:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992178532319985974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 27,
+              "id": "1811888010088316932",
+              "start": 14,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992178532319985974",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992134520980771207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @cuichenghao7 你在考虑效率的时候，你也要考虑安全，没有安全的效率是没意义的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1988106802232533393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989256607818305536/QsOqpJGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 690,
+          "like_count": 4906,
+          "listed_count": 7,
+          "media_count": 891,
+          "tweet_count": 2712
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T07:02:58.000Z",
+        "description": "",
+        "id": "1762372511894056960",
+        "name": "bocal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817288534455103488/1YZmhJF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 21,
+          "like_count": 870,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 14475
+        },
+        "username": "hakis26",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60782,
+          "following_count": 498,
+          "like_count": 2361,
+          "listed_count": 202,
+          "media_count": 1100,
+          "tweet_count": 1209
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

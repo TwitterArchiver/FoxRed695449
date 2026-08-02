@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "1966736041718464786",
+    "created_at": "2025-09-15T08:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967512198974230650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "900635928376430593",
+          "start": 0,
+          "username": "Tommy031116"
+        },
+        {
+          "end": 27,
+          "id": "1165713500104212481",
+          "start": 13,
+          "username": "Jacob43817149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967512198974230650",
+    "in_reply_to_user_id": "900635928376430593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967511551688233216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tommy031116 @Jacob43817149 笑死我幹\n我就說你cpu已經燒了吧\n中國內地就只有1.8億人有護照\n但整個中國基本上都是普通話使用者\n國都沒出過的人拿來彈國際化有點好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1966736041718464786",
+        "created_at": "2025-09-15T08:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967512198974230650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "900635928376430593",
+              "start": 0,
+              "username": "Tommy031116"
+            },
+            {
+              "end": 27,
+              "id": "1165713500104212481",
+              "start": 13,
+              "username": "Jacob43817149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967512198974230650",
+        "in_reply_to_user_id": "900635928376430593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967511551688233216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tommy031116 @Jacob43817149 笑死我幹\n我就說你cpu已經燒了吧\n中國內地就只有1.8億人有護照\n但整個中國基本上都是普通話使用者\n國都沒出過的人拿來彈國際化有點好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "900635928376430593",
+        "conversation_id": "1966736041718464786",
+        "created_at": "2025-09-15T08:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967511551688233216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 28,
+              "id": "1165713500104212481",
+              "start": 14,
+              "username": "Jacob43817149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967511551688233216",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967509058770124981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Jacob43817149 什么叫未持有中国护照的内地居民？那不就是非法入境者吗？抓非法入境者有什么错？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜❤️@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUCVTG"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 692,
+          "like_count": 4346,
+          "listed_count": 8,
+          "media_count": 796,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/nfLXZUCVTG",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-24T08:28:33.000Z",
+        "description": "",
+        "id": "900635928376430593",
+        "name": "Tommy",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 55,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 1115
+        },
+        "username": "Tommy031116",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T19:52:23.000Z",
+        "description": "Jesus Follower，Conservative，Unacceptable Fringe Minority！ #Trudeaumustgo，#Trump2024, #51stState. 轻度内容创作者。 防失联，加我小号：@Jacob_Exudos",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 58,
+                "tag": "Trudeaumustgo"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Trump2024"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "tag": "51stState"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 115,
+                "username": "Jacob_Exudos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZSiy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCZSiylFYwW-z-hUhzeq5axw",
+                "start": 0,
+                "url": "https://t.co/A5WPoSwE5W"
+              }
+            ]
+          }
+        },
+        "id": "1165713500104212481",
+        "location": "Québec, Canada",
+        "name": "Jacob🇨🇦🇺🇸",
+        "pinned_tweet_id": "1621501861604823043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165724456003743744/VmLD9SWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53476,
+          "following_count": 2153,
+          "like_count": 235315,
+          "listed_count": 215,
+          "media_count": 24820,
+          "tweet_count": 142483
+        },
+        "url": "https://t.co/A5WPoSwE5W",
+        "username": "Jacob43817149",
+        "verified": true
+      }
+    ]
+  }
+}

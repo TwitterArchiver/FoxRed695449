@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2006585657406402750",
+    "created_at": "2026-01-02T10:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007040861407007180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973321781327880192",
+          "start": 0,
+          "username": "jieluizi"
+        },
+        {
+          "end": 22,
+          "id": "817932880605233152",
+          "start": 10,
+          "username": "AsiaFinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007040861407007180",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007040290922873153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieluizi @AsiaFinance 另外请先了解下英国及其类似的医疗制度是怎么运作的再来和我吵，不然我不会再回复了因为我感觉就是对牛弹琴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-02T10:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007040861407007180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973321781327880192",
+              "start": 0,
+              "username": "jieluizi"
+            },
+            {
+              "end": 22,
+              "id": "817932880605233152",
+              "start": 10,
+              "username": "AsiaFinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007040861407007180",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007040290922873153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieluizi @AsiaFinance 另外请先了解下英国及其类似的医疗制度是怎么运作的再来和我吵，不然我不会再回复了因为我感觉就是对牛弹琴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006585657406402750",
+        "created_at": "2026-01-02T10:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007040290922873153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973321781327880192",
+              "start": 0,
+              "username": "jieluizi"
+            },
+            {
+              "end": 22,
+              "id": "817932880605233152",
+              "start": 10,
+              "username": "AsiaFinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 53,
+              "expanded_url": "https://x.com/foxred695449/status/2006673833768661475?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 30,
+              "url": "https://t.co/FIa4Pp0c2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007040290922873153",
+        "in_reply_to_user_id": "1973321781327880192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006673833768661475",
+            "type": "quoted"
+          },
+          {
+            "id": "2006998929670578551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieluizi @AsiaFinance 你吵得我都说过https://t.co/FIa4Pp0c2J\n另外虽然发了，但估计你没看\n我再次告诉你香港的公立医院收费是政府补贴后的价格\n如果你不知道类似英国的医疗体制是怎么样的你可以不评价而不是在这里不懂装懂给人看乐子\n我真感觉你这发言都像没怎么出过国的\n觉得全世界都和中国大陆同样的制度🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 724,
+          "like_count": 5486,
+          "listed_count": 7,
+          "media_count": 918,
+          "tweet_count": 2840
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T09:39:31.000Z",
+        "description": "bitcoin",
+        "id": "1973321781327880192",
+        "location": "Chicago, IL",
+        "name": "战神永不言败",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001398247248793600/d-sJsw6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 120
+        },
+        "username": "jieluizi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T03:16:10.000Z",
+        "description": "亚洲金融：政经领域的有意思的事儿。\nAsiaFinance: For the Rich and Powerful.",
+        "id": "817932880605233152",
+        "location": "New York, USA",
+        "name": "亚洲金融 Asia Finance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581767238968905729/WA2-mkJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376132,
+          "following_count": 580,
+          "like_count": 22244,
+          "listed_count": 1852,
+          "media_count": 12547,
+          "tweet_count": 15358
+        },
+        "username": "AsiaFinance",
+        "verified": true
+      }
+    ]
+  }
+}

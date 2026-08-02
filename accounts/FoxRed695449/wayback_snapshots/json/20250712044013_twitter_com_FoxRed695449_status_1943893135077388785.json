@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1943862505933353410",
+    "created_at": "2025-07-12T04:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T05:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943893135077388785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873706565552979968",
+          "start": 0,
+          "username": "vitasoy_LeaF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943893135077388785",
+    "in_reply_to_user_id": "1873706565552979968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943862505933353410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vitasoy_LeaF 上網搜（（（\n找不到的話要善用AI喔🤣👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943862469627457539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn8nfpbsAMYyC8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943862469606486016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvn8nfkbsAASExW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1943862505933353410",
+        "created_at": "2025-07-12T04:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943893135077388785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873706565552979968",
+              "start": 0,
+              "username": "vitasoy_LeaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943893135077388785",
+        "in_reply_to_user_id": "1873706565552979968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943862505933353410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vitasoy_LeaF 上網搜（（（\n找不到的話要善用AI喔🤣👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943862469627457539",
+            "3_1943862469606486016"
+          ]
+        },
+        "author_id": "1873706565552979968",
+        "conversation_id": "1943862505933353410",
+        "created_at": "2025-07-12T02:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943862505933353410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GywhLb9OCp",
+              "end": 42,
+              "expanded_url": "https://x.com/vitasoy_LeaF/status/1943862505933353410/photo/1",
+              "media_key": "3_1943862469627457539",
+              "start": 19,
+              "url": "https://t.co/GywhLb9OCp"
+            },
+            {
+              "display_url": "pic.x.com/GywhLb9OCp",
+              "end": 42,
+              "expanded_url": "https://x.com/vitasoy_LeaF/status/1943862505933353410/photo/1",
+              "media_key": "3_1943862469606486016",
+              "start": 19,
+              "url": "https://t.co/GywhLb9OCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943862505933353410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈的我答案呢😭😭有人卖答案吗😭 https://t.co/GywhLb9OCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 670,
+          "like_count": 3686,
+          "listed_count": 7,
+          "media_count": 528,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T12:24:17.000Z",
+        "description": "你好 这里是维他奶的主页！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitavitasoy.com/tc",
+                "end": 23,
+                "expanded_url": "https://www.vitavitasoy.com/tc",
+                "start": 0,
+                "url": "https://t.co/2cJCTGtlTQ"
+              }
+            ]
+          }
+        },
+        "id": "1873706565552979968",
+        "location": "維他國",
+        "name": "孤高の維他奶🥀🦋",
+        "pinned_tweet_id": "1938576639807660069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905190926026469376/rgVmUvAf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 601,
+          "like_count": 15846,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/2cJCTGtlTQ",
+        "username": "vitasoy_LeaF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956763319286792192"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1956763330980557094",
+    "created_at": "2025-08-16T17:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T18:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956763330980557094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/symCVayPcL",
+          "end": 43,
+          "expanded_url": "https://x.com/FoxRed695449/status/1956763330980557094/photo/1",
+          "media_key": "3_1956763319286792192",
+          "start": 20,
+          "url": "https://t.co/symCVayPcL"
+        },
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/foxred695449/status/1956759750949183558",
+          "start": 44,
+          "url": "https://t.co/AKN5I09Dli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956763330980557094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956759750949183558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂了！吃點安非他命通宵猝死得了（開玩笑 https://t.co/symCVayPcL https://t.co/AKN5I09Dli"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1956763319286792192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfR3xuagAAA45G.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956763319286792192"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956763330980557094",
+        "created_at": "2025-08-16T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956763330980557094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/symCVayPcL",
+              "end": 43,
+              "expanded_url": "https://x.com/FoxRed695449/status/1956763330980557094/photo/1",
+              "media_key": "3_1956763319286792192",
+              "start": 20,
+              "url": "https://t.co/symCVayPcL"
+            },
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/foxred695449/status/1956759750949183558",
+              "start": 44,
+              "url": "https://t.co/AKN5I09Dli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956763330980557094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956759750949183558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了！吃點安非他命通宵猝死得了（開玩笑 https://t.co/symCVayPcL https://t.co/AKN5I09Dli"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1956759750949183558",
+        "created_at": "2025-08-16T16:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956759750949183558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/foxred695449/status/1956757064111571108",
+              "start": 20,
+              "url": "https://t.co/3eRi4J3bub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956759750949183558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956757064111571108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "PTSD有點嚴重\n不敢吃安眠藥怎麼辦😖 https://t.co/3eRi4J3bub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 688,
+          "like_count": 3981,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

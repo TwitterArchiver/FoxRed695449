@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1858519632577184187",
+    "created_at": "2024-11-18T22:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T23:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858638977773039825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684241711080574976",
+          "start": 0,
+          "username": "KY_SNWAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858638977773039825",
+    "in_reply_to_user_id": "1684241711080574976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858572780973039909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KY_SNWAZ 还能搞回来吗…甚至还是开了蓝v的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1858519632577184187",
+        "created_at": "2024-11-18T22:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T23:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858638977773039825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684241711080574976",
+              "start": 0,
+              "username": "KY_SNWAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858638977773039825",
+        "in_reply_to_user_id": "1684241711080574976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858572780973039909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KY_SNWAZ 还能搞回来吗…甚至还是开了蓝v的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684241711080574976",
+        "conversation_id": "1858519632577184187",
+        "created_at": "2024-11-18T18:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T19:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858572780973039909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858572780973039909",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858519632577184187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 被人搞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "",
+        "id": "1781308864438345728",
+        "name": "Fox Red",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781309366051987456/MZlqZyAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 81,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T16:38:20.000Z",
+        "description": "09.01.29十五岁小学生🤓/mtx/青春阻断剂使用中/没有天赋的家长党/INFP/精神病患",
+        "id": "1684241711080574976",
+        "location": "Palma, Spain",
+        "name": "KY丶SNWAZ",
+        "pinned_tweet_id": "1723753179148423506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 76,
+          "like_count": 1715,
+          "listed_count": 0,
+          "tweet_count": 2281
+        },
+        "username": "KY_SNWAZ",
+        "verified": false
+      }
+    ]
+  }
+}

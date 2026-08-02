@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1959839960594284720",
+    "created_at": "2025-08-25T05:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T06:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959857992721121440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510522802486448130",
+          "start": 0,
+          "username": "boeritsa"
+        },
+        {
+          "end": 21,
+          "id": "1739091493334499328",
+          "start": 10,
+          "username": "Atoloretta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959857992721121440",
+    "in_reply_to_user_id": "1510522802486448130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959846347936600293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boeritsa @Atoloretta 狐狸叫！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1959846347936600293].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1959846347936600293",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1959846347936600293"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1959839960594284720",
+        "created_at": "2025-08-25T05:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959857992721121440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            },
+            {
+              "end": 21,
+              "id": "1739091493334499328",
+              "start": 10,
+              "username": "Atoloretta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959857992721121440",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959846347936600293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa @Atoloretta 狐狸叫！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1959532287961202977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 696,
+          "like_count": 4208,
+          "listed_count": 8,
+          "media_count": 721,
+          "tweet_count": 2285
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "只聊生活 | 一只正在努力追寻自己梦想的橘猫 | 预计srs日期：2026年6月 | 长毛象：@aliyajadzia@stelpolva.moe | SSCI@HKUST",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliyajadzia.github.io/Personal-Bio/",
+                "end": 23,
+                "expanded_url": "https://aliyajadzia.github.io/Personal-Bio/",
+                "start": 0,
+                "url": "https://t.co/i258lU3WwP"
+              }
+            ]
+          }
+        },
+        "id": "1510522802486448130",
+        "location": "United Federation of Planets",
+        "name": "林雅仪Aliya Lin（准备手术ing）🇭🇰🇺🇦",
+        "pinned_tweet_id": "1921897084095000578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 183,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/i258lU3WwP",
+        "username": "boeritsa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T01:12:02.000Z",
+        "description": "张国荣王家卫粉丝｜爬山徒步爱好者 | 少键政非黄推，出言不逊直接开骂 ｜包容但坚决反对药物滥用⛔️ | LGBTQ+ friendly,Feminist.｜",
+        "id": "1739091493334499328",
+        "name": "松江腊雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927057053220016128/iqgbnUjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 254,
+          "like_count": 776,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 997
+        },
+        "username": "Atoloretta",
+        "verified": true
+      }
+    ]
+  }
+}

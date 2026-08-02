@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992899446838120448"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144668673",
+          "name": "Airline - Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      }
+    ],
+    "conversation_id": "1992899456044290115",
+    "created_at": "2025-11-24T10:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992899456044290115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CJ4UpRN0aK",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1992899456044290115/photo/1",
+          "media_key": "3_1992899446838120448",
+          "start": 27,
+          "url": "https://t.co/CJ4UpRN0aK"
+        },
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/minokakay/status/1992889153122627825",
+          "start": 51,
+          "url": "https://t.co/MRW4qQceXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992899456044290115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992889153122627825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说好不好笑现在\n全日空比廉航还便宜（想要的抓住机会 https://t.co/CJ4UpRN0aK https://t.co/MRW4qQceXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1992899446838120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gzfPHb0AAkVO_.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992899446838120448"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          }
+        ],
+        "conversation_id": "1992899456044290115",
+        "created_at": "2025-11-24T10:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992899456044290115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJ4UpRN0aK",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1992899456044290115/photo/1",
+              "media_key": "3_1992899446838120448",
+              "start": 27,
+              "url": "https://t.co/CJ4UpRN0aK"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/minokakay/status/1992889153122627825",
+              "start": 51,
+              "url": "https://t.co/MRW4qQceXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992899456044290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992889153122627825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说好不好笑现在\n全日空比廉航还便宜（想要的抓住机会 https://t.co/CJ4UpRN0aK https://t.co/MRW4qQceXH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1992889153122627825",
+        "created_at": "2025-11-24T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992889153122627825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minaseayano/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/minaseayano/status/1992851082624844061",
+              "start": 14,
+              "url": "https://t.co/rgPpmP4Jg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992889153122627825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992851082624844061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天塌了 我的南京飞关西😭😭 https://t.co/rgPpmP4Jg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1992307806507339868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992307182860382208/qr5SplPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 695,
+          "like_count": 4936,
+          "listed_count": 7,
+          "media_count": 898,
+          "tweet_count": 2733
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12502,
+          "following_count": 1010,
+          "like_count": 45017,
+          "listed_count": 43,
+          "media_count": 1635,
+          "tweet_count": 23596
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1922168056626774062",
+    "created_at": "2025-05-13T05:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T06:51:27.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922167789755715995",
+      "1922168056626774062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PandaTalk8/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/PandaTalk8/status/1921806741336940909",
+          "start": 38,
+          "url": "https://t.co/BU9mjzlUHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922168056626774062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921806741336940909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和你都不認識，你也沒幫到我，甚至都沒給我提供任何服務，我幹嘛和你說謝謝😅 https://t.co/BU9mjzlUHl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1922167789755715995",
+        "created_at": "2025-05-13T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T06:51:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922167789755715995",
+          "1922168056626774062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PandaTalk8/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/PandaTalk8/status/1921806741336940909",
+              "start": 23,
+              "url": "https://t.co/BU9mjzlUHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922167789755715995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921806741336940909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和你都不認識你也沒幫到我我幹嘛和你說謝謝😅 https://t.co/BU9mjzlUHl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1922168056626774062",
+        "created_at": "2025-05-13T05:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T06:51:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922167789755715995",
+          "1922168056626774062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PandaTalk8/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/PandaTalk8/status/1921806741336940909",
+              "start": 38,
+              "url": "https://t.co/BU9mjzlUHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922168056626774062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921806741336940909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和你都不認識，你也沒幫到我，甚至都沒給我提供任何服務，我幹嘛和你說謝謝😅 https://t.co/BU9mjzlUHl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885086674828578816",
+        "conversation_id": "1921806741336940909",
+        "created_at": "2025-05-12T05:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T06:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921806741336940909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921806741336940909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 63221,
+          "like_count": 217,
+          "quote_count": 6,
+          "reply_count": 116,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "出到杭州，遇到了一些路人，几乎不会说谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3433,
+          "following_count": 644,
+          "like_count": 3160,
+          "listed_count": 6,
+          "media_count": 562,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "熊老板 ｜公众号：猫熊不是猫 ｜ 程序员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/mrbear",
+                "end": 23,
+                "expanded_url": "https://bento.me/mrbear",
+                "start": 0,
+                "url": "https://t.co/e23MQ39Yki"
+              }
+            ]
+          }
+        },
+        "id": "885086674828578816",
+        "location": "帝都",
+        "name": "Mr Panda",
+        "pinned_tweet_id": "1872201306456420480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46419,
+          "following_count": 5346,
+          "like_count": 41053,
+          "listed_count": 282,
+          "media_count": 889,
+          "tweet_count": 14201
+        },
+        "url": "https://t.co/e23MQ39Yki",
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886747447021449303",
+    "created_at": "2025-02-06T04:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T05:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887350929370063246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846055543137517568",
+          "start": 0,
+          "username": "AXLV98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887350929370063246",
+    "in_reply_to_user_id": "1846055543137517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887349280857592130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AXLV98 哇哇哇，急眼了，無差別罵人了\n你們內地順直男处了罵人什麼都不會呢，好低能誒，說句實話我也看不起你，畢竟是一個怎麼樣和別人交流都不會的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-06T04:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T05:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887350929370063246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846055543137517568",
+              "start": 0,
+              "username": "AXLV98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887350929370063246",
+        "in_reply_to_user_id": "1846055543137517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887349280857592130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXLV98 哇哇哇，急眼了，無差別罵人了\n你們內地順直男处了罵人什麼都不會呢，好低能誒，說句實話我也看不起你，畢竟是一個怎麼樣和別人交流都不會的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846055543137517568",
+        "conversation_id": "1886747447021449303",
+        "created_at": "2025-02-06T03:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887349280857592130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887349280857592130",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887336580177952982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我虽然评论含🐎量高，但也不是无差别攻击，就算是骂我骂的也是你这没妈的玩意，不要拿你那多元挡箭牌，说我歧整个群体，三千粉丝能让你这么得瑟成这样，怎么你是要找人来砍我？你死的时候三千人能来一半都是烧高香了。如果说你侮辱人的底气是你那多元身份跟你那三千猴子猴孙，那么我的底气就是攻击我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 463,
+          "like_count": 1389,
+          "listed_count": 6,
+          "media_count": 293,
+          "tweet_count": 932
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T05:08:47.000Z",
+        "description": "攻击我？",
+        "id": "1846055543137517568",
+        "location": "距离 21 公里",
+        "name": "咿呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846056114032672768/RIvur7CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 598
+        },
+        "username": "AXLV98",
+        "verified": false
+      }
+    ]
+  }
+}

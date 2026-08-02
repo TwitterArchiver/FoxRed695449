@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039612726729936896",
+        "3_2039612727371649024"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2039262433290977684",
+    "created_at": "2026-04-02T07:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039612742714442176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2010050055022227457",
+          "start": 0,
+          "username": "G4O7aTAEg41854"
+        },
+        {
+          "end": 27,
+          "id": "1360522586317348865",
+          "start": 16,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 35,
+          "id": "1031738817810595840",
+          "start": 28,
+          "username": "YiK0_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KECXAt0fv",
+          "end": 204,
+          "expanded_url": "https://x.com/FoxRed695449/status/2039612742714442176/photo/1",
+          "media_key": "3_2039612726729936896",
+          "start": 181,
+          "url": "https://t.co/2KECXAt0fv"
+        },
+        {
+          "display_url": "pic.x.com/2KECXAt0fv",
+          "end": 204,
+          "expanded_url": "https://x.com/FoxRed695449/status/2039612742714442176/photo/1",
+          "media_key": "3_2039612727371649024",
+          "start": 181,
+          "url": "https://t.co/2KECXAt0fv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039612742714442176",
+    "in_reply_to_user_id": "2010050055022227457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039610017876492599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G4O7aTAEg41854 @nanami_mua @YiK0_o 没问题啊,哪怕是静音车厢和日本比就是吵啊\n某些局静音车厢有人吵,乘务人员不管就该骂\n还是我原观点,要当政绩宣传就把定的规则好好执行而不是当把自己定的规则当擦屁股的废纸\n坐这么多车了我觉得我有资格骂,国铁不管2等1等特等商务都有可能遇到吵的,尤其和一等共用车厢的特等和商务遇到超的能折磨死你 https://t.co/2KECXAt0fv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2039612726729936896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4o9_gakAADMwv.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039612727371649024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4o-B5aUAA_KnA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039612726729936896",
+            "3_2039612727371649024"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2039262433290977684",
+        "created_at": "2026-04-02T07:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039612742714442176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2010050055022227457",
+              "start": 0,
+              "username": "G4O7aTAEg41854"
+            },
+            {
+              "end": 27,
+              "id": "1360522586317348865",
+              "start": 16,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 35,
+              "id": "1031738817810595840",
+              "start": 28,
+              "username": "YiK0_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KECXAt0fv",
+              "end": 204,
+              "expanded_url": "https://x.com/FoxRed695449/status/2039612742714442176/photo/1",
+              "media_key": "3_2039612726729936896",
+              "start": 181,
+              "url": "https://t.co/2KECXAt0fv"
+            },
+            {
+              "display_url": "pic.x.com/2KECXAt0fv",
+              "end": 204,
+              "expanded_url": "https://x.com/FoxRed695449/status/2039612742714442176/photo/1",
+              "media_key": "3_2039612727371649024",
+              "start": 181,
+              "url": "https://t.co/2KECXAt0fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039612742714442176",
+        "in_reply_to_user_id": "2010050055022227457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039610017876492599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G4O7aTAEg41854 @nanami_mua @YiK0_o 没问题啊,哪怕是静音车厢和日本比就是吵啊\n某些局静音车厢有人吵,乘务人员不管就该骂\n还是我原观点,要当政绩宣传就把定的规则好好执行而不是当把自己定的规则当擦屁股的废纸\n坐这么多车了我觉得我有资格骂,国铁不管2等1等特等商务都有可能遇到吵的,尤其和一等共用车厢的特等和商务遇到超的能折磨死你 https://t.co/2KECXAt0fv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010050055022227457",
+        "conversation_id": "2039262433290977684",
+        "created_at": "2026-04-02T07:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039610017876492599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "1360522586317348865",
+              "start": 14,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 33,
+              "id": "1031738817810595840",
+              "start": 26,
+              "username": "YiK0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039610017876492599",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039348595607118075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @nanami_mua @YiK0_o 看清楚，是帖主本人硬拿新干线对比的😅，我这句一分钱一分货也是针对大陆和日本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 816,
+          "like_count": 7291,
+          "listed_count": 7,
+          "media_count": 961,
+          "tweet_count": 3065
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T18:04:57.000Z",
+        "description": "",
+        "id": "2010050055022227457",
+        "name": "Laorephy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010050243375906816/DHGLhqAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "G4O7aTAEg41854",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～🏳️‍⚧️",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 489,
+          "like_count": 80495,
+          "listed_count": 7,
+          "media_count": 738,
+          "tweet_count": 7984
+        },
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:04:37.000Z",
+        "description": "",
+        "id": "1031738817810595840",
+        "name": "Yi.K0_0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1311953414704689153/m30mPdTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 147,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 365
+        },
+        "username": "YiK0_o",
+        "verified": false
+      }
+    ]
+  }
+}

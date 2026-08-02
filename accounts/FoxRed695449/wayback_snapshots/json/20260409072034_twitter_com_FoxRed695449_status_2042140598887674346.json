@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042140595439939584",
+        "3_2042140595779727361"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2042091691474350393",
+    "created_at": "2026-04-09T07:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042140598887674346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894548093905084416",
+          "start": 0,
+          "username": "oooodjdjd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7TnqedeSGo",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/2042140598887674346/photo/1",
+          "media_key": "3_2042140595439939584",
+          "start": 23,
+          "url": "https://t.co/7TnqedeSGo"
+        },
+        {
+          "display_url": "pic.x.com/7TnqedeSGo",
+          "end": 46,
+          "expanded_url": "https://x.com/FoxRed695449/status/2042140598887674346/photo/1",
+          "media_key": "3_2042140595779727361",
+          "start": 23,
+          "url": "https://t.co/7TnqedeSGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042140598887674346",
+    "in_reply_to_user_id": "1894548093905084416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042091691474350393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooodjdjd 你这数据多少年前的啊？ https://t.co/7TnqedeSGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2042140595439939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFckDUSaMAAOGnx.jpg",
+        "width": 1158
+      },
+      {
+        "height": 1703,
+        "media_key": "3_2042140595779727361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFckDVja8AERyRW.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2042091679482773504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb3kCJaAAAfUMQ.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042140595439939584",
+            "3_2042140595779727361"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2042091691474350393",
+        "created_at": "2026-04-09T07:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042140598887674346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894548093905084416",
+              "start": 0,
+              "username": "oooodjdjd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TnqedeSGo",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/2042140598887674346/photo/1",
+              "media_key": "3_2042140595439939584",
+              "start": 23,
+              "url": "https://t.co/7TnqedeSGo"
+            },
+            {
+              "display_url": "pic.x.com/7TnqedeSGo",
+              "end": 46,
+              "expanded_url": "https://x.com/FoxRed695449/status/2042140598887674346/photo/1",
+              "media_key": "3_2042140595779727361",
+              "start": 23,
+              "url": "https://t.co/7TnqedeSGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042140598887674346",
+        "in_reply_to_user_id": "1894548093905084416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042091691474350393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooodjdjd 你这数据多少年前的啊？ https://t.co/7TnqedeSGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042091679482773504"
+          ]
+        },
+        "author_id": "1894548093905084416",
+        "conversation_id": "2042091691474350393",
+        "created_at": "2026-04-09T04:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042091691474350393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dB2YoD4Rzp",
+              "end": 149,
+              "expanded_url": "https://x.com/oooodjdjd/status/2042091691474350393/photo/1",
+              "media_key": "3_2042091679482773504",
+              "start": 126,
+              "url": "https://t.co/dB2YoD4Rzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042091691474350393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在香港月入5万都算是穷人\n\n餐厅的服务员、保安、保洁，月工资在10000-13000港币左右，厨师、司机这一类的月工资在15000--25000港币左右。\n\n建筑类的油漆工日薪1300港币，混凝土的日薪2500港币，银行、金融业、私家医生年薪上百万。\n\n如果没有房，就算月薪3万在香港也很难生存，高收入的背后是高付出，每天长达12小时的劳动，让香港人每天只有几个小时的睡觉时间。\n\n在香港生活，压力大吗？让我们从以下几方面分析一下，看一看香港人这么高的收入水平，生活压力从何而来。\n香港的工时是全世界最长的\n作为全球三大金融城市之一的香港，香港的工资确实很高，官方规定最低时薪37.5港币。\n\n香港的工时加班，全球排名第一，平均每天工作到12点。\n\n在香港每天有30万人在加班，每周60万人，工时超过了50个小时。\n\n据统计，香港每周工作时长52个小时以上，607已经成为香港上班族的常态。\n\n当然了，在香港这个地方高付出是有高回报的，周末出去兼职两天，比上班一周的工资还多。\n\n香港的房价全球第一\n在香港租房子住\n香港市中心，北到旺角南到中上环，以及铜锣湾，一居室公寓平均租金是17000多港币\n\n三居室公寓平均价格是38000多港币\n\n同样的户型，在市中心以外，一居室会便宜个几千块钱，在10000港币左右\n\n三居室会便宜个一万多港币，价格在28000港币\n\n多数的人会选择租住在郊外或者周边的岛屿，主要是租金便宜点\n\n在香港买房子\n香港普通生活区平均房价在15万一平米，油尖旺区平均房价一平米17万港币左右\n\n南区平均房价一平米18万港币左右，湾仔区平均房价一平米18万港币左右\n\n中西区平均房价一平米21万港币左右\n\n在香港只要是不买豪宅别墅的话，其实买房的压力不算很大，因为香港的房贷利率很低，年利率2%甚至更低。\n\n在香港买800万以下的楼房，首付只需要一成\n\n30平米的楼房，购买价格需要600万港币左右\n\n41平方米的楼房，需要725万港币\n\n58平方米的楼房，购买价格是1180万港币，一平方米的价格是22万港币左右\n\n90平以上的房子，在香港属于豪宅了，购买价格都在千万以上\n\n香港的生活成本全球第一\n香港人的生活成本到底有多贵？内地10块钱一份的炒面，在香港卖到40块钱。\n\n2块钱一瓶的矿泉水，在香港卖9块钱一瓶，下馆子人均200块钱。\n\n坐地铁巴士10块，打的起步价24块，随随便便几公里就要100多块。\n\n普通超市物价\n车厘子38一磅，47港币两瓶纯牛奶，10港币一盒薯片，干脆面5港币一包\n\n阿萨姆奶茶10港币一瓶，可乐9港币一瓶，青岛啤酒17港币一瓶，30个鸡蛋30港币\n\n一颗生菜11港币，两个紫茄子14港币，一个西瓜23港币，一颗小白菜26港币\n\n彩椒12港币一个，橙子9港币一个，猕猴桃5港币一个，火龙果13港币一个，苹果5港币一个\n\n这还是普通超市的价格，肉类的价格更贵，猪肉60港币左右，牛羊肉的价格更贵，如果想要买好一点的食材去好一点的超市，物价直接翻倍\n在香港生活，房租是大头，如果家里有房，不还房贷，每个月3万的工资，生活得爽歪歪。\n\n如果租房住，那月薪3万也是一个穷人，吃喝住行一个月也花费不少，到头来工资也不剩下多少。\n\n一个人房租5000--7000块，交通和水电费差不多要500多，吃饭一个月4000块，算是比较节省的，加上生活用品的其他开销，一个月要15000左右。\n\n香港人的福利待遇\n香港的护照，可以免签168个国家，节省下一大笔出国签证费，买一张机票说走就走，因此香港是世界上旅游外出最多的地区之一。\n\n在香港出生的孩子，直接获得香港永久性居民身份证。\n\n香港有15年的免费教育，小孩子上学家长只需要交书本费，价格很低。\n\n香港人上内地名校的分数很低，有一些学校甚至不需要分数就可以上。\n\n香港的医疗免费，不论是生了什么病，只需要交个几十港币的挂号费，和100港币的住院费就够了，看病只需要花这么多钱。\n\n养老\n香港有个强积金制度，强制香港人每个月拿收入的5%来公款，雇主帮雇员交5%，每个月供款上限是1500元，这笔钱可以自己决定买什么基金，等到65岁可以一次提取出来养老，强积金是存进去多少就可以拿回多少，这可是一大笔钱啊。\n\n凡年龄超过75岁的老人，每一个可以拿到1515元的高龄津贴，无需审查，就连李嘉诚这些富豪也可以拿这笔钱。\n\n年满65岁的单身人士，资产少于37400元，月收入小于10000元，如果有配偶，总资产少于56800元，总收入少于15000元，每个月每个人可以拿到3915元老人生活津贴。\n\n假如老人有自住物业、自用车位、自用金器首饰、保险现金价值，均豁免不计算。\n\n如果现在65岁，提了强积金出来，用100万买年金，每个月能拿5800元，拿到去世为止，差不多有7%的回报率，拿到80岁就回本了；如果没活到80岁就去世了，买的年金差额会退回给亲人。\n\n加起来每个月能有9715元，如果嫌弃香港的生活成本高，也可以移到广东生活，每个月1万港币的退休金，在广东会生活得很富足啊。\n\n香港人的工资水平\n2021年香港人的平均工资为358000港币\n\n男性每月平均工资19100港币\n\n女性每月平均工资14700港币\n\n香港最低时薪37.5港币，最基础的工人每月工资也有一万多港币。\n\n比如餐厅的服务员、保安、保洁，月工资在10000-13000港币左右\n\n厨师、司机这一类的月工资在15000--25000港币左右\n\n建筑类的油漆工日薪1300港币，混凝土的日薪2500港币\n\n银行、金融业、私家医生年薪上百万"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 6231,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在香港月入5万都算是穷人\n\n餐厅的服务员、保安、保洁，月工资在10000-13000港币左右，厨师、司机这一类的月工资在15000--25000港币左右。\n\n建筑类的油漆工日薪1300港币，混凝土的日薪2500港币，银行、金融业、私家医生年薪上百万。 https://t.co/dB2YoD4Rzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 810,
+          "like_count": 7380,
+          "listed_count": 7,
+          "media_count": 981,
+          "tweet_count": 3106
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2004720696245858745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14322,
+          "following_count": 265,
+          "like_count": 6021,
+          "listed_count": 49,
+          "media_count": 536,
+          "tweet_count": 3531
+        },
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

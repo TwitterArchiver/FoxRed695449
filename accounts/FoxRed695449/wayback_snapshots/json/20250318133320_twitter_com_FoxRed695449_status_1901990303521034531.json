@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1901633031678697472"
+      ],
+      "media_source_tweet_id": [
+        "1901633169260237195"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1901990303521034531",
+    "created_at": "2025-03-18T13:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T14:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901990303521034531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222199363847327744",
+          "start": 3,
+          "username": "Mikuma1936"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4Wi0UhXQO",
+          "end": 53,
+          "expanded_url": "https://x.com/Mikuma1936/status/1901633169260237195/video/1",
+          "media_key": "7_1901633031678697472",
+          "start": 30,
+          "url": "https://t.co/R4Wi0UhXQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901990303521034531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901633169260237195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mikuma1936: 整个大活\n在烟台市政府门口 https://t.co/R4Wi0UhXQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43264,
+        "height": 1920,
+        "media_key": "7_1901633031678697472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901633031678697472/pu/img/Isc3hD7ZyvfDgkHG.jpg",
+        "public_metrics": {
+          "view_count": 706
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/320x690/9gbMTIyK6FCLXkTb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/480x1036/kYEvMjzPx-pweGzb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/720x1556/5Ypsl1D98flhTOow.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/pl/AuVWI06epuCOBBjL.m3u8?tag=12"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901633031678697472"
+          ],
+          "media_source_tweet_id": [
+            "1901633169260237195"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901990303521034531",
+        "created_at": "2025-03-18T13:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T14:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901990303521034531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222199363847327744",
+              "start": 3,
+              "username": "Mikuma1936"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4Wi0UhXQO",
+              "end": 53,
+              "expanded_url": "https://x.com/Mikuma1936/status/1901633169260237195/video/1",
+              "media_key": "7_1901633031678697472",
+              "start": 30,
+              "url": "https://t.co/R4Wi0UhXQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901990303521034531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901633169260237195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mikuma1936: 整个大活\n在烟台市政府门口 https://t.co/R4Wi0UhXQO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901633031678697472"
+          ]
+        },
+        "author_id": "1222199363847327744",
+        "conversation_id": "1901633169260237195",
+        "created_at": "2025-03-17T13:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T14:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901633169260237195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4Wi0UhXQO",
+              "end": 37,
+              "expanded_url": "https://x.com/Mikuma1936/status/1901633169260237195/video/1",
+              "media_key": "7_1901633031678697472",
+              "start": 14,
+              "url": "https://t.co/R4Wi0UhXQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901633169260237195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "整个大活\n在烟台市政府门口"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2263,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "整个大活\n在烟台市政府门口 https://t.co/R4Wi0UhXQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1901896157540069695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 574,
+          "like_count": 2540,
+          "listed_count": 6,
+          "media_count": 421,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-28T16:46:59.000Z",
+        "description": "小药娘/OD/双相/军迷/德棍/精日/英吹/美分/乌贼/台独/化学专业/数竞/穷玩车的/臭外地的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/mikuma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/mikuma1936.bsky.social",
+                "start": 0,
+                "url": "https://t.co/coQ3AGsDs6"
+              }
+            ]
+          }
+        },
+        "id": "1222199363847327744",
+        "location": "木衛三·Ganymede",
+        "name": "🍥Mikuma⚓三隈🏳️‍⚧️(党卫军第17装甲掷弹兵师限定版:坚守阵地,直到最后一个排撤出)",
+        "pinned_tweet_id": "1874418807294578705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4059,
+          "following_count": 1064,
+          "like_count": 78792,
+          "listed_count": 14,
+          "media_count": 1492,
+          "tweet_count": 9686
+        },
+        "url": "https://t.co/coQ3AGsDs6",
+        "username": "Mikuma1936",
+        "verified": true
+      }
+    ]
+  }
+}

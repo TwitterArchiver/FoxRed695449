@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1943122536683966973",
+    "created_at": "2025-07-10T08:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T09:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943228598682517981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829423359043719169",
+          "start": 0,
+          "username": "ujjkujjk74901"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/FoxRed695449/s…",
+          "end": 38,
+          "expanded_url": "https://x.com/FoxRed695449/status/1943227996116340756?t=wK_e58lHCM3qa3Zejl8P2w&s=19",
+          "start": 15,
+          "url": "https://t.co/6YoSkFqDLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943228598682517981",
+    "in_reply_to_user_id": "1829423359043719169",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943227996116340756",
+        "type": "quoted"
+      },
+      {
+        "id": "1943122536683966973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ujjkujjk74901 https://t.co/6YoSkFqDLp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1943122536683966973",
+        "created_at": "2025-07-10T08:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943228598682517981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829423359043719169",
+              "start": 0,
+              "username": "ujjkujjk74901"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/FoxRed695449/s…",
+              "end": 38,
+              "expanded_url": "https://x.com/FoxRed695449/status/1943227996116340756?t=wK_e58lHCM3qa3Zejl8P2w&s=19",
+              "start": 15,
+              "url": "https://t.co/6YoSkFqDLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943228598682517981",
+        "in_reply_to_user_id": "1829423359043719169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943227996116340756",
+            "type": "quoted"
+          },
+          {
+            "id": "1943122536683966973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujjkujjk74901 https://t.co/6YoSkFqDLp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1943226235016159250",
+        "created_at": "2025-07-10T08:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943227996116340756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943227996116340756",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943226235016159250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然也给各位分享一个无脑稳定翻墙的方法（但是非常抽象！！！）\n可以租一台win service系统的服务器，然后直接用远程桌面访问它再通过远程桌面访问你需要访问的网站\n虽然极度抽象，但稳定+合法+技术要求几乎没有🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829423359043719169",
+        "conversation_id": "1943122536683966973",
+        "created_at": "2025-07-10T01:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T02:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943122536683966973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943122536683966973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14100,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是什么日子啊，为什么好多人梯子炸了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 669,
+          "like_count": 3684,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T07:38:25.000Z",
+        "description": "战无不胜的习近平新时代中国特色社会主义思想万岁 里推@ujjkujjk74902",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "ujjkujjk74902"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.wikipedia.org/wiki/%E5%85%AD…",
+                "end": 23,
+                "expanded_url": "https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6",
+                "start": 0,
+                "url": "https://t.co/s1A6sGVo9N"
+              }
+            ]
+          }
+        },
+        "id": "1829423359043719169",
+        "location": "5元300G不限时不限速VPN，大粉红倾力推荐👇",
+        "name": "一般通过大粉红",
+        "pinned_tweet_id": "1939011882649862343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932714339871698945/Hn-jAAwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 219,
+          "like_count": 610,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/s1A6sGVo9N",
+        "username": "ujjkujjk74901",
+        "verified": false
+      }
+    ]
+  }
+}

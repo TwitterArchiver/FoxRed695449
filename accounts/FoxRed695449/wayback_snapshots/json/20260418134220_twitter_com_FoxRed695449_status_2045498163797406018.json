@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2045439432107635123",
+    "created_at": "2026-04-18T13:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045498163797406018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618324076992548865",
+          "start": 0,
+          "username": "Rosmontis233"
+        },
+        {
+          "end": 25,
+          "id": "1707081013455912960",
+          "start": 14,
+          "username": "Hanxue0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045498163797406018",
+    "in_reply_to_user_id": "1618324076992548865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045498046696525836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rosmontis233 @Hanxue0509 我就是未成年小屁孩（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2045439432107635123",
+        "created_at": "2026-04-18T13:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045498163797406018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618324076992548865",
+              "start": 0,
+              "username": "Rosmontis233"
+            },
+            {
+              "end": 25,
+              "id": "1707081013455912960",
+              "start": 14,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045498163797406018",
+        "in_reply_to_user_id": "1618324076992548865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045498046696525836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosmontis233 @Hanxue0509 我就是未成年小屁孩（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618324076992548865",
+        "conversation_id": "2045439432107635123",
+        "created_at": "2026-04-18T13:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045498046696525836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 25,
+              "id": "1707081013455912960",
+              "start": 14,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045498046696525836",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045495538863522198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Hanxue0509 你也是x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 809,
+          "like_count": 7558,
+          "listed_count": 7,
+          "media_count": 988,
+          "tweet_count": 3148
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大二｜🍥｜CB77 BBCD 4455 31AB CFEA 7149 2F72 C711 BB0F 4E78｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 80,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 57,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "2018305302052151518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 508,
+          "like_count": 8329,
+          "listed_count": 10,
+          "media_count": 708,
+          "tweet_count": 7305
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "🇭🇰BSc FS 在讀 | 很笨很幼稚🥺 |  夢想是成為被人愛的家貓 | 稱呼我“晗雪”就好！",
+        "id": "1707081013455912960",
+        "location": "New Territories, Hong Kong ",
+        "name": "NAAN On Gan Sumire",
+        "pinned_tweet_id": "2023624014607143381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 324,
+          "like_count": 27046,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 1336
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

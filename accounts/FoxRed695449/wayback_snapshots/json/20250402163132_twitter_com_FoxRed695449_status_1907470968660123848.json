@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907470951060742144"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple Macbook",
+          "id": "972168210182111232",
+          "name": "Apple Macbook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1907250946515890252",
+    "created_at": "2025-04-02T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907470968660123848"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "MacBook",
+          "probability": 0.4974,
+          "start": 17,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "Shenyuebanran"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/icyUtXaltB",
+          "end": 49,
+          "expanded_url": "https://x.com/FoxRed695449/status/1907470968660123848/photo/1",
+          "media_key": "3_1907470951060742144",
+          "start": 26,
+          "url": "https://t.co/icyUtXaltB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907470968660123848",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907250946515890252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenyuebanran 我的MacBook👀 https://t.co/icyUtXaltB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907470951060742144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GniyuUlaIAAao_o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2532,
+        "media_key": "3_1907250936709517314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnfqnzQaEAImS10.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907470951060742144"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1907250946515890252",
+        "created_at": "2025-04-02T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907470968660123848"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "MacBook",
+              "probability": 0.4974,
+              "start": 17,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "Shenyuebanran"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/icyUtXaltB",
+              "end": 49,
+              "expanded_url": "https://x.com/FoxRed695449/status/1907470968660123848/photo/1",
+              "media_key": "3_1907470951060742144",
+              "start": 26,
+              "url": "https://t.co/icyUtXaltB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907470968660123848",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907250946515890252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenyuebanran 我的MacBook👀 https://t.co/icyUtXaltB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907250936709517314"
+          ]
+        },
+        "author_id": "1811011225058430982",
+        "conversation_id": "1907250946515890252",
+        "created_at": "2025-04-02T01:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T02:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907250946515890252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rqdv46rYRk",
+              "end": 47,
+              "expanded_url": "https://x.com/Shenyuebanran/status/1907250946515890252/photo/1",
+              "media_key": "3_1907250936709517314",
+              "start": 24,
+              "url": "https://t.co/Rqdv46rYRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907250946515890252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真想抽自己大嘴巴子当年买256的干什么到底（ https://t.co/Rqdv46rYRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號  Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1903835045519110566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3439,
+          "following_count": 591,
+          "like_count": 2708,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 1429
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "双/疑似家不管了/可以直接叫我然然的！ 历史/文学/友善交流/里推/眼熟会过：@anrbushuijiao好妹妹：@Hongcha_Meow 姐姐～：@altaz_0 七海姐姐～：@nanami5513 主人@nanami_mua。 山河入眼皆萧瑟， 道是人间不安然。 冷露侵衣添夜寂， 孤灯照影梦难安。 购买凝胶请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "anrbushuijiao"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Hongcha_Meow"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "altaz_0"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "nanami5513"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901895301541363712/Wwge1S7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 100,
+          "like_count": 3117,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 1420
+        },
+        "username": "Shenyuebanran",
+        "verified": false
+      }
+    ]
+  }
+}

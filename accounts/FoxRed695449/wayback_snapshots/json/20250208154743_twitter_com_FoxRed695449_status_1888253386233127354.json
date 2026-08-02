@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888253380033953792",
+        "3_1888253382789574656",
+        "3_1888253379539046400",
+        "3_1888253383196418048"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1888211268026146944",
+    "created_at": "2025-02-08T15:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T16:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888253386233127354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BLwjQmTEz9",
+          "end": 98,
+          "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+          "media_key": "3_1888253380033953792",
+          "start": 75,
+          "url": "https://t.co/BLwjQmTEz9"
+        },
+        {
+          "display_url": "pic.x.com/BLwjQmTEz9",
+          "end": 98,
+          "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+          "media_key": "3_1888253382789574656",
+          "start": 75,
+          "url": "https://t.co/BLwjQmTEz9"
+        },
+        {
+          "display_url": "pic.x.com/BLwjQmTEz9",
+          "end": 98,
+          "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+          "media_key": "3_1888253379539046400",
+          "start": 75,
+          "url": "https://t.co/BLwjQmTEz9"
+        },
+        {
+          "display_url": "pic.x.com/BLwjQmTEz9",
+          "end": 98,
+          "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+          "media_key": "3_1888253383196418048",
+          "start": 75,
+          "url": "https://t.co/BLwjQmTEz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888253386233127354",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888211268026146944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 你別說，搜搜香港上榜的學校還挺有意思（疊甲：本人堅決支持一國兩治，無意違反《國家安全法》，所有內容均有網路搜尋而來） https://t.co/BLwjQmTEz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_1888253380033953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRscdrawAAovVV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_1888253382789574656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRscn8aMAA5Y1W.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1182,
+        "media_key": "3_1888253379539046400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRscb1bEAAvJ5A.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_1888253383196418048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRscpdaIAAia4t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888253380033953792",
+            "3_1888253382789574656",
+            "3_1888253379539046400",
+            "3_1888253383196418048"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1888211268026146944",
+        "created_at": "2025-02-08T15:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888253386233127354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLwjQmTEz9",
+              "end": 98,
+              "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+              "media_key": "3_1888253380033953792",
+              "start": 75,
+              "url": "https://t.co/BLwjQmTEz9"
+            },
+            {
+              "display_url": "pic.x.com/BLwjQmTEz9",
+              "end": 98,
+              "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+              "media_key": "3_1888253382789574656",
+              "start": 75,
+              "url": "https://t.co/BLwjQmTEz9"
+            },
+            {
+              "display_url": "pic.x.com/BLwjQmTEz9",
+              "end": 98,
+              "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+              "media_key": "3_1888253379539046400",
+              "start": 75,
+              "url": "https://t.co/BLwjQmTEz9"
+            },
+            {
+              "display_url": "pic.x.com/BLwjQmTEz9",
+              "end": 98,
+              "expanded_url": "https://x.com/FoxRed695449/status/1888253386233127354/photo/1",
+              "media_key": "3_1888253383196418048",
+              "start": 75,
+              "url": "https://t.co/BLwjQmTEz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888253386233127354",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888211268026146944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 你別說，搜搜香港上榜的學校還挺有意思（疊甲：本人堅決支持一國兩治，無意違反《國家安全法》，所有內容均有網路搜尋而來） https://t.co/BLwjQmTEz9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888210496446193664"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1888211268026146944",
+        "created_at": "2025-02-08T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888211268026146944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "611Study 是指“早6点上学，晚11点放学，生病 ICU”。这是中国现在初高中学校的普遍强制要求。无数的初高中生因此承受生理和心理健康的双重折磨。我们希望通过此项目，帮助中国学生们摆脱这种连监狱都不如的作息时间，拥有一个健康快乐的童年。 “611”学制，指的是一种近年来中国初高中普遍执行的上课模式（早上 6 点到校 ~ 晚上 11 点放学，每周 6 天甚至 7 天）。在一个实行“611”学制的学校上课就意味着每周至少要在学校学习 102 个小时。 611Study.ICU 是中国不堪重负超时学习学生们的呐喊，我们欢迎其他领域、其他国家的人士加入讨论。 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。 在此处查看反 996 许可证下的 完整项目列表 该草案改编自 MIT 许可证，如需更多信息请查看 Wiki。此许可证旨在与所有主流开源许可证兼容。 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 Anti-996-License-1.0。感谢你的帮助。",
+              "display_url": "611Study.ICU",
+              "end": 30,
+              "expanded_url": "http://611Study.ICU",
+              "start": 7,
+              "status": 200,
+              "title": "611Study.ICU",
+              "unwound_url": "http://611Study.ICU",
+              "url": "https://t.co/3p82wc97Sr"
+            },
+            {
+              "display_url": "pic.x.com/nubHuPqlZX",
+              "end": 119,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1888211268026146944/photo/1",
+              "media_key": "3_1888210496446193664",
+              "start": 96,
+              "url": "https://t.co/nubHuPqlZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888211268026146944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 43513,
+          "like_count": 193,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "截至2月8日，https://t.co/3p82wc97Sr一共收到全国1644所学校的投稿。前5个省依次为：山东（171）、广东（154）、河南（151）、河北（137）和江苏（119）。 https://t.co/nubHuPqlZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 467,
+          "like_count": 1460,
+          "listed_count": 6,
+          "media_count": 316,
+          "tweet_count": 978
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924582,
+          "following_count": 936,
+          "like_count": 5782,
+          "listed_count": 8030,
+          "media_count": 23049,
+          "tweet_count": 29368
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

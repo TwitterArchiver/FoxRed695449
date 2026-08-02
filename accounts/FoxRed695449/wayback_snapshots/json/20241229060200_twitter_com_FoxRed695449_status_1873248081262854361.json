@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1873247898252796348",
+    "created_at": "2024-12-29T06:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873248081262854361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1873248081262854361",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873247898252796348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸妈妈他们现在工作真的好忙…好累…而我却在这里浪费他们的钱…真的好不应该…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873247898252796348",
+        "created_at": "2024-12-29T06:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873248081262854361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873248081262854361",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873247898252796348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈他们现在工作真的好忙…好累…而我却在这里浪费他们的钱…真的好不应该…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1873247898252796348",
+        "created_at": "2024-12-29T06:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873247898252796348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/foxred695449/status/1873240622414651393",
+              "start": 81,
+              "url": "https://t.co/iS6OCZGqgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873247898252796348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873240622414651393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又感觉很对不起我的爸爸妈妈…他们花了那么多钱让我读国际学校…但我感觉我连港五都考不上…可能只能上HKBU或者LingU…真的感觉很对不起他们在学业上给我花的钱 https://t.co/iS6OCZGqgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 385,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 545
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1946427492111397159",
+    "created_at": "2025-07-19T14:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T15:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946583878816473189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946583878816473189",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946427492111397159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 几年前的老版本Twitter私信完全没问题（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1946427492111397159",
+        "created_at": "2025-07-19T14:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T15:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946583878816473189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946583878816473189",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946427492111397159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 几年前的老版本Twitter私信完全没问题（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596652915959078913",
+        "conversation_id": "1946427492111397159",
+        "created_at": "2025-07-19T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946427492111397159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/19…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/grok/status/1946426884134494712",
+              "start": 34,
+              "url": "https://t.co/0xMAOw5CP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946427492111397159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946426884134494712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "byd什么弱智马一龙，私信做不好天天被骚扰算了，这又tm是什么东西 https://t.co/0xMAOw5CP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 674,
+          "like_count": 3724,
+          "listed_count": 7,
+          "media_count": 549,
+          "tweet_count": 1858
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "领养開設中，点击领取七海一只",
+        "id": "1596652915959078913",
+        "name": "硅的化学符号是Si",
+        "pinned_tweet_id": "1938259214578885005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 418,
+          "like_count": 30272,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2280
+        },
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

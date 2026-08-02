@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006582069590372353"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2006071950708539760",
+    "created_at": "2026-01-01T04:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T05:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006582078255804522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874631637486735360",
+          "start": 0,
+          "username": "HLitewong48793"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/egcLFWE6OW",
+          "end": 58,
+          "expanded_url": "https://x.com/FoxRed695449/status/2006582078255804522/photo/1",
+          "media_key": "3_2006582069590372353",
+          "start": 35,
+          "url": "https://t.co/egcLFWE6OW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006582078255804522",
+    "in_reply_to_user_id": "1874631637486735360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006581358446129645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HLitewong48793 是谁先把中国内政扯到美国啊，好难猜啊 https://t.co/egcLFWE6OW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006582069590372353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jPws6aMAEpEeA.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006582069590372353"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2006071950708539760",
+        "created_at": "2026-01-01T04:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006582078255804522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874631637486735360",
+              "start": 0,
+              "username": "HLitewong48793"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/egcLFWE6OW",
+              "end": 58,
+              "expanded_url": "https://x.com/FoxRed695449/status/2006582078255804522/photo/1",
+              "media_key": "3_2006582069590372353",
+              "start": 35,
+              "url": "https://t.co/egcLFWE6OW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006582078255804522",
+        "in_reply_to_user_id": "1874631637486735360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006581358446129645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HLitewong48793 是谁先把中国内政扯到美国啊，好难猜啊 https://t.co/egcLFWE6OW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874631637486735360",
+        "conversation_id": "2006071950708539760",
+        "created_at": "2026-01-01T04:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006581358446129645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 29,
+              "id": "1561753484512612353",
+              "start": 14,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006581358446129645",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006562528483295546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @Moutai_H_Maple 🧠进水了吧，你拿一个国家说事，却用某个国家的特例反击别人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000362993813729280/fypkhKQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 723,
+          "like_count": 5471,
+          "listed_count": 7,
+          "media_count": 916,
+          "tweet_count": 2827
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T01:39:57.000Z",
+        "description": "无",
+        "id": "1874631637486735360",
+        "name": "handsome_litewong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932380465106997248/y9cS63nY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 99
+        },
+        "username": "HLitewong48793",
+        "verified": false
+      }
+    ]
+  }
+}

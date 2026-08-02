@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1873081764085698956",
+    "created_at": "2024-12-29T02:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T03:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873189758668800078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        },
+        {
+          "end": 22,
+          "id": "1573778885996584960",
+          "start": 14,
+          "username": "altaz_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 46,
+          "expanded_url": "https://x.com/foxred695449/status/1873189710182646117?s=46",
+          "start": 23,
+          "url": "https://t.co/0QVwA6eFND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873189758668800078",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873189710182646117",
+        "type": "quoted"
+      },
+      {
+        "id": "1873081764085698956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria @altaz_0 https://t.co/0QVwA6eFND"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1873081764085698956",
+        "created_at": "2024-12-29T02:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873189758668800078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            },
+            {
+              "end": 22,
+              "id": "1573778885996584960",
+              "start": 14,
+              "username": "altaz_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 46,
+              "expanded_url": "https://x.com/foxred695449/status/1873189710182646117?s=46",
+              "start": 23,
+              "url": "https://t.co/0QVwA6eFND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873189758668800078",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873189710182646117",
+            "type": "quoted"
+          },
+          {
+            "id": "1873081764085698956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria @altaz_0 https://t.co/0QVwA6eFND"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873189702272163840",
+            "3_1873189702058278912",
+            "3_1873189702058356736",
+            "3_1873189702058295298"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1873189710182646117",
+        "created_at": "2024-12-29T02:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T03:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873189710182646117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnIpO0eMLG",
+              "end": 148,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873189710182646117/photo/1",
+              "media_key": "3_1873189702272163840",
+              "start": 125,
+              "url": "https://t.co/OnIpO0eMLG"
+            },
+            {
+              "display_url": "pic.x.com/OnIpO0eMLG",
+              "end": 148,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873189710182646117/photo/1",
+              "media_key": "3_1873189702058278912",
+              "start": 125,
+              "url": "https://t.co/OnIpO0eMLG"
+            },
+            {
+              "display_url": "pic.x.com/OnIpO0eMLG",
+              "end": 148,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873189710182646117/photo/1",
+              "media_key": "3_1873189702058356736",
+              "start": 125,
+              "url": "https://t.co/OnIpO0eMLG"
+            },
+            {
+              "display_url": "pic.x.com/OnIpO0eMLG",
+              "end": 148,
+              "expanded_url": "https://x.com/FoxRed695449/status/1873189710182646117/photo/1",
+              "media_key": "3_1873189702058295298",
+              "start": 125,
+              "url": "https://t.co/OnIpO0eMLG"
+            },
+            {
+              "display_url": "x.com/nagivictoria/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/nagivictoria/status/1873081764085698956",
+              "start": 149,
+              "url": "https://t.co/jVyWlEsoBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873189710182646117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“我在这段关系中害怕被丢掉”\n然后上一次分手的时候在Twitter上挂人，这次分手的时候人生威胁我和ta前对象\n并且还欠了ta前对象5000左右的钱，不仅到现在还没还，还说要ta前对象赔精神损失\n你挂人不用赔经济损失？你人生威胁不用赔偿经济损失？\n然后再拿一张ta在我身子下的照片说我用脚踢ta，可是当申人都不高兴来群里证明事情的真假"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873081764085698956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我在这段关系中害怕被丢掉”\n然后上一次分手的时候在Twitter上挂人，这次分手的时候人生威胁我和ta前对象\n并且还欠了ta前对象5000左右的钱，不仅到现在还没还，还说要ta前对象赔精神损失\n你挂人不用赔经济损失？你人生威胁不用赔偿经济损失？… https://t.co/OnIpO0eMLG https://t.co/jVyWlEsoBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873081743801987072",
+            "3_1873081743768424450",
+            "3_1873081743806226433",
+            "3_1873081743772680194"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1873081764085698956",
+        "created_at": "2024-12-28T19:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T20:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873081764085698956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1573778885996584960",
+              "start": 11,
+              "username": "altaz_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeMGCLFNTM",
+              "end": 170,
+              "expanded_url": "https://x.com/NagiVictoria/status/1873081764085698956/photo/1",
+              "media_key": "3_1873081743801987072",
+              "start": 147,
+              "url": "https://t.co/EeMGCLFNTM"
+            },
+            {
+              "display_url": "pic.x.com/EeMGCLFNTM",
+              "end": 170,
+              "expanded_url": "https://x.com/NagiVictoria/status/1873081764085698956/photo/1",
+              "media_key": "3_1873081743768424450",
+              "start": 147,
+              "url": "https://t.co/EeMGCLFNTM"
+            },
+            {
+              "display_url": "pic.x.com/EeMGCLFNTM",
+              "end": 170,
+              "expanded_url": "https://x.com/NagiVictoria/status/1873081764085698956/photo/1",
+              "media_key": "3_1873081743806226433",
+              "start": 147,
+              "url": "https://t.co/EeMGCLFNTM"
+            },
+            {
+              "display_url": "pic.x.com/EeMGCLFNTM",
+              "end": 170,
+              "expanded_url": "https://x.com/NagiVictoria/status/1873081764085698956/photo/1",
+              "media_key": "3_1873081743772680194",
+              "start": 147,
+              "url": "https://t.co/EeMGCLFNTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873081764085698956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 19,
+                "id": "1573778885996584960",
+                "start": 11,
+                "username": "altaz_0"
+              },
+              {
+                "end": 1201,
+                "id": "1781308864438345728",
+                "start": 1188,
+                "username": "FoxRed695449"
+              }
+            ]
+          },
+          "text": "今晚跟妈妈聊了关于前任@altaz_0 的事情，他跟我一起一点一点复盘，能在这个时候得到家里人的支持，真的很幸福\n对于这次分手，我找了不少人复盘，就如同出成绩后讲评卷子一样，复盘非常重要\n遗憾的是，这段关系中，我们争吵后基本没有复盘，更多的沟通都指向未来而非过去，这也间接导致了分手这个结果\n我们先讨论了日常的矛盾，以及双方各自的不满，确实双方很多的需求或不满都没有被表达出来\n对我来说，有时候并没有办法意识到自己的需求，举个例子，我在这段关系中，是很害怕被丢掉的，一直以来我其实并没有正视这个问题，虽然有跟对方提出，但因为我在其他任何方面，都并不过度在意任何一段关系（包括好朋友甚至别的前任），所以我并没有尽力去处理这个问题\n其实这个问题，直到今晚妈妈跟我说“有些人生气，其实背后的原因是恐惧，他们害怕失去什么，才会有这么可怕的情绪”，我才意识到自己发大火就是因为害怕被丢掉。这也是我跟她说过好多次，但我依然认为自己对此没有尽力的原因。他很胆小，我一旦生气，就会触发他的PTSD，对她造成很严重的影响，最后一次触发不仅导致了分手，还导致了他严重的躯体化\n日常的不满，我觉得不仅在我身上能找到，对于她来说，她对于不满的积压可能比我更为严重，妈妈跟我说的话，其中一句让我印象深刻，“他是一个没有自我的人，这意味着很多时候她的不满是很难被意识到或者表达出来的”，回过头想想确实如此，她对我表达不满的次数并不多\n唯有多次表达的是，她不想被任何人讨厌，也不想失去任何朋友，这也是我最初跟她发火并且说要与她一刀两断时，她害怕的另一原因，恐惧如果不处理，显然会随着时间流逝积累，我觉得这也是诱因之一\n另一个遗憾的事情是，我在这段关系的中后期，不知为何也向她逐渐靠拢，有些事情我更倾向于让对方揣测或者索性憋着不说，可能是害怕闹矛盾，但是这方法显然不可取\n当然了，除开这些双方主观的问题，还有一些客观因素，最大的问题是双方的共同爱好确实不足，好不容易能找到的共同爱好都是双方较为边缘化的爱好，例如逛公园，再例如玩没有pvp内容的Minecraft，以及某些数学的实际应用，性方面也因为某些未知原因，没有进一步展开探索，共同爱好不足也是分手的一大诱因\n说说那天晚上的事情吧，那天她确实处于精神疾病发病期，据说从下午开始状态就很反常，在晚上回酒店后，她也告诉我打算休学，那晚的她确实跟以前截然不同，就连帮他人写作业，都导致了她问题的发作，因此这也占用了大量时间。那是我要离开上海的前一晚，我其实期待能再跟更多人玩一次，可能之后确实没有机会了，因此我叫外卖够买了情趣用品，还额外摇了一些人来酒店，但她的发病让这些都变得无法实现\n前文说了，我在这段关系中害怕被丢掉，我也才知道自己同样害怕被背叛，也有可能这俩带给人的感受是相似的，那天晚上，她写完朋友的作业以后，无视了我想玩一玩的需求，而是选择跟红狐@FoxRed695449 开始聊天并抱在一起（这里我妈妈和另一个朋友都认为，这只是把对方当作好朋友而非背叛，我当时可能过于敏感了）\n并且，在之后的聊天中，似乎刻意避开了有关于我的部分，她说完大二的内容后，直接跳到她家长的模块，跳过了大三，这是她trans rle与逐渐找回自我的过程，并且这些都有我的陪同甚至带领，虽然第二天找别人复盘时，那人认为大三是她状态最差的一年，并且从前任的角度来看，她的大三是最不稳定的一年（以前稳定没有自我，生活没有波澜，现在虽然有了一部分自我，但是并不稳定，需要培养以及适应）但我当时确实认为，这是对我的忽视\n在聊天结束以及我叫的另一位朋友离开后，我决定跟她聊聊今天的事情，彻底点燃我的是，此时她意识到我可能在生气（我确实很生气了），但她的第一反应并非来询问或者安抚我（我跟她之前在这方面的承诺是，双方一旦察觉对方有情绪了，都要第一时间提出并安抚和分析）而是问红狐，我是否因为某件事而生气。当时我认为这是背离了之前的承诺，但现在回头分析，可能并非如此，可以是单纯的忘了，也可以是因为害怕而不敢直接上前安抚\n于是我把她叫到洗手间来试图处理问题（可能我当时潜意识里想的是发泄情绪），虽然我特地压低声音，但她还是一下子被我吓到了（可能我压低声音然后瞪眼确实非常凶），因此，原本我想要的“处理问题”，几乎变成了我全程的发泄情绪，她到最后因为极度恐惧而逃出了洗手间，此时红狐意识到了问题，就将她带回洗手间进行安抚，并且也发了个推文把我挂出来，但推文的内容被明显夸大，里面的很多事情都并非我本意，而且可能大概率并没有发生\n在她被红狐带回洗手间安抚后，她对我表现出了极其严重的恐惧，具体行为是压根不敢靠近我，但我不认为我之前的行为（压低声音瞪着眼睛发泄情绪）足以造成这种程度的后果，红狐对此的反应也极为剧烈，将这些东西记录下来（可能有录音），然后把部分内容挂在推上，安抚前任很长时间后，选择将她带去另一家酒店（此时她的状态确实不足以呆在这里了）\n\n（1/2）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 296,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚跟妈妈聊了关于前任@altaz_0 的事情，他跟我一起一点一点复盘，能在这个时候得到家里人的支持，真的很幸福\n对于这次分手，我找了不少人复盘，就如同出成绩后讲评卷子一样，复盘非常重要\n遗憾的是，这段关系中，我们争吵后基本没有复盘，更多的沟通都指向未来而非过去，这也间接导致了分手这个结果… https://t.co/EeMGCLFNTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304,
+          "following_count": 385,
+          "like_count": 1065,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 531
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExU9xd"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "冰棍好大喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1869199024374661397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 578,
+          "like_count": 8534,
+          "listed_count": 3,
+          "media_count": 1113,
+          "tweet_count": 8518
+        },
+        "url": "https://t.co/xPejExU9xd",
+        "username": "NagiVictoria",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T20:59:51.000Z",
+        "description": "04年无证含糖mtf🏳️‍⚧️｜女同｜是xyn喵🍥｜gaht:1723106454｜地下党｜持证电工（高低压）｜欢迎多多交流喵~",
+        "id": "1573778885996584960",
+        "location": "10.10.0.10",
+        "name": "altaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863241827387641856/w5b7b1wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1112,
+          "like_count": 74142,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 262
+        },
+        "username": "altaz_0",
+        "verified": false
+      }
+    ]
+  }
+}

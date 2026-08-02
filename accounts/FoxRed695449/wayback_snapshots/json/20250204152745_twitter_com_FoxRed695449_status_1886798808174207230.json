@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886798804835508224",
+        "3_1886798804894277636",
+        "3_1886798804659396611"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886669394207781106",
+    "created_at": "2025-02-04T15:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886798808174207230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kaU3csLrG9",
+          "end": 96,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+          "media_key": "3_1886798804835508224",
+          "start": 73,
+          "url": "https://t.co/kaU3csLrG9"
+        },
+        {
+          "display_url": "pic.x.com/kaU3csLrG9",
+          "end": 96,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+          "media_key": "3_1886798804894277636",
+          "start": 73,
+          "url": "https://t.co/kaU3csLrG9"
+        },
+        {
+          "display_url": "pic.x.com/kaU3csLrG9",
+          "end": 96,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+          "media_key": "3_1886798804659396611",
+          "start": 73,
+          "url": "https://t.co/kaU3csLrG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886798808174207230",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886669394207781106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat 原來900多港幣加上2000多人民幣再加上一張家長的信用卡副卡就可以是富了\n那按照你的標準中國都全面小康了（笑） https://t.co/kaU3csLrG9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886798804835508224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi9BhCzaIAAAi7T.jpg",
+        "width": 945
+      },
+      {
+        "height": 1518,
+        "media_key": "3_1886798804894277636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi9BhDBa4AQ2TQ0.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886798804659396611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi9BhCJa4AMMxcG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886798804835508224",
+            "3_1886798804894277636",
+            "3_1886798804659396611"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886669394207781106",
+        "created_at": "2025-02-04T15:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886798808174207230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaU3csLrG9",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+              "media_key": "3_1886798804835508224",
+              "start": 73,
+              "url": "https://t.co/kaU3csLrG9"
+            },
+            {
+              "display_url": "pic.x.com/kaU3csLrG9",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+              "media_key": "3_1886798804894277636",
+              "start": 73,
+              "url": "https://t.co/kaU3csLrG9"
+            },
+            {
+              "display_url": "pic.x.com/kaU3csLrG9",
+              "end": 96,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886798808174207230/photo/1",
+              "media_key": "3_1886798804659396611",
+              "start": 73,
+              "url": "https://t.co/kaU3csLrG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886798808174207230",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886669394207781106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 原來900多港幣加上2000多人民幣再加上一張家長的信用卡副卡就可以是富了\n那按照你的標準中國都全面小康了（笑） https://t.co/kaU3csLrG9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1886669394207781106",
+        "created_at": "2025-02-04T06:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886669394207781106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/foxred695449/status/1886050512526807169",
+              "start": 32,
+              "url": "https://t.co/ZikUarFyfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886669394207781106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12003,
+          "like_count": 225,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886050512526807169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多少沾点蠢b了 恁们富蛆在理解能力和共情能力上是不是多少沾点啊 https://t.co/ZikUarFyfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 456,
+          "like_count": 1354,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 819
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "小狗@larva7501",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "larva7501"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/XWEE9pDW0i"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻哈吉卷",
+        "pinned_tweet_id": "1877447124003996121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870757223133245441/DDs_GyIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 1169,
+          "like_count": 121871,
+          "listed_count": 8,
+          "media_count": 1391,
+          "tweet_count": 17318
+        },
+        "url": "https://t.co/XWEE9pDW0i",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

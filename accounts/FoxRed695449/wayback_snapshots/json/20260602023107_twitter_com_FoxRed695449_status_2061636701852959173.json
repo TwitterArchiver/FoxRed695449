@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061636686862524416"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "2061598911568220635",
+    "created_at": "2026-06-02T02:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061636701852959173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683060453528965120",
+          "start": 0,
+          "username": "NationalPureVF4"
+        },
+        {
+          "end": 31,
+          "id": "1622066090074607616",
+          "start": 17,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DYOsqFLL6Z",
+          "end": 61,
+          "expanded_url": "https://x.com/FoxRed695449/status/2061636701852959173/photo/1",
+          "media_key": "3_2061636686862524416",
+          "start": 38,
+          "url": "https://t.co/DYOsqFLL6Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061636701852959173",
+    "in_reply_to_user_id": "1683060453528965120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061601062340166037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NationalPureVF4 @hoshinofujivy 这剧情熟啊 https://t.co/DYOsqFLL6Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2061636686862524416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxnpMhaoAAHWXy.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061636686862524416"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2061598911568220635",
+        "created_at": "2026-06-02T02:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061636701852959173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683060453528965120",
+              "start": 0,
+              "username": "NationalPureVF4"
+            },
+            {
+              "end": 31,
+              "id": "1622066090074607616",
+              "start": 17,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYOsqFLL6Z",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/2061636701852959173/photo/1",
+              "media_key": "3_2061636686862524416",
+              "start": 38,
+              "url": "https://t.co/DYOsqFLL6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061636701852959173",
+        "in_reply_to_user_id": "1683060453528965120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061601062340166037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NationalPureVF4 @hoshinofujivy 这剧情熟啊 https://t.co/DYOsqFLL6Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "conversation_id": "2061598911568220635",
+        "created_at": "2026-06-02T00:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061601062340166037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061601062340166037",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061598911568220635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 被關在日本高中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|MTF🏳️‍⚧️|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 843,
+          "like_count": 8059,
+          "listed_count": 6,
+          "media_count": 1032,
+          "tweet_count": 3293
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光\n時鐘塔十二君主創造科-巴留葉雷塔家的本家直系廢柴大小姐/死徒第二十三祖/兼職惡役英雄/待灌滿泡芙（？）/Beast I 候補/暈血/毒舌\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "_Weace_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "✝︎真理子 ✝︎ 虹の吸血姫 (限界)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032241233926766593/FMYw3z6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1174,
+          "like_count": 74259,
+          "listed_count": 18,
+          "media_count": 1282,
+          "tweet_count": 33022
+        },
+        "username": "NationalPureVF4",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11582,
+          "following_count": 4330,
+          "like_count": 47688,
+          "listed_count": 39,
+          "media_count": 2568,
+          "tweet_count": 15150
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074668399507255296",
+        "3_2074668495095410688",
+        "3_2074668521330720769"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Firefox",
+          "id": "10052778495",
+          "name": "Firefox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      }
+    ],
+    "conversation_id": "2074515205724483713",
+    "created_at": "2026-07-08T01:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074668881965396308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931593942145064961",
+          "start": 0,
+          "username": "detroitlongface"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1ILNZqmRm",
+          "end": 159,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+          "media_key": "3_2074668399507255296",
+          "start": 136,
+          "url": "https://t.co/y1ILNZqmRm"
+        },
+        {
+          "display_url": "pic.x.com/y1ILNZqmRm",
+          "end": 159,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+          "media_key": "3_2074668495095410688",
+          "start": 136,
+          "url": "https://t.co/y1ILNZqmRm"
+        },
+        {
+          "display_url": "pic.x.com/y1ILNZqmRm",
+          "end": 159,
+          "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+          "media_key": "3_2074668521330720769",
+          "start": 136,
+          "url": "https://t.co/y1ILNZqmRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074668881965396308",
+    "in_reply_to_user_id": "1931593942145064961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074649535029338218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@detroitlongface 有中文网页文档和支持，是Firefox里VPN的供应商，有免费节点能先使用下看，代码公开，消委会测评里的结果好，公司立场也不亲中\n至于住宅IP有朋友家里的真家宽，对VPN的要求就是保护下连接能解锁可以无脑用就行\n用几天真不行反正也能退款 https://t.co/y1ILNZqmRm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2074668399507255296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqz6tNbsAA6xgd.jpg",
+        "width": 1102
+      },
+      {
+        "height": 874,
+        "media_key": "3_2074668495095410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq0ARTbMAAjVyc.jpg",
+        "width": 1695
+      },
+      {
+        "height": 607,
+        "media_key": "3_2074668521330720769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq0BzCaQAEzrqp.png",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074668399507255296",
+            "3_2074668495095410688",
+            "3_2074668521330720769"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Firefox",
+              "id": "10052778495",
+              "name": "Firefox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          }
+        ],
+        "conversation_id": "2074515205724483713",
+        "created_at": "2026-07-08T01:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074668881965396308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931593942145064961",
+              "start": 0,
+              "username": "detroitlongface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1ILNZqmRm",
+              "end": 159,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+              "media_key": "3_2074668399507255296",
+              "start": 136,
+              "url": "https://t.co/y1ILNZqmRm"
+            },
+            {
+              "display_url": "pic.x.com/y1ILNZqmRm",
+              "end": 159,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+              "media_key": "3_2074668495095410688",
+              "start": 136,
+              "url": "https://t.co/y1ILNZqmRm"
+            },
+            {
+              "display_url": "pic.x.com/y1ILNZqmRm",
+              "end": 159,
+              "expanded_url": "https://x.com/FoxRed695449/status/2074668881965396308/photo/1",
+              "media_key": "3_2074668521330720769",
+              "start": 136,
+              "url": "https://t.co/y1ILNZqmRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074668881965396308",
+        "in_reply_to_user_id": "1931593942145064961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074649535029338218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@detroitlongface 有中文网页文档和支持，是Firefox里VPN的供应商，有免费节点能先使用下看，代码公开，消委会测评里的结果好，公司立场也不亲中\n至于住宅IP有朋友家里的真家宽，对VPN的要求就是保护下连接能解锁可以无脑用就行\n用几天真不行反正也能退款 https://t.co/y1ILNZqmRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931593942145064961",
+        "conversation_id": "2074515205724483713",
+        "created_at": "2026-07-08T00:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074649535029338218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074649535029338218",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074515205724483713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 那你怎么不用socks/http代理大厂，还有有真住宅ip的mysterium vpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2058521096123781406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 843,
+          "like_count": 8209,
+          "listed_count": 6,
+          "media_count": 1060,
+          "tweet_count": 3398
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T06:07:51.000Z",
+        "description": "Connected & Encrypted.",
+        "id": "1931593942145064961",
+        "name": "fakewatt ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050508505090822144/Frkw5qvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 108,
+          "like_count": 7199,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "detroitlongface",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "1942478575086731741",
+    "created_at": "2025-07-08T09:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T10:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942520967017947275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707081013455912960",
+          "start": 0,
+          "username": "Hanxue0509"
+        }
+      ],
+      "urls": [
+        {
+          "description": "指定的大學及大專學生申請滙豐滙財金卡 - 學生卡，專享學生信用卡禮遇及永久免年費，繳交學費更享額外「獎賞錢」回贈。立即了解更多。",
+          "display_url": "hsbc.com.hk/zh-hk/credit-c…",
+          "end": 67,
+          "expanded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+          "start": 44,
+          "status": 200,
+          "title": "滙財金卡 - 學生卡 | 大學及大專學生信用卡 - 香港滙豐",
+          "unwound_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+          "url": "https://t.co/9ywgjMcdfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942520967017947275",
+    "in_reply_to_user_id": "1707081013455912960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "hsbc.com.hk/zh-hk/credit-c…",
+            "end": 55,
+            "expanded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+            "start": 32,
+            "url": "https://t.co/Gqfj4MMUS9"
+          }
+        ]
+      },
+      "text": "然后刚到hk如果还没收入但又需要信用卡的话可以看看HSBC的！\nhttps://t.co/Gqfj4MMUS9\n申请银行账户如果不急的话可以等到拿了hkid以后再申请，因为可以直接网上开户\n如果你一开始是拿内地身份证申请银行账户的话拿到香港身份证以后你有义务和银行说你取得了hkid（非常重要，一定要记得！！！）\n要把内地的钱转到hk的话可以用跨境支付通，免手续费还实时到账！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942517481488408745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanxue0509 然后刚到hk如果还没收入但又需要信用卡的话可以看看HSBC的！\nhttps://t.co/9ywgjMcdfv\n申请银行账户如果不急的话可以等到拿了hkid以后再申请，因为可以直接网上开户\n如果你一开始是拿内地身份证申请银行账户的话拿到香港身份证以后你有义务和银行说你取得了hkid（非常重要，一定要记得！！！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1942478575086731741",
+        "created_at": "2025-07-08T09:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942520967017947275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707081013455912960",
+              "start": 0,
+              "username": "Hanxue0509"
+            }
+          ],
+          "urls": [
+            {
+              "description": "指定的大學及大專學生申請滙豐滙財金卡 - 學生卡，專享學生信用卡禮遇及永久免年費，繳交學費更享額外「獎賞錢」回贈。立即了解更多。",
+              "display_url": "hsbc.com.hk/zh-hk/credit-c…",
+              "end": 67,
+              "expanded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+              "start": 44,
+              "status": 200,
+              "title": "滙財金卡 - 學生卡 | 大學及大專學生信用卡 - 香港滙豐",
+              "unwound_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+              "url": "https://t.co/9ywgjMcdfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942520967017947275",
+        "in_reply_to_user_id": "1707081013455912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hsbc.com.hk/zh-hk/credit-c…",
+                "end": 55,
+                "expanded_url": "https://www.hsbc.com.hk/zh-hk/credit-cards/products/student-visa-gold/",
+                "start": 32,
+                "url": "https://t.co/Gqfj4MMUS9"
+              }
+            ]
+          },
+          "text": "然后刚到hk如果还没收入但又需要信用卡的话可以看看HSBC的！\nhttps://t.co/Gqfj4MMUS9\n申请银行账户如果不急的话可以等到拿了hkid以后再申请，因为可以直接网上开户\n如果你一开始是拿内地身份证申请银行账户的话拿到香港身份证以后你有义务和银行说你取得了hkid（非常重要，一定要记得！！！）\n要把内地的钱转到hk的话可以用跨境支付通，免手续费还实时到账！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942517481488408745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanxue0509 然后刚到hk如果还没收入但又需要信用卡的话可以看看HSBC的！\nhttps://t.co/9ywgjMcdfv\n申请银行账户如果不急的话可以等到拿了hkid以后再申请，因为可以直接网上开户\n如果你一开始是拿内地身份证申请银行账户的话拿到香港身份证以后你有义务和银行说你取得了hkid（非常重要，一定要记得！！！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707081013455912960",
+        "conversation_id": "1942478575086731741",
+        "created_at": "2025-07-08T09:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942517481488408745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942517481488408745",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942503491953647968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 是的!这也是晗雪非常期待的地方!\n晗雪打算试着继续读mphil和phd!\n（因为在hk读这些也不太用花钱🐱🤤）\n另外感谢回fo!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 668,
+          "like_count": 3686,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "🍥/游走于霓虹灯下的，梦想成为猫女仆的高三流浪猫/无论如何，很荣幸认识你/即将移居香港🇭🇰/这个世界可能很冷，但是晗雪会给你烤又烫又香甜的黄油蔓越莓饼干吃",
+        "id": "1707081013455912960",
+        "location": "晗雪窝",
+        "name": "⌬🐱晗雪🍥",
+        "pinned_tweet_id": "1934980605756022990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 497,
+          "like_count": 22023,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1516
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

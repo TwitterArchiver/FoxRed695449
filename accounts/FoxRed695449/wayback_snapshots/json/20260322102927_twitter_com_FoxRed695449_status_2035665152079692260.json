@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2035665152079692260",
+    "created_at": "2026-03-22T10:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035665152079692260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035665152079692260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035662771849675243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 兰铁卫生巾事件当事人“勇敢小狐不怕困难”，更新截至目前的一些进展：\n\n1.我的回应贴点赞数是兰州铁路通报的十倍，但报道兰铁通报的官媒铺天盖地，报道我回应贴的媒体寥寥无几。有记者表示个人很愿意帮我报道，但不被允许报道。（p1）我们的发声持续…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2035634906609434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAHKYzXQAAI6YF.jpg",
+        "width": 690
+      },
+      {
+        "height": 1421,
+        "media_key": "3_2035635182758514688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAHadib0AA-HvN.jpg",
+        "width": 2707
+      },
+      {
+        "height": 2490,
+        "media_key": "3_2035635464762191872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAHq4FWcAAPWD7.jpg",
+        "width": 690
+      },
+      {
+        "height": 782,
+        "media_key": "3_2035635508575879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAHtbTWQAAiK1q.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2035665152079692260",
+        "created_at": "2026-03-22T10:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035665152079692260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035665152079692260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035662771849675243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 兰铁卫生巾事件当事人“勇敢小狐不怕困难”，更新截至目前的一些进展：\n\n1.我的回应贴点赞数是兰州铁路通报的十倍，但报道兰铁通报的官媒铺天盖地，报道我回应贴的媒体寥寥无几。有记者表示个人很愿意帮我报道，但不被允许报道。（p1）我们的发声持续…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035634906609434624",
+            "3_2035635182758514688",
+            "3_2035635464762191872",
+            "3_2035635508575879168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2035662771849675243",
+        "created_at": "2026-03-22T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035662771849675243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvHgHbsTnT",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035662771849675243/photo/1",
+              "media_key": "3_2035634906609434624",
+              "start": 125,
+              "url": "https://t.co/wvHgHbsTnT"
+            },
+            {
+              "display_url": "pic.x.com/wvHgHbsTnT",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035662771849675243/photo/1",
+              "media_key": "3_2035635182758514688",
+              "start": 125,
+              "url": "https://t.co/wvHgHbsTnT"
+            },
+            {
+              "display_url": "pic.x.com/wvHgHbsTnT",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035662771849675243/photo/1",
+              "media_key": "3_2035635464762191872",
+              "start": 125,
+              "url": "https://t.co/wvHgHbsTnT"
+            },
+            {
+              "display_url": "pic.x.com/wvHgHbsTnT",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035662771849675243/photo/1",
+              "media_key": "3_2035635508575879168",
+              "start": 125,
+              "url": "https://t.co/wvHgHbsTnT"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2034985811855172026",
+              "start": 149,
+              "url": "https://t.co/b7IJn2FDLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035662771849675243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "兰铁卫生巾事件当事人“勇敢小狐不怕困难”，更新截至目前的一些进展：\n\n1.我的回应贴点赞数是兰州铁路通报的十倍，但报道兰铁通报的官媒铺天盖地，报道我回应贴的媒体寥寥无几。有记者表示个人很愿意帮我报道，但不被允许报道。（p1）我们的发声持续受到阻碍。\n\n2.经大量网友共同发现，在微博公开发表极端言论的一网友张老师，很大概率就是兰铁舆情科领导张某。私聊找我说班组被罚的工作人员，也有可能是张某。（p2）我考虑通过诉讼小红薯和微博，披露对方真实身份信息。\n\n3.发现其他铁路局的洗涤招标公告和外包明细表，床单限价在「个位数」。（p3）而却让当事人赔偿180元。\n\n4.兰铁曾经也出过舆论事故，并因此被处罚过。（p4）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3545,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034985811855172026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兰铁卫生巾事件当事人“勇敢小狐不怕困难”，更新截至目前的一些进展：\n\n1.我的回应贴点赞数是兰州铁路通报的十倍，但报道兰铁通报的官媒铺天盖地，报道我回应贴的媒体寥寥无几。有记者表示个人很愿意帮我报道，但不被允许报道。（p1）我们的发声持续受到阻碍。 https://t.co/wvHgHbsTnT https://t.co/b7IJn2FDLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 808,
+          "like_count": 7021,
+          "listed_count": 7,
+          "media_count": 949,
+          "tweet_count": 3021
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195417,
+          "following_count": 1023,
+          "like_count": 9314,
+          "listed_count": 8636,
+          "media_count": 43828,
+          "tweet_count": 50887
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

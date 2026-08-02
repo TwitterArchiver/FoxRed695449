@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2033499795709653231",
+    "created_at": "2026-03-16T11:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033499795709653231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/li9292/status/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/li9292/status/2033391083288408381",
+          "start": 49,
+          "url": "https://t.co/PHmbEx0IIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033499795709653231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033391083288408381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "注册Google账户都要手机号验证的IP怕不是万人骑的\n就这说自己炒币也是符合简中币圈刻板印象了 https://t.co/PHmbEx0IIz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2033499795709653231",
+        "created_at": "2026-03-16T11:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033499795709653231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/li9292/status/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/li9292/status/2033391083288408381",
+              "start": 49,
+              "url": "https://t.co/PHmbEx0IIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033499795709653231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033391083288408381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注册Google账户都要手机号验证的IP怕不是万人骑的\n就这说自己炒币也是符合简中币圈刻板印象了 https://t.co/PHmbEx0IIz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877440800",
+        "conversation_id": "2033390821291217203",
+        "created_at": "2026-03-16T03:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033391083288408381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033391083288408381",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033390821291217203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 你是外宾还是装外宾？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）",
+        "pinned_tweet_id": "1961841195229048982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 805,
+          "like_count": 6857,
+          "listed_count": 7,
+          "media_count": 947,
+          "tweet_count": 3011
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-18T00:52:13.000Z",
+        "description": "【文科生韭二代的自救和重生之路】李韭二 @lijiuer9888 微信同号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "lijiuer9888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vibeathon-100.vercel.app",
+                "end": 23,
+                "expanded_url": "https://vibeathon-100.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/fspfRWUyTo"
+              }
+            ]
+          }
+        },
+        "id": "1877440800",
+        "location": "Hong Kong",
+        "name": "李韭二",
+        "pinned_tweet_id": "2032268864059556001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958447835365707776/pezBwxG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6183,
+          "following_count": 557,
+          "like_count": 4522,
+          "listed_count": 60,
+          "media_count": 237,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/fspfRWUyTo",
+        "username": "li9292",
+        "verified": true
+      }
+    ]
+  }
+}

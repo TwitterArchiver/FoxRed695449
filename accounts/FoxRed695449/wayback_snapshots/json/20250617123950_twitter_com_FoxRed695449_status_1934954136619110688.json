@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934954134043860992"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1934926571653222661",
+    "created_at": "2025-06-17T12:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934954136619110688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1719206512114155520",
+          "start": 0,
+          "username": "lowb_moe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7UEfVoWdG",
+          "end": 50,
+          "expanded_url": "https://x.com/FoxRed695449/status/1934954136619110688/photo/1",
+          "media_key": "3_1934954134043860992",
+          "start": 27,
+          "url": "https://t.co/O7UEfVoWdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934954136619110688",
+    "in_reply_to_user_id": "1719206512114155520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934951438586937491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lowb_moe 这是八达通钱包，和八达通卡不一样 https://t.co/O7UEfVoWdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934954134043860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpWiHhboAAG2cR.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934954134043860992"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1934926571653222661",
+        "created_at": "2025-06-17T12:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934954136619110688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1719206512114155520",
+              "start": 0,
+              "username": "lowb_moe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7UEfVoWdG",
+              "end": 50,
+              "expanded_url": "https://x.com/FoxRed695449/status/1934954136619110688/photo/1",
+              "media_key": "3_1934954134043860992",
+              "start": 27,
+              "url": "https://t.co/O7UEfVoWdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934954136619110688",
+        "in_reply_to_user_id": "1719206512114155520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934951438586937491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lowb_moe 这是八达通钱包，和八达通卡不一样 https://t.co/O7UEfVoWdG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719206512114155520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "1934926571653222661",
+        "created_at": "2025-06-17T12:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934951438586937491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934951438586937491",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934926571653222661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 apple pay可以直接内地银行卡充八达通吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1932630688412676393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 662,
+          "like_count": 3530,
+          "listed_count": 6,
+          "media_count": 661,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-31T04:15:54.000Z",
+        "description": "She/Her | CS BSc | 是猫猫！| telegram @lowb_moe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "lowb_moe"
+              }
+            ]
+          }
+        },
+        "id": "1719206512114155520",
+        "name": "lowb_moe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737718133044244480/7iYP8pe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 252,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 114
+        },
+        "username": "lowb_moe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995728868523868163"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1995313338256093240",
+    "created_at": "2025-12-02T05:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995728871241466183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1524372007617323009",
+          "start": 0,
+          "username": "lihongshuai4"
+        },
+        {
+          "end": 30,
+          "id": "757398339167981568",
+          "start": 14,
+          "username": "MankindFuture88"
+        },
+        {
+          "end": 40,
+          "id": "2865179814",
+          "start": 31,
+          "username": "ltshijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L8Du37VnGH",
+          "end": 66,
+          "expanded_url": "https://x.com/FoxRed695449/status/1995728871241466183/photo/1",
+          "media_key": "3_1995728868523868163",
+          "start": 43,
+          "url": "https://t.co/L8Du37VnGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995728871241466183",
+    "in_reply_to_user_id": "1524372007617323009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995559912357900294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihongshuai4 @MankindFuture88 @ltshijie 🤡 https://t.co/L8Du37VnGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995728868523868163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JA1QRbgAMQCVT.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995728868523868163"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1995313338256093240",
+        "created_at": "2025-12-02T05:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995728871241466183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1524372007617323009",
+              "start": 0,
+              "username": "lihongshuai4"
+            },
+            {
+              "end": 30,
+              "id": "757398339167981568",
+              "start": 14,
+              "username": "MankindFuture88"
+            },
+            {
+              "end": 40,
+              "id": "2865179814",
+              "start": 31,
+              "username": "ltshijie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8Du37VnGH",
+              "end": 66,
+              "expanded_url": "https://x.com/FoxRed695449/status/1995728871241466183/photo/1",
+              "media_key": "3_1995728868523868163",
+              "start": 43,
+              "url": "https://t.co/L8Du37VnGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995728871241466183",
+        "in_reply_to_user_id": "1524372007617323009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995559912357900294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihongshuai4 @MankindFuture88 @ltshijie 🤡 https://t.co/L8Du37VnGH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524372007617323009",
+        "conversation_id": "1995313338256093240",
+        "created_at": "2025-12-01T18:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995559912357900294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757398339167981568",
+              "start": 0,
+              "username": "MankindFuture88"
+            },
+            {
+              "end": 26,
+              "id": "2865179814",
+              "start": 17,
+              "username": "ltshijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995559912357900294",
+        "in_reply_to_user_id": "757398339167981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995352974408004070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MankindFuture88 @ltshijie 而且也基本上不关网的事吧？我看你们香港媒体自己报道的，业主之前就发现为了方便维修，把消防警报关了。。。。关了。。。因为他一维修那个消防警报老是响，就有人给关了，只能说这个结果是应得的，已有的事后必再有，你们香港人这样搞早晚还要出事，你自己有心赶快搬深圳吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你|生活裏帳@RedRedFoxLife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "RedRedFoxLife"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1993749260962238941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993748125899739139/NnsuWGc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 710,
+          "like_count": 5120,
+          "listed_count": 7,
+          "media_count": 905,
+          "tweet_count": 2774
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-11T12:53:24.000Z",
+        "description": "",
+        "id": "1524372007617323009",
+        "name": "王尼玛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533460822340431872/K0P7XFp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "lihongshuai4",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T02:13:30.000Z",
+        "description": "香港🇭🇰出身，以邏輯和人性琢磨人類的未來，與及和極權戰鬥，求互fo；HongKonger, Shaping the human future and fighting against totalitarianism with logic and humanity, will follows back.",
+        "id": "757398339167981568",
+        "location": "Earth",
+        "name": "人類存活研究所 Mankind future",
+        "pinned_tweet_id": "1712109336338846029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740059195020599296/TbJ9LMgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1275,
+          "like_count": 6632,
+          "listed_count": 20,
+          "media_count": 1434,
+          "tweet_count": 10386
+        },
+        "username": "MankindFuture88",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-19T15:02:14.000Z",
+        "description": "Independent researcher of China issues. YouTube LT視界 ➡️ https://t.co/VMX9PeeS4y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ltshijie",
+                "end": 79,
+                "expanded_url": "http://youtube.com/@ltshijie",
+                "start": 56,
+                "url": "https://t.co/VMX9PeeS4y"
+              }
+            ]
+          }
+        },
+        "id": "2865179814",
+        "location": "United States",
+        "name": "LT 視界",
+        "pinned_tweet_id": "1995630266006864057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413570358872051714/3nwB6LKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380435,
+          "following_count": 966,
+          "like_count": 60233,
+          "listed_count": 2079,
+          "media_count": 12913,
+          "tweet_count": 37598
+        },
+        "username": "ltshijie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889582566858170369"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1889582575242383427",
+    "created_at": "2025-02-12T07:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T08:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889582575242383427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UShZNgH9Mj",
+          "end": 67,
+          "expanded_url": "https://x.com/FoxRed695449/status/1889582575242383427/photo/1",
+          "media_key": "3_1889582566858170369",
+          "start": 44,
+          "url": "https://t.co/UShZNgH9Mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889582575242383427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感覺心理學課本對於adhd患者以及英語能力較差的人極度不友好，巧合，我2個都是😇😇😇 https://t.co/UShZNgH9Mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889582566858170369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjklVUdaIAECFqf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889582566858170369"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1889582575242383427",
+        "created_at": "2025-02-12T07:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889582575242383427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UShZNgH9Mj",
+              "end": 67,
+              "expanded_url": "https://x.com/FoxRed695449/status/1889582575242383427/photo/1",
+              "media_key": "3_1889582566858170369",
+              "start": 44,
+              "url": "https://t.co/UShZNgH9Mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889582575242383427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感覺心理學課本對於adhd患者以及英語能力較差的人極度不友好，巧合，我2個都是😇😇😇 https://t.co/UShZNgH9Mj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Tai Po District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888540170594701312/Y_6O3HyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 486,
+          "like_count": 1556,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1019
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

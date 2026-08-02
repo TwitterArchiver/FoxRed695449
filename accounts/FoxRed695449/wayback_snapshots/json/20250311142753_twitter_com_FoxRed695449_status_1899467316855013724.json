@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "1899465073506087362",
+    "created_at": "2025-03-11T14:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899467316855013724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1415661797130969097",
+          "start": 0,
+          "username": "liyanqwq"
+        },
+        {
+          "end": 23,
+          "id": "1434608964629639168",
+          "start": 10,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899467316855013724",
+    "in_reply_to_user_id": "1415661797130969097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899465795572465667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyanqwq @Sharkie_4005 妳膽子是真大啊（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1899465795572465667].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1899465795572465667",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1899465795572465667"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "1899465073506087362",
+        "created_at": "2025-03-11T14:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T15:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899467316855013724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1415661797130969097",
+              "start": 0,
+              "username": "liyanqwq"
+            },
+            {
+              "end": 23,
+              "id": "1434608964629639168",
+              "start": 10,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899467316855013724",
+        "in_reply_to_user_id": "1415661797130969097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899465795572465667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyanqwq @Sharkie_4005 妳膽子是真大啊（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜MTF🏳️‍⚧️｜大證含糖｜家長黨｜Je ne suis pas d'accord avec ce que vous dites, mais je me battrai jusqu'à la mort pour que vous ayez le droit de le dire.＊法語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou,Mainland",
+        "name": "RedFox（2代目）🏳️‍⚧️🇲🇴🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3854,
+          "following_count": 559,
+          "like_count": 2354,
+          "listed_count": 5,
+          "media_count": 417,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-15T13:17:34.000Z",
+        "description": "HKer 🇭🇰 VR2ZUN | WebDev & CyberSec & HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liyan.moe",
+                "end": 23,
+                "expanded_url": "https://liyan.moe",
+                "start": 0,
+                "url": "https://t.co/H0A2zPHyCa"
+              }
+            ]
+          }
+        },
+        "id": "1415661797130969097",
+        "location": "Kowloon, Hong Kong",
+        "name": "立言 Li Yan",
+        "pinned_tweet_id": "1888912721217007672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870073291349831680/xXCek_p8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 1435,
+          "like_count": 1703,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/H0A2zPHyCa",
+        "username": "liyanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "Canadienne |18 years old | Speak 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇹🇼⚜️｜小空白｜大英國協戰史研究｜https://t.co/qdWrorhEHa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VzcKaxiMaJ5mM…",
+                "end": 81,
+                "expanded_url": "https://t.me/+VzcKaxiMaJ5mM2E8",
+                "start": 58,
+                "url": "https://t.co/qdWrorhEHa"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Québec, Dominion of Canada",
+        "name": "🍁Stafford_Sea Shark ❄️",
+        "pinned_tweet_id": "1888019309256921246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 433,
+          "like_count": 29460,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 7261
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}
