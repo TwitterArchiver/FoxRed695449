@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2084996971132325939",
+    "created_at": "2026-08-05T18:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085072272549917067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1427572752358141956",
+          "start": 0,
+          "username": "ChaCattleya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foxred695449/s…",
+          "end": 141,
+          "expanded_url": "https://x.com/foxred695449/status/2085069199647629384?s=46&t=kqULhfyVycFB-dQcHjDieg",
+          "start": 118,
+          "url": "https://t.co/WAm1gv2vSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085072272549917067",
+    "in_reply_to_user_id": "1427572752358141956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085069199647629384",
+        "type": "quoted"
+      },
+      {
+        "id": "2084996971132325939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaCattleya 对于夹腿自慰这件事我真的非常抱歉,我也很抱歉因为平时不怎么和阁下聊天当时我告诉的人和您说了您才知道\n但我当天就和在场的人都说了,我当时认为的新租户也没有意见,很抱歉在知道8.15才正式转租以后忘了和您以及小宫说https://t.co/WAm1gv2vSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2085069186615906304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-nYMhakAA1YFR.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1653,
+        "media_key": "3_2085069186611744768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-nYMgbEAA-3a6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2084996971132325939",
+        "created_at": "2026-08-05T18:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085072272549917067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1427572752358141956",
+              "start": 0,
+              "username": "ChaCattleya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foxred695449/s…",
+              "end": 141,
+              "expanded_url": "https://x.com/foxred695449/status/2085069199647629384?s=46&t=kqULhfyVycFB-dQcHjDieg",
+              "start": 118,
+              "url": "https://t.co/WAm1gv2vSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085072272549917067",
+        "in_reply_to_user_id": "1427572752358141956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085069199647629384",
+            "type": "quoted"
+          },
+          {
+            "id": "2084996971132325939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaCattleya 对于夹腿自慰这件事我真的非常抱歉,我也很抱歉因为平时不怎么和阁下聊天当时我告诉的人和您说了您才知道\n但我当天就和在场的人都说了,我当时认为的新租户也没有意见,很抱歉在知道8.15才正式转租以后忘了和您以及小宫说https://t.co/WAm1gv2vSh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085069186615906304",
+            "3_2085069186611744768"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "2085069199647629384",
+        "created_at": "2026-08-05T18:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085069199647629384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdev5y9gJY",
+              "end": 161,
+              "expanded_url": "https://x.com/FoxRed695449/status/2085069199647629384/photo/1",
+              "media_key": "3_2085069186615906304",
+              "start": 138,
+              "url": "https://t.co/sdev5y9gJY"
+            },
+            {
+              "display_url": "pic.x.com/sdev5y9gJY",
+              "end": 161,
+              "expanded_url": "https://x.com/FoxRed695449/status/2085069199647629384/photo/1",
+              "media_key": "3_2085069186611744768",
+              "start": 138,
+              "url": "https://t.co/sdev5y9gJY"
+            },
+            {
+              "display_url": "x.com/chacattleya/st…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/chacattleya/status/2084996971132325939",
+              "start": 162,
+              "url": "https://t.co/F8ZSxMi8dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085069199647629384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "我承认洗好澡坐回床上之后因为习惯有夹腿自慰\n但我想说我真的没有觉得理所当然,从头到尾都很抱歉\n我夹腿反应过来不对之后立马停止并且到厕所把一次性贴身衣物都丢弃了,全程没有污染到任何物品,并且出于不应该瞒着的想法和当时在房间内的諏訪 チナミ以及TJK说了,如果我不说也没人会知道\n并且我当天白天从諏訪 チナミ得到的说法是小宫转租给她了,当时告诉她后她并没有对我表达意见,也没有让我更换床单\n因为当时你和小宫在上海,我当时并不知道她和小宫实际上谈好的日期是8.15,我也不知道你们会重新住回去\n当天和接下来几天諏訪 チナミ她也是和我照常睡这张床,我那几天也忙着去acghk又因为肠胃炎进急诊加上事情发生当天没有人有意见就也忘记了\n而之后我离开的原因阁下的对象也就是小宫应该也很清楚,阁下和小宫从上海回来了,一个房间挤4个人,我28日肠胃炎进急诊室29日凌晨回来还打地铺阁下对象觉得不好并且我也受不了,同时29日当天諏訪 チナミ还要从珠海回到这个住所所以一共要5个人,因此我住其它朋友那里去了,至于我生气的主要原因是我在被救护车送到急诊室到回来的期间我的头被不知道哪一位的房间使用者弄坏了\n我明白这个事情非常不好所以当天就道歉了,我也非常抱歉阁下在28日回来以后没有及时通知你,也明白我和阁下因为平时没有什么交流导致阁下近日才知道这个事情的确很生气\n真的非常抱歉,所有的批评我也会接纳\n如果对此事还有任何疑问我睡醒以后也会回答"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084996971132325939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我承认洗好澡坐回床上之后因为习惯有夹腿自慰\n但我想说我真的没有觉得理所当然,从头到尾都很抱歉\n我夹腿反应过来不对之后立马停止并且到厕所把一次性贴身衣物都丢弃了,全程没有污染到任何物品,并且出于不应该瞒着的想法和当时在房间内的諏訪 チナミ以及TJK说了,如果我不说也没人会知道 https://t.co/sdev5y9gJY https://t.co/F8ZSxMi8dg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427572752358141956",
+        "conversation_id": "2084996971132325939",
+        "created_at": "2026-08-05T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084996971132325939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084996971132325939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8808,
+          "like_count": 52,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫自称mtf来家里借住，在主人床上自慰还觉得理所应当？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser｜關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "长三角or大湾区",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 846,
+          "like_count": 8343,
+          "listed_count": 7,
+          "media_count": 1083,
+          "tweet_count": 3430
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:07:31.000Z",
+        "description": "Sunlight @Meowneko_Mio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Meowneko_Mio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hongcha.uk",
+                "end": 23,
+                "expanded_url": "http://hongcha.uk",
+                "start": 0,
+                "url": "https://t.co/2jEZ3h9bHm"
+              }
+            ]
+          }
+        },
+        "id": "1427572752358141956",
+        "name": "紅茶🐱",
+        "pinned_tweet_id": "2015564971682508891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000142831231606784/QdF5q6OA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1642,
+          "like_count": 38158,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 5890
+        },
+        "url": "https://t.co/2jEZ3h9bHm",
+        "username": "ChaCattleya",
+        "verified": false
+      }
+    ]
+  }
+}

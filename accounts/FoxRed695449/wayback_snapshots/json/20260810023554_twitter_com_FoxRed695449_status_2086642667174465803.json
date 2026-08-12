@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781308864438345728",
+    "conversation_id": "2086561868689146362",
+    "created_at": "2026-08-10T02:35:54.000Z",
+    "display_text_range": [
+      27,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086642667174465803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1477161691980967937",
+          "start": 0,
+          "username": "sigmaamphibia"
+        },
+        {
+          "end": 26,
+          "id": "4768803912",
+          "start": 15,
+          "username": "Al1saAl1ce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086642667174465803",
+    "in_reply_to_user_id": "1477161691980967937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086562693553484259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sigmaamphibia @Al1saAl1ce 西藏新疆那些地方到现在都不是按需申领护照地区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781308864438345728",
+        "conversation_id": "2086561868689146362",
+        "created_at": "2026-08-10T02:35:54.000Z",
+        "display_text_range": [
+          27,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086642667174465803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1477161691980967937",
+              "start": 0,
+              "username": "sigmaamphibia"
+            },
+            {
+              "end": 26,
+              "id": "4768803912",
+              "start": 15,
+              "username": "Al1saAl1ce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086642667174465803",
+        "in_reply_to_user_id": "1477161691980967937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086562693553484259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sigmaamphibia @Al1saAl1ce 西藏新疆那些地方到现在都不是按需申领护照地区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477161691980967937",
+        "conversation_id": "2086561868689146362",
+        "created_at": "2026-08-09T21:18:07.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086562693553484259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4768803912",
+              "start": 0,
+              "username": "Al1saAl1ce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086562693553484259",
+        "in_reply_to_user_id": "4768803912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086561868689146362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al1saAl1ce 不知道西边的少民是不是也能用身份证办护照"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox|最愛的姐姐@humming_hanming｜是一個Coser｜關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "humming_hanming"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "is_identity_verified": false,
+        "location": "长三角or大湾区",
+        "most_recent_tweet_id": "2086642667174465803",
+        "name": "RedFox（2代目）🏳️‍⚧️",
+        "pinned_tweet_id": "2075839033553625415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781308864438345728/1769793699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008042942641172480/4QjR52Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 845,
+          "like_count": 8366,
+          "listed_count": 7,
+          "media_count": 1085,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "FoxRed695449",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-01T06:21:28.000Z",
+        "description": "Infra guy. I tweet in EN & CN. Opinions are my own. cooking https://t.co/TFIY4MFyvB as side project",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "getcodesk.com",
+                "end": 83,
+                "expanded_url": "http://getcodesk.com",
+                "start": 60,
+                "url": "https://t.co/TFIY4MFyvB"
+              }
+            ]
+          }
+        },
+        "id": "1477161691980967937",
+        "is_identity_verified": false,
+        "location": "Toronto ON",
+        "most_recent_tweet_id": "2086637437552341457",
+        "name": "AlphaToad",
+        "pinned_tweet_id": "2080839427501302016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477161691980967937/1647545144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504538900316008448/ccZiXsRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 431,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 11353
+        },
+        "url": "",
+        "username": "sigmaamphibia",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-16T14:53:30.000Z",
+        "description": "她/She，🏳️‍⚧️🇨🇦| 中文 en_CA | 是兔子，欢迎食用 | BPD/cPTSD｜have complex relationship with high mileage BMWs, incl. bikes | 舟批 | 邦邦人 | War Thunder |\nin memory of: Elihuso",
+        "id": "4768803912",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2086561868689146362",
+        "name": "AL1ce♥️💙#",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4768803912/1650823251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374945196480331776/MKlZhZgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1822,
+          "like_count": 90761,
+          "listed_count": 12,
+          "media_count": 2175,
+          "tweet_count": 62603
+        },
+        "url": "",
+        "username": "Al1saAl1ce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
