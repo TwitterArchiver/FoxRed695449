@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886317461974458368"
+      ]
+    },
+    "author_id": "1781308864438345728",
+    "conversation_id": "1886050512526807169",
+    "created_at": "2025-02-03T07:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886317465040478420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "15250701",
+          "start": 0,
+          "username": "donwang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hUgB4HLKC5",
+          "end": 37,
+          "expanded_url": "https://x.com/FoxRed695449/status/1886317465040478420/photo/1",
+          "media_key": "3_1886317461974458368",
+          "start": 14,
+          "url": "https://t.co/hUgB4HLKC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886317465040478420",
+    "in_reply_to_user_id": "15250701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886316855729832233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donwang_ 真16 https://t.co/hUgB4HLKC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1886317461974458368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi2LvM6aoAAF7ds.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886317461974458368"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T07:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886317465040478420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "15250701",
+              "start": 0,
+              "username": "donwang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUgB4HLKC5",
+              "end": 37,
+              "expanded_url": "https://x.com/FoxRed695449/status/1886317465040478420/photo/1",
+              "media_key": "3_1886317461974458368",
+              "start": 14,
+              "url": "https://t.co/hUgB4HLKC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886317465040478420",
+        "in_reply_to_user_id": "15250701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886316855729832233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donwang_ 真16 https://t.co/hUgB4HLKC5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15250701",
+        "conversation_id": "1886050512526807169",
+        "created_at": "2025-02-03T07:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886316855729832233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886316855729832233",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886316227070742582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 谁信啊，我还四十二呢！（｀へ´）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "id": "1781308864438345728",
+        "location": "Macau",
+        "name": "RedFox（2代目）🏳️‍⚧️🇭🇰🇲🇴",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 448,
+          "like_count": 1336,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 781
+        },
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-27T02:08:01.000Z",
+        "description": "UX Designer, 千葉県民",
+        "id": "15250701",
+        "location": "Chiba",
+        "name": "王大夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867065361658679296/fqwpEMCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 5845,
+          "like_count": 5748,
+          "listed_count": 10,
+          "media_count": 92,
+          "tweet_count": 3012
+        },
+        "username": "donwang_",
+        "verified": false
+      }
+    ]
+  }
+}
